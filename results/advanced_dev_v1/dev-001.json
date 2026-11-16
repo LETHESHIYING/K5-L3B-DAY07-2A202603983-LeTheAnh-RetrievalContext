@@ -1,0 +1,224 @@
+{
+  "question": "What was NASA's total FY 2024 budget?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "4fdfad3b939e246e5d6bac63d61c47b38c60052a9a3478064c154f4d1a6b0a2a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 80,
+          "text": "             $ 46     $ 1,064         $ 547     $ 33   $ 25,319\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                    7979",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6140,
+            "pdf_page": 80,
+            "char_start": 5978,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.778225302696228
+        },
+        {
+          "chunk_id": "8b41a68098961caefe0d155f3c2087b96a5d3ce78a32a630d49afe1c8db9d3a3",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": "                        $ 192       $ 24,823   $ 25,015\n Budgetary Agency Outlays, net                                                              $ 25,015\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7070",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4453,
+            "pdf_page": 71,
+            "char_start": 4190,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7781760692596436
+        },
+        {
+          "chunk_id": "b873d19132b33555c60cef104f5948b1f3d09c423216bc065c4888458465fe28",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " $24,876\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                     3333",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3682,
+            "pdf_page": 34,
+            "char_start": 3573,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.776752617746285
+        },
+        {
+          "chunk_id": "73027f329dec8bf0d8f3c4f2efa8f26b9aaef10120e7baf25cad113ba8da5648",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 79,
+          "text": " $ 8   $ 25,015\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7878",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6112,
+            "pdf_page": 79,
+            "char_start": 5990,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7665833830833435
+        },
+        {
+          "chunk_id": "f22ea0d6fdb41f4a56ad80621728779611eb21b60027f312267a95d4c6d54ef0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 29,
+          "text": " other financing sources, and costs\n         available for use by NASA.                                                            incurred since inception.\n\n\n                        Balance Sheet Components FY 2024 and FY 2023\n                                                       (IN MILLIONS)\n\n\n\n                                       $7,664                           $6,719\n\n\n\n\n\n                        $27,504                          $26,135\n\n\n                                      $19,840                          $19,416\n\n\n\n\n\n                      FY 2024                 FY 2023\n\n         ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1194,
+            "pdf_page": 29,
+            "char_start": 595,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7566616084181317
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "a8ad3a175056266a886cb4abcfaf01661deda8d1054eac866aa64b2b95c1cd7a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "rrent with the FY 2026 President's Budget Request and can be found at nasa.gov/performance.\", \"FY 2024 AGENCY FINANCIAL REPORT NASA.GOV\", \"20\", \"NASA (logo)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Bottom of the page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7452536821365356
+        },
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6872395873069763
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6519348621368408
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6027849912643433
+        },
+        {
+          "chunk_id": "fa735a16a3f4bb5a447087db133fba7ac2d387ea5abbd2b0c3312979339d07e7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 53,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page is a comparative financial table for NASA's Combined Statements of Budgetary Resources for FY 2024 and 2023, showing budgetary resources, status of budgetary resources, and net outlays in millions. No charts, maps, diagrams, or informative photographs are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 53,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5944928285177259
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 80
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 71
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5247,
+    "completion_tokens": 317,
+    "total_tokens": 5564,
+    "cost": 0.000684075,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000684075,
+      "upstream_inference_prompt_cost": 0.000550935,
+      "upstream_inference_completions_cost": 0.00013314
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 181,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\n  \"answer\": \"NASA's total FY 2024 budget was $24.9 billion. The report notes that this $24.9 billion includes $4.5 million of funds transferred from the General Services Administration (GSA) for the Technology Modernization Fund (TMF) investment award.\",\n  \"citations\": [\n    {\n      \"page\": 13,\n      \"region\": \"Left panel titled 'FY 2024 BUDGET', showing '$24.9 Billion'; note box at bottom of same panel states the $24.9 billion includes $4.5 million transferred from GSA for TMF.\"\n    }\n  ]\n}",
+  "answer": {
+    "answer": "NASA's total FY 2024 budget was $24.9 billion. The report notes that this $24.9 billion includes $4.5 million of funds transferred from the General Services Administration (GSA) for the Technology Modernization Fund (TMF) investment award.",
+    "citations": [
+      {
+        "page": 13,
+        "region": "Left panel titled 'FY 2024 BUDGET', showing '$24.9 Billion'; note box at bottom of same panel states the $24.9 billion includes $4.5 million transferred from GSA for TMF."
+      }
+    ]
+  },
+  "elapsed_seconds": 31.030592099996284
+}

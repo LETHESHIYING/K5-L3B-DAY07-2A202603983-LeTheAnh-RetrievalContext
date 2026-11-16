@@ -1,0 +1,325 @@
+{
+  "question": "How many Strategic Goal 3 performance goals were rated Green in FY 2024?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "999d4d9d42cf5894ceae8d00a4a4baf4c572b0b7c9fb63284cfdde3cf0c1df94",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\nFY 2024 Performance Assessment\n\n\nThroughout FY 2024, program officials assessed progress towards achieving NASA’s 50 Performance Goals and\ndetermined whether the goals’ annual targets were met and assigned one of the color ratings described above. The\nPerformance Improvement Officer (PIO) confirmed the ratings.\n\nThe following graph shows the summary of preliminary FY 2024 ratings summarized by Strategic Goal compared\nto the FY 2023 ratings that were published in the FY 2025 VIPer. For each Strategic Goal, the graph shows",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 596,
+            "pdf_page": 22,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6859338487963038
+        },
+        {
+          "chunk_id": "b0f4409ab767a8746feaa578589e7be94bbff3783664182770faa140fd7769de",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": "    1\n           20%\n             5\n            10%         3\n\n           0%\n                   FY 2023   FY 2024         FY 2023   FY 2024          FY 2023   FY 2024         FY 2023   FY 2024\n                         Complete or On             Below Target             Significantly Below             Unrated\n                            Target to Complete                                   Target/At Risk\n\n\nTwelve Performance Goals supporting Strategic Goals remained unrated at the time of the FY 2024 AFR’s publication.\nTen of those are awaiting ratings from the Science Advisory Committees,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2388,
+            "pdf_page": 22,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6831521784319852
+        },
+        {
+          "chunk_id": "7e60a73410f352de433c75d3c8a78a65991b52325f470cd485bac75ed69f5e9a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " a color rating of Green (complete or on target                                                TARGET FOR FY 2024:\nto complete), Yellow (below target), or Red (significantly                                                      100 percent of launch services objectives completed\nbelow target/at risk). Internal success criteria defined\nduring the planning phase establish the thresholds for        ANTICIPATED PERCENT USING AVAILABLE DATA:\n                                                      100 percent of launch services objectives completeda Yellow or Red rating. A Grey rating indicates that",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1794,
+            "pdf_page": 21,
+            "char_start": 1197,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6194385659360031
+        },
+        {
+          "chunk_id": "9dd9548b07eb84efd1d4594f728a68fe647a79cabc37e3553aa79410c90b865b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\n\n         STRATEGIC GOAL IV. ADVANCE\n       Enhance capabilities and operations to catalyze current and future mission success.04\n\nStrategic Goal 4 is supported by 15 Performance Goals. Of these, 12 were rated Green, one was\nrated Yellow, one was rated Red, and one was unrated at the time of publication.\nOverview\nNASA’s complex and bold missions require modern, adaptable technical and professional support capabilities to\nenable mission readiness, resilience, and our continued leadership in science, exploration, discovery,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 597,
+            "pdf_page": 27,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6179102843377081
+        },
+        {
+          "chunk_id": "1fb391ae4c10457873e28c72746891ae1fce9befdf4a1370739c87874214a680",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " how the\nPerformance Goals were rated at the time of publication. The FY 2026 VIPer, which will be published concurrently\nwith the FY 2026 President’s Budget Request at https://www.nasa.gov/ocfo/performance-report, will provide the\nfinal performance results for each Performance Goal.\n\n\n\n                 STRATEGIC GOAL 1        STRATEGIC GOAL 2         STRATEGIC GOAL 3        STRATEGIC GOAL 4\n           100%\n                                            1            1      1           1       1\n           90%                                                                                    1   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1195,
+            "pdf_page": 22,
+            "char_start": 596,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6155271117546296
+        },
+        {
+          "chunk_id": "9318df89b15082a6af1bd00823a78d8f94b68f66fcd5fd9b01f42a3a1380624b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " reliability for current and\nfuture mission needs through investments in preventative maintenance that reduce unscheduled maintenance is\nunrated due to a lag of data availability immediately after the quarter.\n\nThe table above shows a snapshot of the comparison of ratings for Q3 in FY 2023 and 2024, but it is worth noting that\nfor both Strategic Goals 1 and 4, the total number of Performance Goals differs. For Strategic Goal 1 focusing on science,\ntwo Performance Goals were removed for FY 2024. One Performance Goal, formerly an Agency Priority Goal, was\nsunsetted when the James Webb Space",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3577,
+            "pdf_page": 22,
+            "char_start": 2982,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5991867959257008
+        },
+        {
+          "chunk_id": "f720ff5776c3f7f54b62e44a601a0d076ec2a144b568d76df6d4ee79ba690ed2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 26,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\n\n         STRATEGIC GOAL III. INNOVATE\n        Catalyze economic growth and drive innovation to address national challenges.03\n\nStrategic Goal 3 is supported by 11 Performance Goals. Of these, 10 were rated Green and one was\nrated Yellow at the time of publication.\nOverview\nOriginally tied to advancing U.S. leadership in aeronautics, communications satellites, and Earth remote sensing,\nNASA’s mandate is broader today. NASA addresses gathering climate change data, driving American innovation through\naerospace research and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 596,
+            "pdf_page": 26,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5981110512647348
+        },
+        {
+          "chunk_id": "229a73fd4e40186e52ccf9adee4be9f258584534e24b6c7a5393a7bc59271bb4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " the\nPerformance Goal could not be assessed in time for the                                                   ANTICIPATED RATING FY 2024:\nAFR publication, but a final rating will be provided in the                                          Green\nFY 2026 Volume of Integrated Performance (VIPer).6\n\n\n\n\n\n  GREEN                 YELLOW                RED                   GREY\n  Complete or On        Below Target            Significantly Below     Unrated\n  Target to Complete                             Target/At Risk\n\n NASA has completed or     NASA is below target      NASA is significantly      ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2393,
+            "pdf_page": 21,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.569370644371827
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "d61d8faa30d27e9f7e4e0de3c952da217b9fb52e1508c99baa9a38c6b5f5b9e1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " or On Target to Complete (green); Below Target (yellow); Significantly Below Target/At Risk (red); Unrated (gray). Strategic Goal 1: FY 2023 green 5, gray 11; FY 2024 green 3, red 1, gray 10. Strategic Goal 2: FY 2023 green 7, yellow 3; FY 2024 green 8, yellow 1, gray 1. Strategic Goal 3: FY 2023 green 7, yellow 3, red 1; FY 2024 green 10, yellow 1. Strategic Goal 4: FY 2023 green 10, yellow 1, red 1; FY 2024 green 12, red 1, yellow 1, gray 1.\"}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle of page, below introductory paragraphs",
+            "pdf_page": 22,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6594571667747848
+        },
+        {
+          "chunk_id": "2ccde87230fca1a047ab0c75ccd7203f690292bd8bc020c5c07cb20442365380",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "FY2024 $4,609 million; FY2023 $4,250 million\", \"Strategic Goal 2 subtotal: FY2024 Total $11,306 million; FY2023 Total $11,030 million\", \"Strategic Goal 3: Catalyze economic growth and drive innovation to address national challenges.\", \"Technology Demonstration: FY2024 $369 million; FY2023 $337 million\", \"Science and Engineering: FY2024 $577 million; FY2023 $655 million\", \"Other Goal 3 Programs: FY2024 $2,129 million; FY2023 $2,052 million\", \"Strategic Goal 3 subtotal: FY2024 Total $3,075 million; FY2023 Total $3,044 million\", \"Strategic Goal 4:",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6200057452918813
+        },
+        {
+          "chunk_id": "88dc91758497c3fbca013f6be1ca5afe0ee6352ea0c32641e9d334d753834257",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": "{\"type\": \"legend\", \"location\": \"lower center\", \"description\": \"Four-item legend below the chart defining the strategic goals and matching colors.\", \"visible_values\": [\"STRATEGIC GOAL 1: Expand human knowledge through new scientific discoveries.\", \"STRATEGIC GOAL 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"STRATEGIC GOAL 3: Catalyze economic growth and drive innovation to address national challenges.\", \"STRATEGIC GOAL 4: Enhance capabilities and operations to ca",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower center",
+            "pdf_page": 32,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.586428182912713
+        },
+        {
+          "chunk_id": "dd968730bc6639c6eed67e6697f042fb171235dfd5d255739bb81015ca775c82",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "{\"type\": \"text_block\", \"location\": \"Middle left\", \"description\": \"Two paragraphs explaining the relationship between Strategic Objectives and Performance Goals, the structure of these goals, and the color-coded rating system (Green, Yellow, Red, Grey) based on FY 2024 targets.\", \"visible_values\": [\"50 Performance Goals\", \"FY 2024\", \"FY 2026 Volume of Integrated Performance (ViPer)\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "Middle left",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5601366925280303
+        },
+        {
+          "chunk_id": "86bcae670f1d948c37ecb1e875c898403766f5ef7893a8675e181ae7b95ca040",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 24,
+          "text": "{\"type\": \"text block / callout\", \"location\": \"below section heading\", \"description\": \"Bold summary sentence about Strategic Goal 1 performance goals.\", \"visible_values\": [\"Strategic Goal 1 is supported by 14 Performance Goals. Of these, three were rated Green, one was rated Red, and 10 were unrated at the time of publication.\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "below section heading",
+            "pdf_page": 24,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5450496239974986
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5396092098834877
+        },
+        {
+          "chunk_id": "f10b2ccb61d735ffdd21990898fb8e50e02692863e6d07aa9731c373e2989758",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "and GOES-U\", \"TARGET FOR FY 2024: 100 percent of launch services objectives completed\", \"ANTICIPATED PERCENT USING AVAILABLE DATA: 100 percent of launch services objectives completed\", \"ANTICIPATED RATING FY 2024: Green\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Middle right",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5310316803129064
+        },
+        {
+          "chunk_id": "fe2838d629b1826eee80b6d44cc5d61737b3698db1bc3ddab7557c432b1222c6",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 15,
+          "text": " \"visible_values\": [\"Strategic Goals\", \"TIMELESS\", \"Strategic Objectives\", \"10+ YEARS\", \"Priority Questions\", \"4 YEARS\", \"Agency Priority Goals\", \"2 YEARS\", \"Performance Goals\", \"2-5 YEARS\", \"Annual Target\", \"Milestone/Activity\", \"President's Management Agenda Priorities\", \"MULTI YEAR\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page",
+            "pdf_page": 15,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5222907221999982
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 22
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 33
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 27
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 24
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8628,
+    "completion_tokens": 404,
+    "total_tokens": 9032,
+    "cost": 0.00123736,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00123736,
+      "upstream_inference_prompt_cost": 0.00103536,
+      "upstream_inference_completions_cost": 0.000202
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 360,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"10 Strategic Goal 3 performance goals were rated Green in FY 2024.\",\"citations\":[{\"page\":22,\"region\":\"FY 2024 Performance Assessment chart, Strategic Goal 3, FY 2024 column, green segment labeled 10\"}]}",
+  "answer": {
+    "answer": "10 Strategic Goal 3 performance goals were rated Green in FY 2024.",
+    "citations": [
+      {
+        "page": 22,
+        "region": "FY 2024 Performance Assessment chart, Strategic Goal 3, FY 2024 column, green segment labeled 10"
+      }
+    ]
+  },
+  "elapsed_seconds": 38.36553800001275
+}

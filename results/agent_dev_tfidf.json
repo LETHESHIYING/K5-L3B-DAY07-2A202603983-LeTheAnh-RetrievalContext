@@ -1,0 +1,3252 @@
+[
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chapter 4 trading company associated with India dated 1600",
+        "filter": null,
+        "results": [
+          {
+            "id": "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 62,
+            "text": " East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 598,
+              "chunking": "paragraph:240",
+              "char_start": 451
+            },
+            "score": 0.2271165048253236,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 95,
+            "text": "Govern-\nment by\nthe West\nIndia\nCompany.\n\nThe\nSwedes In\nDelaware,\n\nRelations\nof the\nDutch\nwith the\nEnglish.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 2264,
+              "chunking": "paragraph:240",
+              "char_start": 2158
+            },
+            "score": 0.2068302034441103,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 95,
+            "text": "Since colonization was but a iinor interest with the\nDutch West India Company, it established at the begin-\nning a government that was “‘fit only for a trading post.”\nThe bankruptcy of the Company and the consequent lack\nof attention to its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 383,
+              "chunking": "paragraph:240",
+              "char_start": 143
+            },
+            "score": 0.2058736213193053,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e | data\\raw\\american_history_1917.pdf | page 62]\n East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was\n\n[4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356 | data\\raw\\american_history_1917.pdf | page 95]\nGovern-\nment by\nthe West\nIndia\nCompany.\n\nThe\nSwedes In\nDelaware,\n\nRelations\nof the\nDutch\nwith the\nEnglish.",
+        "context_ids": [
+          "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+          "4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "chapter 4 East India Company 1600 trading company India",
+        "filter": null,
+        "results": [
+          {
+            "id": "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 62,
+            "text": " East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 598,
+              "chunking": "paragraph:240",
+              "char_start": 451
+            },
+            "score": 0.33438506025342724,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 95,
+            "text": "Govern-\nment by\nthe West\nIndia\nCompany.\n\nThe\nSwedes In\nDelaware,\n\nRelations\nof the\nDutch\nwith the\nEnglish.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 2264,
+              "chunking": "paragraph:240",
+              "char_start": 2158
+            },
+            "score": 0.290409883753679,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 95,
+            "text": "Since colonization was but a iinor interest with the\nDutch West India Company, it established at the begin-\nning a government that was “‘fit only for a trading post.”\nThe bankruptcy of the Company and the consequent lack\nof attention to its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 383,
+              "chunking": "paragraph:240",
+              "char_start": 143
+            },
+            "score": 0.2664740437398252,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e | data\\raw\\american_history_1917.pdf | page 62]\n East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was\n\n[4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356 | data\\raw\\american_history_1917.pdf | page 95]\nGovern-\nment by\nthe West\nIndia\nCompany.\n\nThe\nSwedes In\nDelaware,\n\nRelations\nof the\nDutch\nwith the\nEnglish.",
+        "context_ids": [
+          "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+          "4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "H01",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "elapsed_seconds": 40.21238469998934,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 171,
+        "completion_tokens": 178,
+        "total_tokens": 349,
+        "cost": 6.909e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 6.909e-05,
+          "upstream_inference_prompt_cost": 1.6758e-05,
+          "upstream_inference_completions_cost": 5.2332e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 156,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 470,
+        "completion_tokens": 161,
+        "total_tokens": 631,
+        "cost": 0.000151,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000151,
+          "upstream_inference_prompt_cost": 7.05e-05,
+          "upstream_inference_completions_cost": 8.05e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 139,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 484,
+        "completion_tokens": 284,
+        "total_tokens": 768,
+        "cost": 0.000196392,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000196392,
+          "upstream_inference_prompt_cost": 7.1148e-05,
+          "upstream_inference_completions_cost": 0.000125244
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 260,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "120 men [cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929]",
+    "citations": [
+      "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "London Company send colonists Virginia 1607 number",
+        "filter": null,
+        "results": [
+          {
+            "id": "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 64,
+            "text": "In 1607, the London Company sent to Virginia 120\nmen as colonists. Jamestown, where they settled, was\nsituated on a small, sandy peninsula jutting into the\nJames River from its north shore; it was, therefore,\n“low, damp, and malarious.” Add",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1286,
+              "chunking": "paragraph:240",
+              "char_start": 1046
+            },
+            "score": 0.29188955577769654,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "83b6fdac8cbdc6651fbf019e4e1e36fd3dd76ce96bd361be1d515000aeb31d02",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 122,
+            "text": " South.\n\nTHE COLONISTS AND THE INDIANS.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1106,
+              "chunking": "paragraph:240",
+              "char_start": 1067
+            },
+            "score": 0.1778777152746903,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "93e72f3aa96c78b8820197f7ba07dfeefad831fce358d6fb5c0313f7f7e5184a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 66,
+            "text": "The members of the London Company expected to\nmake a profit from their investment, (1) by selling com-\nmodities to the colonists, (2) by selling at a profit what-\never the colonists produced, (3) by the collection of duties\nupon goods",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1191,
+              "chunking": "paragraph:240",
+              "char_start": 957
+            },
+            "score": 0.16872053991225727,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929 | data\\raw\\american_history_1917.pdf | page 64]\nIn 1607, the London Company sent to Virginia 120\nmen as colonists. Jamestown, where they settled, was\nsituated on a small, sandy peninsula jutting into the\nJames River from its north shore; it was, therefore,\n“low, damp, and malarious.” Add\n\n[83b6fdac8cbdc6651fbf019e4e1e36fd3dd76ce96bd361be1d515000aeb31d02 | data\\raw\\american_history_1917.pdf | page 122]\n South.\n\nTHE COLONISTS AND THE INDIANS.",
+        "context_ids": [
+          "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929",
+          "83b6fdac8cbdc6651fbf019e4e1e36fd3dd76ce96bd361be1d515000aeb31d02"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H02",
+    "question": "According to the book, how many colonists did the London Company send to Virginia in 1607?",
+    "elapsed_seconds": 18.312079399998765,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 174,
+        "completion_tokens": 34,
+        "total_tokens": 208,
+        "cost": 3.788e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.788e-05,
+          "upstream_inference_prompt_cost": 2.088e-05,
+          "upstream_inference_completions_cost": 1.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 463,
+        "completion_tokens": 182,
+        "total_tokens": 645,
+        "cost": 0.00014656,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00014656,
+          "upstream_inference_prompt_cost": 5.556e-05,
+          "upstream_inference_completions_cost": 9.1e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 96,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The book states that the systematic cultivation of tobacco began in 1612. [dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885]",
+    "citations": [
+      "dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "beginning of systematic tobacco cultivation year book",
+        "filter": null,
+        "results": [
+          {
+            "id": "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 85,
+            "text": " settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 856,
+              "chunking": "paragraph:240",
+              "char_start": 673
+            },
+            "score": 0.20955794029696068,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 66,
+            "text": " expensive to ship. ‘The systematic culti-\nvation of tobacco began in 1612, and the success of the\nventure gave the culony a sure economic basis and greatly\nencouraged its settlement.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 955,
+              "chunking": "paragraph:240",
+              "char_start": 772
+            },
+            "score": 0.19824253233802405,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "012d85ad17b5d6e92c3db65798cd17ad21678d359f8022c5aa3c985a7a74e5ad",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 106,
+            "text": " beginning and\nthe manufacture of inany articles was begun.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1115,
+              "chunking": "paragraph:240",
+              "char_start": 1056
+            },
+            "score": 0.1837868042178645,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.\n\n[dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885 | data\\raw\\american_history_1917.pdf | page 66]\n expensive to ship. ‘The systematic culti-\nvation of tobacco began in 1612, and the success of the\nventure gave the culony a sure economic basis and greatly\nencouraged its settlement.\n\n[012d85ad17b5d6e92c3db65798cd17ad21678d359f8022c5aa3c985a7a74e5ad | data\\raw\\american_history_1917.pdf | page 106]\n beginning and\nthe manufacture of inany articles was begun.",
+        "context_ids": [
+          "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+          "dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885",
+          "012d85ad17b5d6e92c3db65798cd17ad21678d359f8022c5aa3c985a7a74e5ad"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H03",
+    "question": "What year did the book give for the beginning of systematic tobacco cultivation?",
+    "elapsed_seconds": 47.81126439999207,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 33,
+        "total_tokens": 201,
+        "cost": 4.519e-06,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 167,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.519e-06,
+          "upstream_inference_prompt_cost": 1.219e-06,
+          "upstream_inference_completions_cost": 3.3e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 571,
+        "completion_tokens": 142,
+        "total_tokens": 713,
+        "cost": 0.00033599,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00033599,
+          "upstream_inference_prompt_cost": 0.00016559,
+          "upstream_inference_completions_cost": 0.0001704
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 51,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "1619 [b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d]",
+    "citations": [
+      "b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Dutch ship brought twenty Africans to Jamestown year",
+        "filter": null,
+        "results": [
+          {
+            "id": "b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " The first shipload arrived in 1619, when\na Dutch ship anchored at Jamestown with twenty native\nAfricans whom the planters purchased. Later more slaves\nwere brought into Virginia and other colonies and the slave\ntrade became recognized as a",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 559,
+              "chunking": "paragraph:240",
+              "char_start": 319
+            },
+            "score": 0.42890668126889664,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 67,
+            "text": "The year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1540,
+              "chunking": "paragraph:240",
+              "char_start": 1313
+            },
+            "score": 0.1733591315152961,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a200f1f39b97e7674e2dfd52ee6d6c52968bf8c1113aa60c7bfac99a6df08e52",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 114,
+            "text": " and Mary favored their cause by refusing to\nrestore to Lord Baltimore his rights under the charter. So,\nfor about twenty-five years Maryland was governed as a\nroyal province. ‘Then, in 1715, the Baltimore proprietor-\nship was",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1636,
+              "chunking": "paragraph:240",
+              "char_start": 1410
+            },
+            "score": 0.1651667956611203,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d | data\\raw\\american_history_1917.pdf | page 68]\n The first shipload arrived in 1619, when\na Dutch ship anchored at Jamestown with twenty native\nAfricans whom the planters purchased. Later more slaves\nwere brought into Virginia and other colonies and the slave\ntrade became recognized as a\n\n[63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9 | data\\raw\\american_history_1917.pdf | page 67]\nThe year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin",
+        "context_ids": [
+          "b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d",
+          "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H04",
+    "question": "According to this book, in what year did a Dutch ship bring twenty Africans to Jamestown?",
+    "elapsed_seconds": 2.4813915999839082,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 173,
+        "completion_tokens": 33,
+        "total_tokens": 206,
+        "cost": 2.0302e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.0302e-05,
+          "upstream_inference_prompt_cost": 3.802e-06,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 515,
+        "completion_tokens": 136,
+        "total_tokens": 651,
+        "cost": 8.3212e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.3212e-05,
+          "upstream_inference_prompt_cost": 1.5212e-05,
+          "upstream_inference_completions_cost": 6.8e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 43,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Two burgesses from each plantation or settlement (eleven in number). [7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e]",
+    "citations": [
+      "7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "burgesses each plantation settlement elect book",
+        "filter": null,
+        "results": [
+          {
+            "id": "7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 69,
+            "text": " latter\n\nvas composed of two burgesses elected by popular vote\nfrom each plantation or settlement (cleven in number),\nand met first in 1619.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 874,
+              "chunking": "paragraph:240",
+              "char_start": 734
+            },
+            "score": 0.38721724079514314,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b1c86c5d25bf494bcacc000eb73bacb423a49b11f145dd771b730578deb2810c",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 89,
+            "text": "New England 65\n\ncolonists’ desires. The House of Burgesses assumed con-\ntrol of the colonial government, and they were now free to\nelect their own governor, without interference by English\nauthorities.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 201,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.25880813781398226,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 64,
+            "text": "Conditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 68,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.13628146424108875,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e | data\\raw\\american_history_1917.pdf | page 69]\n latter\n\nvas composed of two burgesses elected by popular vote\nfrom each plantation or settlement (cleven in number),\nand met first in 1619.\n\n[b1c86c5d25bf494bcacc000eb73bacb423a49b11f145dd771b730578deb2810c | data\\raw\\american_history_1917.pdf | page 89]\nNew England 65\n\ncolonists’ desires. The House of Burgesses assumed con-\ntrol of the colonial government, and they were now free to\nelect their own governor, without interference by English\nauthorities.\n\n[ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89 | data\\raw\\american_history_1917.pdf | page 64]\nConditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History",
+        "context_ids": [
+          "7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e",
+          "b1c86c5d25bf494bcacc000eb73bacb423a49b11f145dd771b730578deb2810c",
+          "ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H05",
+    "question": "How many burgesses did each plantation or settlement elect, according to the book?",
+    "elapsed_seconds": 8.830008999997517,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 170,
+        "completion_tokens": 32,
+        "total_tokens": 202,
+        "cost": 3.64e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.64e-05,
+          "upstream_inference_prompt_cost": 2.04e-05,
+          "upstream_inference_completions_cost": 1.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 572,
+        "completion_tokens": 662,
+        "total_tokens": 1234,
+        "cost": 0.000348264,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000348264,
+          "upstream_inference_prompt_cost": 1.7264e-05,
+          "upstream_inference_completions_cost": 0.000331
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 555,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The book places the first settlement in Maryland at St. Mary’s on Chesapeake Bay in 1634. [2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4]",
+    "citations": [
+      "2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "book first settlement in Maryland where and when",
+        "filter": null,
+        "results": [
+          {
+            "id": "ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 64,
+            "text": "Conditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 68,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.2767692178342783,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " father’s\nwork and founded Maryland,\nnamed in honor of the Queen,\nHenrietta Maria.\nPhysical The first settlement in Maryland was at St. Mary’s on\nSoe Chesapeake Bay in 1634. The physical features of Mary-\nland. land resemble closcly those",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 977,
+              "chunking": "paragraph:240",
+              "char_start": 739
+            },
+            "score": 0.2525155356925217,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "51970f102eebfa9f3808935853accd847868c47f895e24c3a08f2ae042f859fc",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 69,
+            "text": "Virginia and Maryland 45",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 24,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.25250333403073677,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89 | data\\raw\\american_history_1917.pdf | page 64]\nConditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History\n\n[2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4 | data\\raw\\american_history_1917.pdf | page 70]\n father’s\nwork and founded Maryland,\nnamed in honor of the Queen,\nHenrietta Maria.\nPhysical The first settlement in Maryland was at St. Mary’s on\nSoe Chesapeake Bay in 1634. The physical features of Mary-\nland. land resemble closcly those\n\n[51970f102eebfa9f3808935853accd847868c47f895e24c3a08f2ae042f859fc | data\\raw\\american_history_1917.pdf | page 69]\nVirginia and Maryland 45",
+        "context_ids": [
+          "ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89",
+          "2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4",
+          "51970f102eebfa9f3808935853accd847868c47f895e24c3a08f2ae042f859fc"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H06",
+    "question": "Where and when does the book place the first settlement in Maryland?",
+    "elapsed_seconds": 3.3170880999823567,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 167,
+        "completion_tokens": 33,
+        "total_tokens": 200,
+        "cost": 1.9184e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.9184e-05,
+          "upstream_inference_prompt_cost": 2.684e-06,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 532,
+        "completion_tokens": 177,
+        "total_tokens": 709,
+        "cost": 0.000149645,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000149645,
+          "upstream_inference_prompt_cost": 4.256e-05,
+          "upstream_inference_completions_cost": 0.000107085
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 63,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The book states that every indentured servant was entitled to fifty acres at the end of his term of service, noting that such servants were especially numerous in Maryland [cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed].",
+    "citations": [
+      "cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "land entitlement indentured servants Maryland after service book",
+        "filter": null,
+        "results": [
+          {
+            "id": "0af237051e3f7bffb6a0d275c550650cca77e453a13954ce77ce3fdcc03482ab",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 67,
+            "text": " trans-\nported to America on the order of the authorities, beeoming\nindentured servants. Many of the servants were of good\n\nThe land\nsystem in\nVirginia.\n\nThe im-\nportation\nof women\nand slaves,\n\nIn-\ndentured\nservants,",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 2458,
+              "chunking": "paragraph:240",
+              "char_start": 2242
+            },
+            "score": 0.35617749780053776,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 71,
+            "text": " each containing thousar ds of acres.\nAnother law had the opposite tendency, in providing that\nevery indentured servant (these were especially numerous\nin Maryland), was entitled to fifty acres at the end of his\nterm of service. Thus many",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 730,
+              "chunking": "paragraph:240",
+              "char_start": 492
+            },
+            "score": 0.2288839928874833,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "4c44b40ea8ab19b3609967579f1061e454a8064ea6be5166714f60d73b27ba8f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 144,
+            "text": " Broad rivers that\nfeed the Tennessee. These mountain frontiersmen were\nreénforced by settlers from Virginia, many of whom were\nex-indentured servants, and from North Carolina.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 991,
+              "chunking": "paragraph:240",
+              "char_start": 815
+            },
+            "score": 0.20503210360139887,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[0af237051e3f7bffb6a0d275c550650cca77e453a13954ce77ce3fdcc03482ab | data\\raw\\american_history_1917.pdf | page 67]\n trans-\nported to America on the order of the authorities, beeoming\nindentured servants. Many of the servants were of good\n\nThe land\nsystem in\nVirginia.\n\nThe im-\nportation\nof women\nand slaves,\n\nIn-\ndentured\nservants,\n\n[cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed | data\\raw\\american_history_1917.pdf | page 71]\n each containing thousar ds of acres.\nAnother law had the opposite tendency, in providing that\nevery indentured servant (these were especially numerous\nin Maryland), was entitled to fifty acres at the end of his\nterm of service. Thus many",
+        "context_ids": [
+          "0af237051e3f7bffb6a0d275c550650cca77e453a13954ce77ce3fdcc03482ab",
+          "cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H07",
+    "question": "What land entitlement does the book describe for indentured servants in Maryland after their service?",
+    "elapsed_seconds": 4.894798199995421,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 146,
+        "completion_tokens": 32,
+        "total_tokens": 178,
+        "cost": 3.104e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.104e-05,
+          "upstream_inference_prompt_cost": 1.168e-05,
+          "upstream_inference_completions_cost": 1.936e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 13,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 505,
+        "completion_tokens": 243,
+        "total_tokens": 748,
+        "cost": 0.00043805,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00043805,
+          "upstream_inference_prompt_cost": 0.00014645,
+          "upstream_inference_completions_cost": 0.0002916
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 116,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chapter 5 Pilgrims lived before sailing to Plymouth America",
+        "filter": null,
+        "results": [
+          {
+            "id": "d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " in America as before, and the same\ncauses for enmity.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1454,
+              "chunking": "paragraph:240",
+              "char_start": 1400
+            },
+            "score": 0.20735783371017874,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.1957070931319976,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 74,
+            "text": " Plymouth in England and then to the new Plymouth in\nAmerica. ‘The spirit of the Pilgrims appears constantly\nin the course of their history as written by William Brad-\nford, one of their leaders. He speaks, for example, of\ntheir “valewing",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 533,
+              "chunking": "paragraph:240",
+              "char_start": 295
+            },
+            "score": 0.1936311956008177,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c | data\\raw\\american_history_1917.pdf | page 137]\n in America as before, and the same\ncauses for enmity.\n\n[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539 | data\\raw\\american_history_1917.pdf | page 74]\n Plymouth in England and then to the new Plymouth in\nAmerica. ‘The spirit of the Pilgrims appears constantly\nin the course of their history as written by William Brad-\nford, one of their leaders. He speaks, for example, of\ntheir “valewing",
+        "context_ids": [
+          "d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c",
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "chapter 5 Pilgrims before sailing to Plymouth lived Holland Leiden England",
+        "filter": null,
+        "results": [
+          {
+            "id": "ac50a7b57f06107a4deb9eed538f36c392a8359d9c7b62ad87618155fe64b081",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 77,
+            "text": "|\n\nNew England 43\n\npoverty of the people that Plymouth colony established\nao system of public schools before 1670.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 114,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.18923239455553162,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.1868393828369228,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "197bad33b0d8b3fa10c27760b48462c768a5be7bdfd45b0711cc669fe6eb9369",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 61,
+            "text": "CHAPTER IV\nVIRGINIA AND MARYLAND",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 32,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.18352507742869578,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c | data\\raw\\american_history_1917.pdf | page 137]\n in America as before, and the same\ncauses for enmity.\n\n[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539 | data\\raw\\american_history_1917.pdf | page 74]\n Plymouth in England and then to the new Plymouth in\nAmerica. ‘The spirit of the Pilgrims appears constantly\nin the course of their history as written by William Brad-\nford, one of their leaders. He speaks, for example, of\ntheir “valewing",
+        "context_ids": [
+          "d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c",
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "H08",
+    "question": "According to chapter 5, where did the Pilgrims live before sailing to Plymouth in America?",
+    "elapsed_seconds": 22.825898100010818,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 173,
+        "completion_tokens": 36,
+        "total_tokens": 209,
+        "cost": 5.5376e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.5376e-05,
+          "upstream_inference_prompt_cost": 1.9376e-05,
+          "upstream_inference_completions_cost": 3.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 598,
+        "completion_tokens": 129,
+        "total_tokens": 727,
+        "cost": 5.476e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.476e-05,
+          "upstream_inference_prompt_cost": 4.186e-05,
+          "upstream_inference_completions_cost": 1.29e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 107,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 613,
+        "completion_tokens": 85,
+        "total_tokens": 698,
+        "cost": 8.2958e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.2958e-05,
+          "upstream_inference_prompt_cost": 4.0458e-05,
+          "upstream_inference_completions_cost": 4.25e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 63,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "error",
+    "error_type": "ValueError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "query_id": "H09",
+    "question": "What group does the book identify as the origin of the Pilgrims?",
+    "elapsed_seconds": 39.97503579998738,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 33,
+        "total_tokens": 201,
+        "cost": 9e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9e-05,
+          "upstream_inference_prompt_cost": 5.04e-05,
+          "upstream_inference_completions_cost": 3.96e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 447,
+        "completion_tokens": 84,
+        "total_tokens": 531,
+        "cost": 6.3886e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 6.3886e-05,
+          "upstream_inference_prompt_cost": 2.1886e-05,
+          "upstream_inference_completions_cost": 4.2e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 62,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 676,
+        "completion_tokens": 145,
+        "total_tokens": 821,
+        "cost": 0.00023186,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00023186,
+          "upstream_inference_prompt_cost": 0.00014196,
+          "upstream_inference_completions_cost": 8.99e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 93,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Massachusetts town system oversight of town affairs book",
+        "filter": null,
+        "results": [
+          {
+            "id": "b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": " church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 999,
+              "chunking": "paragraph:240",
+              "char_start": 759
+            },
+            "score": 0.42928345894087355,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 86,
+            "text": "New\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 240,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.18803987096230976,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "f056803f8fcd3b2a1f03de8f2aebadd9d9655d570f4ae65088472380479cb8a1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": " pound-keepers, fence viewers, and often\nmany others. ‘The town was thus a pure democracy.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1318,
+              "chunking": "paragraph:240",
+              "char_start": 1228
+            },
+            "score": 0.1794028950172292,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf | data\\raw\\american_history_1917.pdf | page 82]\n church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other\n\n[e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193 | data\\raw\\american_history_1917.pdf | page 86]\nNew\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+        "context_ids": [
+          "b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf",
+          "e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "oversight of town affairs Massachusetts town system book",
+        "filter": null,
+        "results": [
+          {
+            "id": "b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": " church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 999,
+              "chunking": "paragraph:240",
+              "char_start": 759
+            },
+            "score": 0.42928345894087355,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 86,
+            "text": "New\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 240,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.18803987096230976,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "f056803f8fcd3b2a1f03de8f2aebadd9d9655d570f4ae65088472380479cb8a1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": " pound-keepers, fence viewers, and often\nmany others. ‘The town was thus a pure democracy.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1318,
+              "chunking": "paragraph:240",
+              "char_start": 1228
+            },
+            "score": 0.1794028950172292,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf | data\\raw\\american_history_1917.pdf | page 82]\n church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other\n\n[e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193 | data\\raw\\american_history_1917.pdf | page 86]\nNew\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+        "context_ids": [
+          "b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf",
+          "e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "H10",
+    "question": "Who had oversight of town affairs in the Massachusetts town system described in the book?",
+    "elapsed_seconds": 6.736048899998423,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 170,
+        "completion_tokens": 34,
+        "total_tokens": 204,
+        "cost": 1.53e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.53e-05,
+          "upstream_inference_prompt_cost": 1.19e-05,
+          "upstream_inference_completions_cost": 3.4e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 504,
+        "completion_tokens": 76,
+        "total_tokens": 580,
+        "cost": 0.00015296,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00015296,
+          "upstream_inference_prompt_cost": 0.00010584,
+          "upstream_inference_completions_cost": 4.712e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 58,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 515,
+        "completion_tokens": 141,
+        "total_tokens": 656,
+        "cost": 0.000113295,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000113295,
+          "upstream_inference_prompt_cost": 5.4075e-05,
+          "upstream_inference_completions_cost": 5.922e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 117,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The Fundamental Orders described Connecticut Colony’s government in 1639. [d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932]",
+    "citations": [
+      "d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Connecticut Colony government 1639 document described",
+        "filter": null,
+        "results": [
+          {
+            "id": "d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 85,
+            "text": "The government of Connecticut Colony was formally\nset forth in 1639 by the adoption of “The Fundamental\nOrders.” This document consisted of a covenant, like\nthat of the Mayflower Compact, and a series of laws for\nthe colony. Since the",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1517,
+              "chunking": "paragraph:240",
+              "char_start": 1283
+            },
+            "score": 0.4217954082623614,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "96a537fc7622dd47862f60e72eb098d975c83ff66b28fe88409af268c02e03bb",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 86,
+            "text": "Old House in Guilford, 1639",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 489,
+              "chunking": "paragraph:240",
+              "char_start": 462
+            },
+            "score": 0.30379755129113123,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 77,
+            "text": " each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 766,
+              "chunking": "paragraph:240",
+              "char_start": 591
+            },
+            "score": 0.2803377834235285,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932 | data\\raw\\american_history_1917.pdf | page 85]\nThe government of Connecticut Colony was formally\nset forth in 1639 by the adoption of “The Fundamental\nOrders.” This document consisted of a covenant, like\nthat of the Mayflower Compact, and a series of laws for\nthe colony. Since the\n\n[96a537fc7622dd47862f60e72eb098d975c83ff66b28fe88409af268c02e03bb | data\\raw\\american_history_1917.pdf | page 86]\nOld House in Guilford, 1639\n\n[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+        "context_ids": [
+          "d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932",
+          "96a537fc7622dd47862f60e72eb098d975c83ff66b28fe88409af268c02e03bb",
+          "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H11",
+    "question": "Which document described Connecticut Colony’s government in 1639?",
+    "elapsed_seconds": 23.598163900023792,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 167,
+        "completion_tokens": 32,
+        "total_tokens": 199,
+        "cost": 5.491e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.491e-05,
+          "upstream_inference_prompt_cost": 3.507e-05,
+          "upstream_inference_completions_cost": 1.984e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 14,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 572,
+        "completion_tokens": 407,
+        "total_tokens": 979,
+        "cost": 0.000263571,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000263571,
+          "upstream_inference_prompt_cost": 8.4084e-05,
+          "upstream_inference_completions_cost": 0.000179487
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 299,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The book says the New England Confederation was formed in 1643. [3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4]",
+    "citations": [
+      "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "New England Confederation formed year book",
+        "filter": null,
+        "results": [
+          {
+            "id": "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 88,
+            "text": " com-\nmon dangers these four colonies formed, in 1643, the New\nEngland Confederation. The dangers referred to were:\n(1) Indian attacks, the Narragansetts and Mohegans\nbeing particularly restless and liable to cause tro™ble.\n(2) The",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 849,
+              "chunking": "paragraph:240",
+              "char_start": 618
+            },
+            "score": 0.24867491372686246,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 88,
+            "text": " territory occupied by Connecticut was still claimed\nby the Dutch. %3) Among themselves the colonies had\nboundary disputes. The Confederation was formed for\ndefence at a time when the English Government could\nrender no assistance, and “for",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1088,
+              "chunking": "paragraph:240",
+              "char_start": 849
+            },
+            "score": 0.23689028164213255,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "20a383bae721796c28ad5e3ccf71d30b6a1b46b53b97f9aa421819939e36f364",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " quantities\nin New England.",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1028,
+              "chunking": "paragraph:240",
+              "char_start": 1001
+            },
+            "score": 0.2122453011618765,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4 | data\\raw\\american_history_1917.pdf | page 88]\n com-\nmon dangers these four colonies formed, in 1643, the New\nEngland Confederation. The dangers referred to were:\n(1) Indian attacks, the Narragansetts and Mohegans\nbeing particularly restless and liable to cause tro™ble.\n(2) The\n\n[873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9 | data\\raw\\american_history_1917.pdf | page 88]\n territory occupied by Connecticut was still claimed\nby the Dutch. %3) Among themselves the colonies had\nboundary disputes. The Confederation was formed for\ndefence at a time when the English Government could\nrender no assistance, and “for",
+        "context_ids": [
+          "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4",
+          "873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "New England Confederation formed year",
+        "filter": null,
+        "results": [
+          {
+            "id": "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 88,
+            "text": " com-\nmon dangers these four colonies formed, in 1643, the New\nEngland Confederation. The dangers referred to were:\n(1) Indian attacks, the Narragansetts and Mohegans\nbeing particularly restless and liable to cause tro™ble.\n(2) The",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 849,
+              "chunking": "paragraph:240",
+              "char_start": 618
+            },
+            "score": 0.24867491372686246,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 88,
+            "text": " territory occupied by Connecticut was still claimed\nby the Dutch. %3) Among themselves the colonies had\nboundary disputes. The Confederation was formed for\ndefence at a time when the English Government could\nrender no assistance, and “for",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1088,
+              "chunking": "paragraph:240",
+              "char_start": 849
+            },
+            "score": 0.23689028164213255,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "20a383bae721796c28ad5e3ccf71d30b6a1b46b53b97f9aa421819939e36f364",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " quantities\nin New England.",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1028,
+              "chunking": "paragraph:240",
+              "char_start": 1001
+            },
+            "score": 0.2122453011618765,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4 | data\\raw\\american_history_1917.pdf | page 88]\n com-\nmon dangers these four colonies formed, in 1643, the New\nEngland Confederation. The dangers referred to were:\n(1) Indian attacks, the Narragansetts and Mohegans\nbeing particularly restless and liable to cause tro™ble.\n(2) The\n\n[873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9 | data\\raw\\american_history_1917.pdf | page 88]\n territory occupied by Connecticut was still claimed\nby the Dutch. %3) Among themselves the colonies had\nboundary disputes. The Confederation was formed for\ndefence at a time when the English Government could\nrender no assistance, and “for",
+        "context_ids": [
+          "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4",
+          "873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H12",
+    "question": "In what year does the book say the New England Confederation was formed?",
+    "elapsed_seconds": 20.97485759999836,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 31,
+        "total_tokens": 199,
+        "cost": 3.566e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.566e-05,
+          "upstream_inference_prompt_cost": 2.016e-05,
+          "upstream_inference_completions_cost": 1.55e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 501,
+        "completion_tokens": 67,
+        "total_tokens": 568,
+        "cost": 0.00010865,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00010865,
+          "upstream_inference_prompt_cost": 7.515e-05,
+          "upstream_inference_completions_cost": 3.35e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 52,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 483,
+        "completion_tokens": 210,
+        "total_tokens": 693,
+        "cost": 0.00016569,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00016569,
+          "upstream_inference_prompt_cost": 3.864e-05,
+          "upstream_inference_completions_cost": 0.00012705
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 98,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "According to the book, Hudson traveled up the Hudson River as far as the site of Albany. [4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9]",
+    "citations": [
+      "4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "How far up the Hudson River did Hudson travel according to the book?",
+        "filter": null,
+        "results": [
+          {
+            "id": "4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 93,
+            "text": " and then into the beautiful New\nYork Harbor and up the Hudson River as far as the site\nof Albany. In this vicinity he remained for several weeks,\ntrading with the Indians.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 444,
+              "chunking": "paragraph:240",
+              "char_start": 272
+            },
+            "score": 0.29901086835433477,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "c37963b2d56710071aa0c896251d88da04b0b4325770bc502795f4a63f54561c",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": " of Hudson’s\nvoyage the most friendly relations existed between the\nDutch traders and the Iroquois Indians of the upper\nHudson and Mohawk valleys. The latter eagerly seized\nthe opportunity to acquire European blankets,- utensils,\nguns, and",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1942,
+              "chunking": "paragraph:240",
+              "char_start": 1703
+            },
+            "score": 0.23155674599983278,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "6150f66feb8b809fbc7d35130cb823f310c3a35d30dd82653e89ac104fc9dc30",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 93,
+            "text": "that Henry Hudson was sent (1609) by the Dutch East India\nCompany. Failing to accomplish his object, he turned\nwestward across the Atlantic in the hope that a passage to\nAsia might be found through America.* Hudson sailed\ninto Delaware Bay",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 272,
+              "chunking": "paragraph:240",
+              "char_start": 33
+            },
+            "score": 0.21882378279553472,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9 | data\\raw\\american_history_1917.pdf | page 93]\n and then into the beautiful New\nYork Harbor and up the Hudson River as far as the site\nof Albany. In this vicinity he remained for several weeks,\ntrading with the Indians.\n\n[c37963b2d56710071aa0c896251d88da04b0b4325770bc502795f4a63f54561c | data\\raw\\american_history_1917.pdf | page 94]\n of Hudson’s\nvoyage the most friendly relations existed between the\nDutch traders and the Iroquois Indians of the upper\nHudson and Mohawk valleys. The latter eagerly seized\nthe opportunity to acquire European blankets,- utensils,\nguns, and",
+        "context_ids": [
+          "4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9",
+          "c37963b2d56710071aa0c896251d88da04b0b4325770bc502795f4a63f54561c"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H13",
+    "question": "How far up the Hudson River did Hudson travel according to the book?",
+    "elapsed_seconds": 15.380166300019482,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 39,
+        "total_tokens": 207,
+        "cost": 1.23e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.23e-05,
+          "upstream_inference_prompt_cost": 8.4e-06,
+          "upstream_inference_completions_cost": 3.9e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 486,
+        "completion_tokens": 656,
+        "total_tokens": 1142,
+        "cost": 9.962e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.962e-05,
+          "upstream_inference_prompt_cost": 3.402e-05,
+          "upstream_inference_completions_cost": 6.56e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 540,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The Navigation Act of 1651 required that all goods brought to England from Asia, Africa, or America be carried by English or colonial ships. [aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba]",
+    "citations": [
+      "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chapter 7 Navigation Act of 1651 ships goods brought to England from Asia Africa America",
+        "filter": null,
+        "results": [
+          {
+            "id": "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 759,
+              "chunking": "paragraph:240",
+              "char_start": 526
+            },
+            "score": 0.5554794028611878,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1235,
+              "chunking": "paragraph:240",
+              "char_start": 998
+            },
+            "score": 0.17048753082654405,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 110,
+            "text": "to the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 283,
+              "chunking": "paragraph:240",
+              "char_start": 97
+            },
+            "score": 0.1630569701106505,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act\n\n[7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351 | data\\raw\\american_history_1917.pdf | page 109]\n restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+        "context_ids": [
+          "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+          "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H14",
+    "question": "In chapter 7, what ships did the Navigation Act of 1651 require for goods brought to England from Asia, Africa, or America?",
+    "elapsed_seconds": 11.929465799999889,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 183,
+        "completion_tokens": 43,
+        "total_tokens": 226,
+        "cost": 3.7275e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.7275e-05,
+          "upstream_inference_prompt_cost": 1.9215e-05,
+          "upstream_inference_completions_cost": 1.806e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 520,
+        "completion_tokens": 183,
+        "total_tokens": 703,
+        "cost": 0.0001539,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001539,
+          "upstream_inference_prompt_cost": 6.24e-05,
+          "upstream_inference_completions_cost": 9.15e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 72,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Between 1690 and 1760 the English colonies grew in population from about 245,000 to 1,600,000. [dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302]",
+    "citations": [
+      "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "English colonies population change 1690 1760 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 152,
+            "text": "BeTWEeEN the years 1690 and 1760 the English colonies\ngrew in population from about 245,000 to 1,600,000.\nHere, as in all new countries, where conditions of life are\neasy, the natural increase was large; and there was much\nimmigration. In",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 346,
+              "chunking": "paragraph:240",
+              "char_start": 108
+            },
+            "score": 0.308987233685168,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 146,
+            "text": "The last\nFrench and\nIndian\nWar, 1755-\n1760.\n\nYears of\ndefeat for\nthe\nEnglish.\n\n122 American History",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 99,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.24406747578593746,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": "CHAPTER VII\n\nTHE COLONIES AFTER THE RESTORATION—\n1660-1690",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 58,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.2267682242260824,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302 | data\\raw\\american_history_1917.pdf | page 152]\nBeTWEeEN the years 1690 and 1760 the English colonies\ngrew in population from about 245,000 to 1,600,000.\nHere, as in all new countries, where conditions of life are\neasy, the natural increase was large; and there was much\nimmigration. In\n\n[f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc | data\\raw\\american_history_1917.pdf | page 146]\nThe last\nFrench and\nIndian\nWar, 1755-\n1760.\n\nYears of\ndefeat for\nthe\nEnglish.\n\n122 American History\n\n[3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515 | data\\raw\\american_history_1917.pdf | page 109]\nCHAPTER VII\n\nTHE COLONIES AFTER THE RESTORATION—\n1660-1690",
+        "context_ids": [
+          "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302",
+          "f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc",
+          "3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "English colonies population 1690 1760 245,000 1,600,000",
+        "filter": null,
+        "results": [
+          {
+            "id": "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 152,
+            "text": "BeTWEeEN the years 1690 and 1760 the English colonies\ngrew in population from about 245,000 to 1,600,000.\nHere, as in all new countries, where conditions of life are\neasy, the natural increase was large; and there was much\nimmigration. In",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 346,
+              "chunking": "paragraph:240",
+              "char_start": 108
+            },
+            "score": 0.6227155372911337,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "4d876364702926acb9029e6973edb82c5e52d3c985b9e3130474ccc5828a8f08",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 67,
+            "text": "When the London Company’s “plantation” method of control\nin the colony gave way, some $2,000,000 had been expended, and\nvery small returns had been realized upon the investment.\nHenceforth, settlers were regularly given grants of land.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 442,
+              "chunking": "paragraph:240",
+              "char_start": 207
+            },
+            "score": 0.21948091237423856,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "05948911809de7cc9608d3cda48ac967d17537f7bf168ce48340df378e012dbc",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 116,
+            "text": "In 1690, the English colonies contained nearly 250,000-\ninhabitants. Jai New England the physical geography\ndetermined the industries, and these in turn influenced\nsocial and political conditions. ‘This was a region of\ncold winters and",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1460,
+              "chunking": "paragraph:240",
+              "char_start": 1225
+            },
+            "score": 0.21813613473374877,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302 | data\\raw\\american_history_1917.pdf | page 152]\nBeTWEeEN the years 1690 and 1760 the English colonies\ngrew in population from about 245,000 to 1,600,000.\nHere, as in all new countries, where conditions of life are\neasy, the natural increase was large; and there was much\nimmigration. In\n\n[f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc | data\\raw\\american_history_1917.pdf | page 146]\nThe last\nFrench and\nIndian\nWar, 1755-\n1760.\n\nYears of\ndefeat for\nthe\nEnglish.\n\n122 American History\n\n[3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515 | data\\raw\\american_history_1917.pdf | page 109]\nCHAPTER VII\n\nTHE COLONIES AFTER THE RESTORATION—\n1660-1690",
+        "context_ids": [
+          "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302",
+          "f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc",
+          "3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H15",
+    "question": "What population change for the English colonies between 1690 and 1760 does this book report?",
+    "elapsed_seconds": 17.54124479999882,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 174,
+        "completion_tokens": 62,
+        "total_tokens": 236,
+        "cost": 7.596e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 7.596e-05,
+          "upstream_inference_prompt_cost": 3.132e-05,
+          "upstream_inference_completions_cost": 4.464e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 41,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 632,
+        "completion_tokens": 163,
+        "total_tokens": 795,
+        "cost": 0.0001763,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001763,
+          "upstream_inference_prompt_cost": 9.48e-05,
+          "upstream_inference_completions_cost": 8.15e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 134,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 653,
+        "completion_tokens": 731,
+        "total_tokens": 1384,
+        "cost": 0.00059035,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00059035,
+          "upstream_inference_prompt_cost": 0.00013713,
+          "upstream_inference_completions_cost": 0.00045322
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 612,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "John Smith obtained corn from the Indians when the settlers were starving and compelled the systematic planting of corn. [82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366]",
+    "citations": [
+      "82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "book Jamestown settlers corn obtained promoted planting",
+        "filter": null,
+        "results": [
+          {
+            "id": "82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 65,
+            "text": " skilfully obtained corn\nfrom the Indians when the settlers were starving, and he\ncompelled the systematic planting of corn. Ife maintained\nthe military strength of Jamestown by drilling the men and\nbuilding fortifications.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1194,
+              "chunking": "paragraph:240",
+              "char_start": 971
+            },
+            "score": 0.4695189129842088,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1976,
+              "chunking": "paragraph:240",
+              "char_start": 1782
+            },
+            "score": 0.18545177047400913,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.15639970685840343,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366 | data\\raw\\american_history_1917.pdf | page 65]\n skilfully obtained corn\nfrom the Indians when the settlers were starving, and he\ncompelled the systematic planting of corn. Ife maintained\nthe military strength of Jamestown by drilling the men and\nbuilding fortifications.\n\n[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+        "context_ids": [
+          "82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366",
+          "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H16",
+    "question": "According to the book, who obtained corn for the Jamestown settlers and promoted planting it?",
+    "elapsed_seconds": 13.406067800009623,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 172,
+        "completion_tokens": 33,
+        "total_tokens": 205,
+        "cost": 1.19e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.19e-05,
+          "upstream_inference_prompt_cost": 8.6e-06,
+          "upstream_inference_completions_cost": 3.3e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 502,
+        "completion_tokens": 780,
+        "total_tokens": 1282,
+        "cost": 0.0004653,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0004653,
+          "upstream_inference_prompt_cost": 7.53e-05,
+          "upstream_inference_completions_cost": 0.00039
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 664,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "error",
+    "error_type": "ValueError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "query_id": "H17",
+    "question": "In chapter 5, what happened to Anne Hutchinson after her theological disagreement with orthodox Puritans?",
+    "elapsed_seconds": 6.641858599992702,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 173,
+        "completion_tokens": 38,
+        "total_tokens": 211,
+        "cost": 1.591e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.591e-05,
+          "upstream_inference_prompt_cost": 1.211e-05,
+          "upstream_inference_completions_cost": 3.8e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 599,
+        "completion_tokens": 139,
+        "total_tokens": 738,
+        "cost": 0.00021197,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00021197,
+          "upstream_inference_prompt_cost": 0.00012579,
+          "upstream_inference_completions_cost": 8.618e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 121,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 609,
+        "completion_tokens": 112,
+        "total_tokens": 721,
+        "cost": 9.6194e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.6194e-05,
+          "upstream_inference_prompt_cost": 4.0194e-05,
+          "upstream_inference_completions_cost": 5.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 54,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The Duke of York established an elective assembly with power to tax the colony in 1683. [e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698]",
+    "citations": [
+      "e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Duke of York establish assembly 1683 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 98,
+            "text": " this system the colonists, especially the increasing\nEnglish clement, persistently complained, and finally, in\n1683, the Duke established an elective assembly with power\nto tax the colony. In 1685, when the Duke became James\nIL of England,",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 610,
+              "chunking": "paragraph:240",
+              "char_start": 370
+            },
+            "score": 0.3788809681316245,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 113,
+            "text": "The Duke of York became King James IT of England\nin 1685. The next year he appointed Edmund Andros\nGovernor-General of New England, who began the policy\nof consolidation by dissolving the governments of Plymouth,\nRhode Island, and",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1946,
+              "chunking": "paragraph:240",
+              "char_start": 1716
+            },
+            "score": 0.17422121561212378,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "7382ce3ec021e58be5154604ef2e79812e59ab5169ef298bb6170f68c0cf25fa",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 97,
+            "text": " came to the throne, his brother James,\nthe Duke of York, together with several other prominent\nEnglishmen, led in a movement for the investigation of this\ntrade rivalry by a committee of the House of Commons.\nThe result was the secret",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 747,
+              "chunking": "paragraph:240",
+              "char_start": 512
+            },
+            "score": 0.16094308985215922,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698 | data\\raw\\american_history_1917.pdf | page 98]\n this system the colonists, especially the increasing\nEnglish clement, persistently complained, and finally, in\n1683, the Duke established an elective assembly with power\nto tax the colony. In 1685, when the Duke became James\nIL of England,\n\n[1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6 | data\\raw\\american_history_1917.pdf | page 113]\nThe Duke of York became King James IT of England\nin 1685. The next year he appointed Edmund Andros\nGovernor-General of New England, who began the policy\nof consolidation by dissolving the governments of Plymouth,\nRhode Island, and",
+        "context_ids": [
+          "e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698",
+          "1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H18",
+    "question": "What kind of assembly did the Duke of York establish in 1683, according to the book?",
+    "elapsed_seconds": 6.56540789999417,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 174,
+        "completion_tokens": 35,
+        "total_tokens": 209,
+        "cost": 2.1368e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.1368e-05,
+          "upstream_inference_prompt_cost": 3.868e-06,
+          "upstream_inference_completions_cost": 1.75e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 509,
+        "completion_tokens": 725,
+        "total_tokens": 1234,
+        "cost": 0.00010813,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00010813,
+          "upstream_inference_prompt_cost": 3.563e-05,
+          "upstream_inference_completions_cost": 7.25e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 609,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chapter 8 plan adopted at the Albany congress who drew up",
+        "filter": null,
+        "results": [
+          {
+            "id": "6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 145,
+            "text": "French\nposts on\nthe Alle.\nghany.\n\nThe\nAlbany\nCongress,\n1754.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1544,
+              "chunking": "paragraph:240",
+              "char_start": 1484
+            },
+            "score": 0.2827150215538391,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 146,
+            "text": "In 1754 the New England colonies, New York, Pennsyl-\nvania, and Maryland sent delegates to a congress at Al-\nbany. This congress renewed the alliance with the Iro-\nquois, and then discussed plans for a union of the colonies\nthat would",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 335,
+              "chunking": "paragraph:240",
+              "char_start": 101
+            },
+            "score": 0.18609430557868167,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a69881cdc48e89d3dd00de53f6c3a4f5361f148cd4349a328aded1712d43ed48",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 146,
+            "text": " render their military forces more efficient. The\nplan adopted was drawn up by Benjamin Franklin. It\nprovided for a President-General, io be appointed by the\ncrown, and a Grand Council to be composed of delegates\nelected by the colonial",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 571,
+              "chunking": "paragraph:240",
+              "char_start": 335
+            },
+            "score": 0.17735187232275512,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c | data\\raw\\american_history_1917.pdf | page 145]\nFrench\nposts on\nthe Alle.\nghany.\n\nThe\nAlbany\nCongress,\n1754.\n\n[cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a | data\\raw\\american_history_1917.pdf | page 146]\nIn 1754 the New England colonies, New York, Pennsyl-\nvania, and Maryland sent delegates to a congress at Al-\nbany. This congress renewed the alliance with the Iro-\nquois, and then discussed plans for a union of the colonies\nthat would",
+        "context_ids": [
+          "6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c",
+          "cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Albany Congress 1754 plan of union drawn up by who chapter 8",
+        "filter": null,
+        "results": [
+          {
+            "id": "6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 145,
+            "text": "French\nposts on\nthe Alle.\nghany.\n\nThe\nAlbany\nCongress,\n1754.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1544,
+              "chunking": "paragraph:240",
+              "char_start": 1484
+            },
+            "score": 0.3821051229612365,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 146,
+            "text": "In 1754 the New England colonies, New York, Pennsyl-\nvania, and Maryland sent delegates to a congress at Al-\nbany. This congress renewed the alliance with the Iro-\nquois, and then discussed plans for a union of the colonies\nthat would",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 335,
+              "chunking": "paragraph:240",
+              "char_start": 101
+            },
+            "score": 0.2815388442769564,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a69881cdc48e89d3dd00de53f6c3a4f5361f148cd4349a328aded1712d43ed48",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 146,
+            "text": " render their military forces more efficient. The\nplan adopted was drawn up by Benjamin Franklin. It\nprovided for a President-General, io be appointed by the\ncrown, and a Grand Council to be composed of delegates\nelected by the colonial",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 571,
+              "chunking": "paragraph:240",
+              "char_start": 335
+            },
+            "score": 0.2084796556160526,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c | data\\raw\\american_history_1917.pdf | page 145]\nFrench\nposts on\nthe Alle.\nghany.\n\nThe\nAlbany\nCongress,\n1754.\n\n[cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a | data\\raw\\american_history_1917.pdf | page 146]\nIn 1754 the New England colonies, New York, Pennsyl-\nvania, and Maryland sent delegates to a congress at Al-\nbany. This congress renewed the alliance with the Iro-\nquois, and then discussed plans for a union of the colonies\nthat would",
+        "context_ids": [
+          "6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c",
+          "cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "H19",
+    "question": "In chapter 8, who drew up the plan adopted at the Albany congress?",
+    "elapsed_seconds": 31.098263699997915,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 145,
+        "completion_tokens": 103,
+        "total_tokens": 248,
+        "cost": 7.3915e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 7.3915e-05,
+          "upstream_inference_prompt_cost": 1.16e-05,
+          "upstream_inference_completions_cost": 6.2315e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 81,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 488,
+        "completion_tokens": 69,
+        "total_tokens": 557,
+        "cost": 4.874e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.874e-05,
+          "upstream_inference_prompt_cost": 1.424e-05,
+          "upstream_inference_completions_cost": 3.45e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 44,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 506,
+        "completion_tokens": 103,
+        "total_tokens": 609,
+        "cost": 0.00017012,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00017012,
+          "upstream_inference_prompt_cost": 0.00010626,
+          "upstream_inference_completions_cost": 6.386e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 83,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "leaders of the Great Awakening book",
+        "filter": null,
+        "results": [
+          {
+            "id": "1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 117,
+            "text": " great.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1361,
+              "chunking": "paragraph:240",
+              "char_start": 1354
+            },
+            "score": 0.3889632642668776,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 157,
+            "text": "A revival of religion, known as the “great awakening,”\nthat had a profound influence, began in New England,\nin 1734, and lasted ten years. In this movement, whieh\naffected all the colonies, Jonathan Edwards and George\nWhitefield were the",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 397,
+              "chunking": "paragraph:240",
+              "char_start": 160
+            },
+            "score": 0.24208477508502282,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 80,
+            "text": "+ This was the idea of the men who planned and guided the colony.\nThe great mass of emigrants in following these leaders were moved by\nan intelligent purpose to better their economic condition.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 2276,
+              "chunking": "paragraph:240",
+              "char_start": 2083
+            },
+            "score": 0.2189472938982603,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d | data\\raw\\american_history_1917.pdf | page 117]\n great.\n\n[c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32 | data\\raw\\american_history_1917.pdf | page 157]\nA revival of religion, known as the “great awakening,”\nthat had a profound influence, began in New England,\nin 1734, and lasted ten years. In this movement, whieh\naffected all the colonies, Jonathan Edwards and George\nWhitefield were the\n\n[52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720 | data\\raw\\american_history_1917.pdf | page 80]\n+ This was the idea of the men who planned and guided the colony.\nThe great mass of emigrants in following these leaders were moved by\nan intelligent purpose to better their economic condition.",
+        "context_ids": [
+          "1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d",
+          "c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32",
+          "52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Jonathan Edwards George Whitefield Great Awakening leaders",
+        "filter": null,
+        "results": [
+          {
+            "id": "c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 157,
+            "text": "A revival of religion, known as the “great awakening,”\nthat had a profound influence, began in New England,\nin 1734, and lasted ten years. In this movement, whieh\naffected all the colonies, Jonathan Edwards and George\nWhitefield were the",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 397,
+              "chunking": "paragraph:240",
+              "char_start": 160
+            },
+            "score": 0.5105805495872675,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 117,
+            "text": " great.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1361,
+              "chunking": "paragraph:240",
+              "char_start": 1354
+            },
+            "score": 0.2328362561911995,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "24ee9cd1cd426193b3f1c38539e4eb137fda7df50a335f4d3efeea660674c916",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 139,
+            "text": "Theinhabi-\ntants of\nthe posts\n\nKing\nGeorge’s\nWar, 1744+\n1748,",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 2152,
+              "chunking": "paragraph:240",
+              "char_start": 2091
+            },
+            "score": 0.11469449048240123,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d | data\\raw\\american_history_1917.pdf | page 117]\n great.\n\n[c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32 | data\\raw\\american_history_1917.pdf | page 157]\nA revival of religion, known as the “great awakening,”\nthat had a profound influence, began in New England,\nin 1734, and lasted ten years. In this movement, whieh\naffected all the colonies, Jonathan Edwards and George\nWhitefield were the\n\n[52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720 | data\\raw\\american_history_1917.pdf | page 80]\n+ This was the idea of the men who planned and guided the colony.\nThe great mass of emigrants in following these leaders were moved by\nan intelligent purpose to better their economic condition.",
+        "context_ids": [
+          "1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d",
+          "c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32",
+          "52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "H20",
+    "question": "According to the book, who were leaders of the Great Awakening?",
+    "elapsed_seconds": 20.73740720000933,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 33,
+        "total_tokens": 201,
+        "cost": 1.17e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.17e-05,
+          "upstream_inference_prompt_cost": 8.4e-06,
+          "upstream_inference_completions_cost": 3.3e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 586,
+        "completion_tokens": 226,
+        "total_tokens": 812,
+        "cost": 0.000130768,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000130768,
+          "upstream_inference_prompt_cost": 1.7768e-05,
+          "upstream_inference_completions_cost": 0.000113
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 208,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 597,
+        "completion_tokens": 161,
+        "total_tokens": 758,
+        "cost": 0.00021694,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00021694,
+          "upstream_inference_prompt_cost": 0.00010746,
+          "upstream_inference_completions_cost": 0.00010948
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 142,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown influenza pandemic 1918",
+        "filter": null,
+        "results": [
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.27067079629105223,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.24136163228120458,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b3a3ca095eef52b117f97f2fe01daa8c0e1a2890d728b75341dfd6da6a2da82a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " Newfoundland is directly west of\nnorthern France and southern England, and Jamestown in Virginia\ncorresponds in latitude to northern Africa. Hence the expectation that\nVirginia should produce semi-tropical products",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1753,
+              "chunking": "paragraph:240",
+              "char_start": 1538
+            },
+            "score": 0.2021470347138938,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+        "context_ids": [
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "DU01",
+    "question": "According to this 1917 book, how did the 1918 influenza pandemic affect Jamestown?",
+    "elapsed_seconds": 25.44944259998738,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 174,
+        "completion_tokens": 71,
+        "total_tokens": 245,
+        "cost": 8.244e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.244e-05,
+          "upstream_inference_prompt_cost": 3.132e-05,
+          "upstream_inference_completions_cost": 5.112e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 51,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 467,
+        "completion_tokens": 454,
+        "total_tokens": 921,
+        "cost": 0.0006849,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0006849,
+          "upstream_inference_prompt_cost": 0.0001401,
+          "upstream_inference_completions_cost": 0.0005448
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 434,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book World War II 1939 affect Virginia",
+        "filter": null,
+        "results": [
+          {
+            "id": "5d6c068d4291ca032d275e8f8a6809a227125255bda2a2a9d79993f42fb78737",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 106,
+            "text": "Penn’s influence at the court of Charles II, and his\nfriendship with James II had important consequences.\nWhen Charles II began the process of nullifying charters\n(see post, p. $9), that of Pennsylvania was not touched.\nWhen James II",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1916,
+              "chunking": "paragraph:240",
+              "char_start": 1683
+            },
+            "score": 0.26251052286858007,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a9c283bf3a13c3151503693d492f85c564fff4873d14ecab11b0bf43e6f3e8cc",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 63,
+            "text": "Virginia and Maryland 39\n\nAmerican companies that the first permanent English\ncolony grew upon the soil of the New World.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 121,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.21397712891155124,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "8bc28a05f3521a913145e32672284e1f36d69bd6c90782e791f1fe6172c415e2",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 127,
+            "text": "10. Education in the Colonies. Lodge, English Colonies,\n464-466. Hart, Contemporaries, II, No. 95. Fiske, Old Vir-\nginia, II, 116-119; 123-129; 245-254.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1575,
+              "chunking": "paragraph:240",
+              "char_start": 1423
+            },
+            "score": 0.15889171737224464,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[5d6c068d4291ca032d275e8f8a6809a227125255bda2a2a9d79993f42fb78737 | data\\raw\\american_history_1917.pdf | page 106]\nPenn’s influence at the court of Charles II, and his\nfriendship with James II had important consequences.\nWhen Charles II began the process of nullifying charters\n(see post, p. $9), that of Pennsylvania was not touched.\nWhen James II\n\n[a9c283bf3a13c3151503693d492f85c564fff4873d14ecab11b0bf43e6f3e8cc | data\\raw\\american_history_1917.pdf | page 63]\nVirginia and Maryland 39\n\nAmerican companies that the first permanent English\ncolony grew upon the soil of the New World.",
+        "context_ids": [
+          "5d6c068d4291ca032d275e8f8a6809a227125255bda2a2a9d79993f42fb78737",
+          "a9c283bf3a13c3151503693d492f85c564fff4873d14ecab11b0bf43e6f3e8cc"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "query_id": "DU02",
+    "question": "According to this 1917 book, how did World War II in 1939 affect Virginia?",
+    "elapsed_seconds": 26.947000300016953,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 174,
+        "completion_tokens": 54,
+        "total_tokens": 228,
+        "cost": 3.0868e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.0868e-05,
+          "upstream_inference_prompt_cost": 3.868e-06,
+          "upstream_inference_completions_cost": 2.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 34,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 480,
+        "completion_tokens": 364,
+        "total_tokens": 844,
+        "cost": 0.000484,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000484,
+          "upstream_inference_prompt_cost": 0.00012,
+          "upstream_inference_completions_cost": 0.000364
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 345,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

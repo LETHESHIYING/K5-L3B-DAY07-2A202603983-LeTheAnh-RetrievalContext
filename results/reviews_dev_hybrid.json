@@ -1,0 +1,154 @@
+[
+  {
+    "query_id": "H01",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (The East India Company.); citation: 0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (120 men.); citation: cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (1612.); citation: dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (1619.); citation: b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H05",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (Two.); citation: 7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H07",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Từ chối câu có đáp án (Fifty acres at the end of the term of service.); sự kiện kết thúc: search_limit.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H08",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 0,
+    "reason": "Câu trả lời Plymouth ở Anh khác gold Holland; câu hỏi có thể mơ hồ về thời điểm, cần người học xem lại.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H10",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Từ chối câu có đáp án (Elected selectmen.); sự kiện kết thúc: search_limit.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H11",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (The Fundamental Orders.); citation: d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H13",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (To the site of Albany.); citation: 4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H14",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (English or colonial ships.); citation: aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H15",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (From about 245,000 to 1,600,000.); citation: dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H16",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Từ chối câu có đáp án (John Smith.); sự kiện kết thúc: search_limit.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H18",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (An elective assembly with power to tax the colony.); citation: e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H19",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (Benjamin Franklin.); citation: a69881cdc48e89d3dd00de53f6c3a4f5361f148cd4349a328aded1712d43ed48.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "H20",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 0,
+    "reason": "Chunk citation bị cắt sau tên và chưa thể hiện đầy đủ vai trò của hai người.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "DU01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Câu hỏi về sự kiện sau năm xuất bản 1917; đầu ra hệ thống là abstain. Sự kiện kết thúc: invalid_or_missing_citations; không suy ra model đã chủ động từ chối.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "DU02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Câu hỏi về sự kiện sau năm xuất bản 1917; đầu ra hệ thống là abstain. Sự kiện kết thúc: invalid_or_missing_citations; không suy ra model đã chủ động từ chối.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  }
+]

@@ -1,0 +1,325 @@
+{
+  "question": "In the NASA FMFIA annual statement of assurance process diagram, which body appears directly below the Administrator?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "3997e0b4df607a780edb03b2e10068646acab52a97dfd30b1353f47da6668f24",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " Council (MSC), the organization        CONTROLS OVER PROGRAMS, OPERATIONS,\nresponsible for oversight of NASA’s Internal Control Program,           FINANCIAL REPORTING & SYSTEMS\nadvises the Administrator on the Statement of Assurance. The\nSenior Assessment Team (SAT), which supports the MSC,                        FIGURE 1\nprovides oversight for the internal control evaluation and       NASA FMFIA Annual Statement of\nreporting process that recommends the type of assurance                Assurance Process\nresulting from execution of the SoA Program.\n\nThe Management System Working Group (MSWG)",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2977,
+            "pdf_page": 38,
+            "char_start": 2379,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.636673092842102
+        },
+        {
+          "chunk_id": "d211e43078e3789a219009735b5b7e54a79cb7a3b068421e6974ffce1862df8b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\n\nNASA Federal Managers' Financial Integrity Act Annual Statement of Assurance Process\n(CONTINUED)\n\ninternal controls over operations, management systems, and reporting with consideration of reviews and other relevant\nsources of information. NASA’s executive leadership provides annual reporting and certifications on the effectiveness of\ninternal controls that are implemented to meet intended objectives.\n\nIn addition, the NASA Office of the Chief Financial Officer (OCFO) implements an extensive annual",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 595,
+            "pdf_page": 38,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6191812753677368
+        },
+        {
+          "chunk_id": "1732e932a99c4f8da7167ec758306b548d18ef256ff7903fcad9b52f9be81883",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " assessment\nmethodology and internal control testing techniques that evaluate internal controls over financial reporting.\n\nIn its execution of the Administrator’s Statement of Assurance                ADMINISTRATOR\n(SoA) Process, NASA considers Enterprise Risk Management\n(ERM) Program activities, including reviews of the Agency\nRisk and Fraud Risk Profiles, to inform the evaluation of and\nprovide assurance over internal controls.                                    SUPPORTMISSION\n                                                                       COUNCIL\nThe FMFIA assurance statement is",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 38,
+            "char_start": 595,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5907125120930377
+        },
+        {
+          "chunk_id": "c14a1162547112f30020c1a6285c8506a9d3d4ed2976304750f36c78dc32d8d0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "   OF SYSTEMS, CONTROLS, AND         35     Message from the Administrator: Spanish Version  117\n  Internal Control Framework                 36     Message from the Chief Financial Officer:                                                                                               119                                                        Spanish Version\n  Enterprise Risk Management                 38\n                                                           Celebrating NASA 10+ Years of Excellence       120  Management Assurances                  40\n                                      ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4175,
+            "pdf_page": 3,
+            "char_start": 3576,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5671637058258057
+        },
+        {
+          "chunk_id": "c10ef5bf752c04454706ad550e0d27d0fc3e5de0fb24b74a2440f9fd6ad4167d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 98,
+          "text": " https://oig.nasa.gov/office-of-inspector-general-oig/2024-report-on-nasas-top-\n                      management-and-performance-challenges/.\n\n\n\n\n                    George A. Scott\n                    Deputy Inspector General\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                    9797",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4497,
+            "pdf_page": 98,
+            "char_start": 4169,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5584162140836598
+        },
+        {
+          "chunk_id": "87d2c3097646a0eff84a428b0dd3f54014a30977ca388b1328415d904e060565",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 41,
+          "text": " regulations, and\n    policies; the Federal Managers’ Financial Integrity Act (FMFIA); Federal Financial Management Improvement\n   Act (FFMIA); the Office of Management and Budget’s (OMB) Circular A-123, Management’s Responsibility\n    for Enterprise Risk Management and Internal Control; the United States (U.S.) Government Accountability\n    Office’s Standards for Internal Controls in the Federal Government, and NASA policies. Based on the results of\n   the assessment, NASA can provide reasonable assurance that internal control over operations, reporting, and\n   compliance were operating",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1193,
+            "pdf_page": 41,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5567686821956238
+        },
+        {
+          "chunk_id": "c63085cf632b30113232fc3dc631878ba472fb49af6ec173a180a1df466e9205",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 100,
+          "text": "                Management Officer position established within the Office of Safety and Mission Assurance.\n\n                     With regard to the OIG’s statement that NASA has not provided stakeholders with complete,\n                            credible, or timely cost and schedule commitments for major projects, NASA’s governance\n                      and policy documentation requires Mission Directorates to set a baseline commitment prior\n                           to receiving leadership approval for formal entrance into the Implementation phase. The\n                     Agency has",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3579,
+            "pdf_page": 100,
+            "char_start": 2986,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5477033257484436
+        },
+        {
+          "chunk_id": "b68aa6a8e4bf838b0f35254bafd8459b8687cec6d8788df9f34fb8dd76989003",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " performs the first level evaluation of annual results and serves as\nthe primary advisory body for NASA's internal control activities. The MSWG analyzes the annual assessment results and\nreports issues that may significantly impact the effective operation of internal controls and makes recommendations on\nthe design of internal controls to the SAT. Figure 1 depicts the Agency’s Annual SoA process and organizational\ncomponents.\n\n Did You Know?\n\n                         For Your Processing Pleasure: The Sharpest Pictures of Jupiter’s Volcanic Moon Io in a Generation\n                       ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3570,
+            "pdf_page": 38,
+            "char_start": 2977,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5473400354385376
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "324e2d91841173d57ec4b0bc0e95e0fd6a56e2d49100627798f59a9bfba61058",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": "{\"type\": \"diagram\", \"location\": \"Right side of page, below the body text and above the footer\", \"description\": \"Green pyramid-style process diagram with an upward arrow pointing to 'ADMINISTRATOR.' The pyramid tiers list organizational/process levels from bottom to top. Caption below reads 'FIGURE 1 NASA FMFIA Annual Statement of Assurance Process.'\", \"visible_values\": [\"ADMINISTRATOR\", \"MISSION SUPPORT COUNCIL\", \"SENIOR ASSESSMENT TEAM\", \"MANAGEMENT SYSTEM WORKING GROUP\", \"NASA OFFICIALS-IN-CHARGE/ CENTER DIRECTORS/ CFO ASSURANCE STATEMENTS\", ",
+          "metadata": {
+            "item": 1,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "Right side of page, below the body text and above the footer",
+            "pdf_page": 38,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.74974448980424
+        },
+        {
+          "chunk_id": "7e10fa2fd38e69d206b92a5088a981b720bf492e0bfecb964f38dd9c4e893fa1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": "\"ANNUAL ASSESSMENT OF INTERNAL CONTROLS OVER PROGRAMS, OPERATIONS, FINANCIAL REPORTING & SYSTEMS\", \"FIGURE 1\", \"NASA FMFIA Annual Statement of Assurance Process\"]}",
+          "metadata": {
+            "item": 1,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Right side of page, below the body text and above the footer",
+            "pdf_page": 38,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7272401452064514
+        },
+        {
+          "chunk_id": "846afdc744b415eaa6bdf5e8f4ade2d132f6fb74262e9c15521bd919db6f3fdb",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 38 (visible footer says 37) is a report page titled 'NASA Federal Managers’ Financial Integrity Act Annual Statement of Assurance Process (CONTINUED).' It contains body text, a green pyramid diagram labeled Figure 1 showing the NASA FMFIA Annual Statement of Assurance Process hierarchy, and a 'Did You Know?' sidebar with an informative photo of Jupiter's moon Io, a caption, a 'LEARN MORE' link, and a QR code. No charts, tables, or maps are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 38,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.629397988319397
+        },
+        {
+          "chunk_id": "0d7069c9a5046765f95bfcc318ecb6796f4a43f37ec7ecc47d6ac714a083e378",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": "{\"type\": \"diagram\", \"location\": \"center of page, below introductory paragraph\", \"description\": \"Organizational structure flowchart for NASA, with a central Administrator/Deputy Administrator/Associate Administrator box, connected offices, mission directorates, mission support offices, and field centers. Dotted lines indicate independent advisory or oversight organizations.\", \"visible_values\": [\"Administrator\", \"Deputy Administrator\", \"Associate Administrator\", \"Advisory Groups—NAC & ASAP\", \"Inspector General\", \"Chief Financial Officer\", \"Chief ",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "center of page, below introductory paragraph",
+            "pdf_page": 11,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6061573624610901
+        },
+        {
+          "chunk_id": "ba479d86ea99c560786b72f6e6767728134c5deacb0ed7321dfae633523d89fa",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from NASA's FY 2024 Agency Financial Report, Management's Discussion and Analysis section, titled 'Enterprise Risk Management (CONTINUED).' The page contains several paragraphs of text and one central informational diagram, Figure 3, titled 'ERM Sources.' The diagram is a Venn-like/overlapping oval graphic showing NASA's enterprise risk management sources and related oversight/reporting bodies. No charts, tables, maps, or photographs are present. Footer shows FY 2024 Agency",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 40,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6044796705245972
+        },
+        {
+          "chunk_id": "19ac2f75a515a607ea5e75e1a5142c108198def8d3ad0257a15e218bb15a9452",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 39 of the FY 2024 NASA Agency Financial Report, in the Enterprise Risk Management section. It contains three explanatory text paragraphs and Figure 2, a diagram titled \\\"NASA's UNICORN,\\\" showing ERM governance councils, decision/risk flows, risk categories, supporting organizations, and control/fraud-risk management boxes. A legend and footer are also visible. No charts, tables, maps, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5764216184616089
+        },
+        {
+          "chunk_id": "c8c9cc0e4d193c4be5bb3147399c810de7236f1df07b4cd1d57181fc4ced3f8c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": "{\"type\": \"legend\", \"location\": \"lower left/center of diagram area\", \"description\": \"Legend box explaining the JPL footnote and the meaning of dotted lines in the organizational chart.\", \"visible_values\": [\"**JET PROPULSION LABORATORY (JPL)\", \"Federally Funded Research and Development Center (FFRDC)\", \"California Institute of Technology (Caltech)\", \"NASA Office of JPL Management and Oversight\", \"Dotted lines indicate independent advisory or oversight organizations\", \"NASA Advisory Council (NAC) | Aerospace Safety Advisory Panel (ASAP)\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower left/center of diagram area",
+            "pdf_page": 11,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.553866982460022
+        },
+        {
+          "chunk_id": "e5df9d50eb55465d9694b597c66bd8cbf1b128d2cf27d93fed1d04e59694c7c2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " Financial Report, NASA.gov, page number 39, and NASA logo.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "whole page",
+            "pdf_page": 40,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5478579132472234
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 38
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 3
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 11
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 98
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 40
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 41
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8366,
+    "completion_tokens": 308,
+    "total_tokens": 8674,
+    "cost": 0.0014089,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0014089,
+      "upstream_inference_prompt_cost": 0.0012549,
+      "upstream_inference_completions_cost": 0.000154
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 245,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"Mission Support Council (MSC).\",\"citations\":[{\"page\":38,\"region\":\"Figure 1, NASA FMFIA Annual Statement of Assurance Process diagram, right side of page; the tier directly below ADMINISTRATOR is labeled MISSION SUPPORT COUNCIL\"}]}",
+  "answer": {
+    "answer": "Mission Support Council (MSC).",
+    "citations": [
+      {
+        "page": 38,
+        "region": "Figure 1, NASA FMFIA Annual Statement of Assurance Process diagram, right side of page; the tier directly below ADMINISTRATOR is labeled MISSION SUPPORT COUNCIL"
+      }
+    ]
+  },
+  "elapsed_seconds": 91.38557419998688
+}

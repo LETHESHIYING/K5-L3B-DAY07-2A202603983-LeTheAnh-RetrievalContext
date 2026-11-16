@@ -1,0 +1,329 @@
+{
+  "question": "According to this FY 2024 report, what were NASA's final FY 2031 total unexpended appropriations?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "c15fcd7965e1b663190ad99430c0ceaf12e58479073adbc546a59619b04e6372",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 31,
+          "text": " increased by $424 million, two percent higher than FY 2023. Unexpended Appropriations, at $13 billion,\ndecreased by $176 million or one percent from FY 2023. Cumulative Results of Operations, at $6.7 billion, increased by\n$600 million or 10 percent from FY 2023.\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                  3030",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4533,
+            "pdf_page": 31,
+            "char_start": 4173,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7704925810703539
+        },
+        {
+          "chunk_id": "045bd34a5053d06dc471c91d5872af02a14602a5706407e0ea1c82e6a8ac4ff5",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " three percent,\ncompared to FY 2023.\n\nThe $24.9 billion in appropriations from Congress for FY 2024 accounted for 83 percent of the total funds available for\nuse by the Agency. Congress designates the funding available to the Agency for a specific NASA mission. Appropriations\nthat remained available from prior years totaled $3.3 billion, 11 percent of NASA’s available resources in FY 2024.\n\nNASA’s FY 2024 funding also included $1.8 billion spending authority from offsetting collections, primarily comprised\nof revenue earned and collected from agreements, representing six percent of NASA’s",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1194,
+            "pdf_page": 34,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7693063891760838
+        },
+        {
+          "chunk_id": "eaa92860a40e036e4cba5ac38739004628d25817e4eba3f8ab387f7d9e265315",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 55,
+          "text": " allow certain\npresentations and disclosures to be modified, if needed, to prevent disclosure of classified information. In FY 2020,\nNASA implemented the requirements of paragraphs 2, 9, and 10 of SFFAS 57, Omnibus Amendments. The requirements\nset forth in paragraphs 3-8, 11 and 12 of the standard are effective in FY 2024.\n\nBudgets and Budgetary Accounting\nNASA complies with Federal budgetary accounting guidelines of OMB Circular A-11, Preparation, Submission and\nExecution of the Budget, Revised (July 2024). Congress funds NASA’s operations through nine main appropriations:\nScience;",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2376,
+            "pdf_page": 55,
+            "char_start": 1787,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7316468081895342
+        },
+        {
+          "chunk_id": "40a35a1fc7bbfa1b01ad7dc13482a61c3e1c4266209d93ccc643025e82f8559d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  FINANCIAL PERFORMANCE\nSources of Funding\n\nThe Statement of Budgetary Resources provides information on the budgetary funding available to NASA. NASA’s\nresources consist primarily of funds received from two sources:\n\n\n               Appropriations from Congress for the current fiscal year and unobligated balances\n              from prior fiscal years.\n              Revenue from agreements with other governmental organizations or private entities. $\n\nIn FY 2024, the total funds available for use by the Agency was $30 billion — a decrease of $872 million or",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 34,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7299797421730039
+        },
+        {
+          "chunk_id": "73027f329dec8bf0d8f3c4f2efa8f26b9aaef10120e7baf25cad113ba8da5648",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 79,
+          "text": " $ 8   $ 25,015\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7878",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6112,
+            "pdf_page": 79,
+            "char_start": 5990,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7078535134879653
+        },
+        {
+          "chunk_id": "8b41a68098961caefe0d155f3c2087b96a5d3ce78a32a630d49afe1c8db9d3a3",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": "                        $ 192       $ 24,823   $ 25,015\n Budgetary Agency Outlays, net                                                              $ 25,015\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7070",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4453,
+            "pdf_page": 71,
+            "char_start": 4190,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7076226647125099
+        },
+        {
+          "chunk_id": "bae7ee4aafcaf4fa054686505ad2cea88d49869b29743ca62afe565660c04461",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " available resources in FY\n2024. Revenue is earned under NASA’s authority to provide goods, services, or use of facilities to other entities on a\nreimbursable basis.\n\nIn FY 2024, NASA obligated $27 billion of the $30 billion available for Agency programmatic and institutional\nobjectives. An obligation binds the Government to make an expenditure (or outlay) of funds and reflects a reservation of\nbudget authority that will be used to pay for a contract, labor, or other items. The remaining $3 billion may be obligated\nuntil the funds’ periods of availability expire.\n\n         Sources of Funding",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1792,
+            "pdf_page": 34,
+            "char_start": 1194,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.706307607513214
+        },
+        {
+          "chunk_id": "25a588033fd71896e80e9275f3e9943ebf160ed2cef67fd4201e3586a812787f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 77,
+          "text": " otherwise\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7676",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6679,
+            "pdf_page": 77,
+            "char_start": 6563,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7030617771707919
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6981413544332187
+        },
+        {
+          "chunk_id": "a8ad3a175056266a886cb4abcfaf01661deda8d1054eac866aa64b2b95c1cd7a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "rrent with the FY 2026 President's Budget Request and can be found at nasa.gov/performance.\", \"FY 2024 AGENCY FINANCIAL REPORT NASA.GOV\", \"20\", \"NASA (logo)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Bottom of the page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6910249775037195
+        },
+        {
+          "chunk_id": "5503d75eeedbb1ff78e497d6d24f3f9f03729c1252e07657f16cd93efd92d32b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 80,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the NASA FY 2024 Agency Financial Report, Financial Section, Required Supplementary Information. It contains a title and two combining statements tables of budgetary resources for the fiscal year ended September 30, 2023, reported in millions by mission/office categories. No charts, maps, diagrams, informative photos, or captions are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 80,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6384703351890642
+        },
+        {
+          "chunk_id": "cbe75d2639124ae7b7aa7913ea991e06b5a04691431f5bd7dd903bba69f9da70",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 64 (footer shows 63) of the FY 2024 NASA Agency Financial Report contains two financial-statement note sections and one financial table. Note 7 describes Other Assets, including $697 million of lesser lease receivables as of September 30, 2024, and states the estimated uncollectible amount is zero. Note 8 describes Liabilities Not Covered by Budgetary Resources and cites discount rates of 2.65 percent for FY 2024 and 2.33 percent for FY 2023. A table in millions compares 20",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6317809443604394
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6062359448530718
+        },
+        {
+          "chunk_id": "fa735a16a3f4bb5a447087db133fba7ac2d387ea5abbd2b0c3312979339d07e7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 53,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page is a comparative financial table for NASA's Combined Statements of Budgetary Resources for FY 2024 and 2023, showing budgetary resources, status of budgetary resources, and net outlays in millions. No charts, maps, diagrams, or informative photographs are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 53,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5990427732467694
+        },
+        {
+          "chunk_id": "cbc74c64d9f753eef6ae961668610f81f3f16093753e813720bb8d24d37f5154",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 52,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 52 (visible footer says 51) contains a NASA FY 2024 consolidated financial statement table titled 'Consolidated Statements of Changes in Net Position' for fiscal years ended September 30, 2024 and 2023, in millions. It presents unexpended appropriations, cumulative results from operations, and net position in two columns. No charts, maps, diagrams, or informative photos are present; the only graphic is a decorative NASA logo.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 52,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5928924922411158
+        },
+        {
+          "chunk_id": "6f31a904194aa0b5a3cd4358632d09821df3c2b2ca61c7b6cdc462b63e8d2e6d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 34 (footer shows 33) of the NASA FY 2024 Agency Financial Report, Management's Discussion and Analysis / Financial Performance, titled 'Sources of Funding.' It explains NASA funding sources and includes a green callout box plus two charts: a stacked bar chart comparing FY 2024 and FY 2023 funding sources and a donut chart breaking down FY 2024 total funding. No tables, maps, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 34,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5885485235289203
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 31
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 34
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 55
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 80
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8362,
+    "completion_tokens": 657,
+    "total_tokens": 9019,
+    "cost": 0.000949536,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000949536,
+      "upstream_inference_prompt_cost": 0.0007224768,
+      "upstream_inference_completions_cost": 0.0002270592
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 494,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"Abstain: the supplied original report pages do not provide NASA's final FY 2031 total unexpended appropriations. The only unexpended appropriations figure shown is for FY 2024 ($13 billion), with an FY 2023 comparison, and the combining budgetary resources statement shown is for fiscal year ended September 30, 2023.\",\"citations\":[{\"page\":31,\"region\":\"bottom paragraph beginning 'Total Net Position comprised of Unexpended Appropriations...' (reports FY 2024 unexpended appropriations at $13 billion and FY 2023 comparison)\"},{\"page\":80,\"region\":\"top title/header 'Combining Statements of Budgetary Resources For the Fiscal Year Ended September 30, 2023'\"}]}",
+  "answer": {
+    "answer": "Abstain: the supplied original report pages do not provide NASA's final FY 2031 total unexpended appropriations. The only unexpended appropriations figure shown is for FY 2024 ($13 billion), with an FY 2023 comparison, and the combining budgetary resources statement shown is for fiscal year ended September 30, 2023.",
+    "citations": [
+      {
+        "page": 31,
+        "region": "bottom paragraph beginning 'Total Net Position comprised of Unexpended Appropriations...' (reports FY 2024 unexpended appropriations at $13 billion and FY 2023 comparison)"
+      },
+      {
+        "page": 80,
+        "region": "top title/header 'Combining Statements of Budgetary Resources For the Fiscal Year Ended September 30, 2023'"
+      }
+    ]
+  },
+  "elapsed_seconds": 30.639087299990933
+}

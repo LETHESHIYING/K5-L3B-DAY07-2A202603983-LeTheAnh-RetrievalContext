@@ -1,0 +1,10 @@
+{
+  "benchmark": "data/advanced_benchmark_v1.json",
+  "query_id": "M03",
+  "discovered": "after the frozen test was run, during source-based grading",
+  "original_gold": "$10,655 million; $13,157 million minus $697 million.",
+  "corrected_gold": "$12,460 million; $13,157 million minus $697 million.",
+  "reason": "The original answer and rationale contain an arithmetic error. Original PDF page 52 shows $13,157 million; page 69 shows total lease-receivable principal of $697 million; 13,157 - 697 = 12,460.",
+  "evaluation_effect": "The model computed 12,460 correctly, but its cited page 64 calls $697 million lessor lease receivables and does not establish that the figure is principal. The required principal column is on page 69, which was neither cited nor among the pages read. The answer is graded fail for insufficient citation support, even with the corrected gold.",
+  "integrity": "Frozen benchmark and original test traces remain unchanged. The correction does not change the reported pass/fail outcome for M03. Test results should be interpreted with this gold-quality limitation."
+}

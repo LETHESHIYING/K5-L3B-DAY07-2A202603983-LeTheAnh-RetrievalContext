@@ -1,0 +1,500 @@
+[
+  {
+    "query_id": "H01",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "answerable": true,
+    "expected_answer": "The East India Company.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 62,
+        "evidence": "and Tndia (the East India Company, 1600)."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e | data\\raw\\american_history_1917.pdf | page 62]\n East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was\n\n[4aa09b818fda0f6bfbb04ff968b0410582a7433fc1636e05797c7282df952356 | data\\raw\\american_history_1917.pdf | page 95]\nGovern-\nment by\nthe West\nIndia\nCompany.\n\nThe\nSwedes In\nDelaware,\n\nRelations\nof the\nDutch\nwith the\nEnglish.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H02",
+    "question": "According to the book, how many colonists did the London Company send to Virginia in 1607?",
+    "answerable": true,
+    "expected_answer": "120 men.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 64,
+        "evidence": "In 1607, the London Company sent to Virginia 120 men as colonists."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "120 men [cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929]",
+    "citations": [
+      "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929"
+    ],
+    "context": "[cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929 | data\\raw\\american_history_1917.pdf | page 64]\nIn 1607, the London Company sent to Virginia 120\nmen as colonists. Jamestown, where they settled, was\nsituated on a small, sandy peninsula jutting into the\nJames River from its north shore; it was, therefore,\n“low, damp, and malarious.” Add\n\n[83b6fdac8cbdc6651fbf019e4e1e36fd3dd76ce96bd361be1d515000aeb31d02 | data\\raw\\american_history_1917.pdf | page 122]\n South.\n\nTHE COLONISTS AND THE INDIANS.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H03",
+    "question": "What year did the book give for the beginning of systematic tobacco cultivation?",
+    "answerable": true,
+    "expected_answer": "1612.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 66,
+        "evidence": "systematic culti- vation of tobacco began in 1612,"
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The book states that the systematic cultivation of tobacco began in 1612. [dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885]",
+    "citations": [
+      "dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885"
+    ],
+    "context": "[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.\n\n[dff707ea53168ace727333cccba57aee087c1103573eebf5278d437300198885 | data\\raw\\american_history_1917.pdf | page 66]\n expensive to ship. ‘The systematic culti-\nvation of tobacco began in 1612, and the success of the\nventure gave the culony a sure economic basis and greatly\nencouraged its settlement.\n\n[012d85ad17b5d6e92c3db65798cd17ad21678d359f8022c5aa3c985a7a74e5ad | data\\raw\\american_history_1917.pdf | page 106]\n beginning and\nthe manufacture of inany articles was begun.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H04",
+    "question": "According to this book, in what year did a Dutch ship bring twenty Africans to Jamestown?",
+    "answerable": true,
+    "expected_answer": "1619.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 68,
+        "evidence": "The first shipload arrived in 1619, when a Dutch ship anchored at Jamestown with twenty native Africans whom the planters purchased."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "1619 [b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d]",
+    "citations": [
+      "b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d"
+    ],
+    "context": "[b5fc5ed4a6406fc56493ffb46171051c89e12e74f1264e26900ed78a87edac8d | data\\raw\\american_history_1917.pdf | page 68]\n The first shipload arrived in 1619, when\na Dutch ship anchored at Jamestown with twenty native\nAfricans whom the planters purchased. Later more slaves\nwere brought into Virginia and other colonies and the slave\ntrade became recognized as a\n\n[63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9 | data\\raw\\american_history_1917.pdf | page 67]\nThe year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H05",
+    "question": "How many burgesses did each plantation or settlement elect, according to the book?",
+    "answerable": true,
+    "expected_answer": "Two.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 69,
+        "evidence": "The latter vas composed of two burgesses elected by popular vote from each plantation or settlement (cleven in number), and met first in 1619."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "Two burgesses from each plantation or settlement (eleven in number). [7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e]",
+    "citations": [
+      "7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e"
+    ],
+    "context": "[7545efcca2bc8ec463bb4190434e39c9443383e3a53fcdb76054e0fdb1aedb8e | data\\raw\\american_history_1917.pdf | page 69]\n latter\n\nvas composed of two burgesses elected by popular vote\nfrom each plantation or settlement (cleven in number),\nand met first in 1619.\n\n[b1c86c5d25bf494bcacc000eb73bacb423a49b11f145dd771b730578deb2810c | data\\raw\\american_history_1917.pdf | page 89]\nNew England 65\n\ncolonists’ desires. The House of Burgesses assumed con-\ntrol of the colonial government, and they were now free to\nelect their own governor, without interference by English\nauthorities.\n\n[ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89 | data\\raw\\american_history_1917.pdf | page 64]\nConditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H06",
+    "question": "Where and when does the book place the first settlement in Maryland?",
+    "answerable": true,
+    "expected_answer": "St. Mary’s on Chesapeake Bay, in 1634.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 70,
+        "evidence": "The first settlement in Maryland was at St. Mary’s on Soe Chesapeake Bay in 1634."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The book places the first settlement in Maryland at St. Mary’s on Chesapeake Bay in 1634. [2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4]",
+    "citations": [
+      "2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4"
+    ],
+    "context": "[ab034e9ee300b16327f16613907c859a0b998cecc3087f82f152379c101e3f89 | data\\raw\\american_history_1917.pdf | page 64]\nConditions\nsurround-\n\ning the first\nsettlement.\n\n40 American History\n\n[2976c392bc62a6afe6603573a0b93231f67140bf2c294ecbc6a4eb3dc636d4f4 | data\\raw\\american_history_1917.pdf | page 70]\n father’s\nwork and founded Maryland,\nnamed in honor of the Queen,\nHenrietta Maria.\nPhysical The first settlement in Maryland was at St. Mary’s on\nSoe Chesapeake Bay in 1634. The physical features of Mary-\nland. land resemble closcly those\n\n[51970f102eebfa9f3808935853accd847868c47f895e24c3a08f2ae042f859fc | data\\raw\\american_history_1917.pdf | page 69]\nVirginia and Maryland 45",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H07",
+    "question": "What land entitlement does the book describe for indentured servants in Maryland after their service?",
+    "answerable": true,
+    "expected_answer": "Fifty acres at the end of the term of service.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 71,
+        "evidence": "every indentured servant (these were especially numerous in Maryland), was entitled to fifty acres at the end of his term of service."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The book states that every indentured servant was entitled to fifty acres at the end of his term of service, noting that such servants were especially numerous in Maryland [cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed].",
+    "citations": [
+      "cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed"
+    ],
+    "context": "[0af237051e3f7bffb6a0d275c550650cca77e453a13954ce77ce3fdcc03482ab | data\\raw\\american_history_1917.pdf | page 67]\n trans-\nported to America on the order of the authorities, beeoming\nindentured servants. Many of the servants were of good\n\nThe land\nsystem in\nVirginia.\n\nThe im-\nportation\nof women\nand slaves,\n\nIn-\ndentured\nservants,\n\n[cf53a86fc6e04d9a6ba1a96c23566f01381aff228480ac22b9b50ce1f1e5bfed | data\\raw\\american_history_1917.pdf | page 71]\n each containing thousar ds of acres.\nAnother law had the opposite tendency, in providing that\nevery indentured servant (these were especially numerous\nin Maryland), was entitled to fifty acres at the end of his\nterm of service. Thus many",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H08",
+    "question": "According to chapter 5, where did the Pilgrims live before sailing to Plymouth in America?",
+    "answerable": true,
+    "expected_answer": "Holland.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 74,
+        "evidence": "their flight from that country; their residence in Holland; and the voyage, first to Plymouth in England and then to the new Plymouth in America."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[d0942ee4abd21765a1475675592c12a802368ba068e20faea8280f8c177c4f7c | data\\raw\\american_history_1917.pdf | page 137]\n in America as before, and the same\ncauses for enmity.\n\n[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[2a0d5f01d8e89107bb6365a4d745e3f90384499c00d38c6f7afe93e58b076539 | data\\raw\\american_history_1917.pdf | page 74]\n Plymouth in England and then to the new Plymouth in\nAmerica. ‘The spirit of the Pilgrims appears constantly\nin the course of their history as written by William Brad-\nford, one of their leaders. He speaks, for example, of\ntheir “valewing",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H09",
+    "question": "What group does the book identify as the origin of the Pilgrims?",
+    "answerable": true,
+    "expected_answer": "The Separatists, also called Independents.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 78,
+        "evidence": "Such were the Separatists, or Indenendents, and it was from this body that the Pilgrims came."
+      }
+    ],
+    "absence_reason": null,
+    "status": "error",
+    "answer": "",
+    "citations": [],
+    "context": "",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H10",
+    "question": "Who had oversight of town affairs in the Massachusetts town system described in the book?",
+    "answerable": true,
+    "expected_answer": "Elected selectmen.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 82,
+        "evidence": "Selectmen were elecied (correspond- ing to the church wardens in England) who had general oversight of town affairs, both civil and ecclesiastical."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf | data\\raw\\american_history_1917.pdf | page 82]\n church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other\n\n[e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193 | data\\raw\\american_history_1917.pdf | page 86]\nNew\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H11",
+    "question": "Which document described Connecticut Colony’s government in 1639?",
+    "answerable": true,
+    "expected_answer": "The Fundamental Orders.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 85,
+        "evidence": "The government of Connecticut Colony was formally set forth in 1639 by the adoption of “The Fundamental Orders."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The Fundamental Orders described Connecticut Colony’s government in 1639. [d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932]",
+    "citations": [
+      "d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932"
+    ],
+    "context": "[d02c959e17b593c3e2d2f2a65af278f0164eaf07bc1bd63caeb45a184b391932 | data\\raw\\american_history_1917.pdf | page 85]\nThe government of Connecticut Colony was formally\nset forth in 1639 by the adoption of “The Fundamental\nOrders.” This document consisted of a covenant, like\nthat of the Mayflower Compact, and a series of laws for\nthe colony. Since the\n\n[96a537fc7622dd47862f60e72eb098d975c83ff66b28fe88409af268c02e03bb | data\\raw\\american_history_1917.pdf | page 86]\nOld House in Guilford, 1639\n\n[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H12",
+    "question": "In what year does the book say the New England Confederation was formed?",
+    "answerable": true,
+    "expected_answer": "1643.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 88,
+        "evidence": "these four colonies formed, in 1643, the New England Confederation."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The book says the New England Confederation was formed in 1643. [3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4]",
+    "citations": [
+      "3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4"
+    ],
+    "context": "[3cdd562d79b79f6709a067cf78eb44f5e815fb9ad92770e21c78a8c8ed58d5c4 | data\\raw\\american_history_1917.pdf | page 88]\n com-\nmon dangers these four colonies formed, in 1643, the New\nEngland Confederation. The dangers referred to were:\n(1) Indian attacks, the Narragansetts and Mohegans\nbeing particularly restless and liable to cause tro™ble.\n(2) The\n\n[873cb8e1a60cf245b56fe8567a429850f331e91c37cfc99ee87770d82dc8d4a9 | data\\raw\\american_history_1917.pdf | page 88]\n territory occupied by Connecticut was still claimed\nby the Dutch. %3) Among themselves the colonies had\nboundary disputes. The Confederation was formed for\ndefence at a time when the English Government could\nrender no assistance, and “for",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H13",
+    "question": "How far up the Hudson River did Hudson travel according to the book?",
+    "answerable": true,
+    "expected_answer": "To the site of Albany.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 93,
+        "evidence": "Hudson sailed into Delaware Bay and then into the beautiful New York Harbor and up the Hudson River as far as the site of Albany."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "According to the book, Hudson traveled up the Hudson River as far as the site of Albany. [4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9]",
+    "citations": [
+      "4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9"
+    ],
+    "context": "[4130465a107ae6ef18c74fd52d03a650ddc9efe4b130d513ed8a9b3e20f8e3f9 | data\\raw\\american_history_1917.pdf | page 93]\n and then into the beautiful New\nYork Harbor and up the Hudson River as far as the site\nof Albany. In this vicinity he remained for several weeks,\ntrading with the Indians.\n\n[c37963b2d56710071aa0c896251d88da04b0b4325770bc502795f4a63f54561c | data\\raw\\american_history_1917.pdf | page 94]\n of Hudson’s\nvoyage the most friendly relations existed between the\nDutch traders and the Iroquois Indians of the upper\nHudson and Mohawk valleys. The latter eagerly seized\nthe opportunity to acquire European blankets,- utensils,\nguns, and",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H14",
+    "question": "In chapter 7, what ships did the Navigation Act of 1651 require for goods brought to England from Asia, Africa, or America?",
+    "answerable": true,
+    "expected_answer": "English or colonial ships.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 109,
+        "evidence": "An act of Parliament, passed in 1651, required that all goods brought to England from Asia, Africa, or America, should be carried by English or colonial ships."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The Navigation Act of 1651 required that all goods brought to England from Asia, Africa, or America be carried by English or colonial ships. [aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba]",
+    "citations": [
+      "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba"
+    ],
+    "context": "[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act\n\n[7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351 | data\\raw\\american_history_1917.pdf | page 109]\n restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H15",
+    "question": "What population change for the English colonies between 1690 and 1760 does this book report?",
+    "answerable": true,
+    "expected_answer": "From about 245,000 to 1,600,000.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 152,
+        "evidence": "the years 1690 and 1760 the English colonies grew in population from about 245,000 to 1,600,000."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "Between 1690 and 1760 the English colonies grew in population from about 245,000 to 1,600,000. [dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302]",
+    "citations": [
+      "dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302"
+    ],
+    "context": "[dcd7bfeb0ae71a89967a78a5f22908024d3b431b27c1708e5db861133f4ed302 | data\\raw\\american_history_1917.pdf | page 152]\nBeTWEeEN the years 1690 and 1760 the English colonies\ngrew in population from about 245,000 to 1,600,000.\nHere, as in all new countries, where conditions of life are\neasy, the natural increase was large; and there was much\nimmigration. In\n\n[f69c78499eb55e116526dfae29c3d9e76a6b9efcd3fec088a2eb328dc16e4cdc | data\\raw\\american_history_1917.pdf | page 146]\nThe last\nFrench and\nIndian\nWar, 1755-\n1760.\n\nYears of\ndefeat for\nthe\nEnglish.\n\n122 American History\n\n[3a4d5f16307bf3f73d4e64cafd6e46a948c32a1d2dfc8ee3ad00202693d89515 | data\\raw\\american_history_1917.pdf | page 109]\nCHAPTER VII\n\nTHE COLONIES AFTER THE RESTORATION—\n1660-1690",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H16",
+    "question": "According to the book, who obtained corn for the Jamestown settlers and promoted planting it?",
+    "answerable": true,
+    "expected_answer": "John Smith.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 65,
+        "evidence": "John Smith, ‘‘the one encrgetie and capable man in these first years,” compelled the men to labor; for, he said, “he that will not worke shall not eat, unless by sicknesse he be disabled.” He skilfully obtained corn from the Indians when the settlers were starving, and he compelled the systematic planting of corn."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "John Smith obtained corn from the Indians when the settlers were starving and compelled the systematic planting of corn. [82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366]",
+    "citations": [
+      "82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366"
+    ],
+    "context": "[82e11dd747a21fcdef6f5a8b9571fcc614e36e6f659b32823e84be9d98e7c366 | data\\raw\\american_history_1917.pdf | page 65]\n skilfully obtained corn\nfrom the Indians when the settlers were starving, and he\ncompelled the systematic planting of corn. Ife maintained\nthe military strength of Jamestown by drilling the men and\nbuilding fortifications.\n\n[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H17",
+    "question": "In chapter 5, what happened to Anne Hutchinson after her theological disagreement with orthodox Puritans?",
+    "answerable": true,
+    "expected_answer": "She was sentenced to banishment.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 84,
+        "evidence": "Mrs. Anne Hutchinson differed from orthodox Puritans upon some points in theology with which the modern would does not concern itself; and although at one time she had the sympathy of the governcr of Massachusetts, Sir Henry Vane, the leading minister of Boston, John Cotton, and a large number of the Boston Puritans, yet she was con- demned to banishment."
+      }
+    ],
+    "absence_reason": null,
+    "status": "error",
+    "answer": "",
+    "citations": [],
+    "context": "",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H18",
+    "question": "What kind of assembly did the Duke of York establish in 1683, according to the book?",
+    "answerable": true,
+    "expected_answer": "An elective assembly with power to tax the colony.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 98,
+        "evidence": "in 1683, the Duke established an elective assembly with power to tax the colony."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The Duke of York established an elective assembly with power to tax the colony in 1683. [e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698]",
+    "citations": [
+      "e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698"
+    ],
+    "context": "[e9ae9edc5266212fd07e5308ccdb49a29eac2bf5b0cd34b65b24f0ebef2e8698 | data\\raw\\american_history_1917.pdf | page 98]\n this system the colonists, especially the increasing\nEnglish clement, persistently complained, and finally, in\n1683, the Duke established an elective assembly with power\nto tax the colony. In 1685, when the Duke became James\nIL of England,\n\n[1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6 | data\\raw\\american_history_1917.pdf | page 113]\nThe Duke of York became King James IT of England\nin 1685. The next year he appointed Edmund Andros\nGovernor-General of New England, who began the policy\nof consolidation by dissolving the governments of Plymouth,\nRhode Island, and",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H19",
+    "question": "In chapter 8, who drew up the plan adopted at the Albany congress?",
+    "answerable": true,
+    "expected_answer": "Benjamin Franklin.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 146,
+        "evidence": "The plan adopted was drawn up by Benjamin Franklin."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[6acb4c4bccb1a3e19526094fa2eaaa628e1f023560e0bbabc78fe5f24fcb276c | data\\raw\\american_history_1917.pdf | page 145]\nFrench\nposts on\nthe Alle.\nghany.\n\nThe\nAlbany\nCongress,\n1754.\n\n[cfe1a57da8c9efb3c39a4a955cbe406a680446cec05d7d06af8f1211f440b88a | data\\raw\\american_history_1917.pdf | page 146]\nIn 1754 the New England colonies, New York, Pennsyl-\nvania, and Maryland sent delegates to a congress at Al-\nbany. This congress renewed the alliance with the Iro-\nquois, and then discussed plans for a union of the colonies\nthat would",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "H20",
+    "question": "According to the book, who were leaders of the Great Awakening?",
+    "answerable": true,
+    "expected_answer": "Jonathan Edwards and George Whitefield.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 157,
+        "evidence": "Jonathan Edwards and George Whitefield were the leaders."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[1d6d5d61cf347c84ee3aba450c8862de1d32befabe76e0be6549d49f7605e28d | data\\raw\\american_history_1917.pdf | page 117]\n great.\n\n[c5c7d36400d05f395a747d83b6b03df7c85babf76074663f4fd37be6584c0e32 | data\\raw\\american_history_1917.pdf | page 157]\nA revival of religion, known as the “great awakening,”\nthat had a profound influence, began in New England,\nin 1734, and lasted ten years. In this movement, whieh\naffected all the colonies, Jonathan Edwards and George\nWhitefield were the\n\n[52d0ef0177e666931cefc3acfdcbb17fd2caf7fe990d7b9c791ba9733f00f720 | data\\raw\\american_history_1917.pdf | page 80]\n+ This was the idea of the men who planned and guided the colony.\nThe great mass of emigrants in following these leaders were moved by\nan intelligent purpose to better their economic condition.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "DU01",
+    "question": "According to this 1917 book, how did the 1918 influenza pandemic affect Jamestown?",
+    "answerable": false,
+    "expected_answer": null,
+    "gold": null,
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 1918. Literal corpus checks for 1918 and influenza returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "DU02",
+    "question": "According to this 1917 book, how did World War II in 1939 affect Virginia?",
+    "answerable": false,
+    "expected_answer": null,
+    "gold": null,
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 1939. Literal corpus checks for 1939 and world war ii returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[5d6c068d4291ca032d275e8f8a6809a227125255bda2a2a9d79993f42fb78737 | data\\raw\\american_history_1917.pdf | page 106]\nPenn’s influence at the court of Charles II, and his\nfriendship with James II had important consequences.\nWhen Charles II began the process of nullifying charters\n(see post, p. $9), that of Pennsylvania was not touched.\nWhen James II\n\n[a9c283bf3a13c3151503693d492f85c564fff4873d14ecab11b0bf43e6f3e8cc | data\\raw\\american_history_1917.pdf | page 63]\nVirginia and Maryland 39\n\nAmerican companies that the first permanent English\ncolony grew upon the soil of the New World.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  }
+]

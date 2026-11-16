@@ -1,0 +1,57 @@
+{
+  "purpose": "practice, not benchmark",
+  "query": "What was the purpose of the Virginia Company?",
+  "method": "dense",
+  "strategy": "history_B",
+  "top_k": 3,
+  "filters": {},
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "dimensions": 384,
+  "elapsed_seconds_query_and_search": 0.1622172000061255,
+  "export_matches_database": true,
+  "results": [
+    {
+      "chunk_id": "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f",
+      "document_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 69,
+      "text": "Prosperity\nin Virginia",
+      "metadata": {
+        "chapter": 4,
+        "char_end": 2054,
+        "chunking": "paragraph:240",
+        "char_start": 2032
+      },
+      "score": 0.7036216855049133
+    },
+    {
+      "chunk_id": "1835bde29d2b116e6a63232d675178c7a38e39e97c423fe3ee9de7e55bcb55fc",
+      "document_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 62,
+      "text": "The Lon- Under the charter of 1606 two great companies were\nponend formed whose purpose was “to make Habitation, Planta-\ncompanies tion, and to deduce a colony of sundry of our people into\n26 1608- that part of America called Virginia, and",
+      "metadata": {
+        "chapter": 4,
+        "char_end": 1118,
+        "chunking": "paragraph:240",
+        "char_start": 879
+      },
+      "score": 0.6539864735003258
+    },
+    {
+      "chunk_id": "b0d1cef49390fb53d54d8c85d8c47ae07377a98e8d00624cc0ce8c964062e40d",
+      "document_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 144,
+      "text": "In 1748, a body of prominent Virginians organized the\nOhio Company and the next year obtained a grant of land\nwest of the mountains in Virginia. Their purpose was to\nengage in the fur trade and to colonize the lands. Their\npost at Will’s",
+      "metadata": {
+        "chapter": 8,
+        "char_end": 1230,
+        "chunking": "paragraph:240",
+        "char_start": 993
+      },
+      "score": 0.6509290933609009
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "query_id": "V2T01",
+  "status": "answered",
+  "answer_grade": 2,
+  "citation_support": [true],
+  "context_grade": 2,
+  "reason": "Lượt chạy lại ghi riêng: context và citation trang 77 nêu deputies và năm 1639; đã đối chiếu scan. Kết quả này không thay thế lần test đầu tiên bị timeout.",
+  "trace": "results/agent_test_v2_dense_retry_V2T01.json"
+}

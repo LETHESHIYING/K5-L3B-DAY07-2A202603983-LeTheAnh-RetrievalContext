@@ -1,0 +1,162 @@
+[
+  {
+    "query_id": "H01",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (The East India Company.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (120 men.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (1612.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (1619.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H05",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (Two.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H06",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (St. Mary’s on Chesapeake Bay, in 1634.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H07",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (Fifty acres at the end of the term of service.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H08",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H09",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H10",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H11",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (The Fundamental Orders.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H12",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H13",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (To the site of Albany.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H14",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (English or colonial ships.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H15",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (From about 245,000 to 1,600,000.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H16",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H17",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Câu có đáp án nhưng hệ thống từ chối."
+  },
+  {
+    "query_id": "H18",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (An elective assembly with power to tax the colony.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H19",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Đối chiếu gold (Benjamin Franklin.) và đoạn citation trong trace."
+  },
+  {
+    "query_id": "H20",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 0,
+    "reason": "Chunk bị cắt ngay sau hai tên, thiếu đoạn xác nhận vai trò."
+  },
+  {
+    "query_id": "DU01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Hệ thống từ chối do search limit; không khẳng định model chủ động từ chối."
+  },
+  {
+    "query_id": "DU02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Hệ thống không đưa ra khẳng định; model nói thiếu evidence."
+  }
+]

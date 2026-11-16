@@ -1,0 +1,13 @@
+{
+  "benchmark_sha256": "6879e9913f5e51c08ebaf876ff428462e3fc884ee99132baac012ad615195471",
+  "phase": "frozen_before_test",
+  "selection_reason": "AI source review of dev: configuration 1 achieved 14/18 (2 errors, 2 answerable abstentions); configuration 2 achieved 16/18 (0 errors, 1 answerable abstention, 1 incomplete answer). Selected configuration 2 before the test.",
+  "top_k": 8,
+  "max_pages": 6,
+  "text_strategy": "advanced_nasa_fy2024_text_v1",
+  "visual_strategy": "advanced_nasa_fy2024_vision_v2",
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "agent_sha256": "35e22b22468b7c2d05e64a84fb4f8a8fa4a3bc8e19b8559942b2b0aeb8ca77e0",
+  "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc",
+  "limitations": "Question evidence and dev reviews are AI-conducted, not independent human review; negatives all use future fiscal years; multi-hop questions compare different accounting quantities numerically."
+}

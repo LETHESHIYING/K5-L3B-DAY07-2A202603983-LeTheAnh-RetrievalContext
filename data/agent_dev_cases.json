@@ -1,0 +1,122 @@
+[
+  {
+    "id": "H01",
+    "split": "dev",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "answerable": true
+  },
+  {
+    "id": "H02",
+    "split": "dev",
+    "question": "According to the book, how many colonists did the London Company send to Virginia in 1607?",
+    "answerable": true
+  },
+  {
+    "id": "H03",
+    "split": "dev",
+    "question": "What year did the book give for the beginning of systematic tobacco cultivation?",
+    "answerable": true
+  },
+  {
+    "id": "H04",
+    "split": "dev",
+    "question": "According to this book, in what year did a Dutch ship bring twenty Africans to Jamestown?",
+    "answerable": true
+  },
+  {
+    "id": "H05",
+    "split": "dev",
+    "question": "How many burgesses did each plantation or settlement elect, according to the book?",
+    "answerable": true
+  },
+  {
+    "id": "H06",
+    "split": "dev",
+    "question": "Where and when does the book place the first settlement in Maryland?",
+    "answerable": true
+  },
+  {
+    "id": "H07",
+    "split": "dev",
+    "question": "What land entitlement does the book describe for indentured servants in Maryland after their service?",
+    "answerable": true
+  },
+  {
+    "id": "H08",
+    "split": "dev",
+    "question": "According to chapter 5, where did the Pilgrims live before sailing to Plymouth in America?",
+    "answerable": true
+  },
+  {
+    "id": "H09",
+    "split": "dev",
+    "question": "What group does the book identify as the origin of the Pilgrims?",
+    "answerable": true
+  },
+  {
+    "id": "H10",
+    "split": "dev",
+    "question": "Who had oversight of town affairs in the Massachusetts town system described in the book?",
+    "answerable": true
+  },
+  {
+    "id": "H11",
+    "split": "dev",
+    "question": "Which document described Connecticut Colony’s government in 1639?",
+    "answerable": true
+  },
+  {
+    "id": "H12",
+    "split": "dev",
+    "question": "In what year does the book say the New England Confederation was formed?",
+    "answerable": true
+  },
+  {
+    "id": "H13",
+    "split": "dev",
+    "question": "How far up the Hudson River did Hudson travel according to the book?",
+    "answerable": true
+  },
+  {
+    "id": "H14",
+    "split": "dev",
+    "question": "In chapter 7, what ships did the Navigation Act of 1651 require for goods brought to England from Asia, Africa, or America?",
+    "answerable": true
+  },
+  {
+    "id": "H15",
+    "split": "dev",
+    "question": "What population change for the English colonies between 1690 and 1760 does this book report?",
+    "answerable": true
+  },
+  {
+    "id": "H16",
+    "split": "dev",
+    "question": "According to the book, who obtained corn for the Jamestown settlers and promoted planting it?",
+    "answerable": true
+  },
+  {
+    "id": "H17",
+    "split": "dev",
+    "question": "In chapter 5, what happened to Anne Hutchinson after her theological disagreement with orthodox Puritans?",
+    "answerable": true
+  },
+  {
+    "id": "H18",
+    "split": "dev",
+    "question": "What kind of assembly did the Duke of York establish in 1683, according to the book?",
+    "answerable": true
+  },
+  {
+    "id": "H19",
+    "split": "dev",
+    "question": "In chapter 8, who drew up the plan adopted at the Albany congress?",
+    "answerable": true
+  },
+  {
+    "id": "H20",
+    "split": "dev",
+    "question": "According to the book, who were leaders of the Great Awakening?",
+    "answerable": true
+  }
+]

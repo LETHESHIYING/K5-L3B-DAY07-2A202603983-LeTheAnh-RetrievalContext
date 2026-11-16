@@ -1,0 +1,18 @@
+[
+  {
+    "id": "V2T01",
+    "split": "test",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "answerable": true,
+    "expected_answer": "1639",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 77,
+        "evidence": "each town elected (1639)"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  }
+]

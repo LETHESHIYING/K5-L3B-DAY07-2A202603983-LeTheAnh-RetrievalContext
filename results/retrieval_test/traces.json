@@ -1,0 +1,598 @@
+[
+  {
+    "query_id": "T01",
+    "config": "baseline",
+    "question": "According to the book, who succeeded the Pilgrims' first governor?",
+    "results": [
+      {
+        "id": "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 76,
+        "text": " first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 575,
+          "chunking": "paragraph:240",
+          "char_start": 341
+        },
+        "score": 0.7688248386628881
+      },
+      {
+        "id": "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 78,
+        "text": " from this body\nthat the Pilgrims came.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 1280,
+          "chunking": "paragraph:240",
+          "char_start": 1241
+        },
+        "score": 0.5807498866543143
+      },
+      {
+        "id": "873f53f986a4b43eaf7002fafe4e67d2c4cd87d81c33dc7ceff68ba8f5ead5f4",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 76,
+        "text": "try was healthful and the climate not greatly different from that\nof England, so that the Pilgrims becarne acclimated more read-\nily than those who settled in the South. Among those who died\nduring the first winter was William Carver, their",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 341,
+          "chunking": "paragraph:240",
+          "char_start": 101
+        },
+        "score": 0.523828283662447
+      }
+    ],
+    "context": "[2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7 | data\\raw\\american_history_1917.pdf | page 76]\n first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the\n\n[e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20 | data\\raw\\american_history_1917.pdf | page 78]\n from this body\nthat the Pilgrims came.",
+    "context_ids": [
+      "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+      "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 44.32809998979792
+  },
+  {
+    "query_id": "T02",
+    "config": "baseline",
+    "question": "In what year does the book say the patroon system began?",
+    "results": [
+      {
+        "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 94,
+        "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 349,
+          "chunking": "paragraph:240",
+          "char_start": 110
+        },
+        "score": 0.46967959946162796
+      },
+      {
+        "id": "d05ff5881a06acd63966afbbd5c6c581375f632502d84003db2028fa1adae330",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 158,
+        "text": " of\ncontrol of which we have seen the beginnings (p. 89), and\nwhich was destined to develop in the eighteenth century.",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 687,
+          "chunking": "paragraph:240",
+          "char_start": 569
+        },
+        "score": 0.45676668374836793
+      },
+      {
+        "id": "31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 94,
+        "text": "Settlement\nunder the\npatroons.\n\n70 American History\n\npurchased Manhattan Island and founded New Am-\nsterdam.",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 108,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.45093393910719004
+      }
+    ],
+    "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[d05ff5881a06acd63966afbbd5c6c581375f632502d84003db2028fa1adae330 | data\\raw\\american_history_1917.pdf | page 158]\n of\ncontrol of which we have seen the beginnings (p. 89), and\nwhich was destined to develop in the eighteenth century.",
+    "context_ids": [
+      "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+      "d05ff5881a06acd63966afbbd5c6c581375f632502d84003db2028fa1adae330"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 41.4079999900423
+  },
+  {
+    "query_id": "T03",
+    "config": "baseline",
+    "question": "According to the 1672 act described in the book, what were goods shipped between colonies required to do?",
+    "results": [
+      {
+        "id": "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 110,
+        "text": "to the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 283,
+          "chunking": "paragraph:240",
+          "char_start": 97
+        },
+        "score": 0.8057531714439392
+      },
+      {
+        "id": "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 109,
+        "text": " shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 759,
+          "chunking": "paragraph:240",
+          "char_start": 526
+        },
+        "score": 0.7043601870536804
+      },
+      {
+        "id": "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 109,
+        "text": " restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1235,
+          "chunking": "paragraph:240",
+          "char_start": 998
+        },
+        "score": 0.6807453632354736
+      }
+    ],
+    "context": "[a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a | data\\raw\\american_history_1917.pdf | page 110]\nto the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.\n\n[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+    "context_ids": [
+      "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+      "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 43.85250000632368
+  },
+  {
+    "query_id": "T04",
+    "config": "baseline",
+    "question": "What 1697 treaty ended the war in Europe according to the book?",
+    "results": [
+      {
+        "id": "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 137,
+        "text": " War of the Palatinate\n(1689-1697).",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 685,
+          "chunking": "paragraph:240",
+          "char_start": 650
+        },
+        "score": 0.6658676862716675
+      },
+      {
+        "id": "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 137,
+        "text": " made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 1400,
+          "chunking": "paragraph:240",
+          "char_start": 1162
+        },
+        "score": 0.6198395121193234
+      },
+      {
+        "id": "1c19825e176ea8313b77bc7b5167f97e0724d5f5a4e8296338a2abb9a28a4187",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 92,
+        "text": "Tue struggle between England and Spain in the latter\npart of the sixteenth century (see pp. 34-35), was contempo-\nraneous with Spain’s wars against her revolted Dutch pos-\nsessions. When Spain absorbed Portugal, in 1580, and\ntook possession",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 404,
+          "chunking": "paragraph:240",
+          "char_start": 164
+        },
+        "score": 0.5241035223007202
+      }
+    ],
+    "context": "[8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a | data\\raw\\american_history_1917.pdf | page 137]\n War of the Palatinate\n(1689-1697).\n\n[19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26 | data\\raw\\american_history_1917.pdf | page 137]\n made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+    "context_ids": [
+      "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+      "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26"
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 31.22460001031868
+  },
+  {
+    "query_id": "T05",
+    "config": "baseline",
+    "question": "What two products does the book say were imported from the West Indies?",
+    "results": [
+      {
+        "id": "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": " clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 774,
+          "chunking": "paragraph:240",
+          "char_start": 534
+        },
+        "score": 0.5879307389259338
+      },
+      {
+        "id": "8b9377da2ae93e9e4a5d1cc7820ac9455a17152528b9faae1298ae015b4f1640",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": "Manufactures were purchased in large quantities from\nEngland, thus throwing the balance of trade against the\ncolonists. Since the balance with the West Indies was in\ntheir favor, much French and Spanish coin, of gold and\nsilver, came thence",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1897,
+          "chunking": "paragraph:240",
+          "char_start": 1657
+        },
+        "score": 0.5877799987792969
+      },
+      {
+        "id": "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": " mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1001,
+          "chunking": "paragraph:240",
+          "char_start": 774
+        },
+        "score": 0.5648543238639832
+      }
+    ],
+    "context": "[e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce | data\\raw\\american_history_1917.pdf | page 155]\n clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports\n\n[8b9377da2ae93e9e4a5d1cc7820ac9455a17152528b9faae1298ae015b4f1640 | data\\raw\\american_history_1917.pdf | page 155]\nManufactures were purchased in large quantities from\nEngland, thus throwing the balance of trade against the\ncolonists. Since the balance with the West Indies was in\ntheir favor, much French and Spanish coin, of gold and\nsilver, came thence",
+    "context_ids": [
+      "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce",
+      "8b9377da2ae93e9e4a5d1cc7820ac9455a17152528b9faae1298ae015b4f1640"
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": false,
+    "elapsed_ms": 32.85719998530112
+  },
+  {
+    "query_id": "T01",
+    "config": "selected",
+    "question": "According to the book, who succeeded the Pilgrims' first governor?",
+    "results": [
+      {
+        "id": "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 76,
+        "text": " first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 575,
+          "chunking": "paragraph:240",
+          "char_start": 341
+        },
+        "score": 0.35785034034721813,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 78,
+        "text": " from this body\nthat the Pilgrims came.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 1280,
+          "chunking": "paragraph:240",
+          "char_start": 1241
+        },
+        "score": 0.2446661546041991,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "873f53f986a4b43eaf7002fafe4e67d2c4cd87d81c33dc7ceff68ba8f5ead5f4",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 76,
+        "text": "try was healthful and the climate not greatly different from that\nof England, so that the Pilgrims becarne acclimated more read-\nily than those who settled in the South. Among those who died\nduring the first winter was William Carver, their",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 341,
+          "chunking": "paragraph:240",
+          "char_start": 101
+        },
+        "score": 0.20535945879620482,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7 | data\\raw\\american_history_1917.pdf | page 76]\n first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the\n\n[e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20 | data\\raw\\american_history_1917.pdf | page 78]\n from this body\nthat the Pilgrims came.",
+    "context_ids": [
+      "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+      "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 4.081399994902313
+  },
+  {
+    "query_id": "T02",
+    "config": "selected",
+    "question": "In what year does the book say the patroon system began?",
+    "results": [
+      {
+        "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 94,
+        "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 349,
+          "chunking": "paragraph:240",
+          "char_start": 110
+        },
+        "score": 0.16893414589949823,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "2613fbd16a960ea160d3552775214db1d5568be27a13587d74dea1952b981da7",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 79,
+        "text": "Later in the same year, the Company voted at a meeting\nin London to remove the charter and government to their\ncolony in America. Consequently, the year 1630 saw the\n\nThe Massa-\nchusetts\nBay\nCompany\n\nThe grens\nemigra.\ntion.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 1267,
+          "chunking": "paragraph:240",
+          "char_start": 1044
+        },
+        "score": 0.15780661904161356,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 123,
+        "text": " with\nwhich the English colonization began was not made good.",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 979,
+          "chunking": "paragraph:240",
+          "char_start": 918
+        },
+        "score": 0.14894939132382828,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[2613fbd16a960ea160d3552775214db1d5568be27a13587d74dea1952b981da7 | data\\raw\\american_history_1917.pdf | page 79]\nLater in the same year, the Company voted at a meeting\nin London to remove the charter and government to their\ncolony in America. Consequently, the year 1630 saw the\n\nThe Massa-\nchusetts\nBay\nCompany\n\nThe grens\nemigra.\ntion.",
+    "context_ids": [
+      "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+      "2613fbd16a960ea160d3552775214db1d5568be27a13587d74dea1952b981da7"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 3.065699973376468
+  },
+  {
+    "query_id": "T03",
+    "config": "selected",
+    "question": "According to the 1672 act described in the book, what were goods shipped between colonies required to do?",
+    "results": [
+      {
+        "id": "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 109,
+        "text": " shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 759,
+          "chunking": "paragraph:240",
+          "char_start": 526
+        },
+        "score": 0.325812640044924,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 110,
+        "text": "to the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 283,
+          "chunking": "paragraph:240",
+          "char_start": 97
+        },
+        "score": 0.29842549328459733,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 109,
+        "text": " restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1235,
+          "chunking": "paragraph:240",
+          "char_start": 998
+        },
+        "score": 0.21308997664508614,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act\n\n[a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a | data\\raw\\american_history_1917.pdf | page 110]\nto the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+    "context_ids": [
+      "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+      "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a"
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 3.8121000106912106
+  },
+  {
+    "query_id": "T04",
+    "config": "selected",
+    "question": "What 1697 treaty ended the war in Europe according to the book?",
+    "results": [
+      {
+        "id": "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 137,
+        "text": " made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 1400,
+          "chunking": "paragraph:240",
+          "char_start": 1162
+        },
+        "score": 0.41716814351522163,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 137,
+        "text": " War of the Palatinate\n(1689-1697).",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 685,
+          "chunking": "paragraph:240",
+          "char_start": 650
+        },
+        "score": 0.33737429607959224,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 137,
+        "text": " station was retained\nby the English and named Annapolis. The surrounding\n\nEuropean\ncauses.\n\nKing\nWilliam’e\nWar, 1689\n1697.\n\nQueer\nAnne’s\nWar, 1701-\n1713,",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 2083,
+          "chunking": "paragraph:240",
+          "char_start": 1929
+        },
+        "score": 0.19228489607974386,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26 | data\\raw\\american_history_1917.pdf | page 137]\n made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits\n\n[8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a | data\\raw\\american_history_1917.pdf | page 137]\n War of the Palatinate\n(1689-1697).\n\n[ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd | data\\raw\\american_history_1917.pdf | page 137]\n station was retained\nby the English and named Annapolis. The surrounding\n\nEuropean\ncauses.\n\nKing\nWilliam’e\nWar, 1689\n1697.\n\nQueer\nAnne’s\nWar, 1701-\n1713,",
+    "context_ids": [
+      "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+      "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+      "ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 3.390500001842156
+  },
+  {
+    "query_id": "T05",
+    "config": "selected",
+    "question": "What two products does the book say were imported from the West Indies?",
+    "results": [
+      {
+        "id": "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": " mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1001,
+          "chunking": "paragraph:240",
+          "char_start": 774
+        },
+        "score": 0.26924518943850817,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": " clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 774,
+          "chunking": "paragraph:240",
+          "char_start": 534
+        },
+        "score": 0.22765185413057276,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "040248bbcad927270993d276a98b4d11d0c7346f022aba4f808fc9926de14d85",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 159,
+        "text": " to\nencourage their production. (3) The molasses act of\n1733 was intended to foster the production of sugar in\nthe British West Indies; it imposed duties so high as to\nbe prohibitive upon all sugar and molasses imported from\nthe French and",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1287,
+          "chunking": "paragraph:240",
+          "char_start": 1048
+        },
+        "score": 0.1856689617562921,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be | data\\raw\\american_history_1917.pdf | page 155]\n mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large\n\n[e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce | data\\raw\\american_history_1917.pdf | page 155]\n clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+    "context_ids": [
+      "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+      "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 3.483900014543906
+  }
+]

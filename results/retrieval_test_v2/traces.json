@@ -1,0 +1,601 @@
+[
+  {
+    "query_id": "V2T01",
+    "config": "baseline",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "results": [
+      {
+        "id": "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 77,
+        "text": " each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 766,
+          "chunking": "paragraph:240",
+          "char_start": 591
+        },
+        "score": 0.7269854545593262
+      },
+      {
+        "id": "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 85,
+        "text": " settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 856,
+          "chunking": "paragraph:240",
+          "char_start": 673
+        },
+        "score": 0.5319306533377983
+      },
+      {
+        "id": "8c4811104486f5f56f010d9813c3e1b2bab679418b6f2ec79b3d54febc34405e",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 82,
+        "text": "to the general court at Boston. The deputies sat firs. with\nthe assistants, and later alone; they then constituted the\nlower house of the colonial legislature, the assistants con-\nstituting the upper house. At the same time the",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 309,
+          "chunking": "paragraph:240",
+          "char_start": 82
+        },
+        "score": 0.46403020834742814
+      }
+    ],
+    "context": "[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.\n\n[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+    "context_ids": [
+      "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+      "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 113.2899000076577
+  },
+  {
+    "query_id": "V2T02",
+    "config": "baseline",
+    "question": "What name did the Puritans give their 1638 colony on Long Island Sound?",
+    "results": [
+      {
+        "id": "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 86,
+        "text": "In 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 460,
+          "chunking": "paragraph:240",
+          "char_start": 242
+        },
+        "score": 0.8248044952866751
+      },
+      {
+        "id": "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": "English Colonies in the Eighteenth Century 131",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 46,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.6180899739265486
+      },
+      {
+        "id": "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 159,
+        "text": "English Colonies in the Eighteenth Century 135",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 46,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.6102091488179843
+      }
+    ],
+    "context": "[1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82 | data\\raw\\american_history_1917.pdf | page 86]\nIn 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for\n\n[a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a | data\\raw\\american_history_1917.pdf | page 155]\nEnglish Colonies in the Eighteenth Century 131\n\n[f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5 | data\\raw\\american_history_1917.pdf | page 159]\nEnglish Colonies in the Eighteenth Century 135",
+    "context_ids": [
+      "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+      "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+      "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 42.447199986781925
+  },
+  {
+    "query_id": "V2T03",
+    "config": "baseline",
+    "question": "Who drafted the 1669 Fundamental Constitution for Carolina according to the book?",
+    "results": [
+      {
+        "id": "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 101,
+        "text": " founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 440,
+          "chunking": "paragraph:240",
+          "char_start": 265
+        },
+        "score": 0.6088389158248901
+      },
+      {
+        "id": "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 102,
+        "text": "The charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 355,
+          "chunking": "paragraph:240",
+          "char_start": 116
+        },
+        "score": 0.6028803227615175
+      },
+      {
+        "id": "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 102,
+        "text": "In North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 1192,
+          "chunking": "paragraph:240",
+          "char_start": 955
+        },
+        "score": 0.5898017883300781
+      }
+    ],
+    "context": "[94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f | data\\raw\\american_history_1917.pdf | page 101]\n founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical\n\n[a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156 | data\\raw\\american_history_1917.pdf | page 102]\nThe charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+    "context_ids": [
+      "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+      "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 42.17269999207929
+  },
+  {
+    "query_id": "V2T04",
+    "config": "baseline",
+    "question": "What two types of local government existed in the Middle colonies according to the book?",
+    "results": [
+      {
+        "id": "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 122,
+        "text": "Local government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1067,
+          "chunking": "paragraph:240",
+          "char_start": 832
+        },
+        "score": 0.6621540390161265
+      },
+      {
+        "id": "5b92090cf321c22af5e45fdaf39ac3428b83e7aae660d2a91279048e1ad4573e",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 111,
+        "text": "Efforts of\nthe home\ngovern-\nment to\ncontrol the\ncolonies,",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 2124,
+          "chunking": "paragraph:240",
+          "char_start": 2067
+        },
+        "score": 0.625214539455502
+      },
+      {
+        "id": "09feb992c679b660641208fc1d378e4f8c562fa9a8d0d40ce7d9b1d05a46ada1",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 112,
+        "text": "of the home government, and the extent to which the\ncolonies could govern themselves was not definitely stated\nor agreed upon.",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 264,
+          "chunking": "paragraph:240",
+          "char_start": 138
+        },
+        "score": 0.6087416047607906
+      }
+    ],
+    "context": "[4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84 | data\\raw\\american_history_1917.pdf | page 122]\nLocal government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the\n\n[5b92090cf321c22af5e45fdaf39ac3428b83e7aae660d2a91279048e1ad4573e | data\\raw\\american_history_1917.pdf | page 111]\nEfforts of\nthe home\ngovern-\nment to\ncontrol the\ncolonies,\n\n[09feb992c679b660641208fc1d378e4f8c562fa9a8d0d40ce7d9b1d05a46ada1 | data\\raw\\american_history_1917.pdf | page 112]\nof the home government, and the extent to which the\ncolonies could govern themselves was not definitely stated\nor agreed upon.",
+    "context_ids": [
+      "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+      "5b92090cf321c22af5e45fdaf39ac3428b83e7aae660d2a91279048e1ad4573e",
+      "09feb992c679b660641208fc1d378e4f8c562fa9a8d0d40ce7d9b1d05a46ada1"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 43.35630001151003
+  },
+  {
+    "query_id": "V2T05",
+    "config": "baseline",
+    "question": "What was the name of the central administrative body established in 1696 for colonial affairs?",
+    "results": [
+      {
+        "id": "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 159,
+        "text": "English Colonies in the Eighteenth Century 135",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 46,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.6213812642877942
+      },
+      {
+        "id": "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 155,
+        "text": "English Colonies in the Eighteenth Century 131",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 46,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.6138780117034955
+      },
+      {
+        "id": "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 158,
+        "text": " view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1860,
+          "chunking": "paragraph:240",
+          "char_start": 1620
+        },
+        "score": 0.5825805316817454
+      }
+    ],
+    "context": "[f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5 | data\\raw\\american_history_1917.pdf | page 159]\nEnglish Colonies in the Eighteenth Century 135\n\n[a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a | data\\raw\\american_history_1917.pdf | page 155]\nEnglish Colonies in the Eighteenth Century 131\n\n[cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3 | data\\raw\\american_history_1917.pdf | page 158]\n view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+    "context_ids": [
+      "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+      "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+      "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3"
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 36.68439999455586
+  },
+  {
+    "query_id": "V2T01",
+    "config": "selected",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "results": [
+      {
+        "id": "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 77,
+        "text": " each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 766,
+          "chunking": "paragraph:240",
+          "char_start": 591
+        },
+        "score": 0.4160864338690034,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 85,
+        "text": " settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 856,
+          "chunking": "paragraph:240",
+          "char_start": 673
+        },
+        "score": 0.2899929119511943,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "e89e42e3703a1998be061a52872e75b7c597951a6bd9e8d5e8f0298a67ebb193",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 86,
+        "text": "New\nHaven\nColony\nsettled.\n\n52 American History\n\nsentative assembly, consisting at first of four deputies from\neach town. ‘The Fundamental Orders were thus the\nframework of a republican commonwealth similar in most\nrespects to Massachusetts.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 240,
+          "chunking": "paragraph:240",
+          "char_start": 0
+        },
+        "score": 0.1974872854158449,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.\n\n[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+    "context_ids": [
+      "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+      "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 4.697600001236424
+  },
+  {
+    "query_id": "V2T02",
+    "config": "selected",
+    "question": "What name did the Puritans give their 1638 colony on Long Island Sound?",
+    "results": [
+      {
+        "id": "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 86,
+        "text": "In 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 460,
+          "chunking": "paragraph:240",
+          "char_start": 242
+        },
+        "score": 0.43973193485780504,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "374ceab1cb875c0376f7ebc6804f33d0f498fc31480ad837b1954d4a1b954d03",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 78,
+        "text": " ring in the marriage ceremony.\nIn the matter of church government, the body of Puri-\ntans did not like the official importance assigned to\nbishops, and they would give greater weight to the opinion\nof the laity.",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 527,
+          "chunking": "paragraph:240",
+          "char_start": 315
+        },
+        "score": 0.1398146009620918,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "d341f2234563ae0ca58a0a1e791d130595cf4e40cde043b89c41982c154729b8",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 88,
+        "text": " preserving and propagating\nthe truths of the gospel.” The settlements on the New\nHampshire coast and those of Rhode Island were refused\nadmission to the Confederation because they did not con-\nform to the strict Puritan ideal of religion",
+        "metadata": {
+          "chapter": 5,
+          "char_end": 1326,
+          "chunking": "paragraph:240",
+          "char_start": 1088
+        },
+        "score": 0.12826441189194077,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82 | data\\raw\\american_history_1917.pdf | page 86]\nIn 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for\n\n[374ceab1cb875c0376f7ebc6804f33d0f498fc31480ad837b1954d4a1b954d03 | data\\raw\\american_history_1917.pdf | page 78]\n ring in the marriage ceremony.\nIn the matter of church government, the body of Puri-\ntans did not like the official importance assigned to\nbishops, and they would give greater weight to the opinion\nof the laity.",
+    "context_ids": [
+      "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+      "374ceab1cb875c0376f7ebc6804f33d0f498fc31480ad837b1954d4a1b954d03"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 4.552500002318993
+  },
+  {
+    "query_id": "V2T03",
+    "config": "selected",
+    "question": "Who drafted the 1669 Fundamental Constitution for Carolina according to the book?",
+    "results": [
+      {
+        "id": "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 101,
+        "text": " founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 440,
+          "chunking": "paragraph:240",
+          "char_start": 265
+        },
+        "score": 0.31318245321400223,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 110,
+        "text": " Carolina.",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1826,
+          "chunking": "paragraph:240",
+          "char_start": 1816
+        },
+        "score": 0.31033761629981826,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 102,
+        "text": "In North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+        "metadata": {
+          "chapter": 6,
+          "char_end": 1192,
+          "chunking": "paragraph:240",
+          "char_start": 955
+        },
+        "score": 0.3042044412593809,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f | data\\raw\\american_history_1917.pdf | page 101]\n founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical\n\n[066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428 | data\\raw\\american_history_1917.pdf | page 110]\n Carolina.\n\n[5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82 | data\\raw\\american_history_1917.pdf | page 102]\nIn North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+    "context_ids": [
+      "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+      "066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428",
+      "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 3.597599978093058
+  },
+  {
+    "query_id": "V2T04",
+    "config": "selected",
+    "question": "What two types of local government existed in the Middle colonies according to the book?",
+    "results": [
+      {
+        "id": "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 122,
+        "text": "Local government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1067,
+          "chunking": "paragraph:240",
+          "char_start": 832
+        },
+        "score": 0.22399093338881282,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "297415bd4cebfa71a62d298d7a691aa1d2d1a95e4de91dd15a034ebf83837081",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 142,
+        "text": "There existed no elected legislative body in either the\ncentral or the local government of New France. An effort\nof Frontenac to set up an elected council at Quebec met a\nrebuke from Colbert, who ordered its discontinuance, say-\ning, “You",
+        "metadata": {
+          "chapter": 8,
+          "char_end": 689,
+          "chunking": "paragraph:240",
+          "char_start": 451
+        },
+        "score": 0.17474261396517188,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "f38e881ebb210c4a1d702edc6874853e3c2094b9a7961d8e662b6b6f9938cf69",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 120,
+        "text": "In the South, as in New England, the colonists adapted\nto their new environment certain forms of local govern-\nment to which they had been accustomed at home. The\nsmallest local division, the parish, became less important\nthan was the town",
+        "metadata": {
+          "chapter": 7,
+          "char_end": 1134,
+          "chunking": "paragraph:240",
+          "char_start": 895
+        },
+        "score": 0.17287820350656452,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84 | data\\raw\\american_history_1917.pdf | page 122]\nLocal government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the\n\n[297415bd4cebfa71a62d298d7a691aa1d2d1a95e4de91dd15a034ebf83837081 | data\\raw\\american_history_1917.pdf | page 142]\nThere existed no elected legislative body in either the\ncentral or the local government of New France. An effort\nof Frontenac to set up an elected council at Quebec met a\nrebuke from Colbert, who ordered its discontinuance, say-\ning, “You",
+    "context_ids": [
+      "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+      "297415bd4cebfa71a62d298d7a691aa1d2d1a95e4de91dd15a034ebf83837081"
+    ],
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "elapsed_ms": 4.2326000111643225
+  },
+  {
+    "query_id": "V2T05",
+    "config": "selected",
+    "question": "What was the name of the central administrative body established in 1696 for colonial affairs?",
+    "results": [
+      {
+        "id": "95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 158,
+        "text": " in the commercial rela-\ntions of England, was established as the central adminis-\ntrative bodwi in colonial affairs. Its powers were advisory,\nbut it exercised considerable influence over the legislation\nof Parliament and over the royal",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 2097,
+          "chunking": "paragraph:240",
+          "char_start": 1860
+        },
+        "score": 0.2501085473236976,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 159,
+        "text": "On the side of administrative ¢ontrol, the history of this\nperiod shows great activity on the part of the Board of\nTrade in their investigation of colonial conditions and their\nsecommendations for bringing the colonial governments\ninto",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1786,
+          "chunking": "paragraph:240",
+          "char_start": 1551
+        },
+        "score": 0.210947306130109,
+        "strategy": "tfidf"
+      },
+      {
+        "id": "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3",
+        "source_id": "american_history_1917",
+        "source": "data\\raw\\american_history_1917.pdf",
+        "page": 158,
+        "text": " view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+        "metadata": {
+          "chapter": 9,
+          "char_end": 1860,
+          "chunking": "paragraph:240",
+          "char_start": 1620
+        },
+        "score": 0.19077870459734453,
+        "strategy": "tfidf"
+      }
+    ],
+    "context": "[95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922 | data\\raw\\american_history_1917.pdf | page 158]\n in the commercial rela-\ntions of England, was established as the central adminis-\ntrative bodwi in colonial affairs. Its powers were advisory,\nbut it exercised considerable influence over the legislation\nof Parliament and over the royal\n\n[b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2 | data\\raw\\american_history_1917.pdf | page 159]\nOn the side of administrative ¢ontrol, the history of this\nperiod shows great activity on the part of the Board of\nTrade in their investigation of colonial conditions and their\nsecommendations for bringing the colonial governments\ninto",
+    "context_ids": [
+      "95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922",
+      "b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2"
+    ],
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": false,
+    "elapsed_ms": 4.276499996194616
+  }
+]

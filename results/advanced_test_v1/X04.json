@@ -1,0 +1,329 @@
+{
+  "question": "Which office leads NASA's Enterprise Risk Management effort in collaboration with the Quality Assurance Division within OCFO?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "64bbad925a8edc6c9b933904bff2488156e2441ae68223af4b7110169d4a4c73",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": " capabilities.\n\nNASA’s ARMO leads the Agency’s ERM effort in collaboration with the Quality Assurance Division within OCFO. The\nNASA Unified Comprehensive Operational Risk Network (UNICORN), NASA’s ERM framework, is the framework\nfor the communication and exchange of risk information between NASA’s functional organizations and the Agency\nleadership (see Figure 2). The framework is the foundation of the Agency’s risk management policy, activities, and\ndecisional councils.\n\n\n                                            FIGURE 2\n                              NASA's UNICORN\n\n\n                     ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1791,
+            "pdf_page": 39,
+            "char_start": 1192,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.775969353202664
+        },
+        {
+          "chunk_id": "9320d1c1abf806d4d8075635935c1c208e6fd0f379e629ef0acd53daf01595c4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": " OTHER INFORMATION  AGENCY RESPONSE TO OIG REPORT ON NASA’S TOP MANAGEMENT AND PERFORMANCE CHALLENGES\n\n\n\n\n\n                                                                                               8\n\n                         engineering practices that can inform NASA’s contracting strategies. Blue Origin’s focus on\n                          collaboration and transparency with NASA helps refine the expectations and structures of\n                          firm-fixed-price agreements. These insights contribute to a better understanding of risk\n                      management, cost",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 590,
+            "pdf_page": 106,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7469676287789685
+        },
+        {
+          "chunk_id": "9fba0d403d7e8761a97d3349efd86f96f8e978a7565dca289df55314bc096774",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\n\n                                        (CONTINUED)Enterprise Risk Management\n\nThe ARMO works in concert with Mission Directorates, Centers, Technical Authorities and Offices to increase\nawareness, understanding, and consideration of risks to NASA’s strategic goals and objectives as well as opportunities\nto support risk-informed decision-making. This collaboration includes the application of objectives driven risk\nmanagement (ODRM) and risk leadership principles to characterize and communicate the",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 594,
+            "pdf_page": 40,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7467023738140168
+        },
+        {
+          "chunk_id": "2a6c55601886453a7de6ae8b0702109cbe8853dadb2e5a0ac84e92d537880e8e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\nEnterprise Risk Management\n\n\nOMB Circular A-123, Management’s Responsibility for Enterprise Risk Management and Internal Control, requires\nFederal agencies to implement ERM to ensure Federal managers are effectively managing risks that could affect the\nachievement of Agency strategic objectives.\n\nRisk management is embedded in NASA’s culture, and the principles and practices are inherent in everyday operations.\nIn July 2023, the NASA Deputy Administrator directed the formation of an internal Agency Risk",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 39,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7434211083148642
+        },
+        {
+          "chunk_id": "465f68da8f564af59e25fe4060af3b66f17e160aee33b4217487f5ff6f0bc790",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " practices. Improving NASA’s\nERM capabilities is accomplished with the direct support of Agency leadership and through efforts such as enhancing\ntools for integrated data management and revising workforce training to grow and sustain enterprise risk management\nknowledge and expertise. The ARMO assesses an array of enterprise-level risks, Agency Risk Profile, and documents and\nmakes accessible the risk data in a dashboard to support ODRM and risk-informed decisions. Significant risks affecting\nthe Agency’s strategic goals and objectives then are elevated and briefed by the responsible",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1780,
+            "pdf_page": 40,
+            "char_start": 1190,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7413923452624915
+        },
+        {
+          "chunk_id": "222436b8ab71d2e8caf2c03babe8a6925fa47e102c12bc0253564612b78d77dc",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 47,
+          "text": " this report, ensuring accurate, transparent,      Ensure stewardship of the\nand timely financial reporting. Furthermore, OCFO supports NASA in its           taxpayer’s investment entrusted to\nefforts to maintain the highest standards of financial stewardship, integrity,      NASA to advance and achieve the\noperating performance, and effective systems and controls. This standard of       Agency’s strategic goals, priorities,\n                                                                       and missions.excellence is once again recognized in our FY 2024 Auditors’ report, which\naffirms an",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1195,
+            "pdf_page": 47,
+            "char_start": 597,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7208278511967887
+        },
+        {
+          "chunk_id": "2cf5baea031e40117a5ac043ceed8f7fc1aea1774407ac14518ce8510b06ba49",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " OMB.\n\nNASA continues to strengthen its risk management and reporting process through comprehensive collaboration with\nthe various risk bodies and stakeholders throughout the Agency, to effectively identify key risks and opportunities,\ndevelop effective risk responses, and implement timely mitigation actions. NASA continues to benchmark and\ncollaborate with other Federal agencies to ensure continual learning and improvement of risk management.\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                   3939",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3515,
+            "pdf_page": 40,
+            "char_start": 2971,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7145785433556436
+        },
+        {
+          "chunk_id": "65eafffdf38add9c1bce0e2937ad8eccdb3ae985796f8ed8ba2af6062f619c42",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " types and amount of risk\nNASA is willing to accept to achieve its objectives. The ARMO leads collaboration groups comprising senior-level\nrepresentatives from across Agency Mission Directorates, Centers, and Technical Authorities. These groups help to\nfoster increased risk awareness and understanding of potential cross-cutting implications, impacts, and/or opportunities\nfor stakeholders.\n\nAs NASA’s chief steward of risk management policy and practices, the ARMO oversees the development of strengthened\ncapabilities to enable more efficient, effective, and sustainable risk communication and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 40,
+            "char_start": 594,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7102122056231304
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "f5a377a99cda23b2b7680c795ed41fd086d92d99a738aface34163684e1eb407",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "\"Letter from the Inspector General on Audit 84\", \"Independent Auditors’ Report 86\", \"SECTION 3 Other Information 94\", \"Summary of Financial Statement Audit and Management Assurances 95\", \"Summary of Reports 96\", \"Office of Inspector General (OIG) Report on NASA’s Top Management and Performance Challenges 97\", \"Agency Response to OIG Report on NASA’s Top Management and Performance Challenges 98\", \"Civil Monetary Penalty Adjustment for Inflation 112\", \"Undisbursed Balances in Expired Grant Accounts 113\", \"Grants Programs Information 114\", \"Climat",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6098680001733313
+        },
+        {
+          "chunk_id": "c8318d723e74d3bc5ce8ff9c3fb686ec6a65f0720e6831c1d4990f9a3c114eba",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "e-Related Financial Risk 115\", \"SECTION 4 Appendix 116\", \"Message from the Administrator: Spanish Version 117\", \"Message from the Chief Financial Officer: Spanish Version 119\", \"Celebrating NASA 10+ Years of Excellence 120\", \"Certificate of Excellence in Accountability Reporting Award 121\", \"Glossary of Acronyms 122\", \"Acknowledgments 125\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6093819243821051
+        },
+        {
+          "chunk_id": "5b21b936adbe43305e6e75a78422277029a244fb6ee02b9921f8125167b2ac5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": " Vision and Mission 09\", \"Organizational Structure 10\", \"NASA Centers and Facilities 11\", \"NASA by the Numbers 12\", \"MISSION PERFORMANCE 13\", \"Strategic Plan Framework 14\", \"Strategic Goals and Objectives 15\", \"Agency Priority Goals 17\", \"STRATEGIC GOALS AND HIGHLIGHTS 19\", \"Assessment Approach 20\", \"FY 2024 Performance Assessment 21\", \"FINANCIAL PERFORMANCE 27\", \"Financial Highlights 28\", \"Overview of Financial Position 28\", \"Results of Operations 31\", \"Sources of Funding 33\", \"Limitations of the Financial Statements 34\", \"ANALYSIS OF SYSTEMS,",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5724881801023309
+        },
+        {
+          "chunk_id": "bf5046b73654f83e36b9bd808eb0d8f1b2ec0f824ee1231302e1465fabc9a7eb",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 125,
+          "text": " and Surface Exchange with the Atmosphere\", \"OIG — Office of Inspector General\", \"OMB — Office of Management and Budget\", \"OP — Operating Plan\", \"OSI — Office of Strategic Infrastructure\", \"OSI-FRED — OSI Facilities and Real Estate Division\", \"P.L. — Public Law\", \"P3 — Public-Private Partnerships\", \"PACE — Plankton, Aerosol, Cloud, Ocean Ecosystem\", \"PAM — Private Astronaut Mission\", \"PDR — Preliminary Design Review\", \"PIIA — Payment Integrity Information Act\", \"PIO — Performance Improvement Officer\", \"PMA — President's Management Agenda\", \"PMR",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, left column",
+            "pdf_page": 125,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.563158232601006
+        },
+        {
+          "chunk_id": "1929f75b5c25a7941d12334cf3cb0731f4cf9bbb8ea781b84764c10f1b7404db",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "f Controls and Fraud Risk Management. Green curved arrows appear on the left and right sides.\", \"visible_values\": [\"Enterprise Risk Management\", \"EC\", \"APMC\", \"ASC\", \"MSC\", \"Program & Mission Decisions\", \"Mission-Enabling Decisions\", \"Escalated Risk\", \"ASC Advice and Decisions\", \"APMC Participation\", \"Program-driven Institutional Requirements\", \"Political and Reputational Risk\", \"Programmatic Risk\", \"Financial Risk\", \"Strategic Risk\", \"Operational Risk\", \"HQ Mission Directorate Centers\", \"Functional Organizations Supporting Center Operations\", ",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5615750645183032
+        },
+        {
+          "chunk_id": "bf750fbe3c02fd030bba77a459110185d7818336082ba8b657a43075e2198e26",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": "erformance Reporting\", \"Risk Management Working Groups\", \"External Reporting\", \"EC, ASC, MSC, APMC\", \"GAO, OIG, Audit Reports, Fraud Risk Assessments\", \"SoA, MSWG, SAT, AFR\", \"Office of Safety and Mission Assurance\", \"Office of the Chief Engineer\", \"Office of the Chief Health and Medical Officer\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "middle-left/center of page, below the third paragraph",
+            "pdf_page": 40,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5527654227298033
+        },
+        {
+          "chunk_id": "db6c510446188c64ebd8fc9e6f6821ee6fa32cb9dda7b157b2714fdbf86cdee0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 123,
+          "text": "alization of Astromaterials\", \"AMP — Agency Master Plan\", \"APEP — Atmospheric Perturbations around Eclipse Path\", \"APMC — Agency Program Management Council\", \"AR — Augmented Reality\", \"ARC — Ames Research Center\", \"ARMO — Agency Risk Management Officer\", \"ARMWG — Agency Risk Management Working Group\", \"ASAP — Aerospace Safety Advisory Panel\", \"ASC — Accounting Standards Codification\", \"ASC — Acquisition Strategy Council\", \"ASM — Acquisition Strategy Meeting\", \"ATV — Automated Transfer Vehicle\", \"Ax-3 — Axiom-3\", \"C (section heading)\", \"CADRE — ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 123,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5517365541929218
+        },
+        {
+          "chunk_id": "7e10fa2fd38e69d206b92a5088a981b720bf492e0bfecb964f38dd9c4e893fa1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": "\"ANNUAL ASSESSMENT OF INTERNAL CONTROLS OVER PROGRAMS, OPERATIONS, FINANCIAL REPORTING & SYSTEMS\", \"FIGURE 1\", \"NASA FMFIA Annual Statement of Assurance Process\"]}",
+          "metadata": {
+            "item": 1,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Right side of page, below the body text and above the footer",
+            "pdf_page": 38,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5470556560688468
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 39
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 3
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 106
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 40
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 125
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 47
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8513,
+    "completion_tokens": 651,
+    "total_tokens": 9164,
+    "cost": 0.001167285,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.001167285,
+      "upstream_inference_prompt_cost": 0.000893865,
+      "upstream_inference_completions_cost": 0.00027342
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 515,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"NASA’s Agency Risk Management Officer (ARMO), established within the Headquarters Office of Safety and Mission Assurance, leads the Agency’s Enterprise Risk Management effort in collaboration with the Quality Assurance Division within OCFO.\",\"citations\":[{\"page\":39,\"region\":\"Third body paragraph under the “Enterprise Risk Management” heading, sentence beginning “NASA’s ARMO leads the Agency’s ERM effort…”\"},{\"page\":39,\"region\":\"Second body paragraph under the “Enterprise Risk Management” heading, sentence beginning “This includes establishment of an Agency Risk Management Officer (ARMO) within the Headquarters Office of Safety and Mission Assurance…”\"}]}",
+  "answer": {
+    "answer": "NASA’s Agency Risk Management Officer (ARMO), established within the Headquarters Office of Safety and Mission Assurance, leads the Agency’s Enterprise Risk Management effort in collaboration with the Quality Assurance Division within OCFO.",
+    "citations": [
+      {
+        "page": 39,
+        "region": "Third body paragraph under the “Enterprise Risk Management” heading, sentence beginning “NASA’s ARMO leads the Agency’s ERM effort…”"
+      },
+      {
+        "page": 39,
+        "region": "Second body paragraph under the “Enterprise Risk Management” heading, sentence beginning “This includes establishment of an Agency Risk Management Officer (ARMO) within the Headquarters Office of Safety and Mission Assurance…”"
+      }
+    ]
+  },
+  "elapsed_seconds": 22.678735900000902
+}

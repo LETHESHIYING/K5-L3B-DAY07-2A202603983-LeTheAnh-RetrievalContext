@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "T01",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T02",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T03",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T04",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T05",
+    "config": "baseline",
+    "context_grade": 0,
+    "reason": "Context kh?ng ch?a evidence v? molasses v? sugar nh?p t? West Indies."
+  },
+  {
+    "query_id": "T01",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T02",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T03",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T04",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  },
+  {
+    "query_id": "T05",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context c? ?o?n ??ng ngu?n/trang ch?a evidence c?n thi?t; ?? ??i chi?u v?i scan."
+  }
+]

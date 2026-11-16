@@ -1,0 +1,317 @@
+{
+  "status": "unverified_draft",
+  "split": "dev",
+  "input_pages": [
+    13,
+    16,
+    21,
+    31,
+    33,
+    52,
+    71,
+    96
+  ],
+  "usage": {
+    "prompt_tokens": 4692,
+    "completion_tokens": 5580,
+    "total_tokens": 10272,
+    "cost": 0.00805668,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00805668,
+      "upstream_inference_prompt_cost": 0.00136068,
+      "upstream_inference_completions_cost": 0.006696
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3757,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "elapsed_seconds": 23.217148099996848,
+  "items": [
+    {
+      "id": "dev-001",
+      "question": "What was NASA's total FY 2024 budget?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$24.9 billion (FY 2024 budget)",
+      "rationale": "Directly stated in the FY 2024 budget panel.",
+      "evidence": [
+        {
+          "physical_pdf_page": 13,
+          "region": "top-left panel labeled 'FY 2024 BUDGET'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-002",
+      "question": "What was NASA's total civil service workforce by center in the shown FY 2024 data?",
+      "group": "table",
+      "answerable": true,
+      "answer": "18,475 employees",
+      "rationale": "Directly stated in the workforce panel header.",
+      "evidence": [
+        {
+          "physical_pdf_page": 13,
+          "region": "top-right panel labeled 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-003",
+      "question": "Which NASA center had the largest civil service workforce, and how many employees?",
+      "group": "table",
+      "answerable": true,
+      "answer": "Johnson Space Center (JSC): 3,229 employees (18%)",
+      "rationale": "JSC is the first and largest listed center count in the workforce panel.",
+      "evidence": [
+        {
+          "physical_pdf_page": 13,
+          "region": "top-right workforce panel, first row under header"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-004",
+      "question": "What were NASA's total liabilities as of September 30, 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$7,664 million",
+      "rationale": "The donut chart center and bar chart total both show $7,664 million.",
+      "evidence": [
+        {
+          "physical_pdf_page": 31,
+          "region": "right donut chart center labeled 'TOTAL LIABILITIES $7,664'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-005",
+      "question": "What were Environmental and Disposal Liabilities in FY 2024, and what share of total liabilities did they represent?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$2,353 million, or 31% of total liabilities",
+      "rationale": "The donut chart labels the green segment with $2,353 and 31%.",
+      "evidence": [
+        {
+          "physical_pdf_page": 31,
+          "region": "right donut chart, green segment labeled '31% Environmental and Disposal Liabilities $2,353'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-006",
+      "question": "What was NASA's FY 2024 total gross cost of operations?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$26,551 million",
+      "rationale": "The chart header states the FY 2024 total.",
+      "evidence": [
+        {
+          "physical_pdf_page": 33,
+          "region": "top-right chart header 'FY 2024 Total: $26,551'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-007",
+      "question": "What was the FY 2024 total gross cost of operations for Strategic Goal 2?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$11,306 million",
+      "rationale": "The Strategic Goal 2 section total is printed below its bars.",
+      "evidence": [
+        {
+          "physical_pdf_page": 33,
+          "region": "Strategic Goal 2 section, total line 'FY 2024 Total: $11,306'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-008",
+      "question": "What was NASA's Net Position for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$19,840 million",
+      "rationale": "The bottom row of the statement shows Net Position for 2024.",
+      "evidence": [
+        {
+          "physical_pdf_page": 52,
+          "region": "bottom row labeled 'Net Position', 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-009",
+      "question": "What were Total Unexpended Appropriations for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$13,157 million",
+      "rationale": "The table row labeled Total Unexpended Appropriations shows the 2024 value.",
+      "evidence": [
+        {
+          "physical_pdf_page": 52,
+          "region": "row 'Total Unexpended Appropriations', 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-010",
+      "question": "What were NASA's Total Net Outlays for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$25,015 million",
+      "rationale": "The reconciliation table bottom row shows Total Net Outlays.",
+      "evidence": [
+        {
+          "physical_pdf_page": 71,
+          "region": "bottom row 'Total Net Outlays (Calculated Total)', Total column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-011",
+      "question": "What audit opinion was issued for NASA's FY 2024 financial statements?",
+      "group": "table",
+      "answerable": true,
+      "answer": "Unmodified",
+      "rationale": "Table 1 lists the Audit Opinion as Unmodified.",
+      "evidence": [
+        {
+          "physical_pdf_page": 96,
+          "region": "Table 1 'Summary of Financial Statement Audit', Audit Opinion row"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-012",
+      "question": "What was the ending balance of total material weaknesses for the FY 2024 financial statement audit?",
+      "group": "table",
+      "answerable": true,
+      "answer": "1",
+      "rationale": "Table 1 shows Total Material Weaknesses ending balance of 1.",
+      "evidence": [
+        {
+          "physical_pdf_page": 96,
+          "region": "Table 1, row 'Total Material Weaknesses', Ending Balance column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-013",
+      "question": "What are the four single-word themes for NASA's Strategic Goals?",
+      "group": "text",
+      "answerable": true,
+      "answer": "DISCOVER, EXPLORE, INNOVATE, ADVANCE",
+      "rationale": "The bullet list names the four themes.",
+      "evidence": [
+        {
+          "physical_pdf_page": 16,
+          "region": "bullet list under 'Four major themes'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-014",
+      "question": "What do the Green, Yellow, Red, and Grey performance ratings indicate?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Green = complete or on target to complete; Yellow = below target; Red = significantly below target/at risk; Grey = unrated",
+      "rationale": "The four colored rating boxes define each category.",
+      "evidence": [
+        {
+          "physical_pdf_page": 21,
+          "region": "lower four colored rating boxes"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-015",
+      "question": "How does NASA's FY 2024 total gross cost of operations compare with its FY 2024 total budget?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "Gross cost exceeds the budget by $1.651 billion: $26.551 billion − $24.9 billion = $1.651 billion (FY 2024)",
+      "rationale": "Requires combining the FY 2024 budget total from p.13 with the FY 2024 gross cost total from p.33.",
+      "evidence": [
+        {
+          "physical_pdf_page": 13,
+          "region": "top-left panel 'FY 2024 BUDGET $24.9 Billion'"
+        },
+        {
+          "physical_pdf_page": 33,
+          "region": "top-right chart header 'FY 2024 Total: $26,551'"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "dev-016",
+      "question": "What was NASA's total FY 2024 travel spending?",
+      "group": "text",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not show a travel spending line item.",
+      "evidence": [],
+      "absence_check": "Within the provided page images only, search for 'travel' or 'travel spending'; no such line item appears. Confirming absence would require checking the full AFR or budget object-class tables, not just these pages.",
+      "original_checked": false
+    },
+    {
+      "id": "dev-017",
+      "question": "How many civil service employees left NASA in FY 2024?",
+      "group": "text",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages show workforce counts by center but not separations or attrition.",
+      "evidence": [],
+      "absence_check": "Within the provided page images only, search for 'separations', 'attrition', or 'turnover'; these are not present. Confirming absence would require workforce data outside these pages.",
+      "original_checked": false
+    },
+    {
+      "id": "dev-018",
+      "question": "What was the exact launch date of the Psyche mission?",
+      "group": "text",
+      "answerable": false,
+      "answer": null,
+      "rationale": "Psyche is mentioned only as an LSP objective example, without a launch date.",
+      "evidence": [],
+      "absence_check": "Within the provided page images only, search for 'Psyche' and 'launch date'; p.21 mentions Psyche as an objective but gives no date. Confirming absence would require mission schedule sources outside these pages.",
+      "original_checked": false
+    }
+  ]
+}

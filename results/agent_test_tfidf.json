@@ -1,0 +1,1202 @@
+[
+  {
+    "status": "answered",
+    "answer": "William Bradford succeeded the Pilgrims' first governor. [2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7]",
+    "citations": [
+      "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Pilgrims first governor succeeded book",
+        "filter": null,
+        "results": [
+          {
+            "id": "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 76,
+            "text": " first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 575,
+              "chunking": "paragraph:240",
+              "char_start": 341
+            },
+            "score": 0.3613232553680461,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 78,
+            "text": " from this body\nthat the Pilgrims came.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1280,
+              "chunking": "paragraph:240",
+              "char_start": 1241
+            },
+            "score": 0.2914196757846618,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "c9f86d65bb552d40fe3c45b321b78f4e25641b54c4c63784b71da18049fbb908",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 80,
+            "text": " became governor of the Company.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 393,
+              "chunking": "paragraph:240",
+              "char_start": 361
+            },
+            "score": 0.22927512989025337,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7 | data\\raw\\american_history_1917.pdf | page 76]\n first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the\n\n[e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20 | data\\raw\\american_history_1917.pdf | page 78]\n from this body\nthat the Pilgrims came.\n\n[c9f86d65bb552d40fe3c45b321b78f4e25641b54c4c63784b71da18049fbb908 | data\\raw\\american_history_1917.pdf | page 80]\n became governor of the Company.",
+        "context_ids": [
+          "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7",
+          "e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20",
+          "c9f86d65bb552d40fe3c45b321b78f4e25641b54c4c63784b71da18049fbb908"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T01",
+    "question": "According to the book, who succeeded the Pilgrims' first governor?",
+    "elapsed_seconds": 3.3337990999862086,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 58,
+        "total_tokens": 226,
+        "cost": 3.3516e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.3516e-05,
+          "upstream_inference_prompt_cost": 1.6464e-05,
+          "upstream_inference_completions_cost": 1.7052e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 40,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 548,
+        "completion_tokens": 165,
+        "total_tokens": 713,
+        "cost": 4.39e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.39e-05,
+          "upstream_inference_prompt_cost": 2.74e-05,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 64,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "1629 [7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854]",
+    "citations": [
+      "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "patroon system began year book",
+        "filter": null,
+        "results": [
+          {
+            "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 349,
+              "chunking": "paragraph:240",
+              "char_start": 110
+            },
+            "score": 0.21863280594649026,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 123,
+            "text": " with\nwhich the English colonization began was not made good.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 979,
+              "chunking": "paragraph:240",
+              "char_start": 918
+            },
+            "score": 0.19874693169450838,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 113,
+            "text": "The Duke of York became King James IT of England\nin 1685. The next year he appointed Edmund Andros\nGovernor-General of New England, who began the policy\nof consolidation by dissolving the governments of Plymouth,\nRhode Island, and",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1946,
+              "chunking": "paragraph:240",
+              "char_start": 1716
+            },
+            "score": 0.17248583947139612,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02 | data\\raw\\american_history_1917.pdf | page 123]\n with\nwhich the English colonization began was not made good.",
+        "context_ids": [
+          "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+          "723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "patroon system began year",
+        "filter": null,
+        "results": [
+          {
+            "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 349,
+              "chunking": "paragraph:240",
+              "char_start": 110
+            },
+            "score": 0.21863280594649026,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 123,
+            "text": " with\nwhich the English colonization began was not made good.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 979,
+              "chunking": "paragraph:240",
+              "char_start": 918
+            },
+            "score": 0.19874693169450838,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "1412097386f406d647937eb4f38ba34e9dc1448b4bbca65b74d1c3364e27b3e6",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 113,
+            "text": "The Duke of York became King James IT of England\nin 1685. The next year he appointed Edmund Andros\nGovernor-General of New England, who began the policy\nof consolidation by dissolving the governments of Plymouth,\nRhode Island, and",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1946,
+              "chunking": "paragraph:240",
+              "char_start": 1716
+            },
+            "score": 0.17248583947139612,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02 | data\\raw\\american_history_1917.pdf | page 123]\n with\nwhich the English colonization began was not made good.",
+        "context_ids": [
+          "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+          "723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T02",
+    "question": "In what year does the book say the patroon system began?",
+    "elapsed_seconds": 14.224377600010484,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 32,
+        "total_tokens": 200,
+        "cost": 3.616e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.616e-05,
+          "upstream_inference_prompt_cost": 2.016e-05,
+          "upstream_inference_completions_cost": 1.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 450,
+        "completion_tokens": 235,
+        "total_tokens": 685,
+        "cost": 0.000169785,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000169785,
+          "upstream_inference_prompt_cost": 6.615e-05,
+          "upstream_inference_completions_cost": 0.000103635
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 219,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 458,
+        "completion_tokens": 499,
+        "total_tokens": 957,
+        "cost": 0.00030446,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00030446,
+          "upstream_inference_prompt_cost": 5.496e-05,
+          "upstream_inference_completions_cost": 0.0002495
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 491,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Goods shipped from one colony to another had to either go by way of England or pay a high duty in colonial ports. [a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a]",
+    "citations": [
+      "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "1672 act goods shipped between colonies required",
+        "filter": null,
+        "results": [
+          {
+            "id": "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 759,
+              "chunking": "paragraph:240",
+              "char_start": 526
+            },
+            "score": 0.3772034911052845,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 110,
+            "text": "to the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 283,
+              "chunking": "paragraph:240",
+              "char_start": 97
+            },
+            "score": 0.34310084364472127,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1235,
+              "chunking": "paragraph:240",
+              "char_start": 998
+            },
+            "score": 0.23727388818898182,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act\n\n[a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a | data\\raw\\american_history_1917.pdf | page 110]\nto the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+        "context_ids": [
+          "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+          "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T03",
+    "question": "According to the 1672 act described in the book, what were goods shipped between colonies required to do?",
+    "elapsed_seconds": 25.173140500002773,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 176,
+        "completion_tokens": 50,
+        "total_tokens": 226,
+        "cost": 6.796e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 6.796e-05,
+          "upstream_inference_prompt_cost": 3.696e-05,
+          "upstream_inference_completions_cost": 3.1e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 33,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 499,
+        "completion_tokens": 239,
+        "total_tokens": 738,
+        "cost": 0.000119168,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000119168,
+          "upstream_inference_prompt_cost": 4.8902e-05,
+          "upstream_inference_completions_cost": 7.0266e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 116,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The Treaty of Ryswick (1697) ended the war in Europe. [19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26]",
+    "citations": [
+      "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "1697 treaty ended the war in Europe book",
+        "filter": null,
+        "results": [
+          {
+            "id": "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1400,
+              "chunking": "paragraph:240",
+              "char_start": 1162
+            },
+            "score": 0.4949911778019933,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " War of the Palatinate\n(1689-1697).",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 685,
+              "chunking": "paragraph:240",
+              "char_start": 650
+            },
+            "score": 0.401817983419301,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " station was retained\nby the English and named Annapolis. The surrounding\n\nEuropean\ncauses.\n\nKing\nWilliam’e\nWar, 1689\n1697.\n\nQueer\nAnne’s\nWar, 1701-\n1713,",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 2083,
+              "chunking": "paragraph:240",
+              "char_start": 1929
+            },
+            "score": 0.22659918142655042,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26 | data\\raw\\american_history_1917.pdf | page 137]\n made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits\n\n[8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a | data\\raw\\american_history_1917.pdf | page 137]\n War of the Palatinate\n(1689-1697).\n\n[ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd | data\\raw\\american_history_1917.pdf | page 137]\n station was retained\nby the English and named Annapolis. The surrounding\n\nEuropean\ncauses.\n\nKing\nWilliam’e\nWar, 1689\n1697.\n\nQueer\nAnne’s\nWar, 1701-\n1713,",
+        "context_ids": [
+          "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+          "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+          "ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T04",
+    "question": "What 1697 treaty ended the war in Europe according to the book?",
+    "elapsed_seconds": 4.553783300012583,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 169,
+        "completion_tokens": 34,
+        "total_tokens": 203,
+        "cost": 4.235e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.235e-05,
+          "upstream_inference_prompt_cost": 2.535e-05,
+          "upstream_inference_completions_cost": 1.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 616,
+        "completion_tokens": 382,
+        "total_tokens": 998,
+        "cost": 0.000172676,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000172676,
+          "upstream_inference_prompt_cost": 6.0368e-05,
+          "upstream_inference_completions_cost": 0.000112308
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 274,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "book imported from the West Indies two products",
+        "filter": null,
+        "results": [
+          {
+            "id": "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1001,
+              "chunking": "paragraph:240",
+              "char_start": 774
+            },
+            "score": 0.36189374485051246,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 774,
+              "chunking": "paragraph:240",
+              "char_start": 534
+            },
+            "score": 0.291081136134865,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "040248bbcad927270993d276a98b4d11d0c7346f022aba4f808fc9926de14d85",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 159,
+            "text": " to\nencourage their production. (3) The molasses act of\n1733 was intended to foster the production of sugar in\nthe British West Indies; it imposed duties so high as to\nbe prohibitive upon all sugar and molasses imported from\nthe French and",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1287,
+              "chunking": "paragraph:240",
+              "char_start": 1048
+            },
+            "score": 0.2501369506075879,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be | data\\raw\\american_history_1917.pdf | page 155]\n mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large\n\n[e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce | data\\raw\\american_history_1917.pdf | page 155]\n clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+        "context_ids": [
+          "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+          "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Molasses and sugar imported from the West Indies",
+        "filter": null,
+        "results": [
+          {
+            "id": "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1001,
+              "chunking": "paragraph:240",
+              "char_start": 774
+            },
+            "score": 0.6324478980428765,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "040248bbcad927270993d276a98b4d11d0c7346f022aba4f808fc9926de14d85",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 159,
+            "text": " to\nencourage their production. (3) The molasses act of\n1733 was intended to foster the production of sugar in\nthe British West Indies; it imposed duties so high as to\nbe prohibitive upon all sugar and molasses imported from\nthe French and",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1287,
+              "chunking": "paragraph:240",
+              "char_start": 1048
+            },
+            "score": 0.557030382183891,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "7caabb1b7eca793c71b236376cb241b35247853d518ea6cb3f18e09c743b0c37",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": " whence more sugar and\nmolasses were taken, During colonial times no protest seems\nto have arisen against the inhumanity and wickedness of this\ntraffic.",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1655,
+              "chunking": "paragraph:240",
+              "char_start": 1503
+            },
+            "score": 0.244301045799371,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be | data\\raw\\american_history_1917.pdf | page 155]\n mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large\n\n[e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce | data\\raw\\american_history_1917.pdf | page 155]\n clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+        "context_ids": [
+          "161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be",
+          "e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "T05",
+    "question": "What two products does the book say were imported from the West Indies?",
+    "elapsed_seconds": 13.317991599993547,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 33,
+        "total_tokens": 201,
+        "cost": 3.666e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.666e-05,
+          "upstream_inference_prompt_cost": 2.016e-05,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 489,
+        "completion_tokens": 83,
+        "total_tokens": 572,
+        "cost": 0.00010018,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00010018,
+          "upstream_inference_prompt_cost": 5.868e-05,
+          "upstream_inference_completions_cost": 4.15e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 84,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 500,
+        "completion_tokens": 262,
+        "total_tokens": 762,
+        "cost": 0.000156384,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000156384,
+          "upstream_inference_prompt_cost": 2.5384e-05,
+          "upstream_inference_completions_cost": 0.000131
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 243,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book colonial Virginia 1969 moon landing change",
+        "filter": null,
+        "results": [
+          {
+            "id": "6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 75,
+            "text": "from the London Company, and they were to settle in ts May\n“the northern parts of Virginia.” Because of this change Compact\nin location, certain persons of their party threatened to do\nas they pleased after landing; and this ied to the",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1061,
+              "chunking": "paragraph:240",
+              "char_start": 826
+            },
+            "score": 0.3051816446352153,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 160,
+            "text": " the proprictary government was an active\n‘ause in the change.",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 419,
+              "chunking": "paragraph:240",
+              "char_start": 357
+            },
+            "score": 0.25407510396961874,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 69,
+            "text": "Prosperity\nin Virginia",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 2054,
+              "chunking": "paragraph:240",
+              "char_start": 2032
+            },
+            "score": 0.18077093418876708,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05 | data\\raw\\american_history_1917.pdf | page 75]\nfrom the London Company, and they were to settle in ts May\n“the northern parts of Virginia.” Because of this change Compact\nin location, certain persons of their party threatened to do\nas they pleased after landing; and this ied to the\n\n[0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae | data\\raw\\american_history_1917.pdf | page 160]\n the proprictary government was an active\n‘ause in the change.\n\n[fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f | data\\raw\\american_history_1917.pdf | page 69]\nProsperity\nin Virginia",
+        "context_ids": [
+          "6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05",
+          "0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae",
+          "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "moon landing colonial Virginia 1917 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 69,
+            "text": "Prosperity\nin Virginia",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 2054,
+              "chunking": "paragraph:240",
+              "char_start": 2032
+            },
+            "score": 0.22577021392624508,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 75,
+            "text": "from the London Company, and they were to settle in ts May\n“the northern parts of Virginia.” Because of this change Compact\nin location, certain persons of their party threatened to do\nas they pleased after landing; and this ied to the",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1061,
+              "chunking": "paragraph:240",
+              "char_start": 826
+            },
+            "score": 0.22448389791212947,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "51970f102eebfa9f3808935853accd847868c47f895e24c3a08f2ae042f859fc",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 69,
+            "text": "Virginia and Maryland 45",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 24,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.18959420035377086,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05 | data\\raw\\american_history_1917.pdf | page 75]\nfrom the London Company, and they were to settle in ts May\n“the northern parts of Virginia.” Because of this change Compact\nin location, certain persons of their party threatened to do\nas they pleased after landing; and this ied to the\n\n[0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae | data\\raw\\american_history_1917.pdf | page 160]\n the proprictary government was an active\n‘ause in the change.\n\n[fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f | data\\raw\\american_history_1917.pdf | page 69]\nProsperity\nin Virginia",
+        "context_ids": [
+          "6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05",
+          "0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae",
+          "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "TU01",
+    "question": "According to this 1917 book, what did the 1969 moon landing change about colonial Virginia?",
+    "elapsed_seconds": 6.397771099989768,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 150,
+        "completion_tokens": 64,
+        "total_tokens": 214,
+        "cost": 5.072e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.072e-05,
+          "upstream_inference_prompt_cost": 1.2e-05,
+          "upstream_inference_completions_cost": 3.872e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 43,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 567,
+        "completion_tokens": 98,
+        "total_tokens": 665,
+        "cost": 0.00017983,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00017983,
+          "upstream_inference_prompt_cost": 0.00011907,
+          "upstream_inference_completions_cost": 6.076e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 80,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 578,
+        "completion_tokens": 121,
+        "total_tokens": 699,
+        "cost": 7.798e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 7.798e-05,
+          "upstream_inference_prompt_cost": 1.748e-05,
+          "upstream_inference_completions_cost": 6.05e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 100,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown 2007 anniversary celebrated",
+        "filter": null,
+        "results": [
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.27067079629105223,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.24136163228120458,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b3a3ca095eef52b117f97f2fe01daa8c0e1a2890d728b75341dfd6da6a2da82a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " Newfoundland is directly west of\nnorthern France and southern England, and Jamestown in Virginia\ncorresponds in latitude to northern Africa. Hence the expectation that\nVirginia should produce semi-tropical products",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1753,
+              "chunking": "paragraph:240",
+              "char_start": 1538
+            },
+            "score": 0.2021470347138938,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+        "context_ids": [
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2007 Jamestown anniversary celebration 1917 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.27067079629105223,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.24136163228120458,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b3a3ca095eef52b117f97f2fe01daa8c0e1a2890d728b75341dfd6da6a2da82a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " Newfoundland is directly west of\nnorthern France and southern England, and Jamestown in Virginia\ncorresponds in latitude to northern Africa. Hence the expectation that\nVirginia should produce semi-tropical products",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1753,
+              "chunking": "paragraph:240",
+              "char_start": 1538
+            },
+            "score": 0.2021470347138938,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+        "context_ids": [
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "TU02",
+    "question": "According to this 1917 book, how was the 2007 Jamestown anniversary celebrated?",
+    "elapsed_seconds": 9.520877000002656,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 173,
+        "completion_tokens": 113,
+        "total_tokens": 286,
+        "cost": 0.0001125,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001125,
+          "upstream_inference_prompt_cost": 3.114e-05,
+          "upstream_inference_completions_cost": 8.136e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 93,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 466,
+        "completion_tokens": 95,
+        "total_tokens": 561,
+        "cost": 0.00015676,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00015676,
+          "upstream_inference_prompt_cost": 9.786e-05,
+          "upstream_inference_completions_cost": 5.89e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 76,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 478,
+        "completion_tokens": 332,
+        "total_tokens": 810,
+        "cost": 0.00053702,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00053702,
+          "upstream_inference_prompt_cost": 0.00013862,
+          "upstream_inference_completions_cost": 0.0003984
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 307,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

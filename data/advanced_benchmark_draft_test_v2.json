@@ -1,0 +1,514 @@
+{
+  "status": "unverified_draft",
+  "split": "test",
+  "input_pages": [
+    14,
+    15,
+    22,
+    25,
+    27,
+    29,
+    30,
+    32,
+    38,
+    39,
+    50,
+    51,
+    53,
+    69,
+    70,
+    72
+  ],
+  "usage": {
+    "prompt_tokens": 9787,
+    "completion_tokens": 17173,
+    "total_tokens": 26960,
+    "cost": 0.01005455,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.01005455,
+      "upstream_inference_prompt_cost": 0.00146805,
+      "upstream_inference_completions_cost": 0.0085865
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 13786,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "elapsed_seconds": 72.78873220001697,
+  "items": [
+    {
+      "id": "T01",
+      "question": "What was the FY 2024 intragovvernmental accounts receivable, net?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$98 million",
+      "rationale": "The consolidated balance sheet lists Intragovvernmental Accounts Receivable, Net for 2024 as $98 million.",
+      "evidence": [
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Assets section, Intragovvernmental Accounts Receivable, Net row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T02",
+      "question": "What was Strategic Goal 1 earned revenue in FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$1,090 million",
+      "rationale": "The Consolidated Statements of Net Cost show Strategic Goal 1 Less: Earned Revenue for 2024 as $1,090 million.",
+      "evidence": [
+        {
+          "pdf_page": 51,
+          "region": "Consolidated Statements of Net Cost, Strategic Goal 1 section, Less: Earned Revenue row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T03",
+      "question": "What were total budgetary resources for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$30,051 million",
+      "rationale": "The Combined Statements of Budgetary Resources list Total Budgetary Resources for 2024 as $30,051 million.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Budgetary Resources section, Total Budgetary Resources row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T04",
+      "question": "What was the total lease receivable principal amount?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$697 million",
+      "rationale": "The leases table lists Total Principal as $697 million.",
+      "evidence": [
+        {
+          "pdf_page": 69,
+          "region": "Note 11 Leases table, Total row, Principal column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T05",
+      "question": "What were total undelivered orders at the end of FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$12,214 million",
+      "rationale": "Note 14 lists Total Undelivered Orders for 2024 as $12,214 million.",
+      "evidence": [
+        {
+          "pdf_page": 70,
+          "region": "Note 14 Undelivered Orders at the End of the Period table, Total Undelivered Orders row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T06",
+      "question": "What was total net cost for FY 2023?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$24,616 million",
+      "rationale": "The reconciliation table shows Net Cost total for 2023 as $24,616 million.",
+      "evidence": [
+        {
+          "pdf_page": 72,
+          "region": "Note 15 Reconciliation of Net Cost to Net Outlays table, Net Cost row, 2023 Total column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I01",
+      "question": "What tool is NASA astronaut Kate Rubins using to insert a drive tube into the ground during the simulated moonwalk, and where was the simulation conducted?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "A hammer; San Francisco Volcanic Field in Northern Arizona; May 16, 2024",
+      "rationale": "The photo caption states Rubins uses a hammer to get a drive tube into the ground during a nighttime simulated moonwalk in the San Francisco Volcanic Field in Northern Arizona on May 16, 2024.",
+      "evidence": [
+        {
+          "pdf_page": 14,
+          "region": "Photo caption below the astronaut image"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I02",
+      "question": "How many Strategic Goals, Strategic Objectives, and Performance Goals are in NASA's performance framework breakdown?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "4 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals",
+      "rationale": "The framework breakdown row lists 04 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "Performance Framework Breakdown row below the framework diagram"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I03",
+      "question": "In the NASA FMFIA annual statement of assurance process diagram, which body appears directly below the Administrator?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Mission Support Council (MSC)",
+      "rationale": "The pyramid diagram places the Mission Support Council immediately below the Administrator.",
+      "evidence": [
+        {
+          "pdf_page": 38,
+          "region": "Figure 1 NASA FMFIA Annual Statement of Assurance Process, green tier directly below Administrator labeled MISSION SUPPORT COUNCIL"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I04",
+      "question": "What are the five risk categories in NASA's UNICORN framework?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Political and Reputational Risk, Programmatic Risk, Financial Risk, Strategic Risk, and Operational Risk",
+      "rationale": "The UNICORN diagram shows five colored risk boxes with these labels.",
+      "evidence": [
+        {
+          "pdf_page": 39,
+          "region": "Figure 2 NASA's UNICORN, five colored risk boxes"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I05",
+      "question": "What activity are the 2024 High School Aerospace Scholars shown participating in, and on what date?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Engineering Design Challenge focusing on exercise in space; July 29, 2024",
+      "rationale": "The photo caption identifies the activity as the Engineering Design Challenge focusing on exercise in space and gives the date as July 29, 2024.",
+      "evidence": [
+        {
+          "pdf_page": 27,
+          "region": "Did You Know? photo caption"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C01",
+      "question": "How many Strategic Goal 2 performance goals were rated Green in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "8 performance goals",
+      "rationale": "The FY 2024 Strategic Goal 2 bar shows a green segment labeled 8.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "Stacked bar chart, Strategic Goal 2 FY 2024 bar, green segment label 8"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C02",
+      "question": "How many Strategic Goal 3 performance goals were rated Green in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "10 performance goals",
+      "rationale": "The FY 2024 Strategic Goal 3 bar shows a green segment labeled 10.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "Stacked bar chart, Strategic Goal 3 FY 2024 bar, green segment label 10"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C03",
+      "question": "What were total assets in FY 2023?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$26,135 million",
+      "rationale": "The balance sheet components chart labels the FY 2023 assets segment as $26,135 million.",
+      "evidence": [
+        {
+          "pdf_page": 29,
+          "region": "Balance Sheet Components FY 2024 and FY 2023 bar chart, FY 2023 bar, Assets segment label"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C04",
+      "question": "What was the Fund Balance with Treasury amount and its share of total assets in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$17,186 million, or 62% of total assets",
+      "rationale": "The FY 2024 assets-by-type donut labels Fund Balance with Treasury as $17,186 and 62%.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Assets by Type 2024 donut, green segment labeled Fund Balance with Treasury $17,186 and 62%"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C05",
+      "question": "What was the FY 2024 net cost of operations for Strategic Goal 3, and what percentage of total net cost did it represent?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$2,929 million, or 12% of total net cost",
+      "rationale": "The net cost by strategic goal donut labels Goal 3 as 12% and $2,929.",
+      "evidence": [
+        {
+          "pdf_page": 32,
+          "region": "Net Cost of Operations By Strategic Goal for FY 2024 donut, purple segment labeled 12% Goal 3 $2,929"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M01",
+      "question": "Using the framework breakdown and the FY 2024 performance assessment, how many performance goals were rated (not unrated) in FY 2024?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "38 performance goals",
+      "rationale": "The framework has 50 Performance Goals. The FY 2024 chart shows unrated counts of 10 + 1 + 0 + 1 = 12, so 50 - 12 = 38 rated goals.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "Performance Framework Breakdown row: 50 Performance Goals"
+        },
+        {
+          "pdf_page": 22,
+          "region": "Stacked bar chart, FY 2024 grey Unrated segments: Strategic Goal 1 = 10, Strategic Goal 2 = 1, Strategic Goal 3 = 0, Strategic Goal 4 = 1"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M02",
+      "question": "What was the increase in total assets from FY 2023 to FY 2024?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$1,369 million increase",
+      "rationale": "FY 2024 total assets were $27,504 million and FY 2023 total assets were $26,135 million; $27,504 - $26,135 = $1,369 million.",
+      "evidence": [
+        {
+          "pdf_page": 29,
+          "region": "Balance Sheet Components FY 2024 and FY 2023 bar chart, FY 2023 Assets segment label $26,135"
+        },
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Total Assets row, 2024 column $27,504"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M03",
+      "question": "What is the difference between total budgetary resources and total undelivered orders for FY 2024?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$17,837 million",
+      "rationale": "Total budgetary resources were $30,051 million and total undelivered orders were $12,214 million; $30,051 - $12,214 = $17,837 million.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Total Budgetary Resources row, 2024 column $30,051"
+        },
+        {
+          "pdf_page": 70,
+          "region": "Note 14 Undelivered Orders table, Total Undelivered Orders row, 2024 column $12,214"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M04",
+      "question": "What is the combined FY 2024 amount of Fund Balance with Treasury and Property, Plant, and Equipment, Net?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$26,517 million",
+      "rationale": "Fund Balance with Treasury was $17,186 million and Property, Plant, and Equipment, Net was $9,331 million; $17,186 + $9,331 = $26,517 million.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Assets by Type 2024 donut, Fund Balance with Treasury segment $17,186"
+        },
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Property, Plant, and Equipment, Net row, 2024 column $9,331"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X01",
+      "question": "Which office confirmed the FY 2024 performance ratings?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Performance Improvement Officer (PIO)",
+      "rationale": "The text states that the Performance Improvement Officer (PIO) confirmed the ratings.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "First paragraph under FY 2024 Performance Assessment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X02",
+      "question": "What was the time to hire for all hires excluding Senior Executive Service and Pathways reduced to in Q3 of FY 2024?",
+      "group": "text",
+      "answerable": true,
+      "answer": "73 days",
+      "rationale": "The text says time to hire was reduced from 80 days in Q1 to 73 days in Q3 of FY 2024.",
+      "evidence": [
+        {
+          "pdf_page": 27,
+          "region": "Highlights, Attracting and Developing a Talented and Diverse Workforce paragraph"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X03",
+      "question": "Which organization is responsible for oversight of NASA's Internal Control Program and advises the Administrator on the Statement of Assurance?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Mission Support Council (MSC)",
+      "rationale": "The text identifies the Mission Support Council as the organization responsible for oversight of NASA's Internal Control Program and advises the Administrator on the Statement of Assurance.",
+      "evidence": [
+        {
+          "pdf_page": 38,
+          "region": "Paragraph describing the Mission Support Council (MSC)"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X04",
+      "question": "Which office leads NASA's Enterprise Risk Management effort in collaboration with the Quality Assurance Division within OCFO?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Agency Risk Management Officer (ARMO) within the Headquarters Office of Safety and Mission Assurance",
+      "rationale": "The text states that NASA's ARMO leads the Agency's ERM effort in collaboration with the Quality Assurance Division within OCFO.",
+      "evidence": [
+        {
+          "pdf_page": 39,
+          "region": "Paragraph beginning NASA's ARMO leads the Agency's ERM effort"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "U01",
+      "question": "What was the average annual salary of a NASA civil service employee in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages show salary payable but not an average annual salary metric.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'average salary,' 'payroll,' or 'compensation'; no average annual salary figure is provided in the supplied excerpts.",
+      "original_checked": false
+    },
+    {
+      "id": "U02",
+      "question": "How many NASA employees teleworked full-time in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages do not report a telework participation count.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'telework' or 'full-time telework'; no such metric appears in the supplied excerpts.",
+      "original_checked": false
+    },
+    {
+      "id": "U03",
+      "question": "What was the total cost of the James Webb Space Telescope in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages mention JWST in strategic context but do not provide its FY 2024 total cost.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'James Webb Space Telescope' and 'cost'; no FY 2024 total cost figure is provided in the supplied excerpts.",
+      "original_checked": false
+    },
+    {
+      "id": "U04",
+      "question": "What was the exact number of visitors to NASA centers in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages do not include a visitor-count metric.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'visitor' or 'visitors'; no visitor-count table or text appears in the supplied excerpts.",
+      "original_checked": false
+    },
+    {
+      "id": "U05",
+      "question": "What was NASA's total FY 2024 spending on office supplies?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages do not break out office-supply spending.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'office supplies' or 'supplies'; no such spending line appears in the supplied excerpts.",
+      "original_checked": false
+    },
+    {
+      "id": "U06",
+      "question": "How many cups of coffee did NASA astronauts consume aboard the International Space Station in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The supplied pages do not report astronaut coffee consumption.",
+      "evidence": [],
+      "absence_check": "Search the supplied pages for 'coffee' or 'consumption'; no such astronaut consumption metric appears in the supplied excerpts.",
+      "original_checked": false
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+[
+  {
+    "status": "error",
+    "error_type": "ValueError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "error_detail": "Local model did not return a valid JSON action",
+    "query_id": "T01",
+    "question": "According to the book, who succeeded the Pilgrims' first governor?",
+    "elapsed_seconds": 2.1437157000182196,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 255,
+        "total_tokens": 423,
+        "cost": 0.00014766,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00014766,
+          "upstream_inference_prompt_cost": 2.016e-05,
+          "upstream_inference_completions_cost": 0.0001275
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The book says the patroon system began in 1629. [7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854]",
+    "citations": [
+      "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "book patroon system began year",
+        "filter": null,
+        "results": [
+          {
+            "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 349,
+              "chunking": "paragraph:240",
+              "char_start": 110
+            },
+            "score": 0.42606005513310174
+          },
+          {
+            "id": "31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "Settlement\nunder the\npatroons.\n\n70 American History\n\npurchased Manhattan Island and founded New Am-\nsterdam.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 108,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.37852364778518677
+          },
+          {
+            "id": "551d340157d343ce4deb2d3e5d4bda7d833cda892b6d939418be877778afd3d9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": " given grants of land extendingh eight\nmiles on both sides of a river, or sixteen miles on one side,\nand back into the country indefinitely. While the patroons\nwere to be subject to the regulations of the Company in the\nmatters of trade and",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 589,
+              "chunking": "paragraph:240",
+              "char_start": 349
+            },
+            "score": 0.3412143886089325
+          }
+        ],
+        "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb | data\\raw\\american_history_1917.pdf | page 94]\nSettlement\nunder the\npatroons.\n\n70 American History\n\npurchased Manhattan Island and founded New Am-\nsterdam.",
+        "context_ids": [
+          "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+          "31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "patroon system began year",
+        "filter": null,
+        "results": [
+          {
+            "id": "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "These settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 349,
+              "chunking": "paragraph:240",
+              "char_start": 110
+            },
+            "score": 0.44951860757116835
+          },
+          {
+            "id": "31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "Settlement\nunder the\npatroons.\n\n70 American History\n\npurchased Manhattan Island and founded New Am-\nsterdam.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 108,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.4087477746232683
+          },
+          {
+            "id": "551d340157d343ce4deb2d3e5d4bda7d833cda892b6d939418be877778afd3d9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": " given grants of land extendingh eight\nmiles on both sides of a river, or sixteen miles on one side,\nand back into the country indefinitely. While the patroons\nwere to be subject to the regulations of the Company in the\nmatters of trade and",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 589,
+              "chunking": "paragraph:240",
+              "char_start": 349
+            },
+            "score": 0.3645152558241862
+          }
+        ],
+        "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb | data\\raw\\american_history_1917.pdf | page 94]\nSettlement\nunder the\npatroons.\n\n70 American History\n\npurchased Manhattan Island and founded New Am-\nsterdam.",
+        "context_ids": [
+          "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854",
+          "31150e8e644495088cb2f2c254c41affcd1edc28201a0a81a76efce9907e21bb"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T02",
+    "question": "In what year does the book say the patroon system began?",
+    "elapsed_seconds": 15.366640799999004,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 143,
+        "completion_tokens": 30,
+        "total_tokens": 173,
+        "cost": 2.959e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.959e-05,
+          "upstream_inference_prompt_cost": 1.144e-05,
+          "upstream_inference_completions_cost": 1.815e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 13,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 470,
+        "completion_tokens": 150,
+        "total_tokens": 620,
+        "cost": 0.0001314,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.0001314,
+          "upstream_inference_prompt_cost": 5.64e-05,
+          "upstream_inference_completions_cost": 7.5e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 162,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 478,
+        "completion_tokens": 483,
+        "total_tokens": 961,
+        "cost": 0.000258708,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000258708,
+          "upstream_inference_prompt_cost": 1.7208e-05,
+          "upstream_inference_completions_cost": 0.0002415
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 378,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Goods shipped from one colony to another had to either go by way of England or pay a high duty in colonial ports. [a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a]",
+    "citations": [
+      "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "1672 act goods shipped between colonies required",
+        "filter": null,
+        "results": [
+          {
+            "id": "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 110,
+            "text": "to the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 283,
+              "chunking": "paragraph:240",
+              "char_start": 97
+            },
+            "score": 0.7928913235664368
+          },
+          {
+            "id": "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 759,
+              "chunking": "paragraph:240",
+              "char_start": 526
+            },
+            "score": 0.7109237909317017
+          },
+          {
+            "id": "7b6c77505a00883439a6793ecc1c67ee71e41667d40360ed7afa6f3124b72351",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 109,
+            "text": " restrictions\n(1660). Certain colonial products (called enumerated\narticles), including sugar, tobacco, dye-woods, and indigo\ncould be shipped only to England or to other English\ncolonies.f In 1663, an act provided that all goods brought",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1235,
+              "chunking": "paragraph:240",
+              "char_start": 998
+            },
+            "score": 0.6604755520820618
+          }
+        ],
+        "context": "[a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a | data\\raw\\american_history_1917.pdf | page 110]\nto the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.\n\n[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act",
+        "context_ids": [
+          "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a",
+          "aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T03",
+    "question": "According to the 1672 act described in the book, what were goods shipped between colonies required to do?",
+    "elapsed_seconds": 5.036275999998907,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 176,
+        "completion_tokens": 87,
+        "total_tokens": 263,
+        "cost": 4.2826e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.2826e-05,
+          "upstream_inference_prompt_cost": 1.7248e-05,
+          "upstream_inference_completions_cost": 2.5578e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 69,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 500,
+        "completion_tokens": 213,
+        "total_tokens": 713,
+        "cost": 0.000131884,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000131884,
+          "upstream_inference_prompt_cost": 2.5384e-05,
+          "upstream_inference_completions_cost": 0.0001065
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 91,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The Treaty of Ryswick (1697) ended the war in Europe. [19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26]",
+    "citations": [
+      "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "1697 treaty ended the war in Europe book",
+        "filter": null,
+        "results": [
+          {
+            "id": "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " War of the Palatinate\n(1689-1697).",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 685,
+              "chunking": "paragraph:240",
+              "char_start": 650
+            },
+            "score": 0.6132489442825317
+          },
+          {
+            "id": "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 137,
+            "text": " made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1400,
+              "chunking": "paragraph:240",
+              "char_start": 1162
+            },
+            "score": 0.5837285170716942
+          },
+          {
+            "id": "815e17b644487c31da55ee20f1dd60381fd5fceff2233a9738d52a7f769311d6",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 136,
+            "text": "At outbreak of\nKing William’s War\no\n\ne\n\n2, wet\nro)\n\nt\n\neat |\n\n°\n1713\n\n| GBR x otien\nFrench\n\nDspanien\n\nBy Treaty of Utrecht\n\n°\n\nGulf of Mexico\n\nyan is. |\n\n=, & y\n\nfait\n\nCaribbean a |\n\nNorth America in 1689 and 1713",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1054,
+              "chunking": "paragraph:240",
+              "char_start": 841
+            },
+            "score": 0.48712951021614703
+          }
+        ],
+        "context": "[8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a | data\\raw\\american_history_1917.pdf | page 137]\n War of the Palatinate\n(1689-1697).\n\n[19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26 | data\\raw\\american_history_1917.pdf | page 137]\n made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits",
+        "context_ids": [
+          "8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a",
+          "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "T04",
+    "question": "What 1697 treaty ended the war in Europe according to the book?",
+    "elapsed_seconds": 3.582086899987189,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 169,
+        "completion_tokens": 67,
+        "total_tokens": 236,
+        "cost": 7.703e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 7.703e-05,
+          "upstream_inference_prompt_cost": 3.549e-05,
+          "upstream_inference_completions_cost": 4.154e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 49,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 471,
+        "completion_tokens": 185,
+        "total_tokens": 656,
+        "cost": 4.205e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.205e-05,
+          "upstream_inference_prompt_cost": 2.355e-05,
+          "upstream_inference_completions_cost": 1.85e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 78,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "error",
+    "error_type": "ValueError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "error_detail": "Local model did not return a valid JSON action",
+    "query_id": "T05",
+    "question": "What two products does the book say were imported from the West Indies?",
+    "elapsed_seconds": 19.336902399983956,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 64,
+        "total_tokens": 232,
+        "cost": 7.632e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 7.632e-05,
+          "upstream_inference_prompt_cost": 3.024e-05,
+          "upstream_inference_completions_cost": 4.608e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 46,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 495,
+        "completion_tokens": 98,
+        "total_tokens": 593,
+        "cost": 4.445e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.445e-05,
+          "upstream_inference_prompt_cost": 3.465e-05,
+          "upstream_inference_completions_cost": 9.8e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 54,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book colonial Virginia 1969 moon landing",
+        "filter": null,
+        "results": [
+          {
+            "id": "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 67,
+            "text": "The year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1540,
+              "chunking": "paragraph:240",
+              "char_start": 1313
+            },
+            "score": 0.4319652020931244
+          },
+          {
+            "id": "386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "2. The motives for colonization. Fiske, Old Virginia, I, 44-\n50. Eggleston, Beginners of a Nation, 73-86; 89-91, Ban-\ncroft, History of the United States, I, 84-85.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1550,
+              "chunking": "paragraph:240",
+              "char_start": 1386
+            },
+            "score": 0.4034876227378845
+          },
+          {
+            "id": "2d7ac83f073e8ea630bfc82359c231ec490acb37775a66e6a955ad2f6d817d61",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 132,
+            "text": "The fur\nuade.\n\nerontenac,\n\nExpiora-\ntion by\nNicolet,\n3634,\n\nJoliet and\nMarquette,\n1673\n\n108 American History",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 108,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.39049631357192993
+          }
+        ],
+        "context": "[63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9 | data\\raw\\american_history_1917.pdf | page 67]\nThe year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin\n\n[386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af | data\\raw\\american_history_1917.pdf | page 72]\n2. The motives for colonization. Fiske, Old Virginia, I, 44-\n50. Eggleston, Beginners of a Nation, 73-86; 89-91, Ban-\ncroft, History of the United States, I, 84-85.",
+        "context_ids": [
+          "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9",
+          "386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "1969 moon landing colonial Virginia in 1917 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 67,
+            "text": "The year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1540,
+              "chunking": "paragraph:240",
+              "char_start": 1313
+            },
+            "score": 0.4524547188010988
+          },
+          {
+            "id": "386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "2. The motives for colonization. Fiske, Old Virginia, I, 44-\n50. Eggleston, Beginners of a Nation, 73-86; 89-91, Ban-\ncroft, History of the United States, I, 84-85.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1550,
+              "chunking": "paragraph:240",
+              "char_start": 1386
+            },
+            "score": 0.4241459116848767
+          },
+          {
+            "id": "2d7ac83f073e8ea630bfc82359c231ec490acb37775a66e6a955ad2f6d817d61",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 132,
+            "text": "The fur\nuade.\n\nerontenac,\n\nExpiora-\ntion by\nNicolet,\n3634,\n\nJoliet and\nMarquette,\n1673\n\n108 American History",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 108,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.3993026376186236
+          }
+        ],
+        "context": "[63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9 | data\\raw\\american_history_1917.pdf | page 67]\nThe year 1619 is remarkable in the history of Virginia.\nIn that year arrived the first ship load of young women,\nwho beeame the wives of settlers. We see here the dis-\ntinc’ recognition of the value of the home as an element\nin\n\n[386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af | data\\raw\\american_history_1917.pdf | page 72]\n2. The motives for colonization. Fiske, Old Virginia, I, 44-\n50. Eggleston, Beginners of a Nation, 73-86; 89-91, Ban-\ncroft, History of the United States, I, 84-85.",
+        "context_ids": [
+          "63354e5a3d05c5cdb0fbe2d75cd5bc5bb84e78603f0a457d237d3f9d606a80b9",
+          "386080232be9d262d537c82e81c20132d912aeb3c95c8479698849cae03d77af"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "TU01",
+    "question": "According to this 1917 book, what did the 1969 moon landing change about colonial Virginia?",
+    "elapsed_seconds": 25.861498199985363,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 175,
+        "completion_tokens": 92,
+        "total_tokens": 267,
+        "cost": 4.8972e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.8972e-05,
+          "upstream_inference_prompt_cost": 2.972e-06,
+          "upstream_inference_completions_cost": 4.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 73,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 515,
+        "completion_tokens": 174,
+        "total_tokens": 689,
+        "cost": 0.00016425,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00016425,
+          "upstream_inference_prompt_cost": 7.725e-05,
+          "upstream_inference_completions_cost": 8.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 153,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 528,
+        "completion_tokens": 173,
+        "total_tokens": 701,
+        "cost": 0.000305,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000305,
+          "upstream_inference_prompt_cost": 0.000132,
+          "upstream_inference_completions_cost": 0.000173
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 152,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "error",
+    "error_type": "ValueError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "error_detail": "Local model did not return a valid JSON action",
+    "query_id": "TU02",
+    "question": "According to this 1917 book, how was the 2007 Jamestown anniversary celebrated?",
+    "elapsed_seconds": 9.111257300013676,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 173,
+        "completion_tokens": 55,
+        "total_tokens": 228,
+        "cost": 4.605664e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.605664e-05,
+          "upstream_inference_prompt_cost": 7.55664e-06,
+          "upstream_inference_completions_cost": 3.85e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 36,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 522,
+        "completion_tokens": 150,
+        "total_tokens": 672,
+        "cost": 0.00020262,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00020262,
+          "upstream_inference_prompt_cost": 0.00010962,
+          "upstream_inference_completions_cost": 9.3e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 131,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 534,
+        "completion_tokens": 132,
+        "total_tokens": 666,
+        "cost": 8.1896e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.1896e-05,
+          "upstream_inference_prompt_cost": 1.5896e-05,
+          "upstream_inference_completions_cost": 6.6e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 87,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

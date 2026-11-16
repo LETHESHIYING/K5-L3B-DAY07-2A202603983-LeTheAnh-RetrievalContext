@@ -1,0 +1,325 @@
+{
+  "question": "What was NASA's total civil service workforce by center in the shown FY 2024 data?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "6e070c5349b7d1a2d21610bf04076dbc46804fc74c8839751ae737c58e3a16a4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  WELCOME TO NASA\nNASA by the Numbers\n\n\n\n\n  FY 2024 BUDGET                                   NASA’S CIVIL SERVICE WORKFORCE BY CENTER\n $24.9 Billion           18,475 Employees\n\n\n\n\n                                                               Johnson Space Center       Goddard Space Flight $13.3B    Research,DevelopmentEngineering, &       3,229 (18%)      3,180 (17%)              (54%)                                           (JSC)                      Center (GSFC)\n\n\n\n                                                                     (13%)            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 13,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7788136137238985
+        },
+        {
+          "chunk_id": "06c3e9105f8f601eaf4f346bc6954c54bdf9ff986f7c519d3aa3c53d97fbe146",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " days in Q1 to 73 days in Q3 of FY 2024, and we are currently taking steps to gain\nefficiency through multiple initiatives, such as using existing certificates to reduce the time and resources required to\nacquire new hires.\n\nIn FY 2024, NASA began a six-phase multi-year Agencywide Full Workforce Barrier Analysis. The barrier analysis will\naddress NASA’s overall workforce across the Agency and will examine four key identities: 1) race/ethnicity, 2) gender,\n3) disability status, 4) LGBTQIA+ and include a component addressing NASA’s leadership pipeline. Thus far the Agency\nhas completed two",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1786,
+            "pdf_page": 27,
+            "char_start": 1192,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6084776520729065
+        },
+        {
+          "chunk_id": "634c7ecb9a441cf5528542d0e04d598b31c3086969ce85c4cc9a5103fa1356cd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 115,
+          "text": "                                                         S C A N M E\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                            114114",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3146,
+            "pdf_page": 115,
+            "char_start": 2969,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.592870403186039
+        },
+        {
+          "chunk_id": "602789962cfa29b086d766ba663204509490d711fe9749117f005faa31e24c92",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": " Magazine,\n                              2023), and Top 20 Government Employers (Woman Engineer Magazine, 2023).\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                              CONTINUED ON THE NEXT PAGE → 105105",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4381,
+            "pdf_page": 106,
+            "char_start": 4158,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5905040502548218
+        },
+        {
+          "chunk_id": "fe8e8e81c79c42bf8ded8d767f87e779ed633934454fa146109015d91169cbef",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 14,
+          "text": " 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                           1313",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 700,
+            "pdf_page": 14,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5827003717422485
+        },
+        {
+          "chunk_id": "67206998f6277690b9b74c7c6a086fd62468152ce7b75d03fdc7ef8f329291d0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 42,
+          "text": " technology.\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                        4141",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4853,
+            "pdf_page": 42,
+            "char_start": 4738,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5815832614898682
+        },
+        {
+          "chunk_id": "2345518afff2666b6cde675f8aa09ce5a9aba5c9f3efcf6693cc3b14ce08e73f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 1,
+          "text": "                                                   National Aeronautics and\n                                               Space Administration\n\n\n\n\n\n                  FY 2024\n AGENCY\nFINANCIAL\n REPORT",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 200,
+            "pdf_page": 1,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5751381769693995
+        },
+        {
+          "chunk_id": "b96aaff873da298920a739afadb62168fc263ac405dbc66e9d1f7a5e2d2dd519",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " and can be found at nasa.gov/performance.\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                  2020",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3729,
+            "pdf_page": 21,
+            "char_start": 3591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5746826783011758
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6724789142608643
+        },
+        {
+          "chunk_id": "0db76c539420c2a730770e9b70fff373e1ea2dbefa99189f8c802d8984f07b02",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"table\", \"location\": \"right main panel\", \"description\": \"NASA civil service workforce by center, with employee counts and percentages.\", \"visible_values\": [\"NASA'S CIVIL SERVICE WORKFORCE BY CENTER\", \"18,475 Employees\", \"3,229 (18%) Johnson Space Center (JSC)\", \"3,180 (17%) Goddard Space Flight Center (GSFC)\", \"2,345 (13%) Marshall Space Flight Center (MSFC)\", \"2,104 (11%) Kennedy Space Center (KSC)\", \"1,848 (10%) Langley Research Center (LaRC)\", \"1,744 (9%) NASA Headquarters (HQ)\", \"1,471 (8%) Glenn Research Center (GRC)\", \"1,327 (7%)",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "right main panel",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6635809741269973
+        },
+        {
+          "chunk_id": "dcd32f6e0c85071bd9feee05abcdd832ee7e0eb49fa508933708a9233febcf88",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 47,
+          "text": "nterprise workforce to enable the NASA of the future.\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "right side of page",
+            "pdf_page": 47,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5335533618927002
+        },
+        {
+          "chunk_id": "a8ad3a175056266a886cb4abcfaf01661deda8d1054eac866aa64b2b95c1cd7a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "rrent with the FY 2026 President's Budget Request and can be found at nasa.gov/performance.\", \"FY 2024 AGENCY FINANCIAL REPORT NASA.GOV\", \"20\", \"NASA (logo)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Bottom of the page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.513306736946106
+        },
+        {
+          "chunk_id": "0c05db9b6f5262b1c405b055a34729b86e5ce68417f89ca7e634a48ae1365f2e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 99,
+          "text": "BJECT: Agency Response to Office of Inspector General Draft Report, “2024 Report on NASA’s Top Management and Performance Challenges”\", \"Q-24-02-00-AOQA\", \"September 30, 2024\", \"Challenge 1: Improving the Management of Major Programs and Projects\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 99,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5075798034667969
+        },
+        {
+          "chunk_id": "c77772aa8409dd9e91d1e3fb0c1b35934e7fda7060924bec86f63f0e38f279e7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 35,
+          "text": "{\"type\": \"caption\", \"location\": \"lower center, below photo\", \"description\": \"Caption honoring Women's History Month 2024 and identifying the gathered female staff in front of the Katherine G. Johnson Computational Research Facility at NASA's Langley Research Center.\", \"visible_values\": [\"Women's History Month 2024\", \"Katherine G. Johnson Computational Research Facility\", \"NASA's Langley Research Center\", \"Hampton, Virginia\", \"Feb. 6, 2024\", \"NASA/David C. Bowman\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower center, below photo",
+            "pdf_page": 35,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48009976744651794
+        },
+        {
+          "chunk_id": "682a559c3c94f1dafc2a630226389b78a21adf6da462b392ff4ec4863383e935",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": "Officer\", \"Chief, Safety & Mission Assurance\", \"Chief Scientist/Senior Climate Advisor\", \"Ames Research Center\", \"Armstrong Flight Research Center\", \"Glenn Research Center\", \"Goddard Space Flight Center\", \"Jet Propulsion Laboratory**\", \"Johnson Space Center\", \"Kennedy Space Center\", \"Langley Research Center\", \"Marshall Space Flight Center\", \"Stennis Space Center\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, below introductory paragraph",
+            "pdf_page": 11,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4766882359981537
+        },
+        {
+          "chunk_id": "a0a097679e2a399f00cddea7dd30d89e4a4129ff0c0534c8567a53fb0591d00e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 12,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page contains a US map titled 'NASA Centers and Facilities' with a legend and labeled NASA centers/facilities, followed by a text section 'Testing Capabilities Support Future Mission Success' and three captioned informative photos about testing and assembly work. The visible footer shows 'FY 2024 AGENCY FINANCIAL REPORT', 'NASA.GOV', and page number 11, not 12.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 12,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.472842812538147
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 27
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 115
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 47
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 106
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 7918,
+    "completion_tokens": 611,
+    "total_tokens": 8529,
+    "cost": 0.0008952768,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008952768,
+      "upstream_inference_prompt_cost": 0.0006841152,
+      "upstream_inference_completions_cost": 0.0002111616
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 415,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"In the shown FY 2024 data, NASA’s total civil service workforce was 18,475 Employees. By center: Johnson Space Center (JSC) 3,229 (18%); Goddard Space Flight Center (GSFC) 3,180 (17%); Marshall Space Flight Center (MSFC) 2,345 (13%); Kennedy Space Center (KSC) 2,104 (11%); Langley Research Center (LaRC) 1,848 (10%); NASA Headquarters (HQ) 1,744 (9%); Glenn Research Center (GRC) 1,471 (8%); Ames Research Center (ARC) 1,327 (7%); Other 675 (4%); Armstrong Flight Research Center (AFRC) 552 (3%).\",\"citations\":[{\"page\":13,\"region\":\"right main panel, 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER' table\"}]}",
+  "answer": {
+    "answer": "In the shown FY 2024 data, NASA’s total civil service workforce was 18,475 Employees. By center: Johnson Space Center (JSC) 3,229 (18%); Goddard Space Flight Center (GSFC) 3,180 (17%); Marshall Space Flight Center (MSFC) 2,345 (13%); Kennedy Space Center (KSC) 2,104 (11%); Langley Research Center (LaRC) 1,848 (10%); NASA Headquarters (HQ) 1,744 (9%); Glenn Research Center (GRC) 1,471 (8%); Ames Research Center (ARC) 1,327 (7%); Other 675 (4%); Armstrong Flight Research Center (AFRC) 552 (3%).",
+    "citations": [
+      {
+        "page": 13,
+        "region": "right main panel, 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER' table"
+      }
+    ]
+  },
+  "elapsed_seconds": 28.02367310001864
+}

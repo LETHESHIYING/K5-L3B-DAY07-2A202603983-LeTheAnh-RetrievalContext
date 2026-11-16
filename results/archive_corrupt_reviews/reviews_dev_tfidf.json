@@ -1,0 +1,148 @@
+[
+  {
+    "query_id": "H01",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "H02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H05",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H06",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H07",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H08",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "H10",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "H11",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H12",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H13",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H14",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H15",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H16",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 0,
+    "reason": "T?n John Smith kh?ng xu?t hi?n trong ?o?n ???c tr?ch; kh?ng ?? x?c ??nh ch? th?."
+  },
+  {
+    "query_id": "H18",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold v? n?i dung ?o?n ???c tr?ch sau khi ??c ??i chi?u."
+  },
+  {
+    "query_id": "H19",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "H20",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "DU01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Sau th?i ?i?m xu?t b?n; ?? ki?m tra y?u c?u t? ch?i v? kh?ng c? th?m kh?ng ??nh."
+  },
+  {
+    "query_id": "DU02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Sau th?i ?i?m xu?t b?n; ?? ki?m tra y?u c?u t? ch?i v? kh?ng c? th?m kh?ng ??nh."
+  }
+]

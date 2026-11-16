@@ -1,0 +1,102 @@
+{
+  "split": "dev",
+  "benchmark_sha256": "6879e9913f5e51c08ebaf876ff428462e3fc884ee99132baac012ad615195471",
+  "top_k": 5,
+  "max_pages": 4,
+  "text_strategy": "advanced_nasa_fy2024_text_v1",
+  "visual_strategy": "advanced_nasa_fy2024_vision_v2",
+  "elapsed_seconds": 217.5543980000075,
+  "runs": [
+    {
+      "id": "dev-001",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-002",
+      "status": "completed",
+      "exit_code": 1
+    },
+    {
+      "id": "dev-003",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-004",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-005",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-006",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-007",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-008",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-009",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-010",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-011",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-012",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-013",
+      "status": "completed",
+      "exit_code": 1
+    },
+    {
+      "id": "dev-014",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "dev-015",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "DUA",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "DUB",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "DUC",
+      "status": "completed",
+      "exit_code": 0
+    }
+  ],
+  "warning": "Run status is not a pass score. Answers require original-source review."
+}

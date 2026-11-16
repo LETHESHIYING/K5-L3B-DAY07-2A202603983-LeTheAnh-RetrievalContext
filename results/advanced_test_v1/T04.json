@@ -1,0 +1,325 @@
+{
+  "question": "What was the total lease receivable principal amount?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "a46b135894c6647f6b82e0e814d8371259a805278976ec81318616d729bf79dd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 69,
+          "text": " 73                 105\n     2090-94                              42              63                 105\n     2095-99                               49              52                  101\n     2100-04                                  75              36                     111\n     2105-09                                89                16                 105\n     2110-14                                       31                    1                 32\n     Total                            $ 697        $ 1,805            $ 2,502\n     Allowance: Lease Receivable          —         —          ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2990,
+            "pdf_page": 69,
+            "char_start": 2393,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6623588800430298
+        },
+        {
+          "chunk_id": "9c3086be8ae34863964e5eb8d8aaf6c44bfb918c52df39909acd67821bc680dc",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 69,
+          "text": " FINANCIAL SECTION  FINANCIAL STATEMENTS, NOTES, AND REQUIRED SUPPLEMENTARY INFORMATION\n\n       NOTE 11\n      Leases (CONTINUED)11\n\n                                                                     (IN MILLIONS)                                See Note 7, Other Assets\n    FY                            PRINCIPAL      INTEREST     TOTAL RECEIVABLE        (Lease Receivable)\n                                                                                                                    See Note 8, Liabilities Not\n     2025                                $ 5           $ 34              $ 39  ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 69,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6550105810165405
+        },
+        {
+          "chunk_id": "8c031adf5585126587f8cfe9e81c027a8cc785706c687ab5fed1f3b8117e414f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": "                                         (4)         —          (4)\n    Recognition of right-to-use lease assets                            —             27         27\n    Custodial/Non-exchange revenue                                                                (1)               (13)         (14)\n    Appropriated receipts for Trust/Special Funds                                                 1         —             1\n Total Other Reconciling Items                                                             (4)               14         10\n Total Net Outlays (Calculated Total)             ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4190,
+            "pdf_page": 71,
+            "char_start": 3591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6363556981086731
+        },
+        {
+          "chunk_id": "d4828f6e6b74a6712b5a5ac8d84570f50254687592e8c34ad340aa10f2c2faf7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": " leases,\nincluding the estimated allowance for uncollectible accounts (See Note 11, Leases, for more information). The value of\nOther Assets at the end of the period was $697 million, which represent lessor lease receivables as of September 30, 2024.\nNASA has determined the estimated uncollectible amount is zero due to the nature of arrangements.\n\n\n        NOTE 8\n         Liabilities Not Covered by Budgetary Resources08\n\nLiabilities Not Covered by Budgetary Resources include future environmental cleanup liability, legal claims, other\nretirement benefits, workers’ compensation, annual leave,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1191,
+            "pdf_page": 64,
+            "char_start": 594,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6163144340327731
+        },
+        {
+          "chunk_id": "e3d938e577e2ab4ab06cdbb21fc9d0bac5bd50ff4f979d72d8164057a474cd73",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 78,
+          "text": " 1,160            —\n Estimated Subtotal                 $ 28           $ 1,979                 $ 2,180              $ 27\n SFFAS 54, Lease Implementation                                    (1,411)                         (1,610)                      (7)\n Estimated Total                    $ 28            $ 568                  $ 570              $ 20\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                        7777",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 7020,
+            "pdf_page": 78,
+            "char_start": 6565,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6137689582247173
+        },
+        {
+          "chunk_id": "794d652d3482342fe3739446fa99c7f18b0f89fcfd77d191ba2cd97724a77284",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 68,
+          "text": "                                                                                                       (Lease Liabilities)\n    2028                                      3                  1                 4\n    2029                                      3         —                   3\n    2030-34                                   7         —                    7\n     Total                             $ 24           $ 4              $ 28\n\n\n   NASA, as a lessee, has intragovernmental lease                                        (IN MILLIONS)\n   arrangements for office space and associated",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2977,
+            "pdf_page": 68,
+            "char_start": 2384,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.562869131565094
+        },
+        {
+          "chunk_id": "c5137c9a9bb8c99bac2740df9b20e7f353538f42541f92b8bbc5f4138c5994a1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 68,
+          "text": " interest/discount rates\n   ranged from 1.7% to 8.35%. Arrangements that include sub-lease provisions based on future performance of the\n    lessee are considered variable payments and are not included in the lease receivable and are recognized as revenue\n    in the period received. NASA recognized $48.6 million of annual lease revenue in FY 2024 associated with leases\n   under SFFAS 54.\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 6767",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4662,
+            "pdf_page": 68,
+            "char_start": 4164,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5625266358224628
+        },
+        {
+          "chunk_id": "bba8ff8f4a55c330cf202fef67296dc6c6ded72364f556090a4ecee76885fe19",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 68,
+          "text": " securities was utilized. These rates ranged from 4.69% to 4.88% based on the remaining\n    term. NASA recognized $5.4 million of annual lease expense in FY 2024 associated with leases under SFFAS 54.\n\n\n                                                                     (IN MILLIONS)                                                                                                                    See Note 5, Property, Plant,\n    FY                            PRINCIPAL      INTEREST      TOTAL LIABILITY         and Equipment, Net (Lease\n                                                        ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1785,
+            "pdf_page": 68,
+            "char_start": 1186,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5380979776382446
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "4e81a2c4f26149770d2816556b06524c63cd4c9e731229d4fc128db17dcf7cd7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": "o-use lease assets: —, 27, 27; Custodial/Non-exchange revenue: (1), (13), (14); Appropriated receipts for Trust/Special Funds: 1, —, 1; Total Other Reconciling Items: (4), 14, 10. Total Net Outlays (Calculated Total): $192, $24,823, $25,015. Budgetary Agency Outlays, net: total $25,015.\"}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center to lower page, spanning page width",
+            "pdf_page": 71,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5694012641906738
+        },
+        {
+          "chunk_id": "8cc3ba8d8ff13e496f95b7cc6157587fca02d86e10eea2a9f1d556c0a59c4905",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 69,
+          "text": "{\"type\": \"table\", \"location\": \"upper half, left/center\", \"description\": \"Lease receivables table with columns for FY, Principal, Interest, and Total Receivable, followed by Total, Allowance: Lease Receivable, and Net rows. Units are stated in millions.\", \"visible_values\": [\"(IN MILLIONS)\", \"FY | PRINCIPAL | INTEREST | TOTAL RECEIVABLE\", \"2025 | $5 | $34 | $39\", \"2026 | 6 | 33 | 39\", \"2027 | 5 | 33 | 38\", \"2028 | 4 | 33 | 37\", \"2029 | 3 | 33 | 36\", \"2030-34 | 13 | 161 | 174\", \"2035-39 | 14 | 157 | 171\", \"2040-44 | 19 | 152 | 171\", \"2045-49 | 22 ",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "upper half, left/center",
+            "pdf_page": 69,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5494788557601666
+        },
+        {
+          "chunk_id": "cbe75d2639124ae7b7aa7913ea991e06b5a04691431f5bd7dd903bba69f9da70",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 64 (footer shows 63) of the FY 2024 NASA Agency Financial Report contains two financial-statement note sections and one financial table. Note 7 describes Other Assets, including $697 million of lesser lease receivables as of September 30, 2024, and states the estimated uncollectible amount is zero. Note 8 describes Liabilities Not Covered by Budgetary Resources and cites discount rates of 2.65 percent for FY 2024 and 2.33 percent for FY 2023. A table in millions compares 20",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.535310685634613
+        },
+        {
+          "chunk_id": "ae93817af474930e719963c5b995f99fc3c88f3c29361480a4d7d360657f087b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 62,
+          "text": "-to-Use Lease Assets | (4) | —\", \"Dispositions | (85) | (106)\", \"Depreciation Expense | (492) | (594)\", \"Donations | 7 | 44\", \"Balance End of Year | $9,331 | $8,651\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle right",
+            "pdf_page": 62,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.515230655670166
+        },
+        {
+          "chunk_id": "ef816c923dcd132390aab6b2a9d5fb6835556464cfd1cc12e8b09ce20a81a378",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 77,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the FY 2024 Agency Financial Report, Financial Section, Note 18 Public-Private Partnerships (continued). It contains a financial table of public-private agreement/contract amounts for 2024 and 2023, followed by text section 'B. Leases' describing NASA's Enhanced Use Lease (EUL) and National Historic Preservation Act (NHPA) leasing programs, benefits, limitations, and termination responsibilities. No charts, maps, diagrams, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 77,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4922218322753906
+        },
+        {
+          "chunk_id": "9a87eb3c5223f190b1ca61b36ffb50863beb453a48a21f6e61fdee7576e5af0e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 69,
+          "text": "| 147 | 169\", \"2050-54 | 25 | 141 | 166\", \"2055-59 | 34 | 134 | 168\", \"2060-64 | 45 | 125 | 170\", \"2065-69 | 55 | 113 | 168\", \"2070-74 | 52 | 101 | 153\", \"2075-79 | 52 | 88 | 140\", \"2080-84 | 25 | 79 | 104\", \"2085-89 | 32 | 73 | 105\", \"2090-94 | 42 | 63 | 105\", \"2095-99 | 49 | 52 | 101\", \"2100-04 | 75 | 36 | 111\", \"2105-09 | 89 | 16 | 105\", \"2110-14 | 31 | 1 | 32\", \"Total | $697 | $1,805 | $2,502\", \"Allowance: Lease Receivable | — | — | —\", \"Net: | $697 | $1,805 | $2,502\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "upper half, left/center",
+            "pdf_page": 69,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.47654983401298523
+        },
+        {
+          "chunk_id": "272c8acdac302d2ed3e84b87886917eeb136fe09fab85101b8d5e06e25637614",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": ", and equipment disposals and revaluations: —, (85), (85); Lessee lease amortization: —, (4), (4); Lease expense: —, (3), (3); Applied overhead/cost capitalization offset: —, 1,227, 1,227. Increase/(Decrease) in Assets not affecting Budgetary Outlays: Accounts receivable, net: 30, 25, 55; Other assets: 111, 20, 131. (Increase)/Decrease in Liabilities not affecting Budgetary Outlays: Accounts payable: 7, (16), (9); Lessee lease liability: —, (24), (24); Environmental and disposal liabilities: —, (49), (49); Federal employee salary, leave, and be",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center to lower page, spanning page width",
+            "pdf_page": 71,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.47477246745742785
+        },
+        {
+          "chunk_id": "dc54e05d373489b0633a87b8d0ab3cc780f73f4967bbe127cb5250320d98de1e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 52,
+          "text": "ppropriations $13,157 / $13,333. Cumulative Results from Operations: Beginning Balance $6,083 / $5,258; Appropriations Used 25,007 / 25,165; Non-Exchange Revenue 27 / 1; Donations and Forfeitures of Property 8 / 44; Imputed Financing 292 / 231; Net Cost of Operations (24,734) / (24,616); Net Change in Cumulative Results of Operations $600 / $825; Total Cumulative Results of Operations $6,683 / $6,083. Net Position $19,840 / $19,416.\"}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center",
+            "pdf_page": 52,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4670858383178711
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 69
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 71
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 64
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 62
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 78
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 77
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8759,
+    "completion_tokens": 220,
+    "total_tokens": 8979,
+    "cost": 0.000782847,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000782847,
+      "upstream_inference_prompt_cost": 0.000639407,
+      "upstream_inference_completions_cost": 0.00014344
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 159,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\": \"The total lease receivable principal amount was $697 million (amounts in millions) as of September 30, 2024.\", \"citations\": [{\"page\": 69, \"region\": \"Lease receivables table, Total row, Principal column\"}]}",
+  "answer": {
+    "answer": "The total lease receivable principal amount was $697 million (amounts in millions) as of September 30, 2024.",
+    "citations": [
+      {
+        "page": 69,
+        "region": "Lease receivables table, Total row, Principal column"
+      }
+    ]
+  },
+  "elapsed_seconds": 57.94148160002078
+}

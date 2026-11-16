@@ -1,0 +1,991 @@
+[
+  {
+    "status": "error",
+    "error_type": "TimeoutError",
+    "events": [
+      {
+        "event": "controller_error",
+        "error_type": "TimeoutError"
+      }
+    ],
+    "answer": "",
+    "citations": [],
+    "query_id": "V2T01",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "elapsed_seconds": 124.15834350002115,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": []
+  },
+  {
+    "status": "answered",
+    "answer": "New Haven [1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82]",
+    "citations": [
+      "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Puritans 1638 colony Long Island Sound name",
+        "filter": null,
+        "results": [
+          {
+            "id": "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 86,
+            "text": "In 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 460,
+              "chunking": "paragraph:240",
+              "char_start": 242
+            },
+            "score": 0.797184944152832
+          },
+          {
+            "id": "ce2ccc2b0438049c22ba3cf59c850e05beb6fb14fcb57c0648000966e0f49baf",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 79,
+            "text": "prominent Puritans, confirming their title to a strip of land\n\nbetween the Charles and the Merrimac Rivers and three\n\nmiles beyond each. This was the incorporation of the\n\n“Governor and Company of Massachusetts Bay in New\nEngland.”",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1042,
+              "chunking": "paragraph:240",
+              "char_start": 811
+            },
+            "score": 0.5299960970878601
+          },
+          {
+            "id": "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": "English Colonies in the Eighteenth Century 131",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 46,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.5237847878804686
+          }
+        ],
+        "context": "[1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82 | data\\raw\\american_history_1917.pdf | page 86]\nIn 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for\n\n[ce2ccc2b0438049c22ba3cf59c850e05beb6fb14fcb57c0648000966e0f49baf | data\\raw\\american_history_1917.pdf | page 79]\nprominent Puritans, confirming their title to a strip of land\n\nbetween the Charles and the Merrimac Rivers and three\n\nmiles beyond each. This was the incorporation of the\n\n“Governor and Company of Massachusetts Bay in New\nEngland.”",
+        "context_ids": [
+          "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+          "ce2ccc2b0438049c22ba3cf59c850e05beb6fb14fcb57c0648000966e0f49baf"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T02",
+    "question": "What name did the Puritans give their 1638 colony on Long Island Sound?",
+    "elapsed_seconds": 3.72711390000768,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 171,
+        "completion_tokens": 35,
+        "total_tokens": 206,
+        "cost": 2.0328e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.0328e-05,
+          "upstream_inference_prompt_cost": 2.828e-06,
+          "upstream_inference_completions_cost": 1.75e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 523,
+        "completion_tokens": 224,
+        "total_tokens": 747,
+        "cost": 4.855e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.855e-05,
+          "upstream_inference_prompt_cost": 2.615e-05,
+          "upstream_inference_completions_cost": 2.24e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 129,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1669 Fundamental Constitution for Carolina drafted by",
+        "filter": null,
+        "results": [
+          {
+            "id": "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 102,
+            "text": "In North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1192,
+              "chunking": "paragraph:240",
+              "char_start": 955
+            },
+            "score": 0.5872149467468262
+          },
+          {
+            "id": "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 102,
+            "text": "The charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 355,
+              "chunking": "paragraph:240",
+              "char_start": 116
+            },
+            "score": 0.5564514066903955
+          },
+          {
+            "id": "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 101,
+            "text": " founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 440,
+              "chunking": "paragraph:240",
+              "char_start": 265
+            },
+            "score": 0.5479543209075928
+          }
+        ],
+        "context": "[5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82 | data\\raw\\american_history_1917.pdf | page 102]\nIn North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its\n\n[a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156 | data\\raw\\american_history_1917.pdf | page 102]\nThe charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+        "context_ids": [
+          "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+          "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Fundamental Constitution Carolina 1669 drafted by Locke",
+        "filter": null,
+        "results": [
+          {
+            "id": "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 101,
+            "text": " founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 440,
+              "chunking": "paragraph:240",
+              "char_start": 265
+            },
+            "score": 0.6488572359085083
+          },
+          {
+            "id": "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 102,
+            "text": "In North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1192,
+              "chunking": "paragraph:240",
+              "char_start": 955
+            },
+            "score": 0.510384738445282
+          },
+          {
+            "id": "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 102,
+            "text": "The charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 355,
+              "chunking": "paragraph:240",
+              "char_start": 116
+            },
+            "score": 0.5099591308856537
+          }
+        ],
+        "context": "[5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82 | data\\raw\\american_history_1917.pdf | page 102]\nIn North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its\n\n[a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156 | data\\raw\\american_history_1917.pdf | page 102]\nThe charter of 1663 provided that the laws of Carolina\nshould be enacted “by and with the advice, assent and ap-\nprobation of the freemen,” who were to meet either in\nperson or by their representatives. Accordingly, an As-\nsembly was early",
+        "context_ids": [
+          "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+          "a0e26c36dbaa7f289da2b46101d54be8f08271cf46f980f56ad994e162521156"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "V2T03",
+    "question": "Who drafted the 1669 Fundamental Constitution for Carolina according to the book?",
+    "elapsed_seconds": 10.132164800015744,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 169,
+        "completion_tokens": 33,
+        "total_tokens": 202,
+        "cost": 2.0038e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.0038e-05,
+          "upstream_inference_prompt_cost": 3.538e-06,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 488,
+        "completion_tokens": 148,
+        "total_tokens": 636,
+        "cost": 9.1336e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.1336e-05,
+          "upstream_inference_prompt_cost": 4.7824e-05,
+          "upstream_inference_completions_cost": 4.3512e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 127,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 522,
+        "completion_tokens": 65,
+        "total_tokens": 587,
+        "cost": 3.26e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.26e-05,
+          "upstream_inference_prompt_cost": 2.61e-05,
+          "upstream_inference_completions_cost": 6.5e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 44,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Towns and counties. [4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84]",
+    "citations": [
+      "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Middle colonies two types of local government book",
+        "filter": null,
+        "results": [
+          {
+            "id": "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 122,
+            "text": "Local government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1067,
+              "chunking": "paragraph:240",
+              "char_start": 832
+            },
+            "score": 0.6037124395370483
+          },
+          {
+            "id": "5ae4e6ac051f4eefc8621e9f16c003cae598edd109513ce0bb909a9e968008f0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 120,
+            "text": "Local gov-\nsnment.\n\n96 American History",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 39,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.5656088590621948
+          },
+          {
+            "id": "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 159,
+            "text": "English Colonies in the Eighteenth Century 135",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 46,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.5311682382574154
+          }
+        ],
+        "context": "[4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84 | data\\raw\\american_history_1917.pdf | page 122]\nLocal government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the\n\n[5ae4e6ac051f4eefc8621e9f16c003cae598edd109513ce0bb909a9e968008f0 | data\\raw\\american_history_1917.pdf | page 120]\nLocal gov-\nsnment.\n\n96 American History\n\n[f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5 | data\\raw\\american_history_1917.pdf | page 159]\nEnglish Colonies in the Eighteenth Century 135",
+        "context_ids": [
+          "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+          "5ae4e6ac051f4eefc8621e9f16c003cae598edd109513ce0bb909a9e968008f0",
+          "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T04",
+    "question": "What two types of local government existed in the Middle colonies according to the book?",
+    "elapsed_seconds": 5.817105299996911,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 170,
+        "completion_tokens": 33,
+        "total_tokens": 203,
+        "cost": 2.0104e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.0104e-05,
+          "upstream_inference_prompt_cost": 3.604e-06,
+          "upstream_inference_completions_cost": 1.65e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 555,
+        "completion_tokens": 189,
+        "total_tokens": 744,
+        "cost": 0.000123514,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000123514,
+          "upstream_inference_prompt_cost": 2.9014e-05,
+          "upstream_inference_completions_cost": 9.45e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 91,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "Board of Trade [cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3]",
+    "citations": [
+      "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "central administrative body established 1696 colonial affairs",
+        "filter": null,
+        "results": [
+          {
+            "id": "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 159,
+            "text": "English Colonies in the Eighteenth Century 135",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 46,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.5958031238376187
+          },
+          {
+            "id": "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 155,
+            "text": "English Colonies in the Eighteenth Century 131",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 46,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.5929723381996197
+          },
+          {
+            "id": "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 158,
+            "text": " view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1860,
+              "chunking": "paragraph:240",
+              "char_start": 1620
+            },
+            "score": 0.5667525192050634
+          }
+        ],
+        "context": "[f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5 | data\\raw\\american_history_1917.pdf | page 159]\nEnglish Colonies in the Eighteenth Century 135\n\n[a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a | data\\raw\\american_history_1917.pdf | page 155]\nEnglish Colonies in the Eighteenth Century 131\n\n[cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3 | data\\raw\\american_history_1917.pdf | page 158]\n view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+        "context_ids": [
+          "f8212b5978e075381f22b4691c1737482790e912c95508d7b44b527fba3416b5",
+          "a25b40b7e4875704f5f32bb9abd90bc219e681a87b6c4f3c0143f5711e16d75a",
+          "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T05",
+    "question": "What was the name of the central administrative body established in 1696 for colonial affairs?",
+    "elapsed_seconds": 3.3017837000079453,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 172,
+        "completion_tokens": 34,
+        "total_tokens": 206,
+        "cost": 3.764e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.764e-05,
+          "upstream_inference_prompt_cost": 2.064e-05,
+          "upstream_inference_completions_cost": 1.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 19,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 587,
+        "completion_tokens": 183,
+        "total_tokens": 770,
+        "cost": 5.939e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.939e-05,
+          "upstream_inference_prompt_cost": 4.109e-05,
+          "upstream_inference_completions_cost": 1.83e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 89,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown population 1920 US census",
+        "filter": null,
+        "results": [
+          {
+            "id": "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1976,
+              "chunking": "paragraph:240",
+              "char_start": 1782
+            },
+            "score": 0.5402423691460646
+          },
+          {
+            "id": "284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 65,
+            "text": "Afier Smith’s departure for England (1609), conditions\nin the colony grew wo: Their numbers fell from more\nthan 600 to 60, and these were abandoning Jamestown\nwhen they were met by a ship from England bringing\nreénforcements and, what was",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1946,
+              "chunking": "paragraph:240",
+              "char_start": 1708
+            },
+            "score": 0.4679903426181862
+          },
+          {
+            "id": "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 64,
+            "text": "In 1607, the London Company sent to Virginia 120\nmen as colonists. Jamestown, where they settled, was\nsituated on a small, sandy peninsula jutting into the\nJames River from its north shore; it was, therefore,\n“low, damp, and malarious.” Add",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1286,
+              "chunking": "paragraph:240",
+              "char_start": 1046
+            },
+            "score": 0.4538020817159374
+          }
+        ],
+        "context": "[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-\n\n[284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133 | data\\raw\\american_history_1917.pdf | page 65]\nAfier Smith’s departure for England (1609), conditions\nin the colony grew wo: Their numbers fell from more\nthan 600 to 60, and these were abandoning Jamestown\nwhen they were met by a ship from England bringing\nreénforcements and, what was",
+        "context_ids": [
+          "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+          "284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "1917 book Jamestown population 1920 census record",
+        "filter": null,
+        "results": [
+          {
+            "id": "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1976,
+              "chunking": "paragraph:240",
+              "char_start": 1782
+            },
+            "score": 0.5365591921473041
+          },
+          {
+            "id": "284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 65,
+            "text": "Afier Smith’s departure for England (1609), conditions\nin the colony grew wo: Their numbers fell from more\nthan 600 to 60, and these were abandoning Jamestown\nwhen they were met by a ship from England bringing\nreénforcements and, what was",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1946,
+              "chunking": "paragraph:240",
+              "char_start": 1708
+            },
+            "score": 0.4659194668579427
+          },
+          {
+            "id": "cde5935a04bdbcce548fb294268dedcabd17ca17861e7379a1fe2a941f00f929",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 64,
+            "text": "In 1607, the London Company sent to Virginia 120\nmen as colonists. Jamestown, where they settled, was\nsituated on a small, sandy peninsula jutting into the\nJames River from its north shore; it was, therefore,\n“low, damp, and malarious.” Add",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1286,
+              "chunking": "paragraph:240",
+              "char_start": 1046
+            },
+            "score": 0.4560054540634155
+          }
+        ],
+        "context": "[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-\n\n[284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133 | data\\raw\\american_history_1917.pdf | page 65]\nAfier Smith’s departure for England (1609), conditions\nin the colony grew wo: Their numbers fell from more\nthan 600 to 60, and these were abandoning Jamestown\nwhen they were met by a ship from England bringing\nreénforcements and, what was",
+        "context_ids": [
+          "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+          "284fcb8a3083e64f53e148896a1b83758e1c84856f76ffbcea201f7547060133"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "V2U01",
+    "question": "According to this 1917 book, what did the 1920 US census record for Jamestown population?",
+    "elapsed_seconds": 29.049469799996587,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 176,
+        "completion_tokens": 35,
+        "total_tokens": 211,
+        "cost": 4.39e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.39e-05,
+          "upstream_inference_prompt_cost": 2.64e-05,
+          "upstream_inference_completions_cost": 1.75e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 14,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 513,
+        "completion_tokens": 104,
+        "total_tokens": 617,
+        "cost": 6.714e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 6.714e-05,
+          "upstream_inference_prompt_cost": 1.514e-05,
+          "upstream_inference_completions_cost": 5.2e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 84,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 548,
+        "completion_tokens": 99,
+        "total_tokens": 647,
+        "cost": 4.826e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.826e-05,
+          "upstream_inference_prompt_cost": 3.836e-05,
+          "upstream_inference_completions_cost": 9.9e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 78,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown 1957 anniversary commemoration",
+        "filter": null,
+        "results": [
+          {
+            "id": "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1976,
+              "chunking": "paragraph:240",
+              "char_start": 1782
+            },
+            "score": 0.5405379372674863
+          },
+          {
+            "id": "8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 121,
+            "text": "The Colonies Ajter thc Restoration 97",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 37,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.47004846960739544
+          },
+          {
+            "id": "683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 92,
+            "text": "Ihe begin-\nnings of\nDutch ex-\nploration\nand coloni-\nzation.\n\nThe voy-\nage of\nHenry\nHudson,\n1609.\n\nCHAPTER VI\n\nFURTHER ENGLISH COLONIZATION\nNEW YORK AND NEW JERSEY",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 162,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.44810370946239586
+          }
+        ],
+        "context": "[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-\n\n[8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a | data\\raw\\american_history_1917.pdf | page 121]\nThe Colonies Ajter thc Restoration 97\n\n[683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871 | data\\raw\\american_history_1917.pdf | page 92]\nIhe begin-\nnings of\nDutch ex-\nploration\nand coloni-\nzation.\n\nThe voy-\nage of\nHenry\nHudson,\n1609.\n\nCHAPTER VI\n\nFURTHER ENGLISH COLONIZATION\nNEW YORK AND NEW JERSEY",
+        "context_ids": [
+          "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+          "8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a",
+          "683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Jamestown 1957 anniversary commemoration 1917 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 72,
+            "text": "4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1976,
+              "chunking": "paragraph:240",
+              "char_start": 1782
+            },
+            "score": 0.5325634162090183
+          },
+          {
+            "id": "8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 121,
+            "text": "The Colonies Ajter thc Restoration 97",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 37,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.4706273061410975
+          },
+          {
+            "id": "683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 92,
+            "text": "Ihe begin-\nnings of\nDutch ex-\nploration\nand coloni-\nzation.\n\nThe voy-\nage of\nHenry\nHudson,\n1609.\n\nCHAPTER VI\n\nFURTHER ENGLISH COLONIZATION\nNEW YORK AND NEW JERSEY",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 162,
+              "chunking": "paragraph:240",
+              "char_start": 0
+            },
+            "score": 0.4435012638568878
+          }
+        ],
+        "context": "[130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0 | data\\raw\\american_history_1917.pdf | page 72]\n4, Eggleston, Beginners. The planting of Jamestown, 25-31\nEstimate of Smith and his writings, 31-40. Dale and other\ngovernors, 40-59.\n\n5. Hart, Contemporaries, !. The first settlers, No. 61. Ac-\n\n[8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a | data\\raw\\american_history_1917.pdf | page 121]\nThe Colonies Ajter thc Restoration 97\n\n[683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871 | data\\raw\\american_history_1917.pdf | page 92]\nIhe begin-\nnings of\nDutch ex-\nploration\nand coloni-\nzation.\n\nThe voy-\nage of\nHenry\nHudson,\n1609.\n\nCHAPTER VI\n\nFURTHER ENGLISH COLONIZATION\nNEW YORK AND NEW JERSEY",
+        "context_ids": [
+          "130e3df22e300520e37089ee551601030a5aa7a8aa827da8c44548048b142eb0",
+          "8b9c1d4e6b3fc8ed273b6e1bf26787fa36e5fbc1d4580eed5b867bc5980c940a",
+          "683f792991dfc319fcf8b9423e1ee99c0f61c7bdfb044f689eb3d78c8b9f8871"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "V2U02",
+    "question": "According to this 1917 book, how was Jamestown commemorated in its 1957 anniversary?",
+    "elapsed_seconds": 10.359207300003618,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 150,
+        "completion_tokens": 33,
+        "total_tokens": 183,
+        "cost": 3.1965e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.1965e-05,
+          "upstream_inference_prompt_cost": 1.2e-05,
+          "upstream_inference_completions_cost": 1.9965e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 11,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 641,
+        "completion_tokens": 127,
+        "total_tokens": 768,
+        "cost": 0.000100156,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000100156,
+          "upstream_inference_prompt_cost": 6.2818e-05,
+          "upstream_inference_completions_cost": 3.7338e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 104,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 656,
+        "completion_tokens": 250,
+        "total_tokens": 906,
+        "cost": 0.000137788,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000137788,
+          "upstream_inference_prompt_cost": 6.4288e-05,
+          "upstream_inference_completions_cost": 7.35e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 227,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

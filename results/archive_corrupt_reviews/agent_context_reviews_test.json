@@ -1,0 +1,62 @@
+[
+  {
+    "config": "dense",
+    "query_id": "T01",
+    "context_grade": null,
+    "reason": "Ch?y l?i; context trung gian kh?ng ???c gi?, kh?ng th? ch?m."
+  },
+  {
+    "config": "dense",
+    "query_id": "T02",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "dense",
+    "query_id": "T03",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "dense",
+    "query_id": "T04",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "dense",
+    "query_id": "T05",
+    "context_grade": null,
+    "reason": "Ch?y l?i; context trung gian kh?ng ???c gi?, kh?ng th? ch?m."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T01",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T02",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T03",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T04",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T05",
+    "context_grade": 2,
+    "reason": "Context c? ?? ?o?n evidence, ??i chi?u ngu?n."
+  }
+]

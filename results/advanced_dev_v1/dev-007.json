@@ -1,0 +1,228 @@
+{
+  "question": "What was the FY 2024 total gross cost of operations for Strategic Goal 2?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "a2eb7a194cfebce8d99e96ef44cf4b58eea0c2a1027fad5bccf636424a7d17e4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " benefits. Top programs by\nstrategic goal in relation to gross cost have remained consistent year to year.\n\n\n     Comparative Gross Cost of Operations                              FY 2024 Total: $26,551\n     By Strategic Goal FY 2024 and FY 2023                              FY 2023 Total: $26,233\n       (IN MILLIONS)                                                               2024   2023\n\n\n                                 STRATEGIC GOAL 1\n                                       Expand human knowledge through new scientific discoveries.\n                                                        ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 33,
+            "char_start": 591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7638021111488342
+        },
+        {
+          "chunk_id": "646bb390f86d55cabc4e4285401e2a1022ff0f38bc71711b6fac2dde8fcb6d09",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": " governmental organizations or private entities was $1.8 billion, a $200 million increase\nfrom FY 2023. This leaves NASA with a FY 2024 net cost of $24.7 billion, an increase of $118 million from FY 2023.\n\n                              Net Cost of Operations By\n                                     Strategic Goal for FY 2024\n                                                      (IN MILLIONS)\n\n                                   32%\n                                                                                                Goal 1        12%                                                    ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1188,
+            "pdf_page": 32,
+            "char_start": 589,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7027124166488647
+        },
+        {
+          "chunk_id": "8b3d3c16a7011ccc7453f7318b7a3d4dbfbaa72785bcde0e64cdb603da805a6a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "                        $2,555\n                                                                                                                     $4,609\n                       Other Goal 2 Programs                                                                             $4,250\n                                FY 2024 Total: $11,306 | FY 2023 Total: $11,030\n\n                                 STRATEGIC GOAL 3\n                                               Catalyze economic growth and drive innovation to address national challenges.\n                                                            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4164,
+            "pdf_page": 33,
+            "char_start": 3565,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7018047571182251
+        },
+        {
+          "chunk_id": "8ffb95554772cad2cbee75772e7935fc6e73faabee1806d997a48e73b73a4db9",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Goal 3 Programs                                                                               $2,052\n                                FY 2024 Total: $3,075 | FY 2023 Total: $3,044\n\n                                 STRATEGIC GOAL 4\n                                         Enhance capabilities and operations to catalyze current and future mission success.\n                                                                                                              $660\n                                  Infrastructure                                                                         $666\n  ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 5359,
+            "pdf_page": 33,
+            "char_start": 4760,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6922782063484192
+        },
+        {
+          "chunk_id": "c0578d97f07fd424c8c4ab0ecc548fbdbbfecfb985d72145558a59aafe8b1e80",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 51,
+          "text": " GOAL 4\n Enhance capabilities and operations to catalyze current and future mission success:\n    Gross Costs                                                                $ 3,042           $ 2,993\n     Less: Earned Revenue                                                                    195                198\n    Net Costs                                                                                2,847               2,795\n\n Net Cost of Operations\n    Total Gross Costs                                                           $ 26,551          $ 26,233\n     Less: Total Earned Revenue   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2394,
+            "pdf_page": 51,
+            "char_start": 1795,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6834569573402405
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7049422264099121
+        },
+        {
+          "chunk_id": "bbb11e6653040ca991e26129abf0df940fb6ecfc252d45b39b459c33419bda78",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page contains a Management's Discussion and Analysis / Financial Performance section titled 'Results of Operations (CONTINUED)' and 'Gross Cost of Operations.' It includes an explanatory paragraph and a large purple-bordered comparative horizontal bar chart/table showing FY 2024 versus FY 2023 gross cost of operations by four strategic goals, in millions of U.S. dollars. Header totals are FY 2024 $26,551 million and FY 2023 $26,233 million. No maps, diagrams, informative photogr",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6986045837402344
+        },
+        {
+          "chunk_id": "2ccde87230fca1a047ab0c75ccd7203f690292bd8bc020c5c07cb20442365380",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "FY2024 $4,609 million; FY2023 $4,250 million\", \"Strategic Goal 2 subtotal: FY2024 Total $11,306 million; FY2023 Total $11,030 million\", \"Strategic Goal 3: Catalyze economic growth and drive innovation to address national challenges.\", \"Technology Demonstration: FY2024 $369 million; FY2023 $337 million\", \"Science and Engineering: FY2024 $577 million; FY2023 $655 million\", \"Other Goal 3 Programs: FY2024 $2,129 million; FY2023 $2,052 million\", \"Strategic Goal 3 subtotal: FY2024 Total $3,075 million; FY2023 Total $3,044 million\", \"Strategic Goal 4:",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6945058107376099
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6474769115447998
+        },
+        {
+          "chunk_id": "b308c710631ff877eaf0b906eddb1222cfb44cb4cbca1309e318d8c8435c17bb",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 74,
+          "text": "\", \"Net Cost — $24,734; $24,734; Net Cost of Operations\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "upper half of page",
+            "pdf_page": 74,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5484122037887573
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 33
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 51
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 74
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5476,
+    "completion_tokens": 386,
+    "total_tokens": 5862,
+    "cost": 0.00085012,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00085012,
+      "upstream_inference_prompt_cost": 0.00065712,
+      "upstream_inference_completions_cost": 0.000193
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 242,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\n  \"answer\": \"The FY 2024 total gross cost of operations for Strategic Goal 2 was $11,306 million.\",\n  \"citations\": [\n    {\n      \"page\": 33,\n      \"region\": \"center purple-bordered 'Comparative Gross Cost of Operations By Strategic Goal' chart, under STRATEGIC GOAL 2, subtotal line: 'FY 2024 Total: $11,306 | FY 2023 Total: $11,030'\"\n    },\n    {\n      \"page\": 51,\n      \"region\": \"Consolidated Statements of Net Cost table, STRATEGIC GOAL 2 section, 'Gross Costs' row, 2024 column: '$11,306'\"\n    }\n  ]\n}",
+  "answer": {
+    "answer": "The FY 2024 total gross cost of operations for Strategic Goal 2 was $11,306 million.",
+    "citations": [
+      {
+        "page": 33,
+        "region": "center purple-bordered 'Comparative Gross Cost of Operations By Strategic Goal' chart, under STRATEGIC GOAL 2, subtotal line: 'FY 2024 Total: $11,306 | FY 2023 Total: $11,030'"
+      },
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, STRATEGIC GOAL 2 section, 'Gross Costs' row, 2024 column: '$11,306'"
+      }
+    ]
+  },
+  "elapsed_seconds": 30.49950189999072
+}

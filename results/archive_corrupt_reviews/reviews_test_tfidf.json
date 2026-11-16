@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "T01",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold; ?? ??c ?o?n tr?ch v? ??i chi?u scan trang t??ng ?ng."
+  },
+  {
+    "query_id": "T02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold; ?? ??c ?o?n tr?ch v? ??i chi?u scan trang t??ng ?ng."
+  },
+  {
+    "query_id": "T03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold; ?? ??c ?o?n tr?ch v? ??i chi?u scan trang t??ng ?ng."
+  },
+  {
+    "query_id": "T04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "??p ?n kh?p gold; ?? ??c ?o?n tr?ch v? ??i chi?u scan trang t??ng ?ng."
+  },
+  {
+    "query_id": "T05",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "T? ch?i c?u c? ??p ?n."
+  },
+  {
+    "query_id": "TU01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "C?u h?i sau n?m xu?t b?n; ki?m tra t? ch?i v? kh?ng ??nh k?m theo."
+  },
+  {
+    "query_id": "TU02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "C?u h?i sau n?m xu?t b?n; ki?m tra t? ch?i v? kh?ng ??nh k?m theo."
+  }
+]

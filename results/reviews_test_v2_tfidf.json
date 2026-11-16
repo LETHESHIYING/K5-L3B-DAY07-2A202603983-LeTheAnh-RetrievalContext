@@ -1,0 +1,9 @@
+[
+  {"query_id":"V2T01","citation_support":[true],"answer_grade":2,"reason":"Citation trang 77 xác nhận năm 1639 và deputies."},
+  {"query_id":"V2T02","citation_support":[true],"answer_grade":2,"reason":"Citation trang 86 xác nhận New Haven và điều kiện câu hỏi."},
+  {"query_id":"V2T03","citation_support":[true],"answer_grade":2,"reason":"Citation trang 101 nêu cả Shaftesbury và Locke, Carolina và 1669."},
+  {"query_id":"V2T04","citation_support":[true],"answer_grade":2,"reason":"Citation trang 122 nêu towns và counties."},
+  {"query_id":"V2T05","citation_support":[false,false],"answer_grade":0,"reason":"Đáp án khớp tên theo scan, nhưng hai citation không xác nhận đủ tên, năm 1696 và vai trò cơ quan trung ương trong cùng bằng chứng rõ ràng."},
+  {"query_id":"V2U01","citation_support":[],"abstention_correct":true,"reason":"Đầu ra hệ thống từ chối vì search limit; không xác nhận model chủ động từ chối."},
+  {"query_id":"V2U02","citation_support":[],"abstention_correct":true,"reason":"Đầu ra hệ thống từ chối vì search limit; không xác nhận model chủ động từ chối."}
+]

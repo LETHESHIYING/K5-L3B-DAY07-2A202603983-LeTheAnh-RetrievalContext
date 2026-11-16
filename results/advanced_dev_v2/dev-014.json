@@ -1,0 +1,329 @@
+{
+  "question": "What do the Green, Yellow, Red, and Grey performance ratings indicate?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "7e60a73410f352de433c75d3c8a78a65991b52325f470cd485bac75ed69f5e9a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " a color rating of Green (complete or on target                                                TARGET FOR FY 2024:\nto complete), Yellow (below target), or Red (significantly                                                      100 percent of launch services objectives completed\nbelow target/at risk). Internal success criteria defined\nduring the planning phase establish the thresholds for        ANTICIPATED PERCENT USING AVAILABLE DATA:\n                                                      100 percent of launch services objectives completeda Yellow or Red rating. A Grey rating indicates that",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1794,
+            "pdf_page": 21,
+            "char_start": 1197,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6895803418630466
+        },
+        {
+          "chunk_id": "eb62094925b7fe767a1f12812bcc646712493f5774606db7a0fdaa4b18e777d0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": " 4.1.2, which focuses on decreasing the percentage of negative rating on NASA Federal Employee\nViewpoint Survey (FEVS) DEIA index, was also rated Red. The goal to achieve a Green rating was to keep the index\nrating at 88 percent or above, and the FY 2024 data has shown an index rating of 84.1 percent.\n\n\n\n\n\n Did You Know?\n\n\n\n                                 The New York-based artist team Geraluz, left, and WERC, right, and their son Amaru Alvarez, 5, pose\n                                             for picture with the mural “To the Moon, and Back” by the artist team that was created as part",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2383,
+            "pdf_page": 23,
+            "char_start": 1785,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5253130763395971
+        },
+        {
+          "chunk_id": "229a73fd4e40186e52ccf9adee4be9f258584534e24b6c7a5393a7bc59271bb4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " the\nPerformance Goal could not be assessed in time for the                                                   ANTICIPATED RATING FY 2024:\nAFR publication, but a final rating will be provided in the                                          Green\nFY 2026 Volume of Integrated Performance (VIPer).6\n\n\n\n\n\n  GREEN                 YELLOW                RED                   GREY\n  Complete or On        Below Target            Significantly Below     Unrated\n  Target to Complete                             Target/At Risk\n\n NASA has completed or     NASA is below target      NASA is significantly      ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2393,
+            "pdf_page": 21,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5196240544319153
+        },
+        {
+          "chunk_id": "999d4d9d42cf5894ceae8d00a4a4baf4c572b0b7c9fb63284cfdde3cf0c1df94",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\nFY 2024 Performance Assessment\n\n\nThroughout FY 2024, program officials assessed progress towards achieving NASA’s 50 Performance Goals and\ndetermined whether the goals’ annual targets were met and assigned one of the color ratings described above. The\nPerformance Improvement Officer (PIO) confirmed the ratings.\n\nThe following graph shows the summary of preliminary FY 2024 ratings summarized by Strategic Goal compared\nto the FY 2023 ratings that were published in the FY 2025 VIPer. For each Strategic Goal, the graph shows",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 596,
+            "pdf_page": 22,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5159199237823486
+        },
+        {
+          "chunk_id": "08c5268fbc5f66f928f9a2d0b576bad0b8687c8b6c186bf6143e6d7487b16ee1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": " increasing efficiency, reflecting\na more automated world.\n\nTwo of NASA’s Performance Goals were rated Red in FY 2024. Performance Goal 1.2.9 focuses on achieving critical\nmilestones of Science Mission Directorate’s heliophysics, planetary science, and astrophysics major projects. The Red\nrating is due to delays in several mission milestones. For the Dragonfly project, incorporating the new three-bladed\nrotor design into the overall lander is resulting in a delay to the mission Critical Design Review (CDR) and associated\nslips to the instrument CDRs, which are now scheduled for early FY 2025.",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1189,
+            "pdf_page": 23,
+            "char_start": 590,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.41319790999901906
+        },
+        {
+          "chunk_id": "b0f4409ab767a8746feaa578589e7be94bbff3783664182770faa140fd7769de",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": "    1\n           20%\n             5\n            10%         3\n\n           0%\n                   FY 2023   FY 2024         FY 2023   FY 2024          FY 2023   FY 2024         FY 2023   FY 2024\n                         Complete or On             Below Target             Significantly Below             Unrated\n                            Target to Complete                                   Target/At Risk\n\n\nTwelve Performance Goals supporting Strategic Goals remained unrated at the time of the FY 2024 AFR’s publication.\nTen of those are awaiting ratings from the Science Advisory Committees,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2388,
+            "pdf_page": 22,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3960059943195592
+        },
+        {
+          "chunk_id": "40c861b5b6998140db6ad986d30387705dda611201c9edbaf997ebfc1e00e7fd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " which recommends ratings (based on\nrelevant published, peer-reviewed science findings and other criteria) for NASA’s science-focused Performance Goals\nfor Strategic Goal 1 at their Fall meetings. The Science Mission Directorate considers those recommendations when\nassigning the final fiscal year rating. Performance Goal 2.2.3 focuses on providing operational resources to enable the\nclosure of capability gaps in support of deep space exploration and remains unrated due to milestones being initiated\nbut not yet fully operational. Performance Goal 4.2.8 which focuses on increasing facility",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2982,
+            "pdf_page": 22,
+            "char_start": 2388,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.376475073309239
+        },
+        {
+          "chunk_id": "0458115376729cc6db72ea9123b1fe7f094b725bea15912f0a2554bc7bdae923",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " Government (known as the\nGreen Book). The self-certifications and subsequent reviews\n                                                          NASA OFFICIALS-IN- CHARGE/\nare informed by relevant sources of information such as                    CENTER DIRECTORS/\ninternal reviews of controls, as well as recommendations for             CFO ASSURANCE STATEMENTS\nimprovements from external audits, investigations, and reviews\nconducted by the Office of Inspector General (OIG) and the\n                                                       ANNUAL ASSESSMENT OF INTERNAL\nGAO. The Mission Support",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2379,
+            "pdf_page": 38,
+            "char_start": 1786,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3532561659812927
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "dd968730bc6639c6eed67e6697f042fb171235dfd5d255739bb81015ca775c82",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "{\"type\": \"text_block\", \"location\": \"Middle left\", \"description\": \"Two paragraphs explaining the relationship between Strategic Objectives and Performance Goals, the structure of these goals, and the color-coded rating system (Green, Yellow, Red, Grey) based on FY 2024 targets.\", \"visible_values\": [\"50 Performance Goals\", \"FY 2024\", \"FY 2026 Volume of Integrated Performance (ViPer)\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "Middle left",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.567554771900177
+        },
+        {
+          "chunk_id": "d61d8faa30d27e9f7e4e0de3c952da217b9fb52e1508c99baa9a38c6b5f5b9e1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " or On Target to Complete (green); Below Target (yellow); Significantly Below Target/At Risk (red); Unrated (gray). Strategic Goal 1: FY 2023 green 5, gray 11; FY 2024 green 3, red 1, gray 10. Strategic Goal 2: FY 2023 green 7, yellow 3; FY 2024 green 8, yellow 1, gray 1. Strategic Goal 3: FY 2023 green 7, yellow 3, red 1; FY 2024 green 10, yellow 1. Strategic Goal 4: FY 2023 green 10, yellow 1, red 1; FY 2024 green 12, red 1, yellow 1, gray 1.\"}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle of page, below introductory paragraphs",
+            "pdf_page": 22,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5162767171859741
+        },
+        {
+          "chunk_id": "d4c12ad18c8818557e3590b10588bad24d324d01f28c9be4b77f832248f5225a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": "{\"type\": \"text block\", \"location\": \"main body, second paragraph\", \"description\": \"Paragraph reporting two Red-rated FY 2024 Performance Goals and listing mission delays and statuses.\", \"visible_values\": [\"Two of NASA's Performance Goals were rated Red in FY 2024\", \"Performance Goal 1.2.9\", \"Science Mission Directorate's heliophysics, planetary science, and astrophysics major projects\", \"Red rating\", \"Dragonfly project\", \"three-bladed rotor design\", \"Critical Design Review (CDR)\", \"instrument CDRs\", \"early FY 2025\", \"Interstellar Mapping and Acc",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "main body, second paragraph",
+            "pdf_page": 23,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4881063713900635
+        },
+        {
+          "chunk_id": "4818aeff0d5f38ba4c20ebdc89039f33820da6774351ff53f505609ea0fe7a23",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"The page describes NASA's 'Assessment Approach' for evaluating its Strategic Objectives and Performance Goals. It includes an explanatory text block, an example box detailing how performance measurements are structured, and a visual legend/key composed of four colored boxes defining the rating system (Green, Yellow, Red, Grey) for the FY 2024 targets. The page features a header, footer notes, and the NASA logo.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48643678426742554
+        },
+        {
+          "chunk_id": "15c752158acb19b97b95a428a87be18e9093dc00dd43b54e1de808bfdb77e6a1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "mpleted as planned by the end of the Performance Goal's time frame.\", \"RED: Significantly Below Target/At Risk - NASA is significantly below target or behind schedule for the fiscal year. The work being measured is at risk of not being completed within the Performance Goal's time frame.\", \"GREY: Unrated - Information needed to evaluate performance was not available in time for AFR publication. A final rating will be provided in the FY 2026 ViPer.\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Lower half, spanning the page width",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48639872670173645
+        },
+        {
+          "chunk_id": "86bcae670f1d948c37ecb1e875c898403766f5ef7893a8675e181ae7b95ca040",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 24,
+          "text": "{\"type\": \"text block / callout\", \"location\": \"below section heading\", \"description\": \"Bold summary sentence about Strategic Goal 1 performance goals.\", \"visible_values\": [\"Strategic Goal 1 is supported by 14 Performance Goals. Of these, three were rated Green, one was rated Red, and 10 were unrated at the time of publication.\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "below section heading",
+            "pdf_page": 24,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48613542318344116
+        },
+        {
+          "chunk_id": "709ff627583e3e3e1001148209ff1d72a4786d30126f234f2f2f721e4fd846ab",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "{\"type\": \"diagram\", \"location\": \"Lower half, spanning the page width\", \"description\": \"A visual legend comprised of four distinct rectangular blocks, each with a colored top section representing a rating category and explanatory text below it.\", \"visible_values\": [\"GREEN: Complete or On Target to Complete - NASA has completed or is on target to complete the Performance Goal/Agency Priority Goal as planned.\", \"YELLOW: Below Target - NASA is below target or behind schedule for the fiscal year but currently expects the work being measured to be co",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "Lower half, spanning the page width",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4811623692512512
+        },
+        {
+          "chunk_id": "6b6749a8d47c56cf7d22fe5f3fe2d0a2ad7ac0736cb1594e902fac37056081d8",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 26,
+          "text": "{\"type\": \"text block\", \"location\": \"upper middle\", \"description\": \"Summary sentence stating Strategic Goal 3 is supported by performance goals and their ratings.\", \"visible_values\": [\"11 Performance Goals\", \"10 were rated Green\", \"one was rated Yellow\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "upper middle",
+            "pdf_page": 26,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.46209344267845154
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 23
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 22
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 24
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 38
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 26
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8566,
+    "completion_tokens": 1204,
+    "total_tokens": 9770,
+    "cost": 0.00240876,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00240876,
+      "upstream_inference_prompt_cost": 0.00154188,
+      "upstream_inference_completions_cost": 0.00086688
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 935,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\n  \"answer\": \"On physical PDF page 21, NASA defines the ratings for its 50 Performance Goals based on FY 2024 targets: Green = Complete or On Target to Complete (NASA has completed or is on target to complete the Performance Goal/Agency Priority Goal as planned); Yellow = Below Target (NASA is below target or behind schedule for the fiscal year but currently expects the work being measured to be completed as planned by the end of the Performance Goal's time frame); Red = Significantly Below Target/At Risk (NASA is significantly below target or behind schedule for the fiscal year, and the work being measured is at risk of not being completed within the Performance Goal's time frame); Grey = Unrated (information needed to evaluate performance was not available in time for AFR publication, and a final rating will be provided in the FY 2026 VIPer). Internal success criteria defined during the planning phase establish the thresholds for a Yellow or Red rating.\",\n  \"citations\": [\n    {\n      \"page\": 21,\n      \"region\": \"lower half, four-column colored legend with Green, Yellow, Red, and Grey blocks\"\n    },\n    {\n      \"page\": 21,\n      \"region\": \"middle-left paragraph beginning 'For NASA's 50 Performance Goals'\"\n    }\n  ]\n}",
+  "answer": {
+    "answer": "On physical PDF page 21, NASA defines the ratings for its 50 Performance Goals based on FY 2024 targets: Green = Complete or On Target to Complete (NASA has completed or is on target to complete the Performance Goal/Agency Priority Goal as planned); Yellow = Below Target (NASA is below target or behind schedule for the fiscal year but currently expects the work being measured to be completed as planned by the end of the Performance Goal's time frame); Red = Significantly Below Target/At Risk (NASA is significantly below target or behind schedule for the fiscal year, and the work being measured is at risk of not being completed within the Performance Goal's time frame); Grey = Unrated (information needed to evaluate performance was not available in time for AFR publication, and a final rating will be provided in the FY 2026 VIPer). Internal success criteria defined during the planning phase establish the thresholds for a Yellow or Red rating.",
+    "citations": [
+      {
+        "page": 21,
+        "region": "lower half, four-column colored legend with Green, Yellow, Red, and Grey blocks"
+      },
+      {
+        "page": 21,
+        "region": "middle-left paragraph beginning 'For NASA's 50 Performance Goals'"
+      }
+    ]
+  },
+  "elapsed_seconds": 35.8406100999855
+}

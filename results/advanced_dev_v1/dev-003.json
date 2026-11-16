@@ -1,0 +1,224 @@
+{
+  "question": "Which NASA center had the largest civil service workforce, and how many employees?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "6e070c5349b7d1a2d21610bf04076dbc46804fc74c8839751ae737c58e3a16a4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  WELCOME TO NASA\nNASA by the Numbers\n\n\n\n\n  FY 2024 BUDGET                                   NASA’S CIVIL SERVICE WORKFORCE BY CENTER\n $24.9 Billion           18,475 Employees\n\n\n\n\n                                                               Johnson Space Center       Goddard Space Flight $13.3B    Research,DevelopmentEngineering, &       3,229 (18%)      3,180 (17%)              (54%)                                           (JSC)                      Center (GSFC)\n\n\n\n                                                                     (13%)            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 13,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7250086829061114
+        },
+        {
+          "chunk_id": "60fe1687018b0563bda5fc308726d114c095c094cfdf6ce50ac3a38716eb8491",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  WELCOME TO NASA\nOrganizational Structure\n\n\nNASA’s Headquarters, located in Washington, DC, provides the overall guidance and direction to the Agency under the\nleadership of the Administrator. A skilled and diverse group of technical and business professionals conduct day-to-day\nactivities throughout our nine Centers and multiple unique facilities.\n\n\n  Advisory Groups—         Chief Financial\n   NAC & ASAP                 Officer                 Administrator\n                                   Deputy Administrator             ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 570,
+            "pdf_page": 11,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5940530542103627
+        },
+        {
+          "chunk_id": "c694d2f37a3e166a4c928e25249ef43c34f4201aa1ffca03536f23af73b29d4e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "        (11%)                                   2,345         2,104\n                        Operations                            Marshall Space Flight       Kennedy Space Center  $9.0B              (36%)                                           Center (MSFC)            (KSC)\n\n\n\n                                                                   (10%)                 (9%)                                    1,848          1,744\n                        Grants                                Langley Research Center    NASA Headquarters  $1.3B                (5%)                                   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1198,
+            "pdf_page": 13,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5851532220840454
+        },
+        {
+          "chunk_id": "17bc926a1d1627ed5cdf74fe1d22b2d5cf1e8cb13a9bd211f2a49b15d087817b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " and innovation.\nWe pursue the goal of enhancing capabilities and operations to ensure that NASA has the right people, infrastructure,\ntechnology, and technical excellence and oversight needed to advance the Agency into the Artemis era and beyond.\n\nHighlights\nAttracting and Developing a Talented and Diverse Workforce\nWhile NASA employees continue to rate it the best large Federal agency to work for, streamlining the hiring process to\nbring in top talent remains a priority for the Agency. Time to hire, for all hires excluding Senior Executive Service (SES)\nand Pathways, was reduced from 80",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1192,
+            "pdf_page": 27,
+            "char_start": 597,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5629629753254081
+        },
+        {
+          "chunk_id": "17be4d645e032a26dca1992156aff7a60b5cc96ae502d1c50db13cda496b0f4c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 107,
+          "text": "      NASA, and information about the Federal application process. The Offices of STEM\n                      Engagement, the Chief Human Capital Officer, and Diversity and Equal Opportunity partner\n                           to ensure the Agency’s varied outreach and recruitment efforts are aligned to ensuring the\n                NASA workforce is representative of the American workforce.\n\n                NASA continues to advocate for workforce flexibilities that support our ongoing needs to\n                      meet our critical hiring needs. NASA has worked with the Office of Personnel",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2392,
+            "pdf_page": 107,
+            "char_start": 1796,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5453537377504276
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "0db76c539420c2a730770e9b70fff373e1ea2dbefa99189f8c802d8984f07b02",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"table\", \"location\": \"right main panel\", \"description\": \"NASA civil service workforce by center, with employee counts and percentages.\", \"visible_values\": [\"NASA'S CIVIL SERVICE WORKFORCE BY CENTER\", \"18,475 Employees\", \"3,229 (18%) Johnson Space Center (JSC)\", \"3,180 (17%) Goddard Space Flight Center (GSFC)\", \"2,345 (13%) Marshall Space Flight Center (MSFC)\", \"2,104 (11%) Kennedy Space Center (KSC)\", \"1,848 (10%) Langley Research Center (LaRC)\", \"1,744 (9%) NASA Headquarters (HQ)\", \"1,471 (8%) Glenn Research Center (GRC)\", \"1,327 (7%)",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "right main panel",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6594694459754571
+        },
+        {
+          "chunk_id": "682a559c3c94f1dafc2a630226389b78a21adf6da462b392ff4ec4863383e935",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": "Officer\", \"Chief, Safety & Mission Assurance\", \"Chief Scientist/Senior Climate Advisor\", \"Ames Research Center\", \"Armstrong Flight Research Center\", \"Glenn Research Center\", \"Goddard Space Flight Center\", \"Jet Propulsion Laboratory**\", \"Johnson Space Center\", \"Kennedy Space Center\", \"Langley Research Center\", \"Marshall Space Flight Center\", \"Stennis Space Center\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, below introductory paragraph",
+            "pdf_page": 11,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5648684501647949
+        },
+        {
+          "chunk_id": "483dfaed3b59e718071b8401afa3135ee98cd2b2718d67db89cab70ddedbfe28",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 12,
+          "text": ")\", \"Johnson Space Center (JSC)\", \"Michoud Assembly Facility (managed by MSFC)\", \"Stennis Space Center (SSC)\", \"NASA Shared Services Center (managed by SSC)\", \"Marshall Space Flight Center (MSFC)\", \"Kennedy Space Center (KSC)\", \"Langley Research Center (LaRC)\", \"Wallops Flight Facility (managed by GSFC)\", \"Mary W. Jackson Headquarters\", \"Goddard Space Flight Center (GSFC)\", \"Goddard Institute for Space Studies (managed by GSFC)\", \"Katherine Johnson Verification and Validation Facility (managed by GSFC)\", \"Glenn Research Center (GRC)\", \"Neil A. ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "upper half of page, below title",
+            "pdf_page": 12,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48584291423303494
+        },
+        {
+          "chunk_id": "fe0b36e655554edc4be11b3ccb98c7070ca82794204f998fd91cfde830dff774",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": " Ames Research Center (ARC)\", \"675 (4%) Other\", \"552 (3%) Armstrong Flight Research Center (AFRC)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "right main panel",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4788230372176753
+        },
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4686586856842041
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 11
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 12
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 27
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5494,
+    "completion_tokens": 321,
+    "total_tokens": 5815,
+    "cost": 0.0009846,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009846,
+      "upstream_inference_prompt_cost": 0.0008241,
+      "upstream_inference_completions_cost": 0.0001605
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 224,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\n  \"answer\": \"Johnson Space Center (JSC) had the largest civil service workforce, with 3,229 employees (18% of NASA’s 18,475 civil service employees in FY 2024).\",\n  \"citations\": [\n    {\n      \"page\": 13,\n      \"region\": \"right main panel, 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER' table, first row\"\n    }\n  ]\n}",
+  "answer": {
+    "answer": "Johnson Space Center (JSC) had the largest civil service workforce, with 3,229 employees (18% of NASA’s 18,475 civil service employees in FY 2024).",
+    "citations": [
+      {
+        "page": 13,
+        "region": "right main panel, 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER' table, first row"
+      }
+    ]
+  },
+  "elapsed_seconds": 31.9927179000224
+}

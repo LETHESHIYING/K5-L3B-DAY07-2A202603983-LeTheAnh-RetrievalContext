@@ -1,0 +1,174 @@
+{
+  "purpose": "practice, not benchmark",
+  "query": "What was the purpose of the Virginia Company?",
+  "strategy": "history_B",
+  "filters": {},
+  "candidate_depth": 3,
+  "top_k": 3,
+  "rrf_k": 60,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "dimensions": 384,
+  "corpus_matches_database": true,
+  "seconds_excluding_model_and_index_load": {
+    "dense": 0.04032499997993,
+    "tfidf": 0.0033488000044599175,
+    "fusion_only": 4.1799998143687844e-05
+  },
+  "dense": [
+    {
+      "id": "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 69,
+      "text": "Prosperity\nin Virginia",
+      "metadata": {
+        "chapter": 4,
+        "char_end": 2054,
+        "chunking": "paragraph:240",
+        "char_start": 2032
+      },
+      "score": 0.7036216855049133
+    },
+    {
+      "id": "1835bde29d2b116e6a63232d675178c7a38e39e97c423fe3ee9de7e55bcb55fc",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 62,
+      "text": "The Lon- Under the charter of 1606 two great companies were\nponend formed whose purpose was “to make Habitation, Planta-\ncompanies tion, and to deduce a colony of sundry of our people into\n26 1608- that part of America called Virginia, and",
+      "metadata": {
+        "chapter": 4,
+        "char_end": 1118,
+        "chunking": "paragraph:240",
+        "char_start": 879
+      },
+      "score": 0.6539864735003258
+    },
+    {
+      "id": "b0d1cef49390fb53d54d8c85d8c47ae07377a98e8d00624cc0ce8c964062e40d",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 144,
+      "text": "In 1748, a body of prominent Virginians organized the\nOhio Company and the next year obtained a grant of land\nwest of the mountains in Virginia. Their purpose was to\nengage in the fur trade and to colonize the lands. Their\npost at Will’s",
+      "metadata": {
+        "chapter": 8,
+        "char_end": 1230,
+        "chunking": "paragraph:240",
+        "char_start": 993
+      },
+      "score": 0.6509290933609009
+    }
+  ],
+  "tfidf": [
+    {
+      "id": "4d208eefa8a5c34749cec469c19ed2543d6f004396851c273d366bf5d5e43c51",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 80,
+      "text": " underly.\ning purpose was expressed in the charter. This purpose was the\nestablishment in America of a new state modelled upon the\npeculiar ideas of the Puritans.* The discovery of this intention\nmight lay the Company open to persecution.",
+      "metadata": {
+        "chapter": 5,
+        "char_end": 870,
+        "chunking": "paragraph:240",
+        "char_start": 632
+      },
+      "score": 0.3407499291785238,
+      "strategy": "tfidf"
+    },
+    {
+      "id": "b0d1cef49390fb53d54d8c85d8c47ae07377a98e8d00624cc0ce8c964062e40d",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 144,
+      "text": "In 1748, a body of prominent Virginians organized the\nOhio Company and the next year obtained a grant of land\nwest of the mountains in Virginia. Their purpose was to\nengage in the fur trade and to colonize the lands. Their\npost at Will’s",
+      "metadata": {
+        "chapter": 8,
+        "char_end": 1230,
+        "chunking": "paragraph:240",
+        "char_start": 993
+      },
+      "score": 0.2731313649301258,
+      "strategy": "tfidf"
+    },
+    {
+      "id": "c9f86d65bb552d40fe3c45b321b78f4e25641b54c4c63784b71da18049fbb908",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 80,
+      "text": " became governor of the Company.",
+      "metadata": {
+        "chapter": 5,
+        "char_end": 393,
+        "chunking": "paragraph:240",
+        "char_start": 361
+      },
+      "score": 0.26905215148421324,
+      "strategy": "tfidf"
+    }
+  ],
+  "hybrid": [
+    {
+      "id": "b0d1cef49390fb53d54d8c85d8c47ae07377a98e8d00624cc0ce8c964062e40d",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 144,
+      "text": "In 1748, a body of prominent Virginians organized the\nOhio Company and the next year obtained a grant of land\nwest of the mountains in Virginia. Their purpose was to\nengage in the fur trade and to colonize the lands. Their\npost at Will’s",
+      "metadata": {
+        "chapter": 8,
+        "char_end": 1230,
+        "chunking": "paragraph:240",
+        "char_start": 993
+      },
+      "score": 0.03200204813108039,
+      "component_ranks": {
+        "dense": 3,
+        "tfidf": 2
+      },
+      "component_scores": {
+        "dense": 0.6509290933609009,
+        "tfidf": 0.2731313649301258
+      }
+    },
+    {
+      "id": "4d208eefa8a5c34749cec469c19ed2543d6f004396851c273d366bf5d5e43c51",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 80,
+      "text": " underly.\ning purpose was expressed in the charter. This purpose was the\nestablishment in America of a new state modelled upon the\npeculiar ideas of the Puritans.* The discovery of this intention\nmight lay the Company open to persecution.",
+      "metadata": {
+        "chapter": 5,
+        "char_end": 870,
+        "chunking": "paragraph:240",
+        "char_start": 632
+      },
+      "score": 0.01639344262295082,
+      "strategy": "tfidf",
+      "component_ranks": {
+        "tfidf": 1
+      },
+      "component_scores": {
+        "tfidf": 0.3407499291785238
+      }
+    },
+    {
+      "id": "fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f",
+      "source_id": "american_history_1917",
+      "source": "data\\raw\\american_history_1917.pdf",
+      "page": 69,
+      "text": "Prosperity\nin Virginia",
+      "metadata": {
+        "chapter": 4,
+        "char_end": 2054,
+        "chunking": "paragraph:240",
+        "char_start": 2032
+      },
+      "score": 0.01639344262295082,
+      "component_ranks": {
+        "dense": 1
+      },
+      "component_scores": {
+        "dense": 0.7036216855049133
+      }
+    }
+  ]
+}

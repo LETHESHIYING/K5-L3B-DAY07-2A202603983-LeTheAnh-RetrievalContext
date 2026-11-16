@@ -1,0 +1,125 @@
+[
+  {
+    "status": "answered",
+    "answer": "In 1639, each Plymouth town elected deputies to the general court. [b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647]",
+    "citations": [
+      "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Plymouth town elect deputies to the general court year",
+        "filter": null,
+        "results": [
+          {
+            "id": "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 77,
+            "text": " each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 766,
+              "chunking": "paragraph:240",
+              "char_start": 591
+            },
+            "score": 0.6492960453033447
+          },
+          {
+            "id": "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 85,
+            "text": " settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 856,
+              "chunking": "paragraph:240",
+              "char_start": 673
+            },
+            "score": 0.4591719830529708
+          },
+          {
+            "id": "8c4811104486f5f56f010d9813c3e1b2bab679418b6f2ec79b3d54febc34405e",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": "to the general court at Boston. The deputies sat firs. with\nthe assistants, and later alone; they then constituted the\nlower house of the colonial legislature, the assistants con-\nstituting the upper house. At the same time the",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 309,
+              "chunking": "paragraph:240",
+              "char_start": 82
+            },
+            "score": 0.38736633137665266
+          }
+        ],
+        "context": "[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.\n\n[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+        "context_ids": [
+          "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+          "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T01",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "elapsed_seconds": 6.943332900002133,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 57,
+        "total_tokens": 225,
+        "cost": 3.3222e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.3222e-05,
+          "upstream_inference_prompt_cost": 1.6464e-05,
+          "upstream_inference_completions_cost": 1.6758e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 36,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 468,
+        "completion_tokens": 564,
+        "total_tokens": 1032,
+        "cost": 0.00021168,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00021168,
+          "upstream_inference_prompt_cost": 4.5864e-05,
+          "upstream_inference_completions_cost": 0.000165816
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 465,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

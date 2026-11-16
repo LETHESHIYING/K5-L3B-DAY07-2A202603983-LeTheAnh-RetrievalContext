@@ -1,0 +1,337 @@
+{
+  "question": "What were Environmental and Disposal Liabilities in FY 2024, and what share of total liabilities did they represent?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "3f7560977e25e24b698c00399ba8f0362120e97b03cfed2106a4d5a7c879c4f2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 31,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  FINANCIAL PERFORMANCE\nTotal Liabilities, as of September 30, 2024, were $7.7 billion, 14 percent higher than FY 2023. Environmental and\nDisposal Liabilities, Accounts Payable, and Other Accrued Liabilities represent the majority of NASA’s liabilities.\n\nEnvironmental and Disposal Liabilities of $2.4 billion represent the estimated cost to clean up both known and\nprojected environmental hazards. This category had an increase of $48 million or two percent.\n\nAccounts Payable, which represents amounts owed to other entities, was $1.8 billion, an increase of",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 597,
+            "pdf_page": 31,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6902179306615644
+        },
+        {
+          "chunk_id": "aa4f36ee5bfcbaeb9cbb2bf6a02334993d69e733a67684020fb03bf381292634",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 65,
+          "text": "  176\n  End of Life Disposal of Property, Plant, and Equipment                                     60               59\n Total Environmental and Disposal Liabilities                                     $ 2,353         $ 2,305\n\n   Unfunded Environmental Liabilities (Note 8)                                         $ 2,266          $ 2,184\n   Funded Environmental Liabilities                                                         87                 121\n\n Total Environmental and Disposal Liabilities                                     $ 2,353         $ 2,305\n\nRestoration Projects\nNASA recorded a",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2979,
+            "pdf_page": 65,
+            "char_start": 2382,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6644289691576057
+        },
+        {
+          "chunk_id": "ecb8ed098af3db0f26ca2ae656aa1d1e7955fef627c5762802050d0d46d1397e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 31,
+          "text": "                     $26                               OtherLiabilitiesAccrued\n                                  $288                                                                                                                      $1,902              $1,046                  31%                                 $302                        Environmental\n                                                                              and Disposal\n                                                                                                          Liabilities\n               $1,902            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2389,
+            "pdf_page": 31,
+            "char_start": 1790,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.658542275428772
+        },
+        {
+          "chunk_id": "762721a0452fb649291236502966e2f4a70494791ff42834dd3becd883bb2107",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 69,
+          "text": "    Covered by Budgetary\n    2026                                   6              33                 39      Resources (Lease Liabilities)\n     2027                                     5              33                 38      See Note 10, Other Liabilities                                                                                                                           (Lease Liabilities)\n    2028                                 4              33                  37                                                                                                                    See",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1197,
+            "pdf_page": 69,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6503508507787213
+        },
+        {
+          "chunk_id": "f91143e44a499248f6fc82e1eb2a781f7bec79f47a34b525299284be9df36fc0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 29,
+          "text": "                                               Assets       Liabilities     Net Position\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                    2828",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1382,
+            "pdf_page": 29,
+            "char_start": 1194,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6379760123505597
+        },
+        {
+          "chunk_id": "b1eddcc2a822343365fdbd9e9ab5a1aa87ee01e3af4a427dd2fb4af15b49bc4d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 65,
+          "text": " of cleanup is disclosed in the notes to the financial\nstatements. If the likelihood of required cleanup is remote, no liability or estimate is recorded or disclosed.\n\nEnvironmental and Disposal Liabilities Represent Cleanup Costs Resulting From:\n• Operations, including facilities obtained from other governmental entities, that have resulted in contamination from\n  waste disposal methods, leaks and spills;\n• Other past activity that created a public health or environmental risk, including identifiable costs associated with\n  asbestos abatement; and\n• Total cleanup costs associated with the",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1783,
+            "pdf_page": 65,
+            "char_start": 1187,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.619733855756066
+        },
+        {
+          "chunk_id": "b6a3ba8c3bcbe105d44613e6715ed63c91f32c6c7ba364beecd5fa410e652f5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 72,
+          "text": " assets                                                                         (32)               (6)        (38)\n (Increase)/Decrease in Liabilities not affecting Budgetary Outlays:\n    Accounts payable                                                                           (17)              110         93\n    Environmental and disposal liabilities                            —             (175)        (175)\n     Federal employee benefits payable                              —                  (1)            (1)\n    Other liabilities                                                         ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1794,
+            "pdf_page": 72,
+            "char_start": 1195,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6153478622436523
+        },
+        {
+          "chunk_id": "2669881be351bee9bd1311b4fd88aef51e93f6c3f3f981aa7194dbf35930d164",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "   833                     99\n    Total Liabilities Not Covered by Budgetary Resources                         $ 3,436               $ 2,643\n    Total Liabilities Covered by Budgetary Resources                            $ 4,203               $ 4,048\n    Total Liabilities Not Requiring Budgetary Resources                             $ 25                 $ 28\n\n Total Liabilities                                                     $ 7,664               $ 6,719\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                   6363",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3546,
+            "pdf_page": 64,
+            "char_start": 2983,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6148681640625
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "cbe75d2639124ae7b7aa7913ea991e06b5a04691431f5bd7dd903bba69f9da70",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 64 (footer shows 63) of the FY 2024 NASA Agency Financial Report contains two financial-statement note sections and one financial table. Note 7 describes Other Assets, including $697 million of lesser lease receivables as of September 30, 2024, and states the estimated uncollectible amount is zero. Note 8 describes Liabilities Not Covered by Budgetary Resources and cites discount rates of 2.65 percent for FY 2024 and 2.33 percent for FY 2023. A table in millions compares 20",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5870989561080933
+        },
+        {
+          "chunk_id": "1e2c8bc315eb065f07edb5d4f5617042147b3cbfdb413be268417b4c33f6c884",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "2,643; Total Liabilities Covered by Budgetary Resources $4,203 / $4,048; Total Liabilities Not Requiring Budgetary Resources $25 / $28; Total Liabilities $7,664 / $6,719\"}",
+          "metadata": {
+            "item": 6,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "lower half, full width",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5790989398956299
+        },
+        {
+          "chunk_id": "31adb9fc5c5d42df8242a29330d849f0367a27f7b0de3df37d2626e46c6ed8ff",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 65,
+          "text": "{\"type\": \"table\", \"location\": \"middle of page\", \"description\": \"Financial table titled 'Environmental and Disposal Liabilities as of September 30, 2024 and 2023' with amounts in millions. Rows include Restoration Projects, Asbestos, End of Life Disposal of Property, Plant, and Equipment, Total Environmental and Disposal Liabilities, Unfunded Environmental Liabilities (Note 8), Funded Environmental Liabilities, and a repeated Total Environmental and Disposal Liabilities.\", \"visible_values\": [\"(IN MILLIONS)\", \"2024\", \"2023\", \"Restoration Projects",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "middle of page",
+            "pdf_page": 65,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5770520819990597
+        },
+        {
+          "chunk_id": "a1c8389c9f90324b30e7c3cc73a48afed4f21c3eb34494988674f48584cfdcc2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 29,
+          "text": " 2023 Liabilities: $6,719 million\", \"FY 2023 Net Position: $19,416 million\", \"Chart subtitle: IN MILLIONS\"]}",
+          "metadata": {
+            "item": 1,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center/lower half of page",
+            "pdf_page": 29,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5731087923049927
+        },
+        {
+          "chunk_id": "5fcabe181c8f1b569dd363efc1441053b0afc872a1eb26013366c6ae55892afe",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 65,
+          "text": ": $2,112 / $2,070\", \"Asbestos: 181 / 176\", \"End of Life Disposal of Property, Plant, and Equipment: 60 / 59\", \"Total Environmental and Disposal Liabilities: $2,353 / $2,305\", \"Unfunded Environmental Liabilities (Note 8): $2,266 / $2,184\", \"Funded Environmental Liabilities: 87 / 121\", \"Total Environmental and Disposal Liabilities: $2,353 / $2,305\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle of page",
+            "pdf_page": 65,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5704971807898781
+        },
+        {
+          "chunk_id": "05562f1b0867046d6e1f7033539689f5f5e0712f26f7e597b419742f2ce3891e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 31,
+          "text": "{\"type\": \"donut chart\", \"location\": \"lower right half of page\", \"description\": \"Titled 'Liabilities by Type FY 2024 (IN MILLIONS)'. Donut chart shows FY 2024 liability composition with percentage labels and dollar values by category; center label reads 'TOTAL LIABILITIES $7,664'.\", \"visible_values\": [\"Total liabilities: $7,664 million\", \"Environmental and Disposal Liabilities: 31%, $2,353\", \"Other Accrued Liabilities: 25%, $1,902\", \"Accounts Payable: 23%, $1,775\", \"Other Liabilities: 14%, $1,046\", \"Federal Employee Salary, Leave and Benefits Pa",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower right half of page",
+            "pdf_page": 31,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5637494325637817
+        },
+        {
+          "chunk_id": "d073912ed32c1a74a509539399046bf0cd0ffb60b9dc19a3f776f0a0e8d7e622",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"table\", \"location\": \"lower half, full width\", \"description\": \"Financial table comparing liabilities for 2024 and 2023, with amounts in millions.\", \"visible_values\": \"(IN MILLIONS); 2024 / 2023: Other Liabilities $30 / $58; Total Intragovernmental Liabilities 30 / 58; Federal Employee Salary, Leave and Benefits Payable 281 / 275; Pensions and Post-Employment Benefits Payable 26 / 27; Environmental and Disposal Liabilities (Note 9) 2,266 / 2,184; Other Liabilities 833 / 99; Total Liabilities Not Covered by Budgetary Resources $3,436 / $",
+          "metadata": {
+            "item": 6,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower half, full width",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5566153194537579
+        },
+        {
+          "chunk_id": "272c8acdac302d2ed3e84b87886917eeb136fe09fab85101b8d5e06e25637614",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 71,
+          "text": ", and equipment disposals and revaluations: —, (85), (85); Lessee lease amortization: —, (4), (4); Lease expense: —, (3), (3); Applied overhead/cost capitalization offset: —, 1,227, 1,227. Increase/(Decrease) in Assets not affecting Budgetary Outlays: Accounts receivable, net: 30, 25, 55; Other assets: 111, 20, 131. (Increase)/Decrease in Liabilities not affecting Budgetary Outlays: Accounts payable: 7, (16), (9); Lessee lease liability: —, (24), (24); Environmental and disposal liabilities: —, (49), (49); Federal employee salary, leave, and be",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center to lower page, spanning page width",
+            "pdf_page": 71,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5376573961275042
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 31
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 64
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 65
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 69
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 29
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 72
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8394,
+    "completion_tokens": 708,
+    "total_tokens": 9102,
+    "cost": 0.00136128,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00136128,
+      "upstream_inference_prompt_cost": 0.00100728,
+      "upstream_inference_completions_cost": 0.000354
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 480,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"As of September 30, 2024, NASA’s Environmental and Disposal Liabilities were $2,353 million (about $2.4 billion), and they represented 31% of total liabilities of $7,664 million in FY 2024.\",\"citations\":[{\"page\":31,\"region\":\"lower right donut chart titled 'Liabilities by Type FY 2024 (IN MILLIONS)' showing Environmental and Disposal Liabilities 31%, $2,353 and TOTAL LIABILITIES $7,664\"},{\"page\":31,\"region\":\"first paragraph under 'FINANCIAL PERFORMANCE' stating Environmental and Disposal Liabilities of $2.4 billion\"},{\"page\":65,\"region\":\"middle table titled 'Environmental and Disposal Liabilities as of September 30, 2024 and 2023,' Total Environmental and Disposal Liabilities row for 2024: $2,353 million\"},{\"page\":64,\"region\":\"lower half table, Total Liabilities row for 2024: $7,664 million\"}]}",
+  "answer": {
+    "answer": "As of September 30, 2024, NASA’s Environmental and Disposal Liabilities were $2,353 million (about $2.4 billion), and they represented 31% of total liabilities of $7,664 million in FY 2024.",
+    "citations": [
+      {
+        "page": 31,
+        "region": "lower right donut chart titled 'Liabilities by Type FY 2024 (IN MILLIONS)' showing Environmental and Disposal Liabilities 31%, $2,353 and TOTAL LIABILITIES $7,664"
+      },
+      {
+        "page": 31,
+        "region": "first paragraph under 'FINANCIAL PERFORMANCE' stating Environmental and Disposal Liabilities of $2.4 billion"
+      },
+      {
+        "page": 65,
+        "region": "middle table titled 'Environmental and Disposal Liabilities as of September 30, 2024 and 2023,' Total Environmental and Disposal Liabilities row for 2024: $2,353 million"
+      },
+      {
+        "page": 64,
+        "region": "lower half table, Total Liabilities row for 2024: $7,664 million"
+      }
+    ]
+  },
+  "elapsed_seconds": 37.487964400002966
+}

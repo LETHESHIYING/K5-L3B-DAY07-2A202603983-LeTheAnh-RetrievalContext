@@ -1,0 +1,228 @@
+{
+  "question": "What was NASA's FY 2024 total gross cost of operations?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "646bb390f86d55cabc4e4285401e2a1022ff0f38bc71711b6fac2dde8fcb6d09",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": " governmental organizations or private entities was $1.8 billion, a $200 million increase\nfrom FY 2023. This leaves NASA with a FY 2024 net cost of $24.7 billion, an increase of $118 million from FY 2023.\n\n                              Net Cost of Operations By\n                                     Strategic Goal for FY 2024\n                                                      (IN MILLIONS)\n\n                                   32%\n                                                                                                Goal 1        12%                                                    ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1188,
+            "pdf_page": 32,
+            "char_start": 589,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7930747270584106
+        },
+        {
+          "chunk_id": "4fdfad3b939e246e5d6bac63d61c47b38c60052a9a3478064c154f4d1a6b0a2a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 80,
+          "text": "             $ 46     $ 1,064         $ 547     $ 33   $ 25,319\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                    7979",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6140,
+            "pdf_page": 80,
+            "char_start": 5978,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7620584964752197
+        },
+        {
+          "chunk_id": "9b6f7cb87bfc2f2d21614e2ee6c9072caf2c847362ea1d12295be1138976bee8",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  FINANCIAL PERFORMANCE\nResults of Operations\nNet Cost of Operations\nThe Statement of Net Cost presents NASA’s Net Cost of Operations by strategic goal. NASA’s strategic goals are\ndescribed in the Mission Performance section of the Agency Financial Report (page 13). The Net Cost of Operations\nrepresents gross cost incurred less revenue earned for work performed for other government organizations or private\nentities. As of September 30, 2024, NASA’s gross costs were $26.6 billion, an increase of $318 million from FY 2023.\nEarned Revenue from other",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 589,
+            "pdf_page": 32,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7601385855592153
+        },
+        {
+          "chunk_id": "73027f329dec8bf0d8f3c4f2efa8f26b9aaef10120e7baf25cad113ba8da5648",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 79,
+          "text": " $ 8   $ 25,015\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7878",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6112,
+            "pdf_page": 79,
+            "char_start": 5990,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7536964416503906
+        },
+        {
+          "chunk_id": "b873d19132b33555c60cef104f5948b1f3d09c423216bc065c4888458465fe28",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " $24,876\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                     3333",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3682,
+            "pdf_page": 34,
+            "char_start": 3573,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7479616704032868
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6204111576080322
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6165900230407715
+        },
+        {
+          "chunk_id": "a8ad3a175056266a886cb4abcfaf01661deda8d1054eac866aa64b2b95c1cd7a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "rrent with the FY 2026 President's Budget Request and can be found at nasa.gov/performance.\", \"FY 2024 AGENCY FINANCIAL REPORT NASA.GOV\", \"20\", \"NASA (logo)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Bottom of the page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5993376970291138
+        },
+        {
+          "chunk_id": "bbb11e6653040ca991e26129abf0df940fb6ecfc252d45b39b459c33419bda78",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page contains a Management's Discussion and Analysis / Financial Performance section titled 'Results of Operations (CONTINUED)' and 'Gross Cost of Operations.' It includes an explanatory paragraph and a large purple-bordered comparative horizontal bar chart/table showing FY 2024 versus FY 2023 gross cost of operations by four strategic goals, in millions of U.S. dollars. Header totals are FY 2024 $26,551 million and FY 2023 $26,233 million. No maps, diagrams, informative photogr",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5975342988967896
+        },
+        {
+          "chunk_id": "1ddbe978564bdecc80a5f9ec55a3ea28bf52647d74b7ced28fd2bcd794f31b4f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 51,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"The page contains a financial statement table titled 'Consolidated Statements of Net Cost' for NASA for the fiscal years ended September 30, 2024 and 2023, with amounts stated in millions. The table reports gross costs, earned revenue, and net costs by four strategic goals and total net cost of operations. No charts, maps, diagrams, informative photos, or decorative images are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 51,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5942184329032898
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 33
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 80
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5321,
+    "completion_tokens": 636,
+    "total_tokens": 5957,
+    "cost": 0.000679536,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000679536,
+      "upstream_inference_prompt_cost": 0.0004597344,
+      "upstream_inference_completions_cost": 0.0002198016
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 466,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\n  \"answer\": \"NASA's FY 2024 total gross cost of operations was $26,551 million (about $26.6 billion), as of September 30, 2024.\",\n  \"citations\": [\n    {\n      \"page\": 33,\n      \"region\": \"Top-right header of the 'Comparative Gross Cost of Operations By Strategic Goal FY 2024 and FY 2023' panel, reading 'FY 2024 Total: $26,551' with units '(IN MILLIONS)'\"\n    },\n    {\n      \"page\": 32,\n      \"region\": \"First paragraph under 'Net Cost of Operations' in the Results of Operations section, stating that as of September 30, 2024, NASA's gross costs were $26.6 billion\"\n    }\n  ]\n}",
+  "answer": {
+    "answer": "NASA's FY 2024 total gross cost of operations was $26,551 million (about $26.6 billion), as of September 30, 2024.",
+    "citations": [
+      {
+        "page": 33,
+        "region": "Top-right header of the 'Comparative Gross Cost of Operations By Strategic Goal FY 2024 and FY 2023' panel, reading 'FY 2024 Total: $26,551' with units '(IN MILLIONS)'"
+      },
+      {
+        "page": 32,
+        "region": "First paragraph under 'Net Cost of Operations' in the Results of Operations section, stating that as of September 30, 2024, NASA's gross costs were $26.6 billion"
+      }
+    ]
+  },
+  "elapsed_seconds": 34.62640999999712
+}

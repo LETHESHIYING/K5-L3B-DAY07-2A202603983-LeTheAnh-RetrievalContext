@@ -1,0 +1,1044 @@
+[
+  {
+    "status": "answered",
+    "answer": "In 1639, each town elected its deputies to represent it in the general court. [b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647]",
+    "citations": [
+      "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Plymouth town elect deputies general court year each town",
+        "filter": null,
+        "results": [
+          {
+            "id": "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 77,
+            "text": " each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 766,
+              "chunking": "paragraph:240",
+              "char_start": 591
+            },
+            "score": 0.4550379314310424,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 85,
+            "text": " settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 856,
+              "chunking": "paragraph:240",
+              "char_start": 673
+            },
+            "score": 0.2593254322906466,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b6885763d1337975f89aecb3c96714ae97456734e18d2aa680b7fca0a3f8aecf",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 82,
+            "text": " church wardens in England) who had general\noversight of town affairs, both civil and ecclesiastical.\nThe parish meetings became town meetings in America,\nto which were admitted not only the freemen of the colony\n(church members), but other",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 999,
+              "chunking": "paragraph:240",
+              "char_start": 759
+            },
+            "score": 0.2522468595292467,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647 | data\\raw\\american_history_1917.pdf | page 77]\n each town elected (1639) its\n“deputies” who represented it in the “general court,” or\nlegislative body, of the colony. Thus grew representative\ngovernment in Plymouth colony.\n\n[d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7 | data\\raw\\american_history_1917.pdf | page 85]\n settlers. At the end\nof a year the commissioners called a “general court” to\nwhich the towns sent deputies; this was the beginning of a\ncolonial government upon an independent basis.",
+        "context_ids": [
+          "b8eeccd34697b1038f8c5649119c836dd12dd66826adb960bfb77d211915a647",
+          "d184d97e176d56daab64df7b25b351c0d2c3d7ecc07c286331a9b78895ef20d7"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T01",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "elapsed_seconds": 11.547854300006293,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 168,
+        "completion_tokens": 35,
+        "total_tokens": 203,
+        "cost": 4.0131e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.0131e-05,
+          "upstream_inference_prompt_cost": 2.4696e-05,
+          "upstream_inference_completions_cost": 1.5435e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 14,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 490,
+        "completion_tokens": 214,
+        "total_tokens": 704,
+        "cost": 0.00023558,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00023558,
+          "upstream_inference_prompt_cost": 0.0001029,
+          "upstream_inference_completions_cost": 0.00013268
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 113,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "New Haven [1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82]",
+    "citations": [
+      "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Puritans 1638 colony Long Island Sound name",
+        "filter": null,
+        "results": [
+          {
+            "id": "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 86,
+            "text": "In 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 460,
+              "chunking": "paragraph:240",
+              "char_start": 242
+            },
+            "score": 0.4923230635902178,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "2faa115a794f425d74c0392e6b969e45e2b4a8c233130ee07d58dad3bc19d0b3",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 84,
+            "text": " “Provi-\ndence Plantations.” Thus was founded the colony of\nRhode Island.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 975,
+              "chunking": "paragraph:240",
+              "char_start": 902
+            },
+            "score": 0.14470121752133355,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "1346c2443132159cd8a194198233f25d45ed398ed9b97c196709427f7aa94f9a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "The trend of economic life in New Netherland was de-\neidedly influenced when, in 1638, the trade monopoly of\nthe West India Company was abolished in this colony.\nThe profitable fur trade and the rich lands were now open\nto all settlers.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1465,
+              "chunking": "paragraph:240",
+              "char_start": 1229
+            },
+            "score": 0.11667038902429583,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82 | data\\raw\\american_history_1917.pdf | page 86]\nIn 1638, a body of Puritans from England settled on\nLong Island Sound, west of the Connecticut River, and\nealled their colony New Haven. The people were Puritans\nof the strictest type; and they now formed a compact for\n\n[2faa115a794f425d74c0392e6b969e45e2b4a8c233130ee07d58dad3bc19d0b3 | data\\raw\\american_history_1917.pdf | page 84]\n “Provi-\ndence Plantations.” Thus was founded the colony of\nRhode Island.",
+        "context_ids": [
+          "1f807d4736dfe5caebe8b2ea981426c0a3a060f64268b1ea5295a8b487344b82",
+          "2faa115a794f425d74c0392e6b969e45e2b4a8c233130ee07d58dad3bc19d0b3"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T02",
+    "question": "What name did the Puritans give their 1638 colony on Long Island Sound?",
+    "elapsed_seconds": 7.047649799991632,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 193,
+        "completion_tokens": 34,
+        "total_tokens": 227,
+        "cost": 1.305e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.305e-05,
+          "upstream_inference_prompt_cost": 9.65e-06,
+          "upstream_inference_completions_cost": 3.4e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 472,
+        "completion_tokens": 157,
+        "total_tokens": 629,
+        "cost": 9.2164e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.2164e-05,
+          "upstream_inference_prompt_cost": 1.3664e-05,
+          "upstream_inference_completions_cost": 7.85e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 62,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "According to the book, the 1669 Fundamental Constitution for Carolina was drawn up by Lord Shaftesbury and his secretary, John Locke. [94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f]",
+    "citations": [
+      "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "1669 Fundamental Constitution for Carolina drafted by",
+        "filter": null,
+        "results": [
+          {
+            "id": "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 101,
+            "text": " founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 440,
+              "chunking": "paragraph:240",
+              "char_start": 265
+            },
+            "score": 0.3759794273102858,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 110,
+            "text": " Carolina.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1826,
+              "chunking": "paragraph:240",
+              "char_start": 1816
+            },
+            "score": 0.3670953149034199,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 102,
+            "text": "In North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1192,
+              "chunking": "paragraph:240",
+              "char_start": 955
+            },
+            "score": 0.323181865573696,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f | data\\raw\\american_history_1917.pdf | page 101]\n founda-\ntion for the government of Carolina was ‘‘The Funda-\nmental Constitution,” drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669. This was a theoretical\n\n[066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428 | data\\raw\\american_history_1917.pdf | page 110]\n Carolina.\n\n[5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82 | data\\raw\\american_history_1917.pdf | page 102]\nIn North Carolina, also, there were many long and\ncomplicated disputes between the people and the governors.\nBefore the publication of the Fundamental Constitution,\na government had grown up in North Carolina, and the\ninterruption of its",
+        "context_ids": [
+          "94b9a9018acb26b8f8fea42de1a5c26dfd98d24c173b0347a6485f04f3fc616f",
+          "066582d5667de9564fe16867f733ccd3408cf5c14539d971b7f27d37f7f2d428",
+          "5fff3c3d706188bc18429b0b5afed0fee991bea3bf2a20ba73f2196466c1ec82"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T03",
+    "question": "Who drafted the 1669 Fundamental Constitution for Carolina according to the book?",
+    "elapsed_seconds": 22.031230599997798,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 191,
+        "completion_tokens": 30,
+        "total_tokens": 221,
+        "cost": 1.255e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.255e-05,
+          "upstream_inference_prompt_cost": 9.55e-06,
+          "upstream_inference_completions_cost": 3e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 13,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 585,
+        "completion_tokens": 219,
+        "total_tokens": 804,
+        "cost": 0.000127232,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000127232,
+          "upstream_inference_prompt_cost": 1.7732e-05,
+          "upstream_inference_completions_cost": 0.0001095
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 89,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "According to the book, local government in the Middle colonies included both towns and counties. [4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84]",
+    "citations": [
+      "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Middle colonies two types of local government book",
+        "filter": null,
+        "results": [
+          {
+            "id": "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 122,
+            "text": "Local government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1067,
+              "chunking": "paragraph:240",
+              "char_start": 832
+            },
+            "score": 0.26985300026570663,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "de8366bd0d63d13f81460dfad8894321c6eabaffb0c9bc767ca06f1a3c9d2da0",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 107,
+            "text": "2. Henry Hudson. Fiske, Dutch and Quaker Colonies in\nAmerica, f, 82-95. Drake, Making of Virginia and the Middle\nColonies, 108-116.\n\n3. Why the English conquered New Netherland. Andrews,\nColonial Self-government, 74-81.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 660,
+              "chunking": "paragraph:240",
+              "char_start": 441
+            },
+            "score": 0.2073887583718999,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "482d565de4742a74a7a9762637b0b45191caf7de7a31a4c351d048b170e2e21d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 112,
+            "text": " by\ntheir kind treatment of two regicide judges who had\ntaken part in the conviction of Charles J. The union of\nthese two colonies strengthened their defence against the\nDutch and the Indians.",
+            "metadata": {
+              "chapter": 7,
+              "char_end": 1396,
+              "chunking": "paragraph:240",
+              "char_start": 1204
+            },
+            "score": 0.20590719415049852,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84 | data\\raw\\american_history_1917.pdf | page 122]\nLocal government in the Middle colonies included both\ntowns and counties; but here the functions were quite\nequally divided between these organizations, instead of\nbeing chiefly confined to one or the other, as in New Eng-\nland and the\n\n[de8366bd0d63d13f81460dfad8894321c6eabaffb0c9bc767ca06f1a3c9d2da0 | data\\raw\\american_history_1917.pdf | page 107]\n2. Henry Hudson. Fiske, Dutch and Quaker Colonies in\nAmerica, f, 82-95. Drake, Making of Virginia and the Middle\nColonies, 108-116.\n\n3. Why the English conquered New Netherland. Andrews,\nColonial Self-government, 74-81.",
+        "context_ids": [
+          "4a27c10c656bfc1c7ecbb860cd76ae2cd31ade45d41110e8f7bf658c75c18e84",
+          "de8366bd0d63d13f81460dfad8894321c6eabaffb0c9bc767ca06f1a3c9d2da0"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T04",
+    "question": "What two types of local government existed in the Middle colonies according to the book?",
+    "elapsed_seconds": 48.79411230000551,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 170,
+        "completion_tokens": 33,
+        "total_tokens": 203,
+        "cost": 5.304e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.304e-05,
+          "upstream_inference_prompt_cost": 3.06e-05,
+          "upstream_inference_completions_cost": 2.244e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 15,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 513,
+        "completion_tokens": 581,
+        "total_tokens": 1094,
+        "cost": 0.000221088,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000221088,
+          "upstream_inference_prompt_cost": 5.0274e-05,
+          "upstream_inference_completions_cost": 0.000170814
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 470,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "answered",
+    "answer": "The central administrative body was the Board of Trade. [95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922] [b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2]",
+    "citations": [
+      "95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922",
+      "b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "central administrative body established 1696 colonial affairs",
+        "filter": null,
+        "results": [
+          {
+            "id": "95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 158,
+            "text": " in the commercial rela-\ntions of England, was established as the central adminis-\ntrative bodwi in colonial affairs. Its powers were advisory,\nbut it exercised considerable influence over the legislation\nof Parliament and over the royal",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 2097,
+              "chunking": "paragraph:240",
+              "char_start": 1860
+            },
+            "score": 0.24263044171053558,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 159,
+            "text": "On the side of administrative ¢ontrol, the history of this\nperiod shows great activity on the part of the Board of\nTrade in their investigation of colonial conditions and their\nsecommendations for bringing the colonial governments\ninto",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1786,
+              "chunking": "paragraph:240",
+              "char_start": 1551
+            },
+            "score": 0.17702209882943912,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 158,
+            "text": " view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested",
+            "metadata": {
+              "chapter": 9,
+              "char_end": 1860,
+              "chunking": "paragraph:240",
+              "char_start": 1620
+            },
+            "score": 0.17239017331199147,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922 | data\\raw\\american_history_1917.pdf | page 158]\n in the commercial rela-\ntions of England, was established as the central adminis-\ntrative bodwi in colonial affairs. Its powers were advisory,\nbut it exercised considerable influence over the legislation\nof Parliament and over the royal\n\n[b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2 | data\\raw\\american_history_1917.pdf | page 159]\nOn the side of administrative ¢ontrol, the history of this\nperiod shows great activity on the part of the Board of\nTrade in their investigation of colonial conditions and their\nsecommendations for bringing the colonial governments\ninto",
+        "context_ids": [
+          "95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922",
+          "b7d4a8d75b6d83bdc143707a805ecf2c924c29af4ca25f88aca18c4002e411c2"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "V2T05",
+    "question": "What was the name of the central administrative body established in 1696 for colonial affairs?",
+    "elapsed_seconds": 11.577275499992538,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 194,
+        "completion_tokens": 30,
+        "total_tokens": 224,
+        "cost": 3.3662e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 3.3662e-05,
+          "upstream_inference_prompt_cost": 1.4162e-05,
+          "upstream_inference_completions_cost": 1.95e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 12,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 478,
+        "completion_tokens": 1106,
+        "total_tokens": 1584,
+        "cost": 0.000558012,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000558012,
+          "upstream_inference_prompt_cost": 7.0266e-05,
+          "upstream_inference_completions_cost": 0.000487746
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 933,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown population 1920 US census",
+        "filter": null,
+        "results": [
+          {
+            "id": "05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 141,
+            "text": " population\nin Canada was slow.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1228,
+              "chunking": "paragraph:240",
+              "char_start": 1197
+            },
+            "score": 0.2213263996280858,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.1543189513270336,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "af2dc181dbbe6172fc3f3100684fe9807eeb7be09a37686873834f550bdeb51f",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": "* The project of colonizing Newfoundland reminds us of Gilbert's\nefforts some forty years previous. Englishmen had still to learn that\nthe climate of these coasts was much colder than that of European\ncountries in the same latitude.",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1538,
+              "chunking": "paragraph:240",
+              "char_start": 1306
+            },
+            "score": 0.1509310789456435,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488 | data\\raw\\american_history_1917.pdf | page 141]\n population\nin Canada was slow.\n\n[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[af2dc181dbbe6172fc3f3100684fe9807eeb7be09a37686873834f550bdeb51f | data\\raw\\american_history_1917.pdf | page 70]\n* The project of colonizing Newfoundland reminds us of Gilbert's\nefforts some forty years previous. Englishmen had still to learn that\nthe climate of these coasts was much colder than that of European\ncountries in the same latitude.",
+        "context_ids": [
+          "05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488",
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "af2dc181dbbe6172fc3f3100684fe9807eeb7be09a37686873834f550bdeb51f"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Jamestown population census",
+        "filter": null,
+        "results": [
+          {
+            "id": "05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 141,
+            "text": " population\nin Canada was slow.",
+            "metadata": {
+              "chapter": 8,
+              "char_end": 1228,
+              "chunking": "paragraph:240",
+              "char_start": 1197
+            },
+            "score": 0.3024623777051797,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.2108906891440773,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.18805472057646316,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488 | data\\raw\\american_history_1917.pdf | page 141]\n population\nin Canada was slow.\n\n[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[af2dc181dbbe6172fc3f3100684fe9807eeb7be09a37686873834f550bdeb51f | data\\raw\\american_history_1917.pdf | page 70]\n* The project of colonizing Newfoundland reminds us of Gilbert's\nefforts some forty years previous. Englishmen had still to learn that\nthe climate of these coasts was much colder than that of European\ncountries in the same latitude.",
+        "context_ids": [
+          "05b10cb4e2d60d8f6896b7f77cd6da0e30fd8ad8977d19ee228ffe54bf70d488",
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "af2dc181dbbe6172fc3f3100684fe9807eeb7be09a37686873834f550bdeb51f"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "V2U01",
+    "question": "According to this 1917 book, what did the 1920 US census record for Jamestown population?",
+    "elapsed_seconds": 13.057443800003966,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 176,
+        "completion_tokens": 34,
+        "total_tokens": 210,
+        "cost": 2.0008e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.0008e-05,
+          "upstream_inference_prompt_cost": 3.008e-06,
+          "upstream_inference_completions_cost": 1.7e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 14,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 576,
+        "completion_tokens": 147,
+        "total_tokens": 723,
+        "cost": 9.0908e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9.0908e-05,
+          "upstream_inference_prompt_cost": 1.7408e-05,
+          "upstream_inference_completions_cost": 7.35e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 134,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 604,
+        "completion_tokens": 105,
+        "total_tokens": 709,
+        "cost": 5.278e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 5.278e-05,
+          "upstream_inference_prompt_cost": 4.228e-05,
+          "upstream_inference_completions_cost": 1.05e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 86,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  },
+  {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "1917 book Jamestown 1957 anniversary commemoration",
+        "filter": null,
+        "results": [
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.27067079629105223,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.24136163228120458,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b3a3ca095eef52b117f97f2fe01daa8c0e1a2890d728b75341dfd6da6a2da82a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " Newfoundland is directly west of\nnorthern France and southern England, and Jamestown in Virginia\ncorresponds in latitude to northern Africa. Hence the expectation that\nVirginia should produce semi-tropical products",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1753,
+              "chunking": "paragraph:240",
+              "char_start": 1538
+            },
+            "score": 0.2021470347138938,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+        "context_ids": [
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Jamestown 1957 anniversary commemoration 1917 book",
+        "filter": null,
+        "results": [
+          {
+            "id": "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 90,
+            "text": "5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.",
+            "metadata": {
+              "chapter": 5,
+              "char_end": 1371,
+              "chunking": "paragraph:240",
+              "char_start": 1249
+            },
+            "score": 0.27067079629105223,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 68,
+            "text": " branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 698,
+              "chunking": "paragraph:240",
+              "char_start": 559
+            },
+            "score": 0.24136163228120458,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "b3a3ca095eef52b117f97f2fe01daa8c0e1a2890d728b75341dfd6da6a2da82a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 70,
+            "text": " Newfoundland is directly west of\nnorthern France and southern England, and Jamestown in Virginia\ncorresponds in latitude to northern Africa. Hence the expectation that\nVirginia should produce semi-tropical products",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 1753,
+              "chunking": "paragraph:240",
+              "char_start": 1538
+            },
+            "score": 0.2021470347138938,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+        "context_ids": [
+          "e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d",
+          "eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "query_id": "V2U02",
+    "question": "According to this 1917 book, how was Jamestown commemorated in its 1957 anniversary?",
+    "elapsed_seconds": 12.50854700000491,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "tfidf",
+    "split": "test",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 2,
+    "model_usage": [
+      {
+        "prompt_tokens": 175,
+        "completion_tokens": 37,
+        "total_tokens": 212,
+        "cost": 2.2434e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 2.2434e-05,
+          "upstream_inference_prompt_cost": 3.934e-06,
+          "upstream_inference_completions_cost": 1.85e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 16,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 470,
+        "completion_tokens": 63,
+        "total_tokens": 533,
+        "cost": 8.79e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.79e-05,
+          "upstream_inference_prompt_cost": 5.64e-05,
+          "upstream_inference_completions_cost": 3.15e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 46,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 485,
+        "completion_tokens": 145,
+        "total_tokens": 630,
+        "cost": 8.6632e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 8.6632e-05,
+          "upstream_inference_prompt_cost": 1.4132e-05,
+          "upstream_inference_completions_cost": 7.25e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 121,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

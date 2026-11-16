@@ -1,0 +1,8 @@
+[
+  {"query_id":"V2T02","citation_support":[true],"answer_grade":2,"reason":"New Haven và điều kiện 1638/Puritans có trong citation trang 86; đã đối chiếu scan."},
+  {"query_id":"V2T03","citation_support":[],"answer_grade":0,"reason":"Câu có đáp án nhưng hệ thống dừng do search limit và từ chối."},
+  {"query_id":"V2T04","citation_support":[true],"answer_grade":2,"reason":"Citation trang 122 nêu cả towns và counties."},
+  {"query_id":"V2T05","citation_support":[false],"answer_grade":0,"reason":"Citation nêu tên và năm 1696 nhưng bị cắt trước điều kiện cơ quan hành chính trung ương; đáp án đúng theo scan nhưng citation không đủ hỗ trợ."},
+  {"query_id":"V2U01","citation_support":[],"abstention_correct":true,"reason":"Đầu ra hệ thống từ chối vì search limit; không xác nhận model chủ động từ chối."},
+  {"query_id":"V2U02","citation_support":[],"abstention_correct":true,"reason":"Đầu ra hệ thống từ chối vì search limit; không xác nhận model chủ động từ chối."}
+]

@@ -1,0 +1,329 @@
+{
+  "question": "What was the FY 2024 intragovvernmental accounts receivable, net?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "0afafc29c74ac9da72e58d7126177ab04031fbe77aaadb28b6b65c37dacc4ad2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 50,
+          "text": " (Note 3)                                                                   15                   15\n      Accounts Receivable, Net (Note 4)                                                  98                 67\n      Advances and Prepayments                                                          108           —\n    Total Intragovernmental                                                                      17,407                17,460\n\n    With the Public:\n      Accounts Receivable, Net (Note 4)                                                  26                       1\n       Property,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1194,
+            "pdf_page": 50,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7340865889736076
+        },
+        {
+          "chunk_id": "3c2a723f4a0660905a359658af9c3110cc136623b254fe40035055c41e59b7aa",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 50,
+          "text": " 8)\n    Intragovernmental:\n      Accounts Payable                                                           $ 29              $ 36\n      Advances from Others and Deferred Revenue                                         34                39\n      Other Liabilities (Note 10)                                                             188                 175\n    Total Intragovernmental                                                                 251               250\n\n    With the Public:\n      Accounts Payable                                                                            1,746  ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2391,
+            "pdf_page": 50,
+            "char_start": 1792,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6182160605063414
+        },
+        {
+          "chunk_id": "f91008664de7193102d3e8cb3605207c78efe693a699a8e23512380932d80e83",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 61,
+          "text": "  2024                                                   2023\n (IN MILLIONS)       RECEIVABLEACCOUNTS   ALLOWANCEUNCOLLECTIBLEACCOUNTSFOR   NET DUEAMOUNT                                                                    (IN MILLIONS)       RECEIVABLEACCOUNTS   ALLOWANCEUNCOLLECTIBLEACCOUNTSFOR   NET DUEAMOUNT\n Intragovernmental      $ 98          $ —       $ 98    Intragovernmental      $ 67          $ —       $ 67\n Public                  26        —        26     Public                         1        —             1\n Total              $ 124         $ —     $ 124    Total               $",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1787,
+            "pdf_page": 61,
+            "char_start": 1188,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5994436144828796
+        },
+        {
+          "chunk_id": "ff53796e874b207895a1600f571fd2078636e0b754f5755c31b6e4244b67a982",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 56,
+          "text": " both the FY 2024 and FY 2023\nConsolidated Appropriations Act (P.L. 118-42 and P.L. 117-328), respectively, enabling NASA to utilize up to $1 million\nfrom the Safety, Security, and Mission Services appropriation for disbursement to the Challenger Center.\n\nAccounts Receivable, Net\nMost of NASA’s Accounts Receivable are for intragovernmental reimbursements for cost of goods and services provided\nto other Federal agencies; the rest are for debts to NASA by employees and non-Federal vendors. Allowances for\ndelinquent non-Federal accounts receivable are based on factors such as: aging of accounts",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3567,
+            "pdf_page": 56,
+            "char_start": 2969,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.582183301448822
+        },
+        {
+          "chunk_id": "63acf5cfdd913527ba4488a743ba161856b9f4cf1192872c36584423d2756b97",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 61,
+          "text": " evaluation of accounts receivable is performed to estimate any uncollectible amounts based on current status,\nfinancial and other relevant characteristics of debtors, and the overall relationship with the debtor. An allowance for\nuncollectible accounts is recorded for Accounts Receivable due from the public and Federal sector to reduce Accounts\nReceivable to its net realizable value in accordance with SFFAS 1, Accounting for Selected Assets and Liabilities. The total\nallowance for uncollectible accounts during FY 2024 and FY 2023 is less than one–half million dollars.\n\n                      ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1188,
+            "pdf_page": 61,
+            "char_start": 589,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5653350353240967
+        },
+        {
+          "chunk_id": "5efb8af69e9d0a710d23cd5a5a1f04985c45934cc235a2071e6cd1720e2eec60",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 67,
+          "text": " FINANCIAL SECTION  FINANCIAL STATEMENTS, NOTES, AND REQUIRED SUPPLEMENTARY INFORMATION\n\n        NOTE 10\n      Other Liabilities10\n\nIntragovernmental Other Liabilities primarily represent accrued cost estimates for goods and services performed by\nFederal trading partners and payroll costs related to employer contributions, payroll taxes payable, and other post-\nemployment benefits. For FY 2024, Intragovernmental Other Liabilities included $29 million in other current liabilities\nthat are not covered by budgetary resources.\n\nOther Accrued Liabilities with public entities primarily consist of",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 597,
+            "pdf_page": 67,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5578243996009599
+        },
+        {
+          "chunk_id": "b29955785d66ab6f5bb381c2963fa46113ceb6df60c6641d7c0bae792908e64b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 56,
+          "text": " receivable, debtors’ ability to\npay, payment history, and other relevant factors. Delinquent non-Federal accounts receivable over 120 days are referred\nto Treasury for collection, wage garnishment or cross-servicing in accordance with the Debt Collection Improvement\nAct, as amended. An allowance for uncollectible accounts is recorded for Accounts Receivable due from the public and\nFederal sector in order to reduce Accounts Receivable to its net realizable value in accordance with SFFAS 1, Accounting\nfor Selected Assets and Liabilities.\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV              ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4166,
+            "pdf_page": 56,
+            "char_start": 3567,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5553698539733887
+        },
+        {
+          "chunk_id": "2345518afff2666b6cde675f8aa09ce5a9aba5c9f3efcf6693cc3b14ce08e73f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 1,
+          "text": "                                                   National Aeronautics and\n                                               Space Administration\n\n\n\n\n\n                  FY 2024\n AGENCY\nFINANCIAL\n REPORT",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 200,
+            "pdf_page": 1,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5547529724387553
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "3cd3fb3f0eae37f63aae3dc3373ae65febe928cf57ea5903c0577ad387234d00",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 91,
+          "text": "er 30, 2024\", \"November 15, 2024\", \"Federal Managers' Financial Integrity Act of 1982\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 91,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5556366377310032
+        },
+        {
+          "chunk_id": "220729e06bf2f04226810bc2485ea48dbdddf2ae024b094363552640cdb2cb1e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": " \"Expired Accounts: (318); (142); —; —\", \"Distributed Offsetting Receipts: —; —; 7; —\", \"Budget of the United States Government: $30,605; $28,134; $—; $25,326\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle of page, under Note 13",
+            "pdf_page": 70,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5226840376853943
+        },
+        {
+          "chunk_id": "bff3cefe6b20ec02e2f60e0043ebc6f9aca9fb0a4eb1d85423dbd95b5d620a6b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 50,
+          "text": "[\"$29\", \"$36\"], \"Advances from Others and Deferred Revenue\": [\"34\", \"39\"], \"Other Liabilities (Note 10)\": [\"188\", \"175\"], \"Total Intragovernmental\": [\"251\", \"250\"]}, \"With the Public\": {\"Accounts Payable\": [\"1,746\", \"1,730\"], \"Federal Employee Salary, Leave and Benefits Payable\": [\"348\", \"288\"], \"Pensions and Post-Employment Benefits Payable\": [\"26\", \"27\"], \"Environmental and Disposal Liabilities (Note 9)\": [\"2,353\", \"2,305\"], \"Advances from Others and Deferred Revenue\": [\"180\", \"199\"], \"Other Accrued Liabilities\": [\"1,902\", \"1,793\"], \"Other\": ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "main body, center and full width below the title",
+            "pdf_page": 50,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5178782939910889
+        },
+        {
+          "chunk_id": "ef816c923dcd132390aab6b2a9d5fb6835556464cfd1cc12e8b09ce20a81a378",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 77,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the FY 2024 Agency Financial Report, Financial Section, Note 18 Public-Private Partnerships (continued). It contains a financial table of public-private agreement/contract amounts for 2024 and 2023, followed by text section 'B. Leases' describing NASA's Enhanced Use Lease (EUL) and National Historic Preservation Act (NHPA) leasing programs, benefits, limitations, and termination responsibilities. No charts, maps, diagrams, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 77,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5016486048698425
+        },
+        {
+          "chunk_id": "05668af181f78e5c8cfff0f103f050b5d0444530275afdf8ef5a0f2733f37489",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 72,
+          "text": "06); (106)\", \"Applied overhead/cost capitalization offset: —; 1,664; 1,664\", \"Donations: —; 44; 44\", \"Gains/Losses on all other investments: —; —; —\", \"Accounts receivable, net: 11; —; 11\", \"Other assets: (32); (6); (38)\", \"Accounts payable: (17); 110; 93\", \"Environmental and disposal liabilities: —; (175); (175)\", \"Federal employee benefits payable: —; (1); (1)\", \"Other liabilities: 41; 46; 87\", \"Imputed cost: (231); —; (231)\", \"Total Components of Net Cost not part of the Budgetary Outlays: (228); 983; 755\", \"Donated revenue: —; —; —\", \"Trans",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "upper-middle to lower-middle of page",
+            "pdf_page": 72,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4926525661167458
+        },
+        {
+          "chunk_id": "b57c50a8afa23fc14b8b6c59945409e7813c83b11982958d2bba53d6ef223ec2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 73,
+          "text": "{\"type\": \"text_block\", \"location\": \"middle to lower half\", \"description\": \"Narrative paragraphs explaining Treasury requirements for the Financial Report of the U.S. Government, adjusted trial balance, GTAS, reclassified statements, intragovernmental balances, and definitions of 'intragovernmental' and 'non-federal.' Includes a hyperlink reference to the 2023 Financial Report and a note that the 2024 report will be posted later.\", \"visible_values\": [\"2023\", \"2024\", \"September 30, 2023, and 2022\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "middle to lower half",
+            "pdf_page": 73,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4886575937271118
+        },
+        {
+          "chunk_id": "51b19e3493534c08ce2a2346d530d83d26460ad4bf5897321a25d352852b223c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 74,
+          "text": ",083; Net Position, Beginning of Period\", \"Appropriations Used — 25,007; 25,007; Appropriations Expended\", \"Non-Exchange Revenue — 27; 38; Non-Federal Non-Exchange Revenue/Other Taxes and Receipts\", \"Federal Non-Exchange Revenue — 1 in second amount column\", \"Donations and Forfeitures of Property — 8; (4); Non-Entity Collections Transferred to the General Fund of the U.S. Government\", \"Imputed Financing — 292; 292; Imputed Financing Sources\", \"Net Cost of Operations — (24,734); (24,734); Net Cost of Operations\", \"Net Change in Cumulative Result",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "lower half of page",
+            "pdf_page": 74,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48558440976329076
+        },
+        {
+          "chunk_id": "0c13bf4b8e75c038d2e6bb74313ee6aa33f6fcfbc3dee28fbd3a4d29b8d8e121",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 50,
+          "text": "nts Receivable, Net (Note 4)\": [\"98\", \"67\"], \"Advances and Prepayments\": [\"108\", \"—\"], \"Total Intragovernmental\": [\"17,407\", \"17,460\"]}, \"With the Public\": {\"Accounts Receivable, Net (Note 4)\": [\"26\", \"1\"], \"Property, Plant, and Equipment, Net (Note 5)\": [\"9,331\", \"8,651\"], \"Advances and Prepayments\": [\"43\", \"23\"], \"Other Assets (Note 7)\": [\"697\", \"—\"], \"Total with the Public\": [\"10,097\", \"8,675\"]}, \"Total Assets\": [\"$27,504\", \"$26,135\"], \"Stewardship PP&E (Note 6)\": \"no values shown\"}, \"liabilities\": {\"Intragovernmental\": {\"Accounts Payable\": ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, center and full width below the title",
+            "pdf_page": 50,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.48127734772698083
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 50
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 91
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 70
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 61
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 56
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 77
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8666,
+    "completion_tokens": 335,
+    "total_tokens": 9001,
+    "cost": 0.0017019,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0017019,
+      "upstream_inference_prompt_cost": 0.0012999,
+      "upstream_inference_completions_cost": 0.000402
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 234,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"NASA’s FY 2024 intragovernmental accounts receivable, net was $98 million as of September 30, 2024.\",\"citations\":[{\"page\":50,\"region\":\"Consolidated Balance Sheets, Assets > Intragovernmental > Accounts Receivable, Net (Note 4), 2024 column\"},{\"page\":61,\"region\":\"Note 4 Accounts Receivable, Net, 2024 table, Intragovernmental row, Net Amount Due column\"}]}",
+  "answer": {
+    "answer": "NASA’s FY 2024 intragovernmental accounts receivable, net was $98 million as of September 30, 2024.",
+    "citations": [
+      {
+        "page": 50,
+        "region": "Consolidated Balance Sheets, Assets > Intragovernmental > Accounts Receivable, Net (Note 4), 2024 column"
+      },
+      {
+        "page": 61,
+        "region": "Note 4 Accounts Receivable, Net, 2024 table, Intragovernmental row, Net Amount Due column"
+      }
+    ]
+  },
+  "elapsed_seconds": 62.86969320001663
+}

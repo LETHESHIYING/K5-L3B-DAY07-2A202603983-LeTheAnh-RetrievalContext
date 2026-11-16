@@ -1,0 +1,418 @@
+[
+  {
+    "id": "H01",
+    "split": "dev",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "answerable": true,
+    "expected_answer": "The East India Company.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 62,
+        "evidence": "and Tndia (the East India Company, 1600)."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H02",
+    "split": "dev",
+    "question": "According to the book, how many colonists did the London Company send to Virginia in 1607?",
+    "answerable": true,
+    "expected_answer": "120 men.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 64,
+        "evidence": "In 1607, the London Company sent to Virginia 120 men as colonists."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H03",
+    "split": "dev",
+    "question": "What year did the book give for the beginning of systematic tobacco cultivation?",
+    "answerable": true,
+    "expected_answer": "1612.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 66,
+        "evidence": "systematic culti- vation of tobacco began in 1612,"
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H04",
+    "split": "dev",
+    "question": "According to this book, in what year did a Dutch ship bring twenty Africans to Jamestown?",
+    "answerable": true,
+    "expected_answer": "1619.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 68,
+        "evidence": "The first shipload arrived in 1619, when a Dutch ship anchored at Jamestown with twenty native Africans whom the planters purchased."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H05",
+    "split": "dev",
+    "question": "How many burgesses did each plantation or settlement elect, according to the book?",
+    "answerable": true,
+    "expected_answer": "Two.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 69,
+        "evidence": "The latter vas composed of two burgesses elected by popular vote from each plantation or settlement (cleven in number), and met first in 1619."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H06",
+    "split": "dev",
+    "question": "Where and when does the book place the first settlement in Maryland?",
+    "answerable": true,
+    "expected_answer": "St. Mary’s on Chesapeake Bay, in 1634.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 70,
+        "evidence": "The first settlement in Maryland was at St. Mary’s on Soe Chesapeake Bay in 1634."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H07",
+    "split": "dev",
+    "question": "What land entitlement does the book describe for indentured servants in Maryland after their service?",
+    "answerable": true,
+    "expected_answer": "Fifty acres at the end of the term of service.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 71,
+        "evidence": "every indentured servant (these were especially numerous in Maryland), was entitled to fifty acres at the end of his term of service."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H08",
+    "split": "dev",
+    "question": "According to chapter 5, where did the Pilgrims live before sailing to Plymouth in America?",
+    "answerable": true,
+    "expected_answer": "Holland.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 74,
+        "evidence": "their flight from that country; their residence in Holland; and the voyage, first to Plymouth in England and then to the new Plymouth in America."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H09",
+    "split": "dev",
+    "question": "What group does the book identify as the origin of the Pilgrims?",
+    "answerable": true,
+    "expected_answer": "The Separatists, also called Independents.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 78,
+        "evidence": "Such were the Separatists, or Indenendents, and it was from this body that the Pilgrims came."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H10",
+    "split": "dev",
+    "question": "Who had oversight of town affairs in the Massachusetts town system described in the book?",
+    "answerable": true,
+    "expected_answer": "Elected selectmen.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 82,
+        "evidence": "Selectmen were elecied (correspond- ing to the church wardens in England) who had general oversight of town affairs, both civil and ecclesiastical."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H11",
+    "split": "dev",
+    "question": "Which document described Connecticut Colony’s government in 1639?",
+    "answerable": true,
+    "expected_answer": "The Fundamental Orders.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 85,
+        "evidence": "The government of Connecticut Colony was formally set forth in 1639 by the adoption of “The Fundamental Orders."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H12",
+    "split": "dev",
+    "question": "In what year does the book say the New England Confederation was formed?",
+    "answerable": true,
+    "expected_answer": "1643.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 88,
+        "evidence": "these four colonies formed, in 1643, the New England Confederation."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H13",
+    "split": "dev",
+    "question": "How far up the Hudson River did Hudson travel according to the book?",
+    "answerable": true,
+    "expected_answer": "To the site of Albany.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 93,
+        "evidence": "Hudson sailed into Delaware Bay and then into the beautiful New York Harbor and up the Hudson River as far as the site of Albany."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H14",
+    "split": "dev",
+    "question": "In chapter 7, what ships did the Navigation Act of 1651 require for goods brought to England from Asia, Africa, or America?",
+    "answerable": true,
+    "expected_answer": "English or colonial ships.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 109,
+        "evidence": "An act of Parliament, passed in 1651, required that all goods brought to England from Asia, Africa, or America, should be carried by English or colonial ships."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H15",
+    "split": "dev",
+    "question": "What population change for the English colonies between 1690 and 1760 does this book report?",
+    "answerable": true,
+    "expected_answer": "From about 245,000 to 1,600,000.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 152,
+        "evidence": "the years 1690 and 1760 the English colonies grew in population from about 245,000 to 1,600,000."
+      }
+    ],
+    "origin": "Day 6 original dev; assigned to Day 7 dev"
+  },
+  {
+    "id": "H16",
+    "split": "dev",
+    "question": "According to the book, who obtained corn for the Jamestown settlers and promoted planting it?",
+    "answerable": true,
+    "expected_answer": "John Smith.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 65,
+        "evidence": "John Smith, ‘‘the one encrgetie and capable man in these first years,” compelled the men to labor; for, he said, “he that will not worke shall not eat, unless by sicknesse he be disabled.” He skilfully obtained corn from the Indians when the settlers were starving, and he compelled the systematic planting of corn."
+      }
+    ],
+    "origin": "Day 6 original test; assigned to Day 7 dev"
+  },
+  {
+    "id": "H17",
+    "split": "dev",
+    "question": "In chapter 5, what happened to Anne Hutchinson after her theological disagreement with orthodox Puritans?",
+    "answerable": true,
+    "expected_answer": "She was sentenced to banishment.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 84,
+        "evidence": "Mrs. Anne Hutchinson differed from orthodox Puritans upon some points in theology with which the modern would does not concern itself; and although at one time she had the sympathy of the governcr of Massachusetts, Sir Henry Vane, the leading minister of Boston, John Cotton, and a large number of the Boston Puritans, yet she was con- demned to banishment."
+      }
+    ],
+    "origin": "Day 6 original test; assigned to Day 7 dev"
+  },
+  {
+    "id": "H18",
+    "split": "dev",
+    "question": "What kind of assembly did the Duke of York establish in 1683, according to the book?",
+    "answerable": true,
+    "expected_answer": "An elective assembly with power to tax the colony.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 98,
+        "evidence": "in 1683, the Duke established an elective assembly with power to tax the colony."
+      }
+    ],
+    "origin": "Day 6 original test; assigned to Day 7 dev"
+  },
+  {
+    "id": "H19",
+    "split": "dev",
+    "question": "In chapter 8, who drew up the plan adopted at the Albany congress?",
+    "answerable": true,
+    "expected_answer": "Benjamin Franklin.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 146,
+        "evidence": "The plan adopted was drawn up by Benjamin Franklin."
+      }
+    ],
+    "origin": "Day 6 original test; assigned to Day 7 dev"
+  },
+  {
+    "id": "H20",
+    "split": "dev",
+    "question": "According to the book, who were leaders of the Great Awakening?",
+    "answerable": true,
+    "expected_answer": "Jonathan Edwards and George Whitefield.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 157,
+        "evidence": "Jonathan Edwards and George Whitefield were the leaders."
+      }
+    ],
+    "origin": "Day 6 original test; assigned to Day 7 dev"
+  },
+  {
+    "id": "DU01",
+    "split": "dev",
+    "question": "According to this 1917 book, how did the 1918 influenza pandemic affect Jamestown?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 1918. Literal corpus checks for 1918 and influenza returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "review_status": "temporal publication check and exact-term search; OCR may have errors"
+  },
+  {
+    "id": "DU02",
+    "split": "dev",
+    "question": "According to this 1917 book, how did World War II in 1939 affect Virginia?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 1939. Literal corpus checks for 1939 and world war ii returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "review_status": "temporal publication check and exact-term search; OCR may have errors"
+  },
+  {
+    "id": "V2T01",
+    "split": "test",
+    "question": "In what year did each Plymouth town elect deputies to the general court?",
+    "answerable": true,
+    "expected_answer": "1639",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 77,
+        "evidence": "each town elected (1639)"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  },
+  {
+    "id": "V2T02",
+    "split": "test",
+    "question": "What name did the Puritans give their 1638 colony on Long Island Sound?",
+    "answerable": true,
+    "expected_answer": "New Haven",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 86,
+        "evidence": "ealled their colony New Haven"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  },
+  {
+    "id": "V2T03",
+    "split": "test",
+    "question": "Who drafted the 1669 Fundamental Constitution for Carolina according to the book?",
+    "answerable": true,
+    "expected_answer": "Lord Shaftesbury and John Locke",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 101,
+        "evidence": "drawn up by Lord Shaftesbury and\nhis secretary, John Locke, in 1669"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  },
+  {
+    "id": "V2T04",
+    "split": "test",
+    "question": "What two types of local government existed in the Middle colonies according to the book?",
+    "answerable": true,
+    "expected_answer": "Towns and counties",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 122,
+        "evidence": "Local government in the Middle colonies included both\ntowns and counties"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  },
+  {
+    "id": "V2T05",
+    "split": "test",
+    "question": "What was the name of the central administrative body established in 1696 for colonial affairs?",
+    "answerable": true,
+    "expected_answer": "Board of Trade",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 158,
+        "evidence": " view especially to the enforcement of the\nnavigation Jaws and to better measures of military action\nagainst the French. In 1696, a new body, known as the\n“Board of Trade,” consisting of members of the Privy\nCouncil and other men interested"
+      }
+    ],
+    "verification": "Original PDF scan visually inspected; evidence copied from OCR with artifacts retained.",
+    "origin": "Fresh test after trace and JSON output changes; not used for tuning."
+  },
+  {
+    "id": "V2U01",
+    "split": "test",
+    "question": "According to this 1917 book, what did the 1920 US census record for Jamestown population?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The source is a 1917 edition and cannot report the later 1920 event. Literal year occurrences in the selected OCR corpus: 0. OCR alone is not proof of absence.",
+    "origin": "Fresh test; temporal absence criterion, limited diversity."
+  },
+  {
+    "id": "V2U02",
+    "split": "test",
+    "question": "According to this 1917 book, how was Jamestown commemorated in its 1957 anniversary?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The source is a 1917 edition and cannot report the later 1957 event. Literal year occurrences in the selected OCR corpus: 0. OCR alone is not proof of absence.",
+    "origin": "Fresh test; temporal absence criterion, limited diversity."
+  }
+]

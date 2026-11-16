@@ -1,0 +1,38 @@
+{
+  "pass": 27,
+  "total": 30,
+  "percent": 90.0,
+  "groups": {
+    "table": {
+      "pass": 6,
+      "total": 6
+    },
+    "image_diagram": {
+      "pass": 4,
+      "total": 5
+    },
+    "chart": {
+      "pass": 5,
+      "total": 5
+    },
+    "multi_hop": {
+      "pass": 2,
+      "total": 4
+    },
+    "text": {
+      "pass": 4,
+      "total": 4
+    },
+    "unanswerable": {
+      "pass": 6,
+      "total": 6
+    }
+  },
+  "agent_errors": 1,
+  "reported_provider_cost_usd": 0.0373156248,
+  "reported_tokens": 268387,
+  "wall_seconds": 365.9959080000117,
+  "sum_case_seconds": 1321.504896300059,
+  "grading": "AI original-page review, not independent human review; see M03 erratum and TUC review note",
+  "limitations": "Frozen gold contained one arithmetic mistake corrected after test; all negatives use future years; test is small; source completeness and independent human audit unverified."
+}

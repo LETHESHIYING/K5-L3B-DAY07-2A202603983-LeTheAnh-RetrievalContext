@@ -1,0 +1,325 @@
+{
+  "question": "What are the five risk categories in NASA's UNICORN framework?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "64bbad925a8edc6c9b933904bff2488156e2441ae68223af4b7110169d4a4c73",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": " capabilities.\n\nNASA’s ARMO leads the Agency’s ERM effort in collaboration with the Quality Assurance Division within OCFO. The\nNASA Unified Comprehensive Operational Risk Network (UNICORN), NASA’s ERM framework, is the framework\nfor the communication and exchange of risk information between NASA’s functional organizations and the Agency\nleadership (see Figure 2). The framework is the foundation of the Agency’s risk management policy, activities, and\ndecisional councils.\n\n\n                                            FIGURE 2\n                              NASA's UNICORN\n\n\n                     ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1791,
+            "pdf_page": 39,
+            "char_start": 1192,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.659442385468342
+        },
+        {
+          "chunk_id": "eba79ea4a4874c5562fb2ee30b43b28be1c216b2c1a20aa40c0cf78c52bf7e55",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " enhance the discipline of risk management within the Agency.\n\n      FIGURE 3\n   ERM Sources\n\n\n\n\n\nNASA continues to face new challenges in carrying out essential functions necessary to achieve its core mission. Long\nstanding risk management processes and activities are inherently woven throughout NASA’s culture, so the Agency is\nwell positioned to respond to unknown threats or national emergencies that may disrupt operations for an extended\nperiod. NASA's leadership has developed Agencywide guidance that considers guidelines provided by the White House,\nOffice of Personnel Management, and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2971,
+            "pdf_page": 40,
+            "char_start": 2376,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5524852809327506
+        },
+        {
+          "chunk_id": "a849d280490579d50e635a53dcb57fd65a65b4f1cd4353ed710dd4d5b34a0e9c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 100,
+          "text": " develop the risk\n                     management framework in support of Mission Directorates, Centers, and programs and\n                           projects to manage and communicate risk more effectively. As part of this study, a key area\n                          of focus was to assess how NASA can ensure realism in early formulation and provide\n                     Agency senior management officials with recommendations on how to mitigate early\n                        optimism. The study found optimism exists in pre-formulation regardless of mission\n                          category, as",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1193,
+            "pdf_page": 100,
+            "char_start": 595,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5504145890227214
+        },
+        {
+          "chunk_id": "9fba0d403d7e8761a97d3349efd86f96f8e978a7565dca289df55314bc096774",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\n\n                                        (CONTINUED)Enterprise Risk Management\n\nThe ARMO works in concert with Mission Directorates, Centers, Technical Authorities and Offices to increase\nawareness, understanding, and consideration of risks to NASA’s strategic goals and objectives as well as opportunities\nto support risk-informed decision-making. This collaboration includes the application of objectives driven risk\nmanagement (ODRM) and risk leadership principles to characterize and communicate the",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 594,
+            "pdf_page": 40,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5289885051867068
+        },
+        {
+          "chunk_id": "465f68da8f564af59e25fe4060af3b66f17e160aee33b4217487f5ff6f0bc790",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " practices. Improving NASA’s\nERM capabilities is accomplished with the direct support of Agency leadership and through efforts such as enhancing\ntools for integrated data management and revising workforce training to grow and sustain enterprise risk management\nknowledge and expertise. The ARMO assesses an array of enterprise-level risks, Agency Risk Profile, and documents and\nmakes accessible the risk data in a dashboard to support ODRM and risk-informed decisions. Significant risks affecting\nthe Agency’s strategic goals and objectives then are elevated and briefed by the responsible",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1780,
+            "pdf_page": 40,
+            "char_start": 1190,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5261560364868628
+        },
+        {
+          "chunk_id": "1a4fa02e9a866336c31f7e729fc0402f0b828579ead4503ef1da33bb6960ee46",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": " Management Tiger\nTeam to review, assess and propose options to strengthen the Agency’s risk management framework. Specifically,\nthe Tiger Team focused on identifying how to best support risk practitioners and senior leaders in managing and\ncommunicating their risks effectively. Based on the Tiger Team’s findings, NASA implemented several initiatives to\nimprove internal risk management processes. This includes establishment of an Agency Risk Management Officer\n(ARMO) within the Headquarters Office of Safety and Mission Assurance to fortify NASA’s risk management policies,\npractices, and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1192,
+            "pdf_page": 39,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5255345984974752
+        },
+        {
+          "chunk_id": "65eafffdf38add9c1bce0e2937ad8eccdb3ae985796f8ed8ba2af6062f619c42",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": " types and amount of risk\nNASA is willing to accept to achieve its objectives. The ARMO leads collaboration groups comprising senior-level\nrepresentatives from across Agency Mission Directorates, Centers, and Technical Authorities. These groups help to\nfoster increased risk awareness and understanding of potential cross-cutting implications, impacts, and/or opportunities\nfor stakeholders.\n\nAs NASA’s chief steward of risk management policy and practices, the ARMO oversees the development of strengthened\ncapabilities to enable more efficient, effective, and sustainable risk communication and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 40,
+            "char_start": 594,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5239141867211955
+        },
+        {
+          "chunk_id": "2a6c55601886453a7de6ae8b0702109cbe8853dadb2e5a0ac84e92d537880e8e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\nEnterprise Risk Management\n\n\nOMB Circular A-123, Management’s Responsibility for Enterprise Risk Management and Internal Control, requires\nFederal agencies to implement ERM to ensure Federal managers are effectively managing risks that could affect the\nachievement of Agency strategic objectives.\n\nRisk management is embedded in NASA’s culture, and the principles and practices are inherent in everyday operations.\nIn July 2023, the NASA Deputy Administrator directed the formation of an internal Agency Risk",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 39,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5192259240611846
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "19ac2f75a515a607ea5e75e1a5142c108198def8d3ad0257a15e218bb15a9452",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 39 of the FY 2024 NASA Agency Financial Report, in the Enterprise Risk Management section. It contains three explanatory text paragraphs and Figure 2, a diagram titled \\\"NASA's UNICORN,\\\" showing ERM governance councils, decision/risk flows, risk categories, supporting organizations, and control/fraud-risk management boxes. A legend and footer are also visible. No charts, tables, maps, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5728708164172888
+        },
+        {
+          "chunk_id": "1929f75b5c25a7941d12334cf3cb0731f4cf9bbb8ea781b84764c10f1b7404db",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "f Controls and Fraud Risk Management. Green curved arrows appear on the left and right sides.\", \"visible_values\": [\"Enterprise Risk Management\", \"EC\", \"APMC\", \"ASC\", \"MSC\", \"Program & Mission Decisions\", \"Mission-Enabling Decisions\", \"Escalated Risk\", \"ASC Advice and Decisions\", \"APMC Participation\", \"Program-driven Institutional Requirements\", \"Political and Reputational Risk\", \"Programmatic Risk\", \"Financial Risk\", \"Strategic Risk\", \"Operational Risk\", \"HQ Mission Directorate Centers\", \"Functional Organizations Supporting Center Operations\", ",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4929877074662554
+        },
+        {
+          "chunk_id": "5b21b936adbe43305e6e75a78422277029a244fb6ee02b9921f8125167b2ac5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": " Vision and Mission 09\", \"Organizational Structure 10\", \"NASA Centers and Facilities 11\", \"NASA by the Numbers 12\", \"MISSION PERFORMANCE 13\", \"Strategic Plan Framework 14\", \"Strategic Goals and Objectives 15\", \"Agency Priority Goals 17\", \"STRATEGIC GOALS AND HIGHLIGHTS 19\", \"Assessment Approach 20\", \"FY 2024 Performance Assessment 21\", \"FINANCIAL PERFORMANCE 27\", \"Financial Highlights 28\", \"Overview of Financial Position 28\", \"Results of Operations 31\", \"Sources of Funding 33\", \"Limitations of the Financial Statements 34\", \"ANALYSIS OF SYSTEMS,",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4794197094786349
+        },
+        {
+          "chunk_id": "56db13bb907fa8f6bba470218a365842b59fc4ec39c6661423a53760006d845e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "{\"type\": \"diagram\", \"location\": \"center of page\", \"description\": \"Oval ERM diagram labeled Enterprise Risk Management. Top red oval EC; left blue oval APMC; center white oval ASC; right green oval MSC. Arrows connect the councils with labels for decisions, risk escalation, advice, participation, and institutional requirements. Below the councils are five colored risk-category boxes, a light-blue box for HQ Mission Directorate Centers and Functional Organizations Supporting Center Operations, and a green box for Control Certifications-Analysis o",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "center of page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4736414881179942
+        },
+        {
+          "chunk_id": "a90bb906daa51036b443d546877d739846cc15eaef9e41789b3ab3fd78f30aff",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 125,
+          "text": "ong Duration Balloon\", \"UNICORN — Unified Comprehensive Operational Risk Network\", \"USDV — United States Deorbit Vehicle\", \"USSGL — United States Standard General Ledger\", \"VCLS Demo 2 — Venture-Class Launch Services Demonstration 2\", \"VIPer — Volume of Integrated Performance\", \"xEVAS — Exploration Extravehicular Activity Services\"]}}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "main body, right column",
+            "pdf_page": 125,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4683007616817505
+        },
+        {
+          "chunk_id": "94a15c32525b794327e3fbf4b1cb1a5ea3820cd8e0f94905503315716443b339",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "24 and 2023 liability categories and totals. No charts, maps, diagrams, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.46146941644317907
+        },
+        {
+          "chunk_id": "c8318d723e74d3bc5ce8ff9c3fb686ec6a65f0720e6831c1d4990f9a3c114eba",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "e-Related Financial Risk 115\", \"SECTION 4 Appendix 116\", \"Message from the Administrator: Spanish Version 117\", \"Message from the Chief Financial Officer: Spanish Version 119\", \"Celebrating NASA 10+ Years of Excellence 120\", \"Certificate of Excellence in Accountability Reporting Award 121\", \"Glossary of Acronyms 122\", \"Acknowledgments 125\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4538978095176447
+        },
+        {
+          "chunk_id": "a168aa8cb1e0bc4d563638930b278a5203e79fd55c552f535fdfc10a8082bdca",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 6,
+          "text": "{\"type\": \"callout_box\", \"location\": \"right side, upper-middle\", \"description\": \"Yellow-outlined sidebar box titled 'NASA's Major Themes and Strategic Goals' with four labeled theme headings and short descriptions.\", \"visible_values\": [\"NASA's Major Themes and Strategic Goals\", \"DISCOVER\", \"Expand human knowledge through new scientific discoveries.\", \"EXPLORE\", \"Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"INNOVATE\", \"Catalyze economic growth and drive innovation to",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "right side, upper-middle",
+            "pdf_page": 6,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.453547152665428
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 39
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 40
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 100
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 3
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 125
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 64
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8408,
+    "completion_tokens": 658,
+    "total_tokens": 9066,
+    "cost": 0.0015902,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0015902,
+      "upstream_inference_prompt_cost": 0.0012612,
+      "upstream_inference_completions_cost": 0.000329
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 564,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"In NASA's UNICORN framework, the five risk categories shown in Figure 2 are: (1) Political and Reputational Risk, (2) Programmatic Risk, (3) Financial Risk, (4) Strategic Risk, and (5) Operational Risk.\",\"citations\":[{\"page\":39,\"region\":\"center of page, Figure 2 'NASA's UNICORN', five colored risk-category boxes\"}]}",
+  "answer": {
+    "answer": "In NASA's UNICORN framework, the five risk categories shown in Figure 2 are: (1) Political and Reputational Risk, (2) Programmatic Risk, (3) Financial Risk, (4) Strategic Risk, and (5) Operational Risk.",
+    "citations": [
+      {
+        "page": 39,
+        "region": "center of page, Figure 2 'NASA's UNICORN', five colored risk-category boxes"
+      }
+    ]
+  },
+  "elapsed_seconds": 91.42671749999863
+}

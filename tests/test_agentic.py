@@ -71,4 +71,26 @@ class AgentTests(unittest.TestCase):
         with self.assertRaises(ConnectionError):
             run_agent('q', Controller([{'action':'search','query':'q'}]), Broken())
 
+    def test_controller_failure_preserves_completed_search(self):
+        class FailingController:
+            def __init__(self): self.calls = 0
+            def decide(self, question, history):
+                self.calls += 1
+                if self.calls == 1: return {'action': 'search', 'query': 'original'}
+                raise ValueError('invalid model response')
+        with self.assertRaises(ValueError) as caught:
+            run_agent('q', FailingController(), Retriever([CHUNK]))
+        events = caught.exception.agent_events
+        self.assertEqual(events[0]['query'], 'original')
+        self.assertIn('c1', events[0]['context_ids'])
+        self.assertEqual(events[-1]['event'], 'controller_error')
+
+    def test_retriever_failure_records_attempt_without_masking_exception(self):
+        class Broken:
+            def search(self, query, *, filters, top_k): raise ConnectionError('unavailable')
+        with self.assertRaises(ConnectionError) as caught:
+            run_agent('q', Controller([{'action':'search','query':'q'}]), Broken(), top_k=3)
+        self.assertEqual(caught.exception.agent_events[-1]['event'], 'search_error')
+        self.assertEqual(caught.exception.agent_events[-1]['query'], 'q')
+
 if __name__ == '__main__': unittest.main()

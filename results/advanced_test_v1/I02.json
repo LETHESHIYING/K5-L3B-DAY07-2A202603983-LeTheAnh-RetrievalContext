@@ -1,0 +1,318 @@
+{
+  "question": "How many Strategic Goals, Strategic Objectives, and Performance Goals are in NASA's performance framework breakdown?",
+  "status": "error",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "2809572cbf0c02df82badaf1c732b352cbf716db9653962f12aaa6a312560862",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 15,
+          "text": "                                                    Agenda Priorities\n                                             Milestone/Activity                    MULTI YEAR\n\n\n\n    NASA'S PERFORMANCE                      Strategic              Strategic               Performance\n    FRAMEWORK BREAKDOWN                Goals                 Objectives               Goals         04     12    50\n\n\nNASA elevates a subset of performance goals — Agency Priority Goals — for additional attention and external reporting.\nAgency Priority Goals reflect both NASA and Administration priorities. In the 2022 Strategic",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1797,
+            "pdf_page": 15,
+            "char_start": 1198,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.8228784799575806
+        },
+        {
+          "chunk_id": "647098b2ae325273af7f4e1a4d39aa64503e7a9f0a1cf7978f3eb73dc6887469",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 15,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  MISSION PERFORMANCE\nStrategic Plan Framework\n\n\nNASA’s 2022 Strategic Plan defines a framework that consists of Strategic Goals aligned to our Mission; Strategic\nObjectives describing our strategies for achieving the Strategic Goals; and multiyear, outcome-oriented Performance\nGoals with annual targets and milestones measuring and tracking incremental progress towards achieving the\nPerformance Goals. The Performance Goals and annual targets are consistent with our fiscal year budget request and\nAgency priorities.\n\n\n                                        ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 15,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7902858978339509
+        },
+        {
+          "chunk_id": "99bfedca0ba9833cdac48424d745f1dd0dbfb4d24ebb8578e835235b44150ee6",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\nAssessment Approach\n\n\nEvery Strategic Objective is supported by at least one                                              EXAMPLE\nPerformance Goal. NASA’s Performance Goals consist of\nan outcome-based statement, a measurement approach      MEASUREMENTS STATEMENT:\nthat describes how the Performance Goal will be                                                    Complete Launch Services Program (LSP)\nmeasured throughout its lifespan, and an annual target        commercial non-crewed launch services objectives\nconsistent with",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 598,
+            "pdf_page": 21,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7857819199562073
+        },
+        {
+          "chunk_id": "2851a8e0d2234d92071eccb85fcd3ec26f071e3be44edda80d7d94aeaccf1322",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " the budget. To the right is an example of        for NASA-Managed science, exploration, U.S.\na Performance Goal supporting Strategic Objective 2.4:        Government, and Government-sponsored missions.\nEnhance space access and services.\n                                             MEASUREMENTS APPROACH:\n                                                  Launch and complete launch services objectives forFor NASA’s 50 Performance Goals, we indicate the\n                                                            Psyche, PACE, and GOES-Uinterim progress, based on the FY 2024 targets, by\nassigning",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1197,
+            "pdf_page": 21,
+            "char_start": 598,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7832377552986145
+        },
+        {
+          "chunk_id": "9dd9548b07eb84efd1d4594f728a68fe647a79cabc37e3553aa79410c90b865b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\n\n         STRATEGIC GOAL IV. ADVANCE\n       Enhance capabilities and operations to catalyze current and future mission success.04\n\nStrategic Goal 4 is supported by 15 Performance Goals. Of these, 12 were rated Green, one was\nrated Yellow, one was rated Red, and one was unrated at the time of publication.\nOverview\nNASA’s complex and bold missions require modern, adaptable technical and professional support capabilities to\nenable mission readiness, resilience, and our continued leadership in science, exploration, discovery,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 597,
+            "pdf_page": 27,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7646932005882263
+        },
+        {
+          "chunk_id": "ed54117f9082ac17b4abc2c5a5f639afddb13c0838bcfa7cb1008c48a4bc03dd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\n\n                                               (CONTINUED)FY 2024 Performance Assessment\n\nGoals in Strategic Objective 1.1 were combined to create the 1.1.3 Agency Priority Goal detailing progress in Earth\nscience. For Strategic Goal 4, three Performance Goals were added to FY 2024. Two Performance Goals were added in\npursuit of NASA’s goal toward a more inclusive workplace aligned with DEIA efforts. An additional Performance Goal\nwas also added tracking NASA’s progress towards saving time with data automation and",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 590,
+            "pdf_page": 23,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7514724135398865
+        },
+        {
+          "chunk_id": "999d4d9d42cf5894ceae8d00a4a4baf4c572b0b7c9fb63284cfdde3cf0c1df94",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\nFY 2024 Performance Assessment\n\n\nThroughout FY 2024, program officials assessed progress towards achieving NASA’s 50 Performance Goals and\ndetermined whether the goals’ annual targets were met and assigned one of the color ratings described above. The\nPerformance Improvement Officer (PIO) confirmed the ratings.\n\nThe following graph shows the summary of preliminary FY 2024 ratings summarized by Strategic Goal compared\nto the FY 2023 ratings that were published in the FY 2025 VIPer. For each Strategic Goal, the graph shows",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 596,
+            "pdf_page": 22,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7504054307937622
+        },
+        {
+          "chunk_id": "40c861b5b6998140db6ad986d30387705dda611201c9edbaf997ebfc1e00e7fd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " which recommends ratings (based on\nrelevant published, peer-reviewed science findings and other criteria) for NASA’s science-focused Performance Goals\nfor Strategic Goal 1 at their Fall meetings. The Science Mission Directorate considers those recommendations when\nassigning the final fiscal year rating. Performance Goal 2.2.3 focuses on providing operational resources to enable the\nclosure of capability gaps in support of deep space exploration and remains unrated due to milestones being initiated\nbut not yet fully operational. Performance Goal 4.2.8 which focuses on increasing facility",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2982,
+            "pdf_page": 22,
+            "char_start": 2388,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7397149956396238
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "5b21b936adbe43305e6e75a78422277029a244fb6ee02b9921f8125167b2ac5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": " Vision and Mission 09\", \"Organizational Structure 10\", \"NASA Centers and Facilities 11\", \"NASA by the Numbers 12\", \"MISSION PERFORMANCE 13\", \"Strategic Plan Framework 14\", \"Strategic Goals and Objectives 15\", \"Agency Priority Goals 17\", \"STRATEGIC GOALS AND HIGHLIGHTS 19\", \"Assessment Approach 20\", \"FY 2024 Performance Assessment 21\", \"FINANCIAL PERFORMANCE 27\", \"Financial Highlights 28\", \"Overview of Financial Position 28\", \"Results of Operations 31\", \"Sources of Funding 33\", \"Limitations of the Financial Statements 34\", \"ANALYSIS OF SYSTEMS,",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7850943803787231
+        },
+        {
+          "chunk_id": "88dc91758497c3fbca013f6be1ca5afe0ee6352ea0c32641e9d334d753834257",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": "{\"type\": \"legend\", \"location\": \"lower center\", \"description\": \"Four-item legend below the chart defining the strategic goals and matching colors.\", \"visible_values\": [\"STRATEGIC GOAL 1: Expand human knowledge through new scientific discoveries.\", \"STRATEGIC GOAL 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"STRATEGIC GOAL 3: Catalyze economic growth and drive innovation to address national challenges.\", \"STRATEGIC GOAL 4: Enhance capabilities and operations to ca",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower center",
+            "pdf_page": 32,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6234606504440308
+        },
+        {
+          "chunk_id": "596d6f13a4b2e8a584d64a4c405ea2714b4f3dce242a5246d49351a2f6ecb309",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 16,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 16 (printed footer shows 15) is a text-heavy NASA management discussion page titled 'Strategic Goals and Objectives.' It lists four strategic goals—DISCOVER, EXPLORE, INNOVATE, ADVANCE—with corresponding numbered strategic objectives. No charts, maps, diagrams, informative photos, captions, or formal tables are present; the main visual structure is a two-column goal/objective list with green section dividers.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 16,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.613741838112961
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5795520544052124
+        },
+        {
+          "chunk_id": "0416e76d757dd58b6cd15cbbc9f8d64c83b838d62e58ea7ff56830ee82c64eee",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 47,
+          "text": "{\"type\": \"callout box\", \"location\": \"right side of page\", \"description\": \"Outlined box titled Office of the Chief Financial Officer's Goals, listing three goals.\", \"visible_values\": [\"Office of the Chief Financial Officer's Goals\", \"GOAL I\", \"GOAL II\", \"GOAL III\", \"Ensure stewardship of the taxpayer's investment entrusted to NASA to advance and achieve the Agency's strategic goals, priorities, and missions.\", \"Lead and develop a robust analytical community and capability that supports and empowers the Agency mission.\", \"Develop and engage the E",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "right side of page",
+            "pdf_page": 47,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5680447139686727
+        },
+        {
+          "chunk_id": "0e79194d81e6311c6c5450234ce115c6a99f83f36aa773bdc60776adf96a0288",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 15,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 15 (visible footer page number is 14) is a NASA FY 2024 Agency Financial Report page titled 'Strategic Plan Framework' under Management's Discussion and Analysis / Mission Performance. It contains explanatory text, a central color-coded flowchart showing the strategic planning hierarchy, a legend, and a numeric breakdown of 04 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals. No charts, maps, tables, or informative photos are present.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 15,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5654387046527479
+        },
+        {
+          "chunk_id": "5466b61e12138fe4c3b7cef074480b3cd78751cddffb4b3c744653a3dea29bdd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 6,
+          "text": " address national challenges.\", \"ADVANCE\", \"Enhance capabilities and operations to catalyze current and future mission success.\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "right side, upper-middle",
+            "pdf_page": 6,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5619886517524719
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5553223490715027
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 15
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 3
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 16
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 33
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8082,
+    "completion_tokens": 635,
+    "total_tokens": 8717,
+    "cost": 0.00132774,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00132774,
+      "upstream_inference_prompt_cost": 0.00056574,
+      "upstream_inference_completions_cost": 0.000762
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 603,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"\": \"NASA's performance framework breakdown includes 4 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals.\"}",
+  "error_type": "ValueError",
+  "error_detail": "Invalid answer schema",
+  "elapsed_seconds": 50.321029799990356
+}

@@ -1,0 +1,325 @@
+{
+  "question": "What was Strategic Goal 1 earned revenue in FY 2024?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "b5de2ff478465cdeab200096e6bcc2efa086805b099f66f92292e6906c750770",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 17,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  MISSION PERFORMANCE\n\n                                          (CONTINUED)Strategic Goals and Objectives\n\nBelow is a table detailing the FY 2024 budget broken out into the Strategic Goal and Strategic Objective level. Both the\nrequested budget and Operating Plan (OP) are included.\n\n                                                     Millions                                                   Requested   OP\n     STRATEGIC GOAL                     STRATEGIC OBJECTIVE                            FY 2024  FY 2024\n\n                                             ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 17,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6641284031714912
+        },
+        {
+          "chunk_id": "a2eb7a194cfebce8d99e96ef44cf4b58eea0c2a1027fad5bccf636424a7d17e4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " benefits. Top programs by\nstrategic goal in relation to gross cost have remained consistent year to year.\n\n\n     Comparative Gross Cost of Operations                              FY 2024 Total: $26,551\n     By Strategic Goal FY 2024 and FY 2023                              FY 2023 Total: $26,233\n       (IN MILLIONS)                                                               2024   2023\n\n\n                                 STRATEGIC GOAL 1\n                                       Expand human knowledge through new scientific discoveries.\n                                                        ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 33,
+            "char_start": 591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6473278613491152
+        },
+        {
+          "chunk_id": "8b3d3c16a7011ccc7453f7318b7a3d4dbfbaa72785bcde0e64cdb603da805a6a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "                        $2,555\n                                                                                                                     $4,609\n                       Other Goal 2 Programs                                                                             $4,250\n                                FY 2024 Total: $11,306 | FY 2023 Total: $11,030\n\n                                 STRATEGIC GOAL 3\n                                               Catalyze economic growth and drive innovation to address national challenges.\n                                                            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4164,
+            "pdf_page": 33,
+            "char_start": 3565,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6365872242100713
+        },
+        {
+          "chunk_id": "c0578d97f07fd424c8c4ab0ecc548fbdbbfecfb985d72145558a59aafe8b1e80",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 51,
+          "text": " GOAL 4\n Enhance capabilities and operations to catalyze current and future mission success:\n    Gross Costs                                                                $ 3,042           $ 2,993\n     Less: Earned Revenue                                                                    195                198\n    Net Costs                                                                                2,847               2,795\n\n Net Cost of Operations\n    Total Gross Costs                                                           $ 26,551          $ 26,233\n     Less: Total Earned Revenue   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2394,
+            "pdf_page": 51,
+            "char_start": 1795,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6026677726109174
+        },
+        {
+          "chunk_id": "803a788e47c6106b96ec306f6c86e81d8b9bbaec5c5adc66d8132547940a0dd7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 15,
+          "text": "        Strategic Goals\n                                        TIMELESS\n\n\n                                             Strategic Objectives                    Priority Questions\n                                            10+ YEARS                          4 YEARS\n\n\n   Agency Priority Goals                 Performance Goals\n          2 YEARS                              2-5 YEARS\n\n\n        GPRAMA\n                                         Annual Target          Evidence Act\n       PMA Priorities                                                            President’s Management\n                 ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1198,
+            "pdf_page": 15,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.583664501687021
+        },
+        {
+          "chunk_id": "8ffb95554772cad2cbee75772e7935fc6e73faabee1806d997a48e73b73a4db9",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Goal 3 Programs                                                                               $2,052\n                                FY 2024 Total: $3,075 | FY 2023 Total: $3,044\n\n                                 STRATEGIC GOAL 4\n                                         Enhance capabilities and operations to catalyze current and future mission success.\n                                                                                                              $660\n                                  Infrastructure                                                                         $666\n  ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 5359,
+            "pdf_page": 33,
+            "char_start": 4760,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5782496584505057
+        },
+        {
+          "chunk_id": "1fb391ae4c10457873e28c72746891ae1fce9befdf4a1370739c87874214a680",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " how the\nPerformance Goals were rated at the time of publication. The FY 2026 VIPer, which will be published concurrently\nwith the FY 2026 President’s Budget Request at https://www.nasa.gov/ocfo/performance-report, will provide the\nfinal performance results for each Performance Goal.\n\n\n\n                 STRATEGIC GOAL 1        STRATEGIC GOAL 2         STRATEGIC GOAL 3        STRATEGIC GOAL 4\n           100%\n                                            1            1      1           1       1\n           90%                                                                                    1   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1195,
+            "pdf_page": 22,
+            "char_start": 596,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5774579300011449
+        },
+        {
+          "chunk_id": "b0f4409ab767a8746feaa578589e7be94bbff3783664182770faa140fd7769de",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": "    1\n           20%\n             5\n            10%         3\n\n           0%\n                   FY 2023   FY 2024         FY 2023   FY 2024          FY 2023   FY 2024         FY 2023   FY 2024\n                         Complete or On             Below Target             Significantly Below             Unrated\n                            Target to Complete                                   Target/At Risk\n\n\nTwelve Performance Goals supporting Strategic Goals remained unrated at the time of the FY 2024 AFR’s publication.\nTen of those are awaiting ratings from the Science Advisory Committees,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2388,
+            "pdf_page": 22,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5453422611543821
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "2ccde87230fca1a047ab0c75ccd7203f690292bd8bc020c5c07cb20442365380",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "FY2024 $4,609 million; FY2023 $4,250 million\", \"Strategic Goal 2 subtotal: FY2024 Total $11,306 million; FY2023 Total $11,030 million\", \"Strategic Goal 3: Catalyze economic growth and drive innovation to address national challenges.\", \"Technology Demonstration: FY2024 $369 million; FY2023 $337 million\", \"Science and Engineering: FY2024 $577 million; FY2023 $655 million\", \"Other Goal 3 Programs: FY2024 $2,129 million; FY2023 $2,052 million\", \"Strategic Goal 3 subtotal: FY2024 Total $3,075 million; FY2023 Total $3,044 million\", \"Strategic Goal 4:",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6521329491059226
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.643145940116291
+        },
+        {
+          "chunk_id": "589890d26c0a1ba559d8b3e24dc39b18781831da8b80210b07de38ab5d766948",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "Strategic Goal 1 subtotal: FY2024 Total $9,128 million; FY2023 Total $9,166 million\", \"Strategic Goal 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"Human Landing System: FY2024 $1,144 million; FY2023 $1,463 million\", \"International Space Station Program: FY2024 $1,282 million; FY2023 $1,313 million\", \"Crew and Cargo Program: FY2024 $1,552 million; FY2023 $1,449 million\", \"Space Launch System: FY2024 $2,719 million; FY2023 $2,555 million\", \"Other Goal 2 Programs: ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5682643313250354
+        },
+        {
+          "chunk_id": "88dc91758497c3fbca013f6be1ca5afe0ee6352ea0c32641e9d334d753834257",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": "{\"type\": \"legend\", \"location\": \"lower center\", \"description\": \"Four-item legend below the chart defining the strategic goals and matching colors.\", \"visible_values\": [\"STRATEGIC GOAL 1: Expand human knowledge through new scientific discoveries.\", \"STRATEGIC GOAL 2: Extend human presence to the Moon and on towards Mars for sustainable long-term exploration, development, and utilization.\", \"STRATEGIC GOAL 3: Catalyze economic growth and drive innovation to address national challenges.\", \"STRATEGIC GOAL 4: Enhance capabilities and operations to ca",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower center",
+            "pdf_page": 32,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5302036684630124
+        },
+        {
+          "chunk_id": "bbb11e6653040ca991e26129abf0df940fb6ecfc252d45b39b459c33419bda78",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page contains a Management's Discussion and Analysis / Financial Performance section titled 'Results of Operations (CONTINUED)' and 'Gross Cost of Operations.' It includes an explanatory paragraph and a large purple-bordered comparative horizontal bar chart/table showing FY 2024 versus FY 2023 gross cost of operations by four strategic goals, in millions of U.S. dollars. Header totals are FY 2024 $26,551 million and FY 2023 $26,233 million. No maps, diagrams, informative photogr",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5239290282768599
+        },
+        {
+          "chunk_id": "d8f538e5fb90616af48bdbff79df8fe527255ad7ec2616d2b540de3cbece633f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "tions By Strategic Goal FY 2024 and FY 2023 (IN MILLIONS)\", \"Header totals: FY 2024 Total $26,551 million; FY 2023 Total $26,233 million\", \"Legend: orange = 2024; purple = 2023\", \"Strategic Goal 1: Expand human knowledge through new scientific discoveries.\", \"Earth Science Research: FY2024 $578 million; FY2023 $522 million\", \"Earth Systematic Missions: FY2024 $831 million; FY2023 $748 million\", \"Reimburseable-Science Programmatic: FY2024 $806 million; FY2023 $713 million\", \"Other Goal 1 Programs: FY2024 $6,913 million; FY2023 $7,183 million\", \"",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.508817046355186
+        },
+        {
+          "chunk_id": "5466b61e12138fe4c3b7cef074480b3cd78751cddffb4b3c744653a3dea29bdd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 6,
+          "text": " address national challenges.\", \"ADVANCE\", \"Enhance capabilities and operations to catalyze current and future mission success.\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "right side, upper-middle",
+            "pdf_page": 6,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.487715036409198
+        },
+        {
+          "chunk_id": "5b21b936adbe43305e6e75a78422277029a244fb6ee02b9921f8125167b2ac5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": " Vision and Mission 09\", \"Organizational Structure 10\", \"NASA Centers and Facilities 11\", \"NASA by the Numbers 12\", \"MISSION PERFORMANCE 13\", \"Strategic Plan Framework 14\", \"Strategic Goals and Objectives 15\", \"Agency Priority Goals 17\", \"STRATEGIC GOALS AND HIGHLIGHTS 19\", \"Assessment Approach 20\", \"FY 2024 Performance Assessment 21\", \"FINANCIAL PERFORMANCE 27\", \"Financial Highlights 28\", \"Overview of Financial Position 28\", \"Results of Operations 31\", \"Sources of Funding 33\", \"Limitations of the Financial Statements 34\", \"ANALYSIS OF SYSTEMS,",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4688889700836565
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 17
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 33
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 51
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 15
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 22
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8594,
+    "completion_tokens": 276,
+    "total_tokens": 8870,
+    "cost": 0.000706732,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000706732,
+      "upstream_inference_prompt_cost": 0.0006256432,
+      "upstream_inference_completions_cost": 8.10888e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 210,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"Strategic Goal 1 earned revenue in FY 2024 was $1,090 million.\",\"citations\":[{\"page\":51,\"region\":\"Consolidated Statements of Net Cost table, STRATEGIC GOAL 1 block, row 'Less: Earned Revenue', 2024 column\"}]}",
+  "answer": {
+    "answer": "Strategic Goal 1 earned revenue in FY 2024 was $1,090 million.",
+    "citations": [
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, STRATEGIC GOAL 1 block, row 'Less: Earned Revenue', 2024 column"
+      }
+    ]
+  },
+  "elapsed_seconds": 55.69383500001277
+}

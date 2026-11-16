@@ -1,0 +1,325 @@
+{
+  "question": "What activity are the 2024 High School Aerospace Scholars shown participating in, and on what date?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "09db1bd67b6ccc8e73b7d5b5463f50e09a5f7d62867841d2e689e494e1207066",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " phases including personnel data analysis and shareholder interviewers, with a quantitative survey in\nphase three forthcoming.\n\nBuilding the Next Generation of Explorers\nNASA’s STEM FY 2023-2024 Learning Agenda poses questions that will prepare the Agency for the future of its\nengagement initiatives. The Agency is making progress on two evaluations, including assessment of NASA internship\noutcomes regarding NASA/industry employment and Phase 2 of the K-12 Student Outcome Study.\n\n\n\n\n\n Did You Know?\n\n\n\n                       Members of the 2024 cohort of High School Aerospace Scholars work",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2380,
+            "pdf_page": 27,
+            "char_start": 1786,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6819099187850952
+        },
+        {
+          "chunk_id": "34c6f8c5b44f0c246f0dc58eb554c252e1a531f96798ee8d52f30d1603b7aa20",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 7,
+          "text": " (STEM) engagement to students from diverse\nbackgrounds to pursue an interest and a career in STEM and space industries. To support this goal, NASA launched its\n2024-2026 STEM Engagement Strategic Implementation Plan. The plan supports NASA’s STEM strategy and outlines\nsystemic efforts that support the coordination and execution of our STEM engagement work. By continuing to engage\nstudents, support educators and educational institutions, and support diversity, equity, inclusion, and accessibility in the\nSTEM fields, NASA strives to help support the next generation of pioneers and adventurers.",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2980,
+            "pdf_page": 7,
+            "char_start": 2381,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5840219855308533
+        },
+        {
+          "chunk_id": "79f27aa0551a52aab854f0a16cf3cc9be65482a61a7efa1bb9e9ac1ca4359728",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 45,
+          "text": " priorities, achieved through engagement\nwith meaningful learning experiences for students and interns. To better improve how NASA builds a diverse future science,\ntechnology, engineering, and mathematics (STEM) workforce, a full Internship Program Evaluation is set for FY 2025-2026 as\nwell as a design assessment of NASA’s online education products and review process. On top of internships, K-12 engagements,\nand university partnerships, over the next two fiscal years NASA intends to award 30 Teams Engaging Affiliated Museums and\nInformal Institutions (TEAM II) Community Anchors and National",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 5354,
+            "pdf_page": 45,
+            "char_start": 4757,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5516039667601664
+        },
+        {
+          "chunk_id": "d2fb5446ed64cc61d610de9ef6277f5f72a9350310edd481b18d9f527a96f8d2",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 45,
+          "text": " Connectors to implement NASA STEM opportunities that\nbenefit diverse and regional audiences.\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                4444",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 5542,
+            "pdf_page": 45,
+            "char_start": 5354,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.521551787853241
+        },
+        {
+          "chunk_id": "b96aaff873da298920a739afadb62168fc263ac405dbc66e9d1f7a5e2d2dd519",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " and can be found at nasa.gov/performance.\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                  2020",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3729,
+            "pdf_page": 21,
+            "char_start": 3591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5214175867189424
+        },
+        {
+          "chunk_id": "45cf1b72fae62b960f88e5ab6a8146a3e945cf4f172262b4c4cbac906947e692",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": "          reaching new talent communities and establishing NASA as an employer that celebrates\n                           diversity and inclusion as keys to success. NASA has received multiple awards in 2022,\n                        2023, and 2024 in recognition of our outreach and employment of under-represented groups.3\n                   To ensure success, NASA continually measures efforts and iterates our recruitment strategy.\n                         Multiple hiring authorities are utilized to quickly fill positions as well as pay incentives to\n                             recruit the",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2963,
+            "pdf_page": 106,
+            "char_start": 2367,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5143884420394897
+        },
+        {
+          "chunk_id": "c678f31c1ff1b129a16e72913c67e67b50d76b8470ccb9d4923a2ce339dafa80",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 10,
+          "text": "                       every four years in accordance with\n                                                                                            GPRAMA. NASA published the 2022  EXCELLENCE                                                                                                                                                Strategic Plan on March 28, 2022,\n  To achieve the highest standards in engineering, research, operations, and management         concurrent with publication of our\n  in support of mission success, NASA is committed to nurturing an organizational culture     ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3591,
+            "pdf_page": 10,
+            "char_start": 2994,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5133688006808999
+        },
+        {
+          "chunk_id": "2345518afff2666b6cde675f8aa09ce5a9aba5c9f3efcf6693cc3b14ce08e73f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 1,
+          "text": "                                                   National Aeronautics and\n                                               Space Administration\n\n\n\n\n\n                  FY 2024\n AGENCY\nFINANCIAL\n REPORT",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 200,
+            "pdf_page": 1,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5092374974943707
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "d1aeafa6d759b9202ac82926f3faa34d233f6ba4bdf808225a8465325d2ee5fd",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 26,
+          "text": "{\"type\": \"text block\", \"location\": \"middle\", \"description\": \"Overview and Highlights narrative sections describing NASA innovation, technology development, partnerships, and aeronautics projects.\", \"visible_values\": [\"November 2023\", \"Deep Space Optical Communications (DSOC)\", \"Cryogenic Fluid Management (CFM)\", \"FY 2024\", \"Low Boom Flight Demonstration (LBFD) X-59\", \"March\", \"Electrified Powertrain Flight Demonstrations (EPFD)\", \"Sustainable Flight Demonstration (SFD)\", \"January 2024\", \"over 1,000 new technologies\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "middle",
+            "pdf_page": 26,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5416933298110962
+        },
+        {
+          "chunk_id": "f8f639fc0b832d3ce0abb50233c07e19ad26f62805e1cb551ce99c7188f824af",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": "{\"type\": \"informative photo\", \"location\": \"bottom left, within 'Did You Know?' section\", \"description\": \"Small photo showing members of the 2024 cohort of High School Aerospace Scholars working together at Johnson Space Center during an Engineering Design Challenge; people appear to be seated/working together, some wearing red shirts.\", \"visible_values\": [\"2024 cohort\", \"High School Aerospace Scholars\", \"Johnson Space Center\", \"Engineering Design Challenge\", \"exercise in space\", \"July 29, 2024\", \"Photo credit — NASA/Bill Stafford\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "bottom left, within 'Did You Know?' section",
+            "pdf_page": 27,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5367146410516128
+        },
+        {
+          "chunk_id": "682a559c3c94f1dafc2a630226389b78a21adf6da462b392ff4ec4863383e935",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": "Officer\", \"Chief, Safety & Mission Assurance\", \"Chief Scientist/Senior Climate Advisor\", \"Ames Research Center\", \"Armstrong Flight Research Center\", \"Glenn Research Center\", \"Goddard Space Flight Center\", \"Jet Propulsion Laboratory**\", \"Johnson Space Center\", \"Kennedy Space Center\", \"Langley Research Center\", \"Marshall Space Flight Center\", \"Stennis Space Center\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "center of page, below introductory paragraph",
+            "pdf_page": 11,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5258653163909912
+        },
+        {
+          "chunk_id": "a84b59057021fa864ad07403850e97402167154ccfe709b6715df74e7741a0f6",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": "{\"type\": \"photo caption\", \"location\": \"bottom right of photo\", \"description\": \"Caption describing the photo and identifying the cohort, location, event, date, and photo credit.\", \"visible_values\": [\"Members of the 2024 cohort of High School Aerospace Scholars work together at Johnson Space Center during the Engineering Design Challenge focusing on exercise in space on July 29, 2024.\", \"Photo credit — NASA/Bill Stafford\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "bottom right of photo",
+            "pdf_page": 27,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.517098813229871
+        },
+        {
+          "chunk_id": "0ff72f19aa031abe4b58d80b199948aad1e8e0eee462eafc97d55e1466e25ea4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 28,
+          "text": "ons\", \"SpaceX\", \"Launch Complex 39A\", \"NASA's Kennedy Space Center\", \"Florida\", \"Friday, June 14, 2024\", \"Saturday, June 15, 2024\", \"GOES-R Series\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "below the photograph",
+            "pdf_page": 28,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5020386277414195
+        },
+        {
+          "chunk_id": "34598979b5166229aded7fb332b1392e681a109896b14cc01163cbcb4ca70aee",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"caption/text block\", \"location\": \"bottom center, 'Did You Know?' section\", \"description\": \"Text describing planned 2024 NASA milestones, with a learn-more link.\", \"visible_values\": [\"Did You Know?\", \"Landing science on the Moon, demonstrating quiet supersonic aircraft, and launching two new Earth climate satellites, plus a mission to Europa, one of Jupiter's icy moons, are just a FEW of the milestones we have planned for 2024. (December 27, 2023)\", \"LEARN MORE →\"]}",
+          "metadata": {
+            "item": 7,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "bottom center, 'Did You Know?' section",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.49446257981881114
+        },
+        {
+          "chunk_id": "ed06bdf2e54771671738c1144b031f4d757596dbf8c95ab009c0ac7b18750606",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 16,
+          "text": "space.\", \"2.2 Develop a human space flight economy enabled by a commercial market.\", \"2.3 Develop capabilities and perform research to safeguard explorers.\", \"2.4 Enhance space access and services.\", \"INNOVATE\", \"3.1 Innovate and advance transformational space technologies.\", \"3.2 Drive efficient and sustainable aviation.\", \"ADVANCE\", \"4.1 Attract and develop a talented and diverse workforce.\", \"4.2 Transform mission support capabilities for the next era of aerospace.\", \"4.3 Build the next generation of explorers.\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, four horizontal sections separated by thin green rules",
+            "pdf_page": 16,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4672122001647949
+        },
+        {
+          "chunk_id": "9e4018f886c9258012582f08170f68232ff38b60ac27c219136ff576188ae46e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 124,
+          "text": "AMA: Government Performance and Results Act Modernization Act\", \"GRACE-C: Gravity Recovery and Climate Experiment-Continuity\", \"GRC: Glenn Research Center\", \"GSA: General Services Administration\", \"GSFC: Goddard Space Flight Center\", \"GTA: Government Task Agreements\", \"GTAS: Government-wide Treasury Account Symbol Adjusted Trial Balance System\", \"GUSTO: Galactic/Extragalactic ULDB Spectroscopic Terahertz Observatory\", \"H — HALO: Habitation and Logistics Outpost\", \"HLS: Human Landing System\", \"HQ: Headquarters\", \"HTV: H-II Transfer Vehicle\", \"I ",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "left column, upper to lower page",
+            "pdf_page": 124,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4611246310994257
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 27
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 26
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 7
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 45
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 11
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8280,
+    "completion_tokens": 294,
+    "total_tokens": 8574,
+    "cost": 0.0006891612,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006891612,
+      "upstream_inference_prompt_cost": 0.000602784,
+      "upstream_inference_completions_cost": 8.63772e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 228,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"The 2024 High School Aerospace Scholars are shown working together at Johnson Space Center during the Engineering Design Challenge focusing on exercise in space on July 29, 2024.\",\"citations\":[{\"page\":27,\"region\":\"Bottom of page, 'Did You Know?' section, photo caption\"}]}",
+  "answer": {
+    "answer": "The 2024 High School Aerospace Scholars are shown working together at Johnson Space Center during the Engineering Design Challenge focusing on exercise in space on July 29, 2024.",
+    "citations": [
+      {
+        "page": 27,
+        "region": "Bottom of page, 'Did You Know?' section, photo caption"
+      }
+    ]
+  },
+  "elapsed_seconds": 88.55465910001658
+}

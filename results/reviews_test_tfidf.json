@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "T01",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (William Bradford); citation: 2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "T02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (1629); citation: 7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "T03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (Go by way of England or pay a high duty in colonial ports); citation: a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "T04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "reason": "Giữ nhãn đã chấm: đáp án so với gold (Treaty of Ryswick); citation: 19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "T05",
+    "citation_support": [],
+    "answer_grade": 0,
+    "reason": "Từ chối câu có đáp án (Molasses and sugar); sự kiện kết thúc: search_limit.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "TU01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Câu hỏi về sự kiện sau năm xuất bản 1917; đầu ra hệ thống là abstain. Sự kiện kết thúc: search_limit; không suy ra model đã chủ động từ chối.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  },
+  {
+    "query_id": "TU02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Câu hỏi về sự kiện sau năm xuất bản 1917; đầu ra hệ thống là abstain. Sự kiện kết thúc: search_limit; không suy ra model đã chủ động từ chối.",
+    "review_provenance": "Diễn đạt lại từ nhãn cũ và trace còn lưu; không phải đánh giá độc lập mới."
+  }
+]

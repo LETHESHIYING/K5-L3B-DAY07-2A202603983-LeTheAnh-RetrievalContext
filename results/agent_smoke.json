@@ -1,0 +1,19 @@
+[
+  {
+    "status": "error",
+    "error_type": "URLError",
+    "events": [],
+    "answer": "",
+    "citations": [],
+    "query_id": "H01",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "elapsed_seconds": 0.18295539999962784,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 4,
+    "model_usage": []
+  }
+]

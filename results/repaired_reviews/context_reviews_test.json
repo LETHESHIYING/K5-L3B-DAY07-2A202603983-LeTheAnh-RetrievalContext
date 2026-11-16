@@ -1,0 +1,72 @@
+[
+  {
+    "query_id": "T01",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T02",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T03",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T04",
+    "config": "baseline",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T05",
+    "config": "baseline",
+    "context_grade": 0,
+    "reason": "Context không chứa đoạn evidence cần thiết theo gold.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T01",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T02",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T03",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T04",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "query_id": "T05",
+    "config": "selected",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  }
+]

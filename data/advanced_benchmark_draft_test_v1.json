@@ -1,0 +1,510 @@
+{
+  "status": "unverified_draft",
+  "split": "test",
+  "input_pages": [
+    14,
+    15,
+    22,
+    29,
+    30,
+    32,
+    50,
+    51,
+    53,
+    69,
+    70,
+    72
+  ],
+  "usage": {
+    "prompt_tokens": 6938,
+    "completion_tokens": 7945,
+    "total_tokens": 14883,
+    "cost": 0.00638288,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00638288,
+      "upstream_inference_prompt_cost": 0.00145698,
+      "upstream_inference_completions_cost": 0.0049259
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4895,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "elapsed_seconds": 28.78801509999903,
+  "items": [
+    {
+      "id": "T-01",
+      "question": "What was NASA's total liabilities as of September 30, 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$7,664 million",
+      "rationale": "The Consolidated Balance Sheets show Total Liabilities in the 2024 column as $7,664 million.",
+      "evidence": [
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Total Liabilities row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T-02",
+      "question": "What were NASA's total gross costs for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$26,551 million",
+      "rationale": "The Consolidated Statements of Net Cost show Total Gross Costs for 2024 as $26,551 million.",
+      "evidence": [
+        {
+          "pdf_page": 51,
+          "region": "Consolidated Statements of Net Cost, Total Gross Costs row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T-03",
+      "question": "What were NASA's total budgetary resources for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$30,051 million",
+      "rationale": "The Combined Statements of Budgetary Resources show Total Budgetary Resources for 2024 as $30,051 million.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Total Budgetary Resources row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T-04",
+      "question": "What was the total lease receivable principal amount in the lease table?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$697 million",
+      "rationale": "The lease table Total row shows principal of $697 million.",
+      "evidence": [
+        {
+          "pdf_page": 69,
+          "region": "Note 11 Leases table, Total row, Principal column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T-05",
+      "question": "What were NASA's total undelivered orders as of September 30, 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$12,214 million",
+      "rationale": "Note 14 shows Total Undelivered Orders for 2024 as $12,214 million.",
+      "evidence": [
+        {
+          "pdf_page": 70,
+          "region": "Note 14 Undelivered Orders table, Total Undelivered Orders row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "T-06",
+      "question": "What was NASA's total net outlays for FY 2023 in the reconciliation table?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$25,319 million",
+      "rationale": "The reconciliation table shows Total Net Outlays (Calculated Total) for 2023 as $25,319 million.",
+      "evidence": [
+        {
+          "pdf_page": 72,
+          "region": "Note 15 Reconciliation table, Total Net Outlays row, 2023 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I-01",
+      "question": "Which NASA astronaut is shown using a hammer in the page 14 photo?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Kate Rubins",
+      "rationale": "The photo caption identifies the astronaut as NASA astronaut Kate Rubins.",
+      "evidence": [
+        {
+          "pdf_page": 14,
+          "region": "Photo caption below astronaut image"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I-02",
+      "question": "On what date was the simulated moonwalk shown on page 14 conducted?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "May 16, 2024",
+      "rationale": "The caption states the simulated moonwalk occurred on May 16, 2024.",
+      "evidence": [
+        {
+          "pdf_page": 14,
+          "region": "Photo caption below astronaut image"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I-03",
+      "question": "How many Strategic Goals are shown in the page 15 framework breakdown?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "4",
+      "rationale": "The framework breakdown shows 04 Strategic Goals.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "NASA's Performance Framework Breakdown, Strategic Goals number"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I-04",
+      "question": "How many Performance Goals are shown in the page 15 framework breakdown?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "50",
+      "rationale": "The framework breakdown shows 50 Performance Goals.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "NASA's Performance Framework Breakdown, Performance Goals number"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "I-05",
+      "question": "What time horizon is shown for Strategic Objectives in the page 15 diagram?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "10+ years",
+      "rationale": "The Strategic Objectives box is labeled 10+ YEARS.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "Strategic Plan Framework diagram, Strategic Objectives box"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C-01",
+      "question": "In the FY 2024 Strategic Goal 4 bar, how many Performance Goals were Unrated?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "1",
+      "rationale": "The Strategic Goal 4 FY 2024 bar shows 1 in the gray Unrated segment.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "FY 2024 Performance Assessment bar chart, Strategic Goal 4, FY 2024 bar, gray segment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C-02",
+      "question": "What were total liabilities in the FY 2024 balance sheet components chart?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$7,664 million",
+      "rationale": "The FY 2024 bar shows liabilities as $7,664 million.",
+      "evidence": [
+        {
+          "pdf_page": 29,
+          "region": "Balance Sheet Components chart, FY 2024 bar, Liabilities segment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C-03",
+      "question": "What was NASA's FY 2024 Property, Plant, and Equipment net book value in the assets chart?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$9,331 million",
+      "rationale": "The Assets by Type 2024 chart labels Property, Plant, and Equipment as $9,331 million.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Assets by Type 2024 donut chart, Property, Plant, and Equipment segment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C-04",
+      "question": "What was the FY 2024 net cost of operations for Strategic Goal 2?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$10,920 million",
+      "rationale": "The donut chart labels Strategic Goal 2 as $10,920 million.",
+      "evidence": [
+        {
+          "pdf_page": 32,
+          "region": "Net Cost of Operations by Strategic Goal donut chart, Goal 2 segment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "C-05",
+      "question": "What was NASA's FY 2024 Fund Balance with Treasury in the assets chart?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$17,186 million",
+      "rationale": "The Assets by Type 2024 chart labels Fund Balance with Treasury as $17,186 million.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Assets by Type 2024 donut chart, Fund Balance with Treasury segment"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M-01",
+      "question": "What total liabilities amount is shown consistently in the page 29 chart and page 50 table for FY 2024?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$7,664 million",
+      "rationale": "The page 29 chart shows liabilities of $7,664 million, and the page 50 table shows Total Liabilities of $7,664 million for 2024.",
+      "evidence": [
+        {
+          "pdf_page": 29,
+          "region": "Balance Sheet Components chart, FY 2024 Liabilities segment"
+        },
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Total Liabilities row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M-02",
+      "question": "What FY 2024 total net cost is shown in both the page 32 donut chart and page 51 statement?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$24,734 million",
+      "rationale": "The page 32 donut chart shows Total Net Cost of $24,734 million, and page 51 shows Net Costs of $24,734 million.",
+      "evidence": [
+        {
+          "pdf_page": 32,
+          "region": "Net Cost of Operations donut chart, center Total Net Cost"
+        },
+        {
+          "pdf_page": 51,
+          "region": "Consolidated Statements of Net Cost, Net Costs row, 2024 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M-03",
+      "question": "What FY 2023 agency outlays, net amount on page 53 matches the page 72 total net outlays?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$25,319 million",
+      "rationale": "Page 53 shows Agency Outlays, Net of $25,319 million for 2023, and page 72 shows Total Net Outlays of $25,319 million for 2023.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Agency Outlays, Net row, 2023 column"
+        },
+        {
+          "pdf_page": 72,
+          "region": "Note 15 Reconciliation table, Total Net Outlays row, 2023 column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "M-04",
+      "question": "What FY 2023 total budgetary resources amount appears on page 53 and in the page 70 reconciliation?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "$30,923 million",
+      "rationale": "Page 53 shows Total Budgetary Resources of $30,923 million for 2023, and page 70 shows the same SBR total in the reconciliation.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Total Budgetary Resources row, 2023 column"
+        },
+        {
+          "pdf_page": 70,
+          "region": "Note 13 reconciliation table, Combined Statement of Budgetary Resources row, Total Budgetary Resources column"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X-01",
+      "question": "How many Performance Goals remained unrated at the time of the FY 2024 AFR publication?",
+      "group": "text",
+      "answerable": true,
+      "answer": "12",
+      "rationale": "The text states twelve Performance Goals remained unrated at the time of the FY 2024 AFR's publication.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "Text below FY 2024 Performance Assessment chart, first sentence"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X-02",
+      "question": "By how much did the Other assets category increase due to the new lease accounting business process?",
+      "group": "text",
+      "answerable": true,
+      "answer": "$881 million",
+      "rationale": "The text states the Other category increased by $881 million due to the new lease accounting business process.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Text below Assets by Type charts, last paragraph"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X-03",
+      "question": "By how much did NASA's FY 2024 net cost of operations increase from FY 2023?",
+      "group": "text",
+      "answerable": true,
+      "answer": "$118 million",
+      "rationale": "The text states FY 2024 net cost was $24.7 billion, an increase of $118 million from FY 2023.",
+      "evidence": [
+        {
+          "pdf_page": 32,
+          "region": "Net Cost of Operations paragraph, last sentence"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "X-04",
+      "question": "Does NASA report any material intragovemmental lease arrangements as a lessor?",
+      "group": "text",
+      "answerable": true,
+      "answer": "No, NASA does not have any material intragovemmental lease arrangements.",
+      "rationale": "The text below the lease table states NASA, as a lessor, does not have any material intragovemmental lease arrangements.",
+      "evidence": [
+        {
+          "pdf_page": 69,
+          "region": "Text below Note 11 lease table"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": false
+    },
+    {
+      "id": "U-01",
+      "question": "What was NASA's total employee headcount as of September 30, 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not contain a headcount or FTE table.",
+      "evidence": [],
+      "absence_check": "Search the provided pages 14, 15, 22, 29, 30, 32, 50, 51, 53, 69, 70, and 72 for 'headcount', 'FTE', or 'employees'; no such table appears.",
+      "original_checked": false
+    },
+    {
+      "id": "U-02",
+      "question": "What is the exact launch date of Artemis II?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not state an Artemis II launch date.",
+      "evidence": [],
+      "absence_check": "Search the provided pages for 'Artemis II' and 'launch date'; no such date is given.",
+      "original_checked": false
+    },
+    {
+      "id": "U-03",
+      "question": "What percentage of NASA's FY 2024 budget was spent on climate change research?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not give a climate change research budget percentage.",
+      "evidence": [],
+      "absence_check": "Search the provided pages for 'climate change research' and a percentage; no such percentage is shown.",
+      "original_checked": false
+    },
+    {
+      "id": "U-04",
+      "question": "Who was NASA's Chief Financial Officer in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not name the NASA CFO.",
+      "evidence": [],
+      "absence_check": "Search the provided pages for 'Chief Financial Officer' or 'CFO' and a personal name; no name is given.",
+      "original_checked": false
+    },
+    {
+      "id": "U-05",
+      "question": "What was the Jet Propulsion Laboratory workforce size in FY 2024?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages mention JPL only as a disclosure entity, not its workforce size.",
+      "evidence": [],
+      "absence_check": "Search the provided pages for 'JPL' and 'workforce'; only the Note 16 disclosure-entity text appears.",
+      "original_checked": false
+    },
+    {
+      "id": "U-06",
+      "question": "What was the exact FY 2024 appropriation for the Artemis program?",
+      "group": "unanswerable",
+      "answerable": false,
+      "answer": null,
+      "rationale": "The provided pages do not give a program-specific Artemis appropriation amount.",
+      "evidence": [],
+      "absence_check": "Search the provided pages for 'Artemis' and 'appropriation'; no program-specific amount is shown.",
+      "original_checked": false
+    }
+  ]
+}

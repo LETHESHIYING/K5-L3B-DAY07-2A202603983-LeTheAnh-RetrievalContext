@@ -1,0 +1,13 @@
+{
+  "query_id": "V2T05",
+  "finding": "Sau lần test đã phát hiện gold tự động ban đầu bị cắt trước điều kiện cơ quan hành chính trung ương; không sửa file benchmark hoặc chạy lại để nâng điểm.",
+  "source_id": "american_history_1917",
+  "physical_pdf_page": 158,
+  "printed_page": 134,
+  "required_evidence": [
+    {"chunk_id":"cf04f35a47ea72c10a6793a2d0cc9d4233819aaa439af4a7fedb4240667588c3","char_start":1620,"char_end":1860,"supports":"Năm 1696 và tên Board of Trade."},
+    {"chunk_id":"95424434aa6110b0e1256d51980fdace84cb919584887ed8e680ac39adcd2922","char_start":1860,"char_end":2097,"supports":"Tiếp tục cùng câu ở chunk trước, nêu vai trò cơ quan hành chính trung ương."}
+  ],
+  "verification": "Hai chunk liền kề trên cùng trang và đã đối chiếu scan. Các phép khớp gold cũ tự động chỉ là cận trên; kết quả đánh giá bằng tay được báo riêng.",
+  "limitations": "Ghi nhận sau test; không dùng để chỉnh cấu hình hoặc thay đổi trace test."
+}

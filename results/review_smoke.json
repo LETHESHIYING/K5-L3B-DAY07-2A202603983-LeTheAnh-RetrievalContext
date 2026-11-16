@@ -1,0 +1,26 @@
+[
+  {
+    "query_id": "H01",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "answerable": true,
+    "expected_answer": "The East India Company.",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 62,
+        "evidence": "and Tndia (the East India Company, 1600)."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The East India Company is dated 1600. [0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e]",
+    "citations": [
+      "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e"
+    ],
+    "context": "[0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e | data\\raw\\american_history_1917.pdf | page 62]\n East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was\n\n[837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99 | data\\raw\\american_history_1917.pdf | page 95]\nSince colonization was but a iinor interest with the\nDutch West India Company, it established at the begin-\nning a government that was “‘fit only for a trading post.”\nThe bankruptcy of the Company and the consequent lack\nof attention to its",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  }
+]

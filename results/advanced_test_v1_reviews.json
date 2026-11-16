@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "T01",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original pages 50 and 61 show 2024 intragovernmental net receivable $98m.",
+    "trace": "results/advanced_test_v1/T01.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 50,
+        "region": "Consolidated Balance Sheets, Assets > Intragovernmental > Accounts Receivable, Net (Note 4), 2024 column"
+      },
+      {
+        "page": 61,
+        "region": "Note 4 Accounts Receivable, Net, 2024 table, Intragovernmental row, Net Amount Due column"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 62.86969320001663,
+    "provider_usage": {
+      "prompt_tokens": 8666,
+      "completion_tokens": 335,
+      "total_tokens": 9001,
+      "cost": 0.0017019,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0017019,
+        "upstream_inference_prompt_cost": 0.0012999,
+        "upstream_inference_completions_cost": 0.000402
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 234,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "T02",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 51 Goal 1 earned-revenue row shows $1,090m.",
+    "trace": "results/advanced_test_v1/T02.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, STRATEGIC GOAL 1 block, row 'Less: Earned Revenue', 2024 column"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 55.69383500001277,
+    "provider_usage": {
+      "prompt_tokens": 8594,
+      "completion_tokens": 276,
+      "total_tokens": 8870,
+      "cost": 0.000706732,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000706732,
+        "upstream_inference_prompt_cost": 0.0006256432,
+        "upstream_inference_completions_cost": 8.10888e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 210,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "T03",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 53 table and page 34 chart show FY2024 budgetary resources $30,051m.",
+    "trace": "results/advanced_test_v1/T03.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 53,
+        "region": "Combined Statements of Budgetary Resources table, Budgetary Resources section, 'Total Budgetary Resources' row, 2024 column"
+      },
+      {
+        "page": 34,
+        "region": "Sources of Funding section, 'Sources of Funding FY 2024' chart showing TOTAL FUNDING $30,051"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 55.60292999999365,
+    "provider_usage": {
+      "prompt_tokens": 8548,
+      "completion_tokens": 334,
+      "total_tokens": 8882,
+      "cost": 0.00088591,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00088591,
+        "upstream_inference_prompt_cost": 0.00068384,
+        "upstream_inference_completions_cost": 0.00020207
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 226,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "T04",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 69 total principal row shows $697m.",
+    "trace": "results/advanced_test_v1/T04.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 69,
+        "region": "Lease receivables table, Total row, Principal column"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 57.94148160002078,
+    "provider_usage": {
+      "prompt_tokens": 8759,
+      "completion_tokens": 220,
+      "total_tokens": 8979,
+      "cost": 0.000782847,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000782847,
+        "upstream_inference_prompt_cost": 0.000639407,
+        "upstream_inference_completions_cost": 0.00014344
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 159,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "T05",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 70 undelivered-orders row shows $12,214m for 2024.",
+    "trace": "results/advanced_test_v1/T05.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 70,
+        "region": "Note 14, lower half, table row 'Total Undelivered Orders', 2024 column"
+      },
+      {
+        "page": 70,
+        "region": "Note 14 paragraph, lower middle, stating undelivered orders totaled $12 billion as of September 30, 2024"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 58.804430699994555,
+    "provider_usage": {
+      "prompt_tokens": 8248,
+      "completion_tokens": 359,
+      "total_tokens": 8607,
+      "cost": 0.0014167,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014167,
+        "upstream_inference_prompt_cost": 0.0012372,
+        "upstream_inference_completions_cost": 0.0001795
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 251,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "T06",
+    "group": "table",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 51 net-cost row shows $24,616m for 2023.",
+    "trace": "results/advanced_test_v1/T06.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, bottom row labeled “Net Costs,” column “2023”"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 55.58198110002559,
+    "provider_usage": {
+      "prompt_tokens": 8284,
+      "completion_tokens": 367,
+      "total_tokens": 8651,
+      "cost": 0.00102396,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00102396,
+        "upstream_inference_prompt_cost": 0.00086982,
+        "upstream_inference_completions_cost": 0.00015414
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 306,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "I01",
+    "group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 14 photo and caption show hammer and Northern Arizona location.",
+    "trace": "results/advanced_test_v1/I01.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 14,
+        "region": "below the photograph, centered caption"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 64.88937710001483,
+    "provider_usage": {
+      "prompt_tokens": 8141,
+      "completion_tokens": 239,
+      "total_tokens": 8380,
+      "cost": 0.00163746,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00163746,
+        "upstream_inference_prompt_cost": 0.00146538,
+        "upstream_inference_completions_cost": 0.00017208
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 172,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "I02",
+    "group": "image_diagram",
+    "answerable": true,
+    "pass": false,
+    "reason": "Provider returned an invalid answer schema; system error counts as failure.",
+    "trace": "results/advanced_test_v1/I02.json",
+    "status": "error",
+    "citations": [],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 50.321029799990356,
+    "provider_usage": {
+      "prompt_tokens": 8082,
+      "completion_tokens": 635,
+      "total_tokens": 8717,
+      "cost": 0.00132774,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00132774,
+        "upstream_inference_prompt_cost": 0.00056574,
+        "upstream_inference_completions_cost": 0.000762
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 603,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "I03",
+    "group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 38 diagram places Mission Support Council directly below Administrator.",
+    "trace": "results/advanced_test_v1/I03.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 38,
+        "region": "Figure 1, NASA FMFIA Annual Statement of Assurance Process diagram, right side of page; the tier directly below ADMINISTRATOR is labeled MISSION SUPPORT COUNCIL"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 91.38557419998688,
+    "provider_usage": {
+      "prompt_tokens": 8366,
+      "completion_tokens": 308,
+      "total_tokens": 8674,
+      "cost": 0.0014089,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014089,
+        "upstream_inference_prompt_cost": 0.0012549,
+        "upstream_inference_completions_cost": 0.000154
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 245,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "I04",
+    "group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 39 diagram shows all five stated risk categories.",
+    "trace": "results/advanced_test_v1/I04.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 39,
+        "region": "center of page, Figure 2 'NASA's UNICORN', five colored risk-category boxes"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 91.42671749999863,
+    "provider_usage": {
+      "prompt_tokens": 8408,
+      "completion_tokens": 658,
+      "total_tokens": 9066,
+      "cost": 0.0015902,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0015902,
+        "upstream_inference_prompt_cost": 0.0012612,
+        "upstream_inference_completions_cost": 0.000329
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 564,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "I05",
+    "group": "image_diagram",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 27 caption identifies the activity, location and July 29, 2024.",
+    "trace": "results/advanced_test_v1/I05.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 27,
+        "region": "Bottom of page, 'Did You Know?' section, photo caption"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 88.55465910001658,
+    "provider_usage": {
+      "prompt_tokens": 8280,
+      "completion_tokens": 294,
+      "total_tokens": 8574,
+      "cost": 0.0006891612,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0006891612,
+        "upstream_inference_prompt_cost": 0.000602784,
+        "upstream_inference_completions_cost": 8.63772e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 228,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "C01",
+    "group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 22 Goal 2 FY2024 green segment is 8.",
+    "trace": "results/advanced_test_v1/C01.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 22,
+        "region": "FY 2024 Performance Assessment chart, Strategic Goal 2, FY 2024 bar; green segment labeled 8"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 82.67122569997446,
+    "provider_usage": {
+      "prompt_tokens": 8666,
+      "completion_tokens": 228,
+      "total_tokens": 8894,
+      "cost": 0.000798614,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000798614,
+        "upstream_inference_prompt_cost": 0.000684614,
+        "upstream_inference_completions_cost": 0.000114
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 170,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "C02",
+    "group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 22 Goal 3 FY2024 green segment is 10.",
+    "trace": "results/advanced_test_v1/C02.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 22,
+        "region": "FY 2024 Performance Assessment chart, Strategic Goal 3, FY 2024 column, green segment labeled 10"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 38.36553800001275,
+    "provider_usage": {
+      "prompt_tokens": 8628,
+      "completion_tokens": 404,
+      "total_tokens": 9032,
+      "cost": 0.00123736,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00123736,
+        "upstream_inference_prompt_cost": 0.00103536,
+        "upstream_inference_completions_cost": 0.000202
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 360,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "C03",
+    "group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original pages 29 and 30 show FY2023 assets $26,135m.",
+    "trace": "results/advanced_test_v1/C03.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 30,
+        "region": "Left chart titled 'Assets by Type Comparison for FY 2024 and FY 2023 (IN MILLIONS)', under the FY 2023 bar labeled '$26,135 Total'"
+      },
+      {
+        "page": 29,
+        "region": "Chart titled 'Balance Sheet Components FY 2024 and FY 2023 (IN MILLIONS)', FY 2023 bar labeled '$26,135' for Assets"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 32.381712200003676,
+    "provider_usage": {
+      "prompt_tokens": 8361,
+      "completion_tokens": 315,
+      "total_tokens": 8676,
+      "cost": 0.00116082,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00116082,
+        "upstream_inference_prompt_cost": 0.00100332,
+        "upstream_inference_completions_cost": 0.0001575
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 199,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "C04",
+    "group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 30 chart shows $17,186m and 62%.",
+    "trace": "results/advanced_test_v1/C04.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 30,
+        "region": "right-side donut chart labeled 'Assets by Type 2024 (IN MILLIONS)', showing '62% Fund Balance with Treasury $17,186' and total assets $27,504"
+      },
+      {
+        "page": 30,
+        "region": "paragraph beginning 'FBWT, which represents NASA’s cash balance...' stating FBWT was the largest asset at $17 billion, accounting for 62 percent of total assets"
+      },
+      {
+        "page": 50,
+        "region": "Consolidated Balance Sheets, Assets section, line 'Fund Balance with Treasury (Note 2)' under 2024 column showing $17,186 (IN MILLIONS)"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 34.38796759999241,
+    "provider_usage": {
+      "prompt_tokens": 8621,
+      "completion_tokens": 350,
+      "total_tokens": 8971,
+      "cost": 0.00250525,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00250525,
+        "upstream_inference_prompt_cost": 0.00215525,
+        "upstream_inference_completions_cost": 0.00035
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 168,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "C05",
+    "group": "chart",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 32 chart shows Goal 3 $2,929m and 12%, total $24,734m.",
+    "trace": "results/advanced_test_v1/C05.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, Strategic Goal 3 block, 'Net Costs' row, 2024 column"
+      },
+      {
+        "page": 51,
+        "region": "Consolidated Statements of Net Cost table, 'Net Cost of Operations' block, 'Net Costs' row, 2024 column"
+      },
+      {
+        "page": 32,
+        "region": "'Net Cost of Operations By Strategic Goal for FY 2024' donut chart, Goal 3 label showing 12% and $2,929"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 33.17400470000575,
+    "provider_usage": {
+      "prompt_tokens": 8045,
+      "completion_tokens": 656,
+      "total_tokens": 8701,
+      "cost": 0.0012934,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0012934,
+        "upstream_inference_prompt_cost": 0.0009654,
+        "upstream_inference_completions_cost": 0.000328
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 478,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "X01",
+    "group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 22 first paragraph identifies the Performance Improvement Officer.",
+    "trace": "results/advanced_test_v1/X01.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 22,
+        "region": "First paragraph under the heading “FY 2024 Performance Assessment,” sentence stating that the Performance Improvement Officer (PIO) confirmed the ratings"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 20.810117399989394,
+    "provider_usage": {
+      "prompt_tokens": 8341,
+      "completion_tokens": 167,
+      "total_tokens": 8508,
+      "cost": 0.000945945,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000945945,
+        "upstream_inference_prompt_cost": 0.000875805,
+        "upstream_inference_completions_cost": 7.014e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 105,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "X02",
+    "group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 27 gives 73 days, Q3 FY2024, and exclusions SES and Pathways.",
+    "trace": "results/advanced_test_v1/X02.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 27,
+        "region": "Highlights section, “Attracting and Developing a Talented and Diverse Workforce” paragraph: “Time to hire, for all hires excluding Senior Executive Service (SES) and Pathways, was reduced from 80 days in Q1 to 73 days in Q3 of FY 2024”"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 20.41324330001953,
+    "provider_usage": {
+      "prompt_tokens": 8283,
+      "completion_tokens": 301,
+      "total_tokens": 8584,
+      "cost": 0.000448688,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000448688,
+        "upstream_inference_prompt_cost": 0.000298188,
+        "upstream_inference_completions_cost": 0.0001505
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 200,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "X03",
+    "group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 38 identifies the Senior Assessment Team as supporting MSC.",
+    "trace": "results/advanced_test_v1/X03.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 38,
+        "region": "left column, paragraph beginning “The FMFIA assurance statement is based on self-certifications…”, sentence “The Senior Assessment Team (SAT), which supports the MSC, provides oversight for the internal control evaluation and reporting process…”"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 20.233316800004104,
+    "provider_usage": {
+      "prompt_tokens": 8433,
+      "completion_tokens": 277,
+      "total_tokens": 8710,
+      "cost": 0.000804707,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000804707,
+        "upstream_inference_prompt_cost": 0.000666207,
+        "upstream_inference_completions_cost": 0.0001385
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 186,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "X04",
+    "group": "text",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 39 identifies ARMO, its office and collaboration with OCFO QA.",
+    "trace": "results/advanced_test_v1/X04.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 39,
+        "region": "Third body paragraph under the “Enterprise Risk Management” heading, sentence beginning “NASA’s ARMO leads the Agency’s ERM effort…”"
+      },
+      {
+        "page": 39,
+        "region": "Second body paragraph under the “Enterprise Risk Management” heading, sentence beginning “This includes establishment of an Agency Risk Management Officer (ARMO) within the Headquarters Office of Safety and Mission Assurance…”"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 22.678735900000902,
+    "provider_usage": {
+      "prompt_tokens": 8513,
+      "completion_tokens": 651,
+      "total_tokens": 9164,
+      "cost": 0.001167285,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.001167285,
+        "upstream_inference_prompt_cost": 0.000893865,
+        "upstream_inference_completions_cost": 0.00027342
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 515,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "M01",
+    "group": "multi_hop",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 34 chart gives $30,051m and page 70 gives $12,214m; difference $17,837m.",
+    "trace": "results/advanced_test_v1/M01.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 34,
+        "region": "lower-right chart titled 'Sources of Funding FY 2024 (IN MILLIONS)', center of donut labeled 'TOTAL FUNDING $30,051'"
+      },
+      {
+        "page": 70,
+        "region": "Note 14 table, bottom row 'Total Undelivered Orders', 2024 column, value $12,214"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 22.56852999998955,
+    "provider_usage": {
+      "prompt_tokens": 8579,
+      "completion_tokens": 812,
+      "total_tokens": 9391,
+      "cost": 0.001083741,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.001083741,
+        "upstream_inference_prompt_cost": 0.000677741,
+        "upstream_inference_completions_cost": 0.000406
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 674,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "M02",
+    "group": "multi_hop",
+    "answerable": true,
+    "pass": true,
+    "reason": "Original page 71 gives 2024 net outlays $25,015m and net cost $24,734m; page 32 gives $118m increase, deriving 2023 net cost $24,616m and difference $399m.",
+    "trace": "results/advanced_test_v1/M02.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 71,
+        "region": "Note 15 reconciliation table, 'Net Cost' row and 'Total Net Outlays (Calculated Total)' row"
+      },
+      {
+        "page": 32,
+        "region": "'Net Cost of Operations' paragraph, sentence stating FY 2024 net cost increased by $118 million from FY 2023"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 21.17467760000727,
+    "provider_usage": {
+      "prompt_tokens": 8324,
+      "completion_tokens": 805,
+      "total_tokens": 9129,
+      "cost": 0.00207792,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00207792,
+        "upstream_inference_prompt_cost": 0.00149832,
+        "upstream_inference_completions_cost": 0.0005796
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 652,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "M03",
+    "group": "multi_hop",
+    "answerable": true,
+    "pass": false,
+    "reason": "Correct arithmetic is $12,460m, not original gold $10,655m. Model computes $12,460m but cites p64 for lease receivables, which does not establish principal; p69 principal column is not cited. See errata.",
+    "trace": "results/advanced_test_v1/M03.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 52,
+        "region": "Consolidated Statements of Changes in Net Position, 'Total Unexpended Appropriations' line, 2024 column"
+      },
+      {
+        "page": 64,
+        "region": "Note 7, Other Assets, first paragraph stating Other Assets of $697 million represent lessor lease receivables as of September 30, 2024"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 26.0601072999998,
+    "provider_usage": {
+      "prompt_tokens": 8642,
+      "completion_tokens": 1211,
+      "total_tokens": 9853,
+      "cost": 0.0009849294,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009849294,
+        "upstream_inference_prompt_cost": 0.0006291376,
+        "upstream_inference_completions_cost": 0.0003557918
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1070,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "M04",
+    "group": "multi_hop",
+    "answerable": true,
+    "pass": false,
+    "reason": "Model abstains although the original report contains both required totals. It also cites page locations not among its original image reads; evidence was nevertheless in retrieved results.",
+    "trace": "results/advanced_test_v1/M04.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 34,
+        "region": "Sources of Funding section, first paragraph"
+      },
+      {
+        "page": 29,
+        "region": "Balance Sheet Components FY 2024 and FY 2023 chart, FY 2024 net position value"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 43.42020510000293,
+    "provider_usage": {
+      "prompt_tokens": 8353,
+      "completion_tokens": 2723,
+      "total_tokens": 11076,
+      "cost": 0.002315655,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.002315655,
+        "upstream_inference_prompt_cost": 0.00066824,
+        "upstream_inference_completions_cost": 0.001647415
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2576,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUA",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains on future actual value; FY2024 asset figure is supported by original page 30.",
+    "trace": "results/advanced_test_v1/TUA.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 30,
+        "region": "top paragraph under 'FINANCIAL PERFORMANCE' and right donut chart labeled 'Assets by Type 2024 (IN MILLIONS)'"
+      },
+      {
+        "page": 21,
+        "region": "bottom footnote marked with an asterisk, referencing the FY 2026 Viper and FY 2026 President's Budget Request"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 22.8464612000098,
+    "provider_usage": {
+      "prompt_tokens": 8176,
+      "completion_tokens": 752,
+      "total_tokens": 8928,
+      "cost": 0.00135712,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00135712,
+        "upstream_inference_prompt_cost": 0.00098112,
+        "upstream_inference_completions_cost": 0.000376
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 634,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUB",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains on future actual value; FY2024 liability figure is supported by original pages 31 and 64.",
+    "trace": "results/advanced_test_v1/TUB.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 64,
+        "region": "Note 8 table, bottom row labeled 'Total Liabilities' (2024 column $7,664; 2023 column $6,719; amounts in millions)"
+      },
+      {
+        "page": 31,
+        "region": "Financial Performance section, paragraph beginning 'Total Liabilities, as of September 30, 2024, were $7.7 billion...'"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 25.351513000001432,
+    "provider_usage": {
+      "prompt_tokens": 7998,
+      "completion_tokens": 610,
+      "total_tokens": 8608,
+      "cost": 0.00109599,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00109599,
+        "upstream_inference_prompt_cost": 0.00083979,
+        "upstream_inference_completions_cost": 0.0002562
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 454,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUC",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains; the 2024/2023 date claim is supported by original page 52. Page 52 was retrieved as visual-description context but was not one of the original images sent to the model; checked directly during review.",
+    "trace": "results/advanced_test_v1/TUC.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 52,
+        "region": "Consolidated Statements of Changes in Net Position table, title and column headers for fiscal years ended September 30, 2024 and 2023"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 27.587914600007934,
+    "provider_usage": {
+      "prompt_tokens": 7825,
+      "completion_tokens": 1248,
+      "total_tokens": 9073,
+      "cost": 0.00225714,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00225714,
+        "upstream_inference_prompt_cost": 0.0014085,
+        "upstream_inference_completions_cost": 0.00084864
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1129,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUD",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains on future actual value; original page 70 supports FY2024/FY2023 figures.",
+    "trace": "results/advanced_test_v1/TUD.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 70,
+        "region": "Note 14, 'Undelivered Orders at the End of the Period,' paragraph and table in the lower half of the page"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 32.99758739999379,
+    "provider_usage": {
+      "prompt_tokens": 7860,
+      "completion_tokens": 875,
+      "total_tokens": 8735,
+      "cost": 0.000829283,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000829283,
+        "upstream_inference_prompt_cost": 0.000572208,
+        "upstream_inference_completions_cost": 0.000257075
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 763,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUE",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains; original pages 71 and 79 support the FY2024 outlay figure.",
+    "trace": "results/advanced_test_v1/TUE.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 71,
+        "region": "Note 15 table, bottom row 'Total Net Outlays (Calculated Total)' and 'Budgetary Agency Outlays, net', total column"
+      },
+      {
+        "page": 79,
+        "region": "Combining Statements of Budgetary Resources table, bottom right 'Agency Outlays, Net' total column"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 30.671241899981396,
+    "provider_usage": {
+      "prompt_tokens": 8118,
+      "completion_tokens": 816,
+      "total_tokens": 8934,
+      "cost": 0.0008307312,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0008307312,
+        "upstream_inference_prompt_cost": 0.0005909904,
+        "upstream_inference_completions_cost": 0.0002397408
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 684,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  {
+    "id": "TUF",
+    "group": "unanswerable",
+    "answerable": false,
+    "pass": true,
+    "reason": "Explicitly abstains; original page 31 supports rounded FY2024 appropriations and page 80 is FY2023 statement.",
+    "trace": "results/advanced_test_v1/TUF.json",
+    "status": "ok",
+    "citations": [
+      {
+        "page": 31,
+        "region": "bottom paragraph beginning 'Total Net Position comprised of Unexpended Appropriations...' (reports FY 2024 unexpended appropriations at $13 billion and FY 2023 comparison)"
+      },
+      {
+        "page": 80,
+        "region": "top title/header 'Combining Statements of Budgetary Resources For the Fiscal Year Ended September 30, 2023'"
+      }
+    ],
+    "review_method": "AI inspected original PDF pages; no independent human review",
+    "elapsed_seconds": 30.639087299990933,
+    "provider_usage": {
+      "prompt_tokens": 8362,
+      "completion_tokens": 657,
+      "total_tokens": 9019,
+      "cost": 0.000949536,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000949536,
+        "upstream_inference_prompt_cost": 0.0007224768,
+        "upstream_inference_completions_cost": 0.0002270592
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 494,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+]

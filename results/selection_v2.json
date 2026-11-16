@@ -1,0 +1,14 @@
+{
+  "phase": "frozen_before_test",
+  "reason_for_new_test": "After observing old test errors, trace preservation and JSON response mode changed; old test remains archived, and v2 test questions were prepared separately.",
+  "dev_set": "data/benchmark_day7_v2.json: 20 answerable and 2 insufficient-evidence cases",
+  "criterion": "Maximize manually reviewed fully grounded answers on 20 answerable dev cases, counting errors as unsuccessful; then fewer errors, then lower measured retrieval-only time. Both insufficient-evidence outputs must abstain. Applied before opening the new test results.",
+  "baseline": {"method": "dense", "top_k": 3, "candidate_depth": 10, "context_budget_characters": 800, "max_searches": 2},
+  "selected": {"method": "tfidf", "top_k": 3, "candidate_depth": 10, "context_budget_characters": 800, "max_searches": 2},
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "response_format": "json_object; require supported provider parameters",
+  "embedding": "sentence-transformers/all-MiniLM-L6-v2",
+  "dev_fully_grounded": {"dense": "12/20", "tfidf": "13/20", "hybrid": "13/20", "hybrid_top6": "12/20", "hybrid_budget1600": "13/20"},
+  "selection_explanation": "TF-IDF, hybrid and hybrid_budget1600 tie at 13/20, each has zero errors and two system abstentions for unanswerable questions; TF-IDF has the lowest recorded retrieval-only dev time in the earlier same-corpus run (0.059 s versus 0.706 s and 0.798 s). Timings exclude loading and are a single run.",
+  "limitations": "Small dev set, single non-independent reviewer, H08 ambiguity, coarse timing and temporal unanswerable cases. System-forced abstention and explicit model abstention must be distinguished."
+}

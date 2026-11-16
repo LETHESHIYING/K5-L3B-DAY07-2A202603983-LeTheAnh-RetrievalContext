@@ -1,5 +1,9 @@
 # Day 7 — Agentic RAG
 
+> **Bài làm:** Xem [hướng dẫn kiểm tra và tái lập phần cơ bản](docs/MAIN_TASK_DELIVERY.md), [hướng dẫn code](src/README.md), [báo cáo cá nhân](report/individual/2A202603983_LeTheAnh.md), [benchmark](data/benchmark_day7_v2.json) và thư mục `results/`. Các kết quả cũ và mới được ghi riêng; xem báo cáo để biết trạng thái thực tế và giới hạn. Không đưa `.env` hoặc API key vào repo.
+
+> **Thử thách nâng cao:** Xem [thí nghiệm, benchmark và đánh giá](docs/ADVANCED_EXPERIMENT_V1.md). AI đối chiếu từng câu test với trang gốc ghi nhận 27/30; có lỗi gold được đính chính sau test và các giới hạn đánh giá đã được công bố. Chưa xác nhận điều kiện điểm bonus.
+
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.

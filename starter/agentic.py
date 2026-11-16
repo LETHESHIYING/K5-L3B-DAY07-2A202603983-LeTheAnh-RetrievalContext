@@ -37,21 +37,41 @@ def run_agent(question: str, controller: Controller, retriever: Retriever, *,
     lead to abstention. This only checks citation IDs, not semantic grounding.
     Provider/retriever errors propagate; no silent mock fallback.
     """
+    events: list[dict[str, Any]] = []
+    try:
+        return _run_agent(question, controller, retriever, filters=filters,
+                          max_searches=max_searches, top_k=top_k, budget=budget,
+                          events=events)
+    except Exception as exc:
+        # Preserve original exception type and all completed events for the runner.
+        exc.agent_events = list(events)
+        raise
+
+
+def _run_agent(question, controller, retriever, *, filters, max_searches, top_k, budget, events):
     if not question.strip() or max_searches < 1 or top_k < 1 or budget < 1:
         raise ValueError('question, max_searches, top_k hoặc budget không hợp lệ')
     history: list[dict[str, Any]] = []
     chunks: dict[str, dict[str, Any]] = {}
     candidates: list[dict[str, Any]] = []
-    events: list[dict[str, Any]] = []
     for _ in range(max_searches + 1):
-        action = controller.decide(question, history)
+        try:
+            action = controller.decide(question, history)
+        except Exception as exc:
+            events.append({'event': 'controller_error', 'error_type': type(exc).__name__})
+            raise
         if action.get('action') == 'search':
             if sum(e['event'] == 'search' for e in events) >= max_searches:
                 return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events + [{'event': 'search_limit'}]}
             query = action.get('query')
             if not isinstance(query, str) or not query.strip():
                 raise ValueError('search query phải là chuỗi không rỗng')
-            results = retriever.search(query, filters=filters, top_k=top_k)
+            try:
+                results = retriever.search(query, filters=filters, top_k=top_k)
+            except Exception as exc:
+                events.append({'event': 'search_error', 'query': query, 'filter': filters,
+                               'top_k': top_k, 'error_type': type(exc).__name__})
+                raise
             if len(results) > top_k or len({r['id'] for r in results}) != len(results):
                 raise ValueError('retriever phải trả tối đa top_k chunk ID duy nhất')
             candidates.extend(results)
@@ -69,7 +89,7 @@ def run_agent(question: str, controller: Controller, retriever: Retriever, *,
             valid = bool(answer.strip() and citations and all(i in chunks and f'[{i}]' in answer for i in citations))
             if valid:
                 return {'status': 'answered', 'answer': answer, 'citations': citations, 'events': events + [{'event': 'answer'}]}
-            return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events + [{'event': 'invalid_or_missing_citations'}]}
+            return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events + [{'event': 'invalid_or_missing_citations', 'model_answer': answer, 'model_citations': citations}]}
         else:
             raise ValueError('action phải là search hoặc answer')
     return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events}

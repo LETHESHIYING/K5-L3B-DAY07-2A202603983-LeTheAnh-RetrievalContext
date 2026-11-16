@@ -1,0 +1,828 @@
+{
+  "dev": [
+    {
+      "id": "dev-001",
+      "question": "What was NASA's total FY 2024 budget?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$24.9 billion (FY 2024 budget)",
+      "rationale": "Directly stated in the FY 2024 budget panel.",
+      "evidence": [
+        {
+          "region": "top-left panel labeled 'FY 2024 BUDGET'",
+          "pdf_page": 13,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-002",
+      "question": "What was NASA's total civil service workforce by center in the shown FY 2024 data?",
+      "group": "table",
+      "answerable": true,
+      "answer": "18,475 employees",
+      "rationale": "Directly stated in the workforce panel header.",
+      "evidence": [
+        {
+          "region": "top-right panel labeled 'NASA'S CIVIL SERVICE WORKFORCE BY CENTER'",
+          "pdf_page": 13,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-003",
+      "question": "Which NASA center had the largest civil service workforce, and how many employees?",
+      "group": "table",
+      "answerable": true,
+      "answer": "Johnson Space Center (JSC): 3,229 employees (18%)",
+      "rationale": "JSC is the first and largest listed center count in the workforce panel.",
+      "evidence": [
+        {
+          "region": "top-right workforce panel, first row under header",
+          "pdf_page": 13,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-004",
+      "question": "What were NASA's total liabilities as of September 30, 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$7,664 million",
+      "rationale": "The donut chart center and bar chart total both show $7,664 million.",
+      "evidence": [
+        {
+          "region": "right donut chart center labeled 'TOTAL LIABILITIES $7,664'",
+          "pdf_page": 31,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-005",
+      "question": "What were Environmental and Disposal Liabilities in FY 2024, and what share of total liabilities did they represent?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$2,353 million, or 31% of total liabilities",
+      "rationale": "The donut chart labels the green segment with $2,353 and 31%.",
+      "evidence": [
+        {
+          "region": "right donut chart, green segment labeled '31% Environmental and Disposal Liabilities $2,353'",
+          "pdf_page": 31,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-006",
+      "question": "What was NASA's FY 2024 total gross cost of operations?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$26,551 million",
+      "rationale": "The chart header states the FY 2024 total.",
+      "evidence": [
+        {
+          "region": "top-right chart header 'FY 2024 Total: $26,551'",
+          "pdf_page": 33,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-007",
+      "question": "What was the FY 2024 total gross cost of operations for Strategic Goal 2?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$11,306 million",
+      "rationale": "The Strategic Goal 2 section total is printed below its bars.",
+      "evidence": [
+        {
+          "region": "Strategic Goal 2 section, total line 'FY 2024 Total: $11,306'",
+          "pdf_page": 33,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-008",
+      "question": "What was NASA's Net Position for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$19,840 million",
+      "rationale": "The bottom row of the statement shows Net Position for 2024.",
+      "evidence": [
+        {
+          "region": "bottom row labeled 'Net Position', 2024 column",
+          "pdf_page": 52,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-009",
+      "question": "What were Total Unexpended Appropriations for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$13,157 million",
+      "rationale": "The table row labeled Total Unexpended Appropriations shows the 2024 value.",
+      "evidence": [
+        {
+          "region": "row 'Total Unexpended Appropriations', 2024 column",
+          "pdf_page": 52,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-010",
+      "question": "What were NASA's Total Net Outlays for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$25,015 million",
+      "rationale": "The reconciliation table bottom row shows Total Net Outlays.",
+      "evidence": [
+        {
+          "region": "bottom row 'Total Net Outlays (Calculated Total)', Total column",
+          "pdf_page": 71,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-011",
+      "question": "What audit opinion was issued for NASA's FY 2024 financial statements?",
+      "group": "table",
+      "answerable": true,
+      "answer": "Unmodified",
+      "rationale": "Table 1 lists the Audit Opinion as Unmodified.",
+      "evidence": [
+        {
+          "region": "Table 1 'Summary of Financial Statement Audit', Audit Opinion row",
+          "pdf_page": 96,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-012",
+      "question": "What was the ending balance of total material weaknesses for the FY 2024 financial statement audit?",
+      "group": "table",
+      "answerable": true,
+      "answer": "1",
+      "rationale": "Table 1 shows Total Material Weaknesses ending balance of 1.",
+      "evidence": [
+        {
+          "region": "Table 1, row 'Total Material Weaknesses', Ending Balance column",
+          "pdf_page": 96,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-013",
+      "question": "What are the four single-word themes for NASA's Strategic Goals?",
+      "group": "text",
+      "answerable": true,
+      "answer": "DISCOVER, EXPLORE, INNOVATE, ADVANCE",
+      "rationale": "The bullet list names the four themes.",
+      "evidence": [
+        {
+          "region": "bullet list under 'Four major themes'",
+          "pdf_page": 16,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-014",
+      "question": "What do the Green, Yellow, Red, and Grey performance ratings indicate?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Green = complete or on target to complete; Yellow = below target; Red = significantly below target/at risk; Grey = unrated",
+      "rationale": "The four colored rating boxes define each category.",
+      "evidence": [
+        {
+          "region": "lower four colored rating boxes",
+          "pdf_page": 21,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "dev-015",
+      "question": "How does NASA's FY 2024 total gross cost of operations compare with its FY 2024 total budget?",
+      "group": "multi_hop",
+      "answerable": true,
+      "answer": "Gross cost exceeds the budget by $1.651 billion: $26.551 billion − $24.9 billion = $1.651 billion (FY 2024)",
+      "rationale": "Requires combining the FY 2024 budget total from p.13 with the FY 2024 gross cost total from p.33.",
+      "evidence": [
+        {
+          "region": "top-left panel 'FY 2024 BUDGET $24.9 Billion'",
+          "pdf_page": 13,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        },
+        {
+          "region": "top-right chart header 'FY 2024 Total: $26,551'",
+          "pdf_page": 33,
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "AI compared the stated answer and evidence with the original rendered page; not independent human review."
+    },
+    {
+      "id": "DUA",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to the FY 2024 report, what was NASA's actual final FY 2025 net cost of operations?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "DUB",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to the FY 2024 report, what was NASA's final audit opinion on its FY 2025 financial statements?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "DUC",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to the FY 2024 report, what were NASA's actual final FY 2025 total budgetary resources after year end?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    }
+  ],
+  "test": [
+    {
+      "id": "T01",
+      "question": "What was the FY 2024 intragovvernmental accounts receivable, net?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$98 million",
+      "rationale": "The consolidated balance sheet lists Intragovvernmental Accounts Receivable, Net for 2024 as $98 million.",
+      "evidence": [
+        {
+          "pdf_page": 50,
+          "region": "Consolidated Balance Sheets, Assets section, Intragovvernmental Accounts Receivable, Net row, 2024 column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p50: 2024 intragovernmental accounts receivable net row shows $98 million."
+    },
+    {
+      "id": "T02",
+      "question": "What was Strategic Goal 1 earned revenue in FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$1,090 million",
+      "rationale": "The Consolidated Statements of Net Cost show Strategic Goal 1 Less: Earned Revenue for 2024 as $1,090 million.",
+      "evidence": [
+        {
+          "pdf_page": 51,
+          "region": "Consolidated Statements of Net Cost, Strategic Goal 1 section, Less: Earned Revenue row, 2024 column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p51: 2024 Goal 1 earned revenue row $1,090 million."
+    },
+    {
+      "id": "T03",
+      "question": "What were total budgetary resources for FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$30,051 million",
+      "rationale": "The Combined Statements of Budgetary Resources list Total Budgetary Resources for 2024 as $30,051 million.",
+      "evidence": [
+        {
+          "pdf_page": 53,
+          "region": "Combined Statements of Budgetary Resources, Budgetary Resources section, Total Budgetary Resources row, 2024 column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p53: FY2024 total budgetary resources row $30,051 million."
+    },
+    {
+      "id": "T04",
+      "question": "What was the total lease receivable principal amount?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$697 million",
+      "rationale": "The leases table lists Total Principal as $697 million.",
+      "evidence": [
+        {
+          "pdf_page": 69,
+          "region": "Note 11 Leases table, Total row, Principal column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p69: visually checked original table total principal $697 million."
+    },
+    {
+      "id": "T05",
+      "question": "What were total undelivered orders at the end of FY 2024?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$12,214 million",
+      "rationale": "Note 14 lists Total Undelivered Orders for 2024 as $12,214 million.",
+      "evidence": [
+        {
+          "pdf_page": 70,
+          "region": "Note 14 Undelivered Orders at the End of the Period table, Total Undelivered Orders row, 2024 column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p70: visually checked original table total undelivered orders $12,214 million."
+    },
+    {
+      "id": "T06",
+      "question": "What was total net cost for FY 2023?",
+      "group": "table",
+      "answerable": true,
+      "answer": "$24,616 million",
+      "rationale": "The reconciliation table shows Net Cost total for 2023 as $24,616 million.",
+      "evidence": [
+        {
+          "pdf_page": 72,
+          "region": "Note 15 Reconciliation of Net Cost to Net Outlays table, Net Cost row, 2023 Total column",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p72: 2023 net cost total $24,616 million."
+    },
+    {
+      "id": "I01",
+      "question": "What tool is NASA astronaut Kate Rubins using to insert a drive tube into the ground during the simulated moonwalk, and where was the simulation conducted?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "A hammer; San Francisco Volcanic Field in Northern Arizona; May 16, 2024",
+      "rationale": "The photo caption states Rubins uses a hammer to get a drive tube into the ground during a nighttime simulated moonwalk in the San Francisco Volcanic Field in Northern Arizona on May 16, 2024.",
+      "evidence": [
+        {
+          "pdf_page": 14,
+          "region": "Photo caption below the astronaut image",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p14: photograph shows hammer; caption names the location as San Francisco Volcanic Field in Northern Arizona."
+    },
+    {
+      "id": "I02",
+      "question": "How many Strategic Goals, Strategic Objectives, and Performance Goals are in NASA's performance framework breakdown?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "4 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals",
+      "rationale": "The framework breakdown row lists 04 Strategic Goals, 12 Strategic Objectives, and 50 Performance Goals.",
+      "evidence": [
+        {
+          "pdf_page": 15,
+          "region": "Performance Framework Breakdown row below the framework diagram",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p15: framework breakdown row explicitly shows 04, 12, 50."
+    },
+    {
+      "id": "I03",
+      "question": "In the NASA FMFIA annual statement of assurance process diagram, which body appears directly below the Administrator?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Mission Support Council (MSC)",
+      "rationale": "The pyramid diagram places the Mission Support Council immediately below the Administrator.",
+      "evidence": [
+        {
+          "pdf_page": 38,
+          "region": "Figure 1 NASA FMFIA Annual Statement of Assurance Process, green tier directly below Administrator labeled MISSION SUPPORT COUNCIL",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p38: pyramid diagram shows Mission Support Council directly below Administrator."
+    },
+    {
+      "id": "I04",
+      "question": "What are the five risk categories in NASA's UNICORN framework?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Political and Reputational Risk, Programmatic Risk, Financial Risk, Strategic Risk, and Operational Risk",
+      "rationale": "The UNICORN diagram shows five colored risk boxes with these labels.",
+      "evidence": [
+        {
+          "pdf_page": 39,
+          "region": "Figure 2 NASA's UNICORN, five colored risk boxes",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p39: five colored boxes show the stated risk categories."
+    },
+    {
+      "id": "I05",
+      "question": "What activity are the 2024 High School Aerospace Scholars shown participating in, and on what date?",
+      "group": "image_diagram",
+      "answerable": true,
+      "answer": "Engineering Design Challenge focusing on exercise in space; July 29, 2024",
+      "rationale": "The photo caption identifies the activity as the Engineering Design Challenge focusing on exercise in space and gives the date as July 29, 2024.",
+      "evidence": [
+        {
+          "pdf_page": 27,
+          "region": "Did You Know? photo caption",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p27: caption states Engineering Design Challenge focusing on exercise in space, July 29, 2024."
+    },
+    {
+      "id": "C01",
+      "question": "How many Strategic Goal 2 performance goals were rated Green in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "8 performance goals",
+      "rationale": "The FY 2024 Strategic Goal 2 bar shows a green segment labeled 8.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "Stacked bar chart, Strategic Goal 2 FY 2024 bar, green segment label 8",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p22: FY 2024 goal 2 green segment shows 8."
+    },
+    {
+      "id": "C02",
+      "question": "How many Strategic Goal 3 performance goals were rated Green in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "10 performance goals",
+      "rationale": "The FY 2024 Strategic Goal 3 bar shows a green segment labeled 10.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "Stacked bar chart, Strategic Goal 3 FY 2024 bar, green segment label 10",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p22: FY 2024 goal 3 green segment shows 10."
+    },
+    {
+      "id": "C03",
+      "question": "What were total assets in FY 2023?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$26,135 million",
+      "rationale": "The balance sheet components chart labels the FY 2023 assets segment as $26,135 million.",
+      "evidence": [
+        {
+          "pdf_page": 29,
+          "region": "Balance Sheet Components FY 2024 and FY 2023 bar chart, FY 2023 bar, Assets segment label",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p29: FY 2023 assets bar shows $26,135 million."
+    },
+    {
+      "id": "C04",
+      "question": "What was the Fund Balance with Treasury amount and its share of total assets in FY 2024?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$17,186 million, or 62% of total assets",
+      "rationale": "The FY 2024 assets-by-type donut labels Fund Balance with Treasury as $17,186 and 62%.",
+      "evidence": [
+        {
+          "pdf_page": 30,
+          "region": "Assets by Type 2024 donut, green segment labeled Fund Balance with Treasury $17,186 and 62%",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p30: FY 2024 donut shows fund balance $17,186 million and 62%."
+    },
+    {
+      "id": "C05",
+      "question": "What was the FY 2024 net cost of operations for Strategic Goal 3, and what percentage of total net cost did it represent?",
+      "group": "chart",
+      "answerable": true,
+      "answer": "$2,929 million, or 12% of total net cost",
+      "rationale": "The net cost by strategic goal donut labels Goal 3 as 12% and $2,929.",
+      "evidence": [
+        {
+          "pdf_page": 32,
+          "region": "Net Cost of Operations By Strategic Goal for FY 2024 donut, purple segment labeled 12% Goal 3 $2,929",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p32: Goal 3 purple donut segment is $2,929 million and 12%."
+    },
+    {
+      "id": "X01",
+      "question": "Which office confirmed the FY 2024 performance ratings?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Performance Improvement Officer (PIO)",
+      "rationale": "The text states that the Performance Improvement Officer (PIO) confirmed the ratings.",
+      "evidence": [
+        {
+          "pdf_page": 22,
+          "region": "First paragraph under FY 2024 Performance Assessment",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p22: the first paragraph identifies the Performance Improvement Officer as confirming ratings."
+    },
+    {
+      "id": "X02",
+      "question": "What was the time to hire for all hires excluding Senior Executive Service and Pathways reduced to in Q3 of FY 2024?",
+      "group": "text",
+      "answerable": true,
+      "answer": "73 days",
+      "rationale": "The text says time to hire was reduced from 80 days in Q1 to 73 days in Q3 of FY 2024.",
+      "evidence": [
+        {
+          "pdf_page": 27,
+          "region": "Highlights, Attracting and Developing a Talented and Diverse Workforce paragraph",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p27: time to hire was reduced to 73 days in Q3 FY2024, excluding SES and Pathways."
+    },
+    {
+      "id": "X03",
+      "question": "Which team supports the Mission Support Council in overseeing the internal-control evaluation and reporting process?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Senior Assessment Team (SAT)",
+      "rationale": "The original text identifies the SAT as supporting the MSC.",
+      "evidence": [
+        {
+          "pdf_page": 38,
+          "region": "left-column paragraph about the Senior Assessment Team",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "Original rendered page 38 states that the Senior Assessment Team supports the MSC."
+    },
+    {
+      "id": "X04",
+      "question": "Which office leads NASA's Enterprise Risk Management effort in collaboration with the Quality Assurance Division within OCFO?",
+      "group": "text",
+      "answerable": true,
+      "answer": "Agency Risk Management Officer (ARMO) within the Headquarters Office of Safety and Mission Assurance",
+      "rationale": "The text states that NASA's ARMO leads the Agency's ERM effort in collaboration with the Quality Assurance Division within OCFO.",
+      "evidence": [
+        {
+          "pdf_page": 39,
+          "region": "Paragraph beginning NASA's ARMO leads the Agency's ERM effort",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf"
+        }
+      ],
+      "absence_check": null,
+      "original_checked": true,
+      "verification_note": "PDF p39: ARMO is described in the preceding paragraph and then leads the ERM effort with the QA division."
+    },
+    {
+      "id": "M01",
+      "group": "multi_hop",
+      "answerable": true,
+      "question": "What is the difference, in millions of dollars, between NASA FY 2024 total budgetary resources and FY 2024 total undelivered orders?",
+      "answer": "$17,837 million; $30,051 million minus $12,214 million.",
+      "rationale": "30,051 − 12,214 = 17,837 million.",
+      "evidence": [
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 53,
+          "region": "2024 Total Budgetary Resources row"
+        },
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 70,
+          "region": "2024 Total Undelivered Orders row"
+        }
+      ],
+      "original_checked": true,
+      "verification_note": "AI compared original page renderings; no independent human review claimed."
+    },
+    {
+      "id": "M02",
+      "group": "multi_hop",
+      "answerable": true,
+      "question": "How much higher were NASA FY 2024 total net outlays than its FY 2023 total net cost, in millions of dollars?",
+      "answer": "$399 million; $25,015 million minus $24,616 million.",
+      "rationale": "Different metrics and years are compared numerically: 25,015 − 24,616 = 399 million.",
+      "evidence": [
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 71,
+          "region": "2024 Total Net Outlays total column"
+        },
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 72,
+          "region": "2023 Net Cost total column"
+        }
+      ],
+      "original_checked": true,
+      "verification_note": "AI compared original page renderings; no independent human review claimed."
+    },
+    {
+      "id": "M03",
+      "group": "multi_hop",
+      "answerable": true,
+      "question": "What is the numerical difference between NASA FY 2024 total unexpended appropriations and the total principal of its lease receivables, in millions of dollars?",
+      "answer": "$12,460 million; $13,157 million minus $697 million.",
+      "rationale": "Different financial amounts are compared numerically: 13,157 - 697 = 12,460 million.",
+      "evidence": [
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 52,
+          "region": "2024 Total Unexpended Appropriations row"
+        },
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 69,
+          "region": "Total principal of lease receivables row"
+        }
+      ],
+      "original_checked": true,
+      "verification_note": "AI compared original page renderings; no independent human review claimed."
+    },
+    {
+      "id": "M04",
+      "group": "multi_hop",
+      "answerable": true,
+      "question": "By how much did NASA FY 2024 total budgetary resources exceed its FY 2024 net position, in millions of dollars?",
+      "answer": "$10,211 million; $30,051 million minus $19,840 million.",
+      "rationale": "Different accounting measures are compared numerically: 30,051 − 19,840 = 10,211 million.",
+      "evidence": [
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 53,
+          "region": "2024 Total Budgetary Resources row"
+        },
+        {
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "pdf_page": 52,
+          "region": "2024 Net Position row"
+        }
+      ],
+      "original_checked": true,
+      "verification_note": "AI compared original page renderings; no independent human review claimed."
+    },
+    {
+      "id": "TUA",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what were NASA's actual final FY 2026 total assets?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "TUB",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what were NASA's actual final FY 2027 total liabilities?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "TUC",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what was NASA's actual final FY 2028 net position?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "TUD",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what were NASA's actual final FY 2029 undelivered orders?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "TUE",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what were NASA's actual final FY 2030 total net outlays?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    },
+    {
+      "id": "TUF",
+      "group": "unanswerable",
+      "answerable": false,
+      "question": "According to this FY 2024 report, what were NASA's final FY 2031 total unexpended appropriations?",
+      "answer": null,
+      "rationale": "A completed future fiscal year postdates this 2024 report.",
+      "absence_check": "PDF page 6 is dated November 15, 2024; PDF metadata says last modified November 29, 2024. The question asks for an actual completed later fiscal year, not a projection. Extracted text can be searched but keyword absence alone is not proof.",
+      "original_checked": true
+    }
+  ],
+  "metadata": {
+    "status": "corrected reference copy after test; do not substitute for frozen benchmark",
+    "source_url": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+    "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc",
+    "source_audit": "Original pages checked by AI; not an independent human review.",
+    "independence": "Constructed before dev selection and before formal test; pilot questions excluded.",
+    "post_test_erratum": "data/advanced_benchmark_v1_errata.json",
+    "frozen_benchmark_sha256": "6879e9913f5e51c08ebaf876ff428462e3fc884ee99132baac012ad615195471"
+  }
+}

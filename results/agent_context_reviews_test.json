@@ -1,0 +1,72 @@
+[
+  {
+    "config": "dense",
+    "query_id": "T01",
+    "context_grade": null,
+    "reason": "Lượt chạy lỗi; context trung gian không được lưu nên không thể chấm.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "dense",
+    "query_id": "T02",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "dense",
+    "query_id": "T03",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "dense",
+    "query_id": "T04",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "dense",
+    "query_id": "T05",
+    "context_grade": null,
+    "reason": "Lượt chạy lỗi; context trung gian không được lưu nên không thể chấm.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T01",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T02",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T03",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T04",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  },
+  {
+    "config": "tfidf",
+    "query_id": "T05",
+    "context_grade": 2,
+    "reason": "Context chứa đoạn evidence đã xác định cho câu hỏi; xem trace và trang nguồn.",
+    "review_provenance": "Giữ nguyên điểm đã chấm, diễn đạt lại ghi chú."
+  }
+]

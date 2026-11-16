@@ -1,0 +1,12 @@
+[
+  {"config":"baseline","query_id":"V2T01","context_grade":2,"reason":"Có năm 1639 và deputies của từng town trong general court, trang 77."},
+  {"config":"baseline","query_id":"V2T02","context_grade":2,"reason":"Có Puritans, năm 1638 và tên New Haven, trang 86."},
+  {"config":"baseline","query_id":"V2T03","context_grade":2,"reason":"Có tên Lord Shaftesbury và John Locke, Carolina và năm 1669, trang 101."},
+  {"config":"baseline","query_id":"V2T04","context_grade":2,"reason":"Nêu cả towns và counties trong Middle colonies, trang 122."},
+  {"config":"baseline","query_id":"V2T05","context_grade":1,"reason":"Có năm 1696 và tên Board of Trade nhưng chunk dừng trước mô tả đây là cơ quan hành chính trung ương."},
+  {"config":"selected","query_id":"V2T01","context_grade":2,"reason":"Có năm 1639 và deputies của từng town trong general court, trang 77."},
+  {"config":"selected","query_id":"V2T02","context_grade":2,"reason":"Có Puritans, năm 1638 và tên New Haven, trang 86."},
+  {"config":"selected","query_id":"V2T03","context_grade":2,"reason":"Có tên Lord Shaftesbury và John Locke, Carolina và năm 1669, trang 101."},
+  {"config":"selected","query_id":"V2T04","context_grade":2,"reason":"Nêu cả towns và counties trong Middle colonies, trang 122."},
+  {"config":"selected","query_id":"V2T05","context_grade":1,"reason":"Có Board of Trade và mô tả cơ quan trung ương nhưng context thiếu năm 1696 và kết nối đầy đủ giữa tên với mô tả."}
+]

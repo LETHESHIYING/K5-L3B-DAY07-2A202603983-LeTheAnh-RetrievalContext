@@ -1,0 +1,162 @@
+{
+  "split": "test",
+  "benchmark_sha256": "6879e9913f5e51c08ebaf876ff428462e3fc884ee99132baac012ad615195471",
+  "top_k": 8,
+  "max_pages": 6,
+  "text_strategy": "advanced_nasa_fy2024_text_v1",
+  "visual_strategy": "advanced_nasa_fy2024_vision_v2",
+  "elapsed_seconds": 365.9959080000117,
+  "runs": [
+    {
+      "id": "T01",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "T02",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "T03",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "T04",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "T05",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "T06",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "I01",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "I02",
+      "status": "completed",
+      "exit_code": 1
+    },
+    {
+      "id": "I03",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "I04",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "I05",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "C01",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "C02",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "C03",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "C04",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "C05",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "X01",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "X02",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "X03",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "X04",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "M01",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "M02",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "M03",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "M04",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUA",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUB",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUC",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUD",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUE",
+      "status": "completed",
+      "exit_code": 0
+    },
+    {
+      "id": "TUF",
+      "status": "completed",
+      "exit_code": 0
+    }
+  ],
+  "warning": "Run status is not a pass score. Answers require original-source review."
+}

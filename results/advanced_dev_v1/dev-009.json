@@ -1,0 +1,230 @@
+{
+  "question": "What were Total Unexpended Appropriations for FY 2024?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "c15fcd7965e1b663190ad99430c0ceaf12e58479073adbc546a59619b04e6372",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 31,
+          "text": " increased by $424 million, two percent higher than FY 2023. Unexpended Appropriations, at $13 billion,\ndecreased by $176 million or one percent from FY 2023. Cumulative Results of Operations, at $6.7 billion, increased by\n$600 million or 10 percent from FY 2023.\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                  3030",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4533,
+            "pdf_page": 31,
+            "char_start": 4173,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7225899265652952
+        },
+        {
+          "chunk_id": "b9fefed67e291d95aa30ce5eca0e9a15815d5ac2e4927e17999e96fcfab23268",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " Comparison                                                     Sources of Funding FY 2024              for FY 2024 and FY 2023                                                                                   (IN MILLIONS)\n                        (IN MILLIONS)\n\n\n                                      $2,108               $1,840\n                                     $3,242               $3,335                6%\n                                                                                    Spending Authority\n                                                                                ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2388,
+            "pdf_page": 34,
+            "char_start": 1792,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6968025149820748
+        },
+        {
+          "chunk_id": "045bd34a5053d06dc471c91d5872af02a14602a5706407e0ea1c82e6a8ac4ff5",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 34,
+          "text": " three percent,\ncompared to FY 2023.\n\nThe $24.9 billion in appropriations from Congress for FY 2024 accounted for 83 percent of the total funds available for\nuse by the Agency. Congress designates the funding available to the Agency for a specific NASA mission. Appropriations\nthat remained available from prior years totaled $3.3 billion, 11 percent of NASA’s available resources in FY 2024.\n\nNASA’s FY 2024 funding also included $1.8 billion spending authority from offsetting collections, primarily comprised\nof revenue earned and collected from agreements, representing six percent of NASA’s",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1194,
+            "pdf_page": 34,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6669985850454232
+        },
+        {
+          "chunk_id": "dc160727d534546bac2c6de159a8c0b3b134829b817276df895ab2aa438fd17b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 52,
+          "text": "      Appropriations Received                                                            24,875               25,573\n       Appropriations Transferred-In/Out                                              4           —\n       Other Adjustments                                                                      (48)                  (26)\n       Appropriations Used                                                                (25,007)               (25,165)\n     Net Change in Unexpended Appropriations                                       $ (176)             $ 382\n     Total Unexpended",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1189,
+            "pdf_page": 52,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6527378559112549
+        },
+        {
+          "chunk_id": "43f2c42dc0e5f91b672a722694dc3794a9341215f2885179da972d531738d596",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 52,
+          "text": " Appropriations                                        $ 13,157          $ 13,333\n\n Cumulative Results from Operations:\n     Beginning Balance                                                        $ 6,083           $ 5,258\n       Appropriations Used                                                              25,007                25,165\n      Non-Exchange Revenue                                                            27                       1\n       Donations and Forfeitures of Property                                               8               44\n       Imputed Financing           ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1788,
+            "pdf_page": 52,
+            "char_start": 1189,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6454244678706611
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "51b19e3493534c08ce2a2346d530d83d26460ad4bf5897321a25d352852b223c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 74,
+          "text": ",083; Net Position, Beginning of Period\", \"Appropriations Used — 25,007; 25,007; Appropriations Expended\", \"Non-Exchange Revenue — 27; 38; Non-Federal Non-Exchange Revenue/Other Taxes and Receipts\", \"Federal Non-Exchange Revenue — 1 in second amount column\", \"Donations and Forfeitures of Property — 8; (4); Non-Entity Collections Transferred to the General Fund of the U.S. Government\", \"Imputed Financing — 292; 292; Imputed Financing Sources\", \"Net Cost of Operations — (24,734); (24,734); Net Cost of Operations\", \"Net Change in Cumulative Result",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "lower half of page",
+            "pdf_page": 74,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5641680283346182
+        },
+        {
+          "chunk_id": "cbe75d2639124ae7b7aa7913ea991e06b5a04691431f5bd7dd903bba69f9da70",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 64 (footer shows 63) of the FY 2024 NASA Agency Financial Report contains two financial-statement note sections and one financial table. Note 7 describes Other Assets, including $697 million of lesser lease receivables as of September 30, 2024, and states the estimated uncollectible amount is zero. Note 8 describes Liabilities Not Covered by Budgetary Resources and cites discount rates of 2.65 percent for FY 2024 and 2.33 percent for FY 2023. A table in millions compares 20",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5623621940612793
+        },
+        {
+          "chunk_id": "dc54e05d373489b0633a87b8d0ab3cc780f73f4967bbe127cb5250320d98de1e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 52,
+          "text": "ppropriations $13,157 / $13,333. Cumulative Results from Operations: Beginning Balance $6,083 / $5,258; Appropriations Used 25,007 / 25,165; Non-Exchange Revenue 27 / 1; Donations and Forfeitures of Property 8 / 44; Imputed Financing 292 / 231; Net Cost of Operations (24,734) / (24,616); Net Change in Cumulative Results of Operations $600 / $825; Total Cumulative Results of Operations $6,683 / $6,083. Net Position $19,840 / $19,416.\"}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center",
+            "pdf_page": 52,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5599132776260376
+        },
+        {
+          "chunk_id": "bd3933fb135b57c22ed30077e98a14760b5e2e126a6b80f64e0db22a00749042",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": "{\"type\": \"text_block\", \"location\": \"upper page, under Note 13 heading\", \"description\": \"Paragraph explaining that the FY 2026 President's Budget was not published as of the issue date and gives a URL.\", \"visible_values\": [\"The FY 2026 Budget of the United States Government (President's Budget), which presents the actual amounts for the year ended September 30, 2024, has not been published as of the issue date of these financial statements. The FY 2026 Budget of the United States Government will be published on a later date at https://www.whiteh",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "upper page, under Note 13 heading",
+            "pdf_page": 70,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5458842190573094
+        },
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5440309047698975
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 31
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 74
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 34
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 64
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5533,
+    "completion_tokens": 543,
+    "total_tokens": 6076,
+    "cost": 0.000771155,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000771155,
+      "upstream_inference_prompt_cost": 0.00044264,
+      "upstream_inference_completions_cost": 0.000328515
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 320,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"For FY 2024, Total Unexpended Appropriations were $13,157 million (i.e., $13.157 billion), as reported in the FY 2024 NASA Statement of Changes in Net Position. The amounts are stated in millions. This is consistent with the MD&A statement that Unexpended Appropriations were “at $13 billion.”\",\"citations\":[{\"page\":74,\"region\":\"lower half of page, table titled “FY 2024 NASA Statement of Changes in Net Position,” row “Total Unexpended Appropriations”\",\"claim\":\"Total Unexpended Appropriations for FY 2024 were $13,157 million; table amounts are in millions.\"},{\"page\":31,\"region\":\"lower paragraph beginning “Total Net Position,” sentence stating “Unexpended Appropriations, at $13 billion, decreased by $176 million or one percent from FY 2023.”\",\"claim\":\"MD&A corroborates Unexpended Appropriations at $13 billion and a $176 million decrease from FY 2023.\"}]}",
+  "answer": {
+    "answer": "For FY 2024, Total Unexpended Appropriations were $13,157 million (i.e., $13.157 billion), as reported in the FY 2024 NASA Statement of Changes in Net Position. The amounts are stated in millions. This is consistent with the MD&A statement that Unexpended Appropriations were “at $13 billion.”",
+    "citations": [
+      {
+        "page": 74,
+        "region": "lower half of page, table titled “FY 2024 NASA Statement of Changes in Net Position,” row “Total Unexpended Appropriations”",
+        "claim": "Total Unexpended Appropriations for FY 2024 were $13,157 million; table amounts are in millions."
+      },
+      {
+        "page": 31,
+        "region": "lower paragraph beginning “Total Net Position,” sentence stating “Unexpended Appropriations, at $13 billion, decreased by $176 million or one percent from FY 2023.”",
+        "claim": "MD&A corroborates Unexpended Appropriations at $13 billion and a $176 million decrease from FY 2023."
+      }
+    ]
+  },
+  "elapsed_seconds": 47.283124299981864
+}

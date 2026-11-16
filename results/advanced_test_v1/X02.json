@@ -1,0 +1,325 @@
+{
+  "question": "What was the time to hire for all hires excluding Senior Executive Service and Pathways reduced to in Q3 of FY 2024?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "06c3e9105f8f601eaf4f346bc6954c54bdf9ff986f7c519d3aa3c53d97fbe146",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " days in Q1 to 73 days in Q3 of FY 2024, and we are currently taking steps to gain\nefficiency through multiple initiatives, such as using existing certificates to reduce the time and resources required to\nacquire new hires.\n\nIn FY 2024, NASA began a six-phase multi-year Agencywide Full Workforce Barrier Analysis. The barrier analysis will\naddress NASA’s overall workforce across the Agency and will examine four key identities: 1) race/ethnicity, 2) gender,\n3) disability status, 4) LGBTQIA+ and include a component addressing NASA’s leadership pipeline. Thus far the Agency\nhas completed two",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1786,
+            "pdf_page": 27,
+            "char_start": 1192,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5393023490905762
+        },
+        {
+          "chunk_id": "17bc926a1d1627ed5cdf74fe1d22b2d5cf1e8cb13a9bd211f2a49b15d087817b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " and innovation.\nWe pursue the goal of enhancing capabilities and operations to ensure that NASA has the right people, infrastructure,\ntechnology, and technical excellence and oversight needed to advance the Agency into the Artemis era and beyond.\n\nHighlights\nAttracting and Developing a Talented and Diverse Workforce\nWhile NASA employees continue to rate it the best large Federal agency to work for, streamlining the hiring process to\nbring in top talent remains a priority for the Agency. Time to hire, for all hires excluding Senior Executive Service (SES)\nand Pathways, was reduced from 80",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1192,
+            "pdf_page": 27,
+            "char_start": 597,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.417529379276671
+        },
+        {
+          "chunk_id": "c065bb1979d829c9d39d6e1621a2145ccec855e3fb6896d00f06cb7c4f363321",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 78,
+          "text": " prior year were not impacted. For\n   arrangements that have a future commencement date, these are included in the P3 disclosure below and are not\n    included in the SFFAS 54 Lease Implementation amount.\n\n                                                                 2024\n PUBLIC-PRIVATE PARTNERSHIPS\n AGREEMENTS/CONTRACTS                                                                           CUMULATIVE                                                                             AMOUNT                                               ESTIMATED                                                 ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2986,
+            "pdf_page": 78,
+            "char_start": 2387,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3851589492058134
+        },
+        {
+          "chunk_id": "602789962cfa29b086d766ba663204509490d711fe9749117f005faa31e24c92",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": " Magazine,\n                              2023), and Top 20 Government Employers (Woman Engineer Magazine, 2023).\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                              CONTINUED ON THE NEXT PAGE → 105105",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4381,
+            "pdf_page": 106,
+            "char_start": 4158,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3729097843170166
+        },
+        {
+          "chunk_id": "09db1bd67b6ccc8e73b7d5b5463f50e09a5f7d62867841d2e689e494e1207066",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 27,
+          "text": " phases including personnel data analysis and shareholder interviewers, with a quantitative survey in\nphase three forthcoming.\n\nBuilding the Next Generation of Explorers\nNASA’s STEM FY 2023-2024 Learning Agenda poses questions that will prepare the Agency for the future of its\nengagement initiatives. The Agency is making progress on two evaluations, including assessment of NASA internship\noutcomes regarding NASA/industry employment and Phase 2 of the K-12 Student Outcome Study.\n\n\n\n\n\n Did You Know?\n\n\n\n                       Members of the 2024 cohort of High School Aerospace Scholars work",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2380,
+            "pdf_page": 27,
+            "char_start": 1786,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.37041226029396057
+        },
+        {
+          "chunk_id": "45cf1b72fae62b960f88e5ab6a8146a3e945cf4f172262b4c4cbac906947e692",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": "          reaching new talent communities and establishing NASA as an employer that celebrates\n                           diversity and inclusion as keys to success. NASA has received multiple awards in 2022,\n                        2023, and 2024 in recognition of our outreach and employment of under-represented groups.3\n                   To ensure success, NASA continually measures efforts and iterates our recruitment strategy.\n                         Multiple hiring authorities are utilized to quickly fill positions as well as pay incentives to\n                             recruit the",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2963,
+            "pdf_page": 106,
+            "char_start": 2367,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3574492931365967
+        },
+        {
+          "chunk_id": "6e070c5349b7d1a2d21610bf04076dbc46804fc74c8839751ae737c58e3a16a4",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  WELCOME TO NASA\nNASA by the Numbers\n\n\n\n\n  FY 2024 BUDGET                                   NASA’S CIVIL SERVICE WORKFORCE BY CENTER\n $24.9 Billion           18,475 Employees\n\n\n\n\n                                                               Johnson Space Center       Goddard Space Flight $13.3B    Research,DevelopmentEngineering, &       3,229 (18%)      3,180 (17%)              (54%)                                           (JSC)                      Center (GSFC)\n\n\n\n                                                                     (13%)            ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 13,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3566338803390342
+        },
+        {
+          "chunk_id": "e97cf9ef50fa6e12964b2ab05430237c197a6e62aad960442176b9c85b3300a0",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 106,
+          "text": "           demands, to include pipeline development and talent exchanges.\n\n\n\n                                       3 The awards included: America’s Best Employers for Diversity (Forbes, 2023, 2022), America’s Best\n                          Employers for New Graduates (Forbes, 2024, 2023, 2022), America’s Best Employer for Veterans (Forbes,\n                            2023, 2022), America’s Best Employers for Women (Forbes, 2024, 2023, 2022), Ranked #1 Most Prestigious\n                                Internships (Vault/Firsthand, 2023), Top 20 Government Employers (STEM Workforce Diversity",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4158,
+            "pdf_page": 106,
+            "char_start": 3562,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.35634446144104004
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3650211691856384
+        },
+        {
+          "chunk_id": "e3f309eb5f0e32afe1d804f81fd812fab6a1c8b7e93ed497274b3e102a12ea5e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 112,
+          "text": "wersox\", \"Assistant Administrator for Procurement/Ms. Smith Jackson\", \"Assistant Administrator for Strategic Infrastructure/Mr. Carney\", \"Chief Human Capital Officer/Ms. Elliott\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle-lower page, below signature",
+            "pdf_page": 112,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.35375217474984144
+        },
+        {
+          "chunk_id": "3ac1faafdf3d3be6ad268adbf1f233ed9aa6a4138123d9156ccdf8c20a7bfce9",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 87,
+          "text": "ses\", \"September 30, 2024 and 2023\", \"fiscal year 2024\", \"OMB Bulletin No. 24-02\", \"SFFAS 54\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of white report area",
+            "pdf_page": 87,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.34176158905029297
+        },
+        {
+          "chunk_id": "3cd3fb3f0eae37f63aae3dc3373ae65febe928cf57ea5903c0577ad387234d00",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 91,
+          "text": "er 30, 2024\", \"November 15, 2024\", \"Federal Managers' Financial Integrity Act of 1982\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 91,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.327754160433514
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3035986125469208
+        },
+        {
+          "chunk_id": "2ccde87230fca1a047ab0c75ccd7203f690292bd8bc020c5c07cb20442365380",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "FY2024 $4,609 million; FY2023 $4,250 million\", \"Strategic Goal 2 subtotal: FY2024 Total $11,306 million; FY2023 Total $11,030 million\", \"Strategic Goal 3: Catalyze economic growth and drive innovation to address national challenges.\", \"Technology Demonstration: FY2024 $369 million; FY2023 $337 million\", \"Science and Engineering: FY2024 $577 million; FY2023 $655 million\", \"Other Goal 3 Programs: FY2024 $2,129 million; FY2023 $2,052 million\", \"Strategic Goal 3 subtotal: FY2024 Total $3,075 million; FY2023 Total $3,044 million\", \"Strategic Goal 4:",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.30225950479507446
+        },
+        {
+          "chunk_id": "0c05db9b6f5262b1c405b055a34729b86e5ce68417f89ca7e634a48ae1365f2e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 99,
+          "text": "BJECT: Agency Response to Office of Inspector General Draft Report, “2024 Report on NASA’s Top Management and Performance Challenges”\", \"Q-24-02-00-AOQA\", \"September 30, 2024\", \"Challenge 1: Improving the Management of Major Programs and Projects\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 99,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.29801052808761597
+        },
+        {
+          "chunk_id": "dcd32f6e0c85071bd9feee05abcdd832ee7e0eb49fa508933708a9233febcf88",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 47,
+          "text": "nterprise workforce to enable the NASA of the future.\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "right side of page",
+            "pdf_page": 47,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.2884853482246399
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 27
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 112
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 78
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 87
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 106
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8283,
+    "completion_tokens": 301,
+    "total_tokens": 8584,
+    "cost": 0.000448688,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000448688,
+      "upstream_inference_prompt_cost": 0.000298188,
+      "upstream_inference_completions_cost": 0.0001505
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 200,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"73 days in Q3 of FY 2024 for all hires excluding Senior Executive Service (SES) and Pathways.\",\"citations\":[{\"page\":27,\"region\":\"Highlights section, “Attracting and Developing a Talented and Diverse Workforce” paragraph: “Time to hire, for all hires excluding Senior Executive Service (SES) and Pathways, was reduced from 80 days in Q1 to 73 days in Q3 of FY 2024”\"}]}",
+  "answer": {
+    "answer": "73 days in Q3 of FY 2024 for all hires excluding Senior Executive Service (SES) and Pathways.",
+    "citations": [
+      {
+        "page": 27,
+        "region": "Highlights section, “Attracting and Developing a Talented and Diverse Workforce” paragraph: “Time to hire, for all hires excluding Senior Executive Service (SES) and Pathways, was reduced from 80 days in Q1 to 73 days in Q3 of FY 2024”"
+      }
+    ]
+  },
+  "elapsed_seconds": 20.41324330001953
+}

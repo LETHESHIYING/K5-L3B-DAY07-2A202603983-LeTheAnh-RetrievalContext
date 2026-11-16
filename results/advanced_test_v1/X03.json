@@ -1,0 +1,325 @@
+{
+  "question": "Which team supports the Mission Support Council in overseeing the internal-control evaluation and reporting process?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "3997e0b4df607a780edb03b2e10068646acab52a97dfd30b1353f47da6668f24",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " Council (MSC), the organization        CONTROLS OVER PROGRAMS, OPERATIONS,\nresponsible for oversight of NASA’s Internal Control Program,           FINANCIAL REPORTING & SYSTEMS\nadvises the Administrator on the Statement of Assurance. The\nSenior Assessment Team (SAT), which supports the MSC,                        FIGURE 1\nprovides oversight for the internal control evaluation and       NASA FMFIA Annual Statement of\nreporting process that recommends the type of assurance                Assurance Process\nresulting from execution of the SoA Program.\n\nThe Management System Working Group (MSWG)",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2977,
+            "pdf_page": 38,
+            "char_start": 2379,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6773732304573059
+        },
+        {
+          "chunk_id": "a268a7df82de90d81ab76797ce1064dd467faaa8ccc97af4e479225cf1b60a95",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 54,
+          "text": " Council, Mission Support Council, Agency Program\nManagement Council, Acquisition Strategy Council, and other Committees to integrate strategic, tactical, and\noperational decisions in support of strategic focus and direction.\n\nOperationally, NASA is organized into nine Centers and other facilities across the country, the Headquarters Office, and\nthe NASA Shared Services Center (NSSC).\n\nThe Agency’s consolidated financial statements present the accounts of all funds that have been established and\nmaintained to account for the resources under the control of NASA management.\nDisclosure",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2376,
+            "pdf_page": 54,
+            "char_start": 1787,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5923821573029673
+        },
+        {
+          "chunk_id": "ed6c00002e2839bbb1382a87a2ebe5bcdaa9ac619c86731128c3d26ccbbf2312",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 11,
+          "text": " NASA Office of JPL            Jet Propulsion            Stennis Space                                                                                                      Laboratory**               Center\n  Management and Oversight\n\n  Dotted lines indicate independent advisory or oversight organizations\n  NASA Advisory Council (NAC) | Aerospace Safety Advisory Panel (ASAP)\n\n\nThe innovative, responsive, and dynamic nature of NASA’s work benefits from our highly leveraged relationships with\nand between Mission Directorates, Mission Support Offices, and Centers. This organizational model",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3553,
+            "pdf_page": 11,
+            "char_start": 2961,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5916717295842342
+        },
+        {
+          "chunk_id": "e1171c47b30600599f87a7c0abfdc146f06c97244cac077fd1e6c784daa74002",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 90,
+          "text": " testing of internal control over financial reporting and compliance and the results of that testing,\n                and not to provide an opinion on the effectiveness of NASA’s internal control over financial\n                   reporting or on compliance. That report is an integral part of an audit performed in accordance\n                  with Government Auditing Standards in considering NASA’s internal control over financial\n                   reporting and compliance.\n\n\n\n\n               November 15, 2024\n\n\n\n\n\n                                                                               ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1192,
+            "pdf_page": 90,
+            "char_start": 593,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5874419808387756
+        },
+        {
+          "chunk_id": "d211e43078e3789a219009735b5b7e54a79cb7a3b068421e6974ffce1862df8b",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  ANALYSIS OF SYSTEMS, CONTROLS, AND LEGAL COMPLIANCE\n\nNASA Federal Managers' Financial Integrity Act Annual Statement of Assurance Process\n(CONTINUED)\n\ninternal controls over operations, management systems, and reporting with consideration of reviews and other relevant\nsources of information. NASA’s executive leadership provides annual reporting and certifications on the effectiveness of\ninternal controls that are implemented to meet intended objectives.\n\nIn addition, the NASA Office of the Chief Financial Officer (OCFO) implements an extensive annual",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 595,
+            "pdf_page": 38,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5825940370559692
+        },
+        {
+          "chunk_id": "a596a7f16a3fe9e34451f157ea192021e7c155cf22b3ef29759ffbf36e408112",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 37,
+          "text": " reporting, and compliance with applicable laws and regulations.\n\nAn effective system of internal control is at the core of NASA fulfilling its mission and meeting its objectives while\nsafeguarding governmental resources. NASA's management is responsible for implementing internal control activities\nthat support the organization in meeting established objectives.\n\nNASA complies with the Office of Management and Budget’s (OMB) Circular A-1232, Management’s Responsibility for\nEnterprise Risk Management and Internal Control, which provides Government-wide requirements for internal control\nand",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1783,
+            "pdf_page": 37,
+            "char_start": 1188,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5806204926597789
+        },
+        {
+          "chunk_id": "1732e932a99c4f8da7167ec758306b548d18ef256ff7903fcad9b52f9be81883",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " assessment\nmethodology and internal control testing techniques that evaluate internal controls over financial reporting.\n\nIn its execution of the Administrator’s Statement of Assurance                ADMINISTRATOR\n(SoA) Process, NASA considers Enterprise Risk Management\n(ERM) Program activities, including reviews of the Agency\nRisk and Fraud Risk Profiles, to inform the evaluation of and\nprovide assurance over internal controls.                                    SUPPORTMISSION\n                                                                       COUNCIL\nThe FMFIA assurance statement is",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 38,
+            "char_start": 595,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.580490435332631
+        },
+        {
+          "chunk_id": "b68aa6a8e4bf838b0f35254bafd8459b8687cec6d8788df9f34fb8dd76989003",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": " performs the first level evaluation of annual results and serves as\nthe primary advisory body for NASA's internal control activities. The MSWG analyzes the annual assessment results and\nreports issues that may significantly impact the effective operation of internal controls and makes recommendations on\nthe design of internal controls to the SAT. Figure 1 depicts the Agency’s Annual SoA process and organizational\ncomponents.\n\n Did You Know?\n\n                         For Your Processing Pleasure: The Sharpest Pictures of Jupiter’s Volcanic Moon Io in a Generation\n                       ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3570,
+            "pdf_page": 38,
+            "char_start": 2977,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5723259449005127
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "7e10fa2fd38e69d206b92a5088a981b720bf492e0bfecb964f38dd9c4e893fa1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 38,
+          "text": "\"ANNUAL ASSESSMENT OF INTERNAL CONTROLS OVER PROGRAMS, OPERATIONS, FINANCIAL REPORTING & SYSTEMS\", \"FIGURE 1\", \"NASA FMFIA Annual Statement of Assurance Process\"]}",
+          "metadata": {
+            "item": 1,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Right side of page, below the body text and above the footer",
+            "pdf_page": 38,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5239474773406982
+        },
+        {
+          "chunk_id": "5b21b936adbe43305e6e75a78422277029a244fb6ee02b9921f8125167b2ac5f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": " Vision and Mission 09\", \"Organizational Structure 10\", \"NASA Centers and Facilities 11\", \"NASA by the Numbers 12\", \"MISSION PERFORMANCE 13\", \"Strategic Plan Framework 14\", \"Strategic Goals and Objectives 15\", \"Agency Priority Goals 17\", \"STRATEGIC GOALS AND HIGHLIGHTS 19\", \"Assessment Approach 20\", \"FY 2024 Performance Assessment 21\", \"FINANCIAL PERFORMANCE 27\", \"Financial Highlights 28\", \"Overview of Financial Position 28\", \"Results of Operations 31\", \"Sources of Funding 33\", \"Limitations of the Financial Statements 34\", \"ANALYSIS OF SYSTEMS,",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5123693346977234
+        },
+        {
+          "chunk_id": "0c05db9b6f5262b1c405b055a34729b86e5ce68417f89ca7e634a48ae1365f2e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 99,
+          "text": "BJECT: Agency Response to Office of Inspector General Draft Report, “2024 Report on NASA’s Top Management and Performance Challenges”\", \"Q-24-02-00-AOQA\", \"September 30, 2024\", \"Challenge 1: Improving the Management of Major Programs and Projects\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 99,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.49847427010536194
+        },
+        {
+          "chunk_id": "46cf145942a706a115cc9738354c690a546d00d4222c08c1cd74539a8533afc7",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": "ify external/oversight sources and offices: EC, ASC, MSC, APMC at top; GAO, OIG, Audit Reports, Fraud Risk Assessments at upper left; SoA, MSWG, SAT, AFR at upper right; and Office of Safety and Mission Assurance, Office of the Chief Engineer, Office of the Chief Health and Medical Officer at bottom.\", \"visible_values\": [\"FIGURE 3\", \"ERM Sources\", \"Management Councils\", \"Audits and Assessments\", \"Strategic Review\", \"Technical Authorities\", \"Baseline Performance Review\", \"ARMO Collaborations, ARMWG\", \"Internal Control Reviews\", \"Organizational P",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "middle-left/center of page, below the third paragraph",
+            "pdf_page": 40,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.49752813592385525
+        },
+        {
+          "chunk_id": "bf750fbe3c02fd030bba77a459110185d7818336082ba8b657a43075e2198e26",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 40,
+          "text": "erformance Reporting\", \"Risk Management Working Groups\", \"External Reporting\", \"EC, ASC, MSC, APMC\", \"GAO, OIG, Audit Reports, Fraud Risk Assessments\", \"SoA, MSWG, SAT, AFR\", \"Office of Safety and Mission Assurance\", \"Office of the Chief Engineer\", \"Office of the Chief Health and Medical Officer\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1100,
+            "location": "middle-left/center of page, below the third paragraph",
+            "pdf_page": 40,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4885120987892151
+        },
+        {
+          "chunk_id": "f5a377a99cda23b2b7680c795ed41fd086d92d99a738aface34163684e1eb407",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "\"Letter from the Inspector General on Audit 84\", \"Independent Auditors’ Report 86\", \"SECTION 3 Other Information 94\", \"Summary of Financial Statement Audit and Management Assurances 95\", \"Summary of Reports 96\", \"Office of Inspector General (OIG) Report on NASA’s Top Management and Performance Challenges 97\", \"Agency Response to OIG Report on NASA’s Top Management and Performance Challenges 98\", \"Civil Monetary Penalty Adjustment for Inflation 112\", \"Undisbursed Balances in Expired Grant Accounts 113\", \"Grants Programs Information 114\", \"Climat",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4619991503954448
+        },
+        {
+          "chunk_id": "1929f75b5c25a7941d12334cf3cb0731f4cf9bbb8ea781b84764c10f1b7404db",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "f Controls and Fraud Risk Management. Green curved arrows appear on the left and right sides.\", \"visible_values\": [\"Enterprise Risk Management\", \"EC\", \"APMC\", \"ASC\", \"MSC\", \"Program & Mission Decisions\", \"Mission-Enabling Decisions\", \"Escalated Risk\", \"ASC Advice and Decisions\", \"APMC Participation\", \"Program-driven Institutional Requirements\", \"Political and Reputational Risk\", \"Programmatic Risk\", \"Financial Risk\", \"Strategic Risk\", \"Operational Risk\", \"HQ Mission Directorate Centers\", \"Functional Organizations Supporting Center Operations\", ",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.45484568044083384
+        },
+        {
+          "chunk_id": "56db13bb907fa8f6bba470218a365842b59fc4ec39c6661423a53760006d845e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 39,
+          "text": "{\"type\": \"diagram\", \"location\": \"center of page\", \"description\": \"Oval ERM diagram labeled Enterprise Risk Management. Top red oval EC; left blue oval APMC; center white oval ASC; right green oval MSC. Arrows connect the councils with labels for decisions, risk escalation, advice, participation, and institutional requirements. Below the councils are five colored risk-category boxes, a light-blue box for HQ Mission Directorate Centers and Functional Organizations Supporting Center Operations, and a green box for Control Certifications-Analysis o",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "center of page",
+            "pdf_page": 39,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.44768250300392576
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 38
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 54
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 3
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 11
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 99
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 90
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8433,
+    "completion_tokens": 277,
+    "total_tokens": 8710,
+    "cost": 0.000804707,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000804707,
+      "upstream_inference_prompt_cost": 0.000666207,
+      "upstream_inference_completions_cost": 0.0001385
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 186,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"The Senior Assessment Team (SAT) supports the Mission Support Council (MSC) and provides oversight for the internal control evaluation and reporting process.\",\"citations\":[{\"page\":38,\"region\":\"left column, paragraph beginning “The FMFIA assurance statement is based on self-certifications…”, sentence “The Senior Assessment Team (SAT), which supports the MSC, provides oversight for the internal control evaluation and reporting process…”\"}]}",
+  "answer": {
+    "answer": "The Senior Assessment Team (SAT) supports the Mission Support Council (MSC) and provides oversight for the internal control evaluation and reporting process.",
+    "citations": [
+      {
+        "page": 38,
+        "region": "left column, paragraph beginning “The FMFIA assurance statement is based on self-certifications…”, sentence “The Senior Assessment Team (SAT), which supports the MSC, provides oversight for the internal control evaluation and reporting process…”"
+      }
+    ]
+  },
+  "elapsed_seconds": 20.233316800004104
+}

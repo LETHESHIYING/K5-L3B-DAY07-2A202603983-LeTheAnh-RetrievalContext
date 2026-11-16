@@ -1,0 +1,128 @@
+[
+  {
+    "id": "DUA",
+    "pass": true,
+    "reason": "Refuses future actual result; FY2024 supporting amounts are in original page 32.",
+    "trace": "results/advanced_dev_v1/DUA.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "DUB",
+    "pass": true,
+    "reason": "Refuses future audit opinion; 2024 and 2023 opinions supported by cited pages 85 and 121.",
+    "trace": "results/advanced_dev_v1/DUB.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "DUC",
+    "pass": true,
+    "reason": "Refuses future actual result; cited page 53 gives the 2024 and 2023 comparative amounts.",
+    "trace": "results/advanced_dev_v1/DUC.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-001",
+    "pass": true,
+    "reason": "Page 13 budget panel and note support $24.9 billion and transfer detail.",
+    "trace": "results/advanced_dev_v1/dev-001.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-002",
+    "pass": false,
+    "reason": "Provider returned an answer object rather than the required string, producing a recorded schema error.",
+    "trace": "results/advanced_dev_v1/dev-002.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-003",
+    "pass": true,
+    "reason": "Page 13 workforce panel supports JSC, 3,229 employees and 18%.",
+    "trace": "results/advanced_dev_v1/dev-003.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-004",
+    "pass": true,
+    "reason": "Page 64 liabilities table and page 29 chart support $7,664 million.",
+    "trace": "results/advanced_dev_v1/dev-004.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-005",
+    "pass": true,
+    "reason": "Page 31 chart supports $2,353 million and 31%; page 65 supports liability total.",
+    "trace": "results/advanced_dev_v1/dev-005.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-006",
+    "pass": true,
+    "reason": "Page 33 comparative gross cost chart shows $26,551 million in FY2024.",
+    "trace": "results/advanced_dev_v1/dev-006.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-007",
+    "pass": true,
+    "reason": "Page 33 Goal 2 subtotal and page 51 statement show $11,306 million.",
+    "trace": "results/advanced_dev_v1/dev-007.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-008",
+    "pass": false,
+    "reason": "The system abstained although the source has an answer; retrieved pages did not support it.",
+    "trace": "results/advanced_dev_v1/dev-008.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-009",
+    "pass": true,
+    "reason": "Page 74 reclassification table shows unexpended appropriations of $13,157 million.",
+    "trace": "results/advanced_dev_v1/dev-009.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-010",
+    "pass": true,
+    "reason": "Page 71 total net outlays row shows $25,015 million.",
+    "trace": "results/advanced_dev_v1/dev-010.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-011",
+    "pass": true,
+    "reason": "Page 85 states the 2024 audit opinion was unmodified and describes that opinion.",
+    "trace": "results/advanced_dev_v1/dev-011.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-012",
+    "pass": true,
+    "reason": "Page 96 Table 1 shows ending balance of one material weakness.",
+    "trace": "results/advanced_dev_v1/dev-012.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-013",
+    "pass": false,
+    "reason": "Model output failed answer schema validation; counted as error.",
+    "trace": "results/advanced_dev_v1/dev-013.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-014",
+    "pass": true,
+    "reason": "Page 21 colored rating boxes support the four definitions.",
+    "trace": "results/advanced_dev_v1/dev-014.json",
+    "reviewer": "AI source review; not independent human review"
+  },
+  {
+    "id": "dev-015",
+    "pass": false,
+    "reason": "The system abstained because its retrieved pages did not include the FY2024 budget.",
+    "trace": "results/advanced_dev_v1/dev-015.json",
+    "reviewer": "AI source review; not independent human review"
+  }
+]

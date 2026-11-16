@@ -1,0 +1,224 @@
+{
+  "question": "What was the ending balance of total material weaknesses for the FY 2024 financial statement audit?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "88acf1be36124aa0debae4e7829bb4bb13cf8df976036b58698e88245fbab566",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 96,
+          "text": " Modified\n\n Material Weaknesses                     Beginning Balance   New      Resolved     Consolidated     Reassessed   Ending Balance\n Deficiencies in Financial Controls                  0                  1          0             0             0                   1\n Total Material Weaknesses                      0                  1          0             0             0                   1\n\n                          EFFECTIVENESS OF INTERNAL CONTROL OVER OPERATIONS (FMFIA 2)\n\n Statement of Assurance                     Unmodified\n\n Material Weaknesses                     Beginning",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1784,
+            "pdf_page": 96,
+            "char_start": 1190,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.7245691582817354
+        },
+        {
+          "chunk_id": "0878f47fb018cd5ace16abaa53b51c3cf0d05fb99af341ec888947795b3b12aa",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 96,
+          "text": " Restatement                                    No\n\n Material Weaknesses                                   Beginning Balance   New      Resolved     Consolidated    Ending Balance\n Deficiencies in Financial Reporting Oversight Controls            0              1        0          0                 1\n Total Material Weaknesses                            0              1        0          0                 1\n\n\nTABLE 2\nSummary of Management Assurances\n\n                      EFFECTIVENESS OF INTERNAL CONTROL OVER FINANCIAL REPORTING (FMFIA 2)\n\n Statement of Assurance                     ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1190,
+            "pdf_page": 96,
+            "char_start": 599,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6887776851654053
+        },
+        {
+          "chunk_id": "d65cdd572f749de94b58bcf74cac67df76f43dfa4713f66ad1a22b2d60eee37f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 96,
+          "text": " OTHER INFORMATION  SUMMARY OF FINANCIAL STATEMENT AUDIT AND MANAGEMENT ASSURANCES\nSummary of Financial Statement Audit and\nManagement Assurances\n\n\nThe following tables summarize the Agency’s FY 2024 Financial Statement Audit and Management Assurances. Table 1\nsummarizes the status of prior year—FY 2023 material weaknesses identified, if any by the Financial Statement Auditor.\nTable 2 summarizes the status of prior year material weaknesses, if any identified by NASA Management.\n\nTABLE 1\nSummary of Financial Statement Audit\n\n Audit Opinion                                           Unmodified\n\n",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 599,
+            "pdf_page": 96,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6610474586486816
+        },
+        {
+          "chunk_id": "a90199845319bce7300016cc0dd47aac5c9813ed9dd6eb4bdbe18b6ca930e053",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 96,
+          "text": " Balance   New      Resolved     Consolidated     Reassessed   Ending Balance\n None                                       0            0          0             0             0             0\n Total Material Weaknesses                      0            0          0             0             0             0\n\n               CONFORMANCE WITH FEDERAL FINANCIAL MANAGEMENT SYSTEM REQUIREMENTS (FMFIA 4)\n\n Statement of Assurance                       Federal Systems conform to financial management system requirements.\n\n Non-Conformances                       Beginning Balance   New      Resolved    ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2380,
+            "pdf_page": 96,
+            "char_start": 1784,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6286941392007994
+        },
+        {
+          "chunk_id": "424df88def3e2243c0d4348ccc29295d2bbc3213030d19d6eeee46b9c2b8b6dc",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 85,
+          "text": " Management and Budget’s Bulletin No. 24-02, Audit Requirements for Federal Financial\n                   Statements.\n\n                     This audit resulted in a “clean” or unmodified opinion on NASA’s FY 2024 financial statements (see\n                   Enclosure 1). An unmodified opinion means the financial statements present fairly, in all material\n                     respects, the financial position and results of NASA’s operations in conformity with U.S. generally\n                  accepted accounting principles.\n\n                  EY also reported on NASA’s internal control over",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1782,
+            "pdf_page": 85,
+            "char_start": 1188,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6062983274459839
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "cbe75d2639124ae7b7aa7913ea991e06b5a04691431f5bd7dd903bba69f9da70",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 64,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 64 (footer shows 63) of the FY 2024 NASA Agency Financial Report contains two financial-statement note sections and one financial table. Note 7 describes Other Assets, including $697 million of lesser lease receivables as of September 30, 2024, and states the estimated uncollectible amount is zero. Note 8 describes Liabilities Not Covered by Budgetary Resources and cites discount rates of 2.65 percent for FY 2024 and 2.33 percent for FY 2023. A table in millions compares 20",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 64,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5884671211242676
+        },
+        {
+          "chunk_id": "33e5337a00afa76a8d5dca85ff6e4f1e070373d5b1453816a163c60bfd002da9",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 85,
+          "text": "{\"type\": \"letter text block\", \"location\": \"main body of the page\", \"description\": \"Formal letter with date, addressees, subject line, and several paragraphs about the audit of NASA's FY 2024 financial statements. No charts or tables are embedded.\", \"visible_values\": [\"November 15, 2024\", \"TO: Bill Nelson, Administrator\", \"Margaret Vo Schaus, Chief Financial Officer\", \"SUBJECT: Audit of NASA's Fiscal Year 2024 Financial Statements\", \"Report No. IG-25-001\", \"Assignment No. A-24-05-00-FMD\", \"Ernst & Young LLP (EY)\", \"Enclosure 1\", \"Enclosure 2\", \"",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "main body of the page",
+            "pdf_page": 85,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5663787981045972
+        },
+        {
+          "chunk_id": "257f09a468c517b55d3a95972688b6f8fc33c5d737cef6fdca6c332c4f08e262",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 96,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the FY 2024 Agency Financial Report headed 'Summary of Financial Statement Audit and Management Assurances.' It contains an introductory paragraph and two tables: Table 1 summarizes the FY 2024 Financial Statement Audit status, and Table 2 summarizes management assurances across internal control over financial reporting, internal control over operations, conformance with federal financial management system requirements, and FFMIA compliance. No charts, maps, diagrams, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 96,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5643768570198512
+        },
+        {
+          "chunk_id": "2bde7120e9bf4978c15b86cde0c015fa6268faf4fe770ef4af7973b7536a2e2c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 121,
+          "text": "{\"type\": \"icon/text block\", \"location\": \"bottom\", \"description\": \"Document icon with a magnifying glass next to text stating NASA received an unmodified, or 'clean,' opinion from the Independent Auditors for the 13th consecutive year on its FY 2023 financial statements; text also says NASA received the highest possible audit opinion and adheres to Generally Accepted Accounting Principles for Federal agencies.\", \"visible_values\": [\"13th consecutive year\", \"FY 2023\", \"unmodified\", \"clean\", \"Generally Accepted Accounting Principles\"]}",
+          "metadata": {
+            "item": 7,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "bottom",
+            "pdf_page": 121,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5438627872548836
+        },
+        {
+          "chunk_id": "f5a377a99cda23b2b7680c795ed41fd086d92d99a738aface34163684e1eb407",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 3,
+          "text": "\"Letter from the Inspector General on Audit 84\", \"Independent Auditors’ Report 86\", \"SECTION 3 Other Information 94\", \"Summary of Financial Statement Audit and Management Assurances 95\", \"Summary of Reports 96\", \"Office of Inspector General (OIG) Report on NASA’s Top Management and Performance Challenges 97\", \"Agency Response to OIG Report on NASA’s Top Management and Performance Challenges 98\", \"Civil Monetary Penalty Adjustment for Inflation 112\", \"Undisbursed Balances in Expired Grant Accounts 113\", \"Grants Programs Information 114\", \"Climat",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "main body, two columns",
+            "pdf_page": 3,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5088957244815999
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 96
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 64
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 85
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 121
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 5598,
+    "completion_tokens": 731,
+    "total_tokens": 6329,
+    "cost": 0.0006223022,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006223022,
+      "upstream_inference_prompt_cost": 0.0004075344,
+      "upstream_inference_completions_cost": 0.0002147678
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 633,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"The ending balance of total material weaknesses for the FY 2024 financial statement audit was 1 material weakness (a count, not a monetary amount).\",\"citations\":[{\"page\":96,\"region\":\"Table 1 'Summary of Financial Statement Audit', 'Total Material Weaknesses' row, 'Ending Balance' column shows 1; the same row shows Beginning Balance 0, New 1, Resolved 0, and Consolidated 0.\"}]}",
+  "answer": {
+    "answer": "The ending balance of total material weaknesses for the FY 2024 financial statement audit was 1 material weakness (a count, not a monetary amount).",
+    "citations": [
+      {
+        "page": 96,
+        "region": "Table 1 'Summary of Financial Statement Audit', 'Total Material Weaknesses' row, 'Ending Balance' column shows 1; the same row shows Beginning Balance 0, New 1, Resolved 0, and Consolidated 0."
+      }
+    ]
+  },
+  "elapsed_seconds": 42.57829499998479
+}

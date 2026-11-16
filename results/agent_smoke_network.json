@@ -1,0 +1,125 @@
+[
+  {
+    "status": "answered",
+    "answer": "The East India Company is dated 1600. [0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e]",
+    "citations": [
+      "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chapter 4 trading company associated with India dated 1600",
+        "filter": null,
+        "results": [
+          {
+            "id": "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 62,
+            "text": " East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was",
+            "metadata": {
+              "chapter": 4,
+              "char_end": 598,
+              "chunking": "paragraph:240",
+              "char_start": 451
+            },
+            "score": 0.6115381353176762
+          },
+          {
+            "id": "837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 95,
+            "text": "Since colonization was but a iinor interest with the\nDutch West India Company, it established at the begin-\nning a government that was “‘fit only for a trading post.”\nThe bankruptcy of the Company and the consequent lack\nof attention to its",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 383,
+              "chunking": "paragraph:240",
+              "char_start": 143
+            },
+            "score": 0.4876546263694763
+          },
+          {
+            "id": "1346c2443132159cd8a194198233f25d45ed398ed9b97c196709427f7aa94f9a",
+            "source_id": "american_history_1917",
+            "source": "data\\raw\\american_history_1917.pdf",
+            "page": 94,
+            "text": "The trend of economic life in New Netherland was de-\neidedly influenced when, in 1638, the trade monopoly of\nthe West India Company was abolished in this colony.\nThe profitable fur trade and the rich lands were now open\nto all settlers.",
+            "metadata": {
+              "chapter": 6,
+              "char_end": 1465,
+              "chunking": "paragraph:240",
+              "char_start": 1229
+            },
+            "score": 0.453393640911959
+          }
+        ],
+        "context": "[0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e | data\\raw\\american_history_1917.pdf | page 62]\n East India\nCompany, 1600).\n\nThus was the Old\nbn* rorponco-ctaivson 1 World trade divided\na1 among the enterpris-\ning English mer-\n\nchants.* It was\n\n[837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99 | data\\raw\\american_history_1917.pdf | page 95]\nSince colonization was but a iinor interest with the\nDutch West India Company, it established at the begin-\nning a government that was “‘fit only for a trading post.”\nThe bankruptcy of the Company and the consequent lack\nof attention to its",
+        "context_ids": [
+          "0a1051d309234fb75fc8ad790234092b735ca18409e3cdbb59f9b978219b584e",
+          "837ec8702adbcae34fad17c6f97293aacad1ecfd910eaee67dcd2058bedfef99"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "query_id": "H01",
+    "question": "In chapter 4, which trading company associated with India is dated 1600?",
+    "elapsed_seconds": 28.326604300003964,
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "method": "dense",
+    "split": "dev",
+    "top_k": 3,
+    "budget_chars": 800,
+    "max_searches": 4,
+    "model_usage": [
+      {
+        "prompt_tokens": 171,
+        "completion_tokens": 144,
+        "total_tokens": 315,
+        "cost": 0.00015687,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00015687,
+          "upstream_inference_prompt_cost": 3.591e-05,
+          "upstream_inference_completions_cost": 0.00012096
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 122,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      {
+        "prompt_tokens": 486,
+        "completion_tokens": 369,
+        "total_tokens": 855,
+        "cost": 0.00020601,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.00020601,
+          "upstream_inference_prompt_cost": 5.103e-05,
+          "upstream_inference_completions_cost": 0.00015498
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 276,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    ]
+  }
+]

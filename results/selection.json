@@ -1,0 +1,11 @@
+{
+  "phase": "frozen_before_test",
+  "basis": "20 answerable dev questions and 2 insufficient-evidence dev questions; Day 6 former test questions are dev only",
+  "criterion": "Among the three agent configurations, maximize manually reviewed fully grounded answers on 20 answerable dev cases, counting model errors as not successful; then fewer errors, then lower retrieval time. Both insufficient-evidence cases must abstain.",
+  "baseline": {"method": "dense", "top_k": 3, "candidate_depth": 10, "context_budget_characters": 800, "max_searches": 2},
+  "selected": {"method": "tfidf", "top_k": 3, "candidate_depth": 10, "context_budget_characters": 800, "max_searches": 2},
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "embedding": "sentence-transformers/all-MiniLM-L6-v2",
+  "evidence": {"dense_full_grounded": "11/20", "tfidf_full_grounded": "12/20", "hybrid_full_grounded": "11/20", "errors": {"dense": 4, "tfidf": 2, "hybrid": 4}},
+  "limitations": "Selection uses small dev set and non-independent review. H08 is ambiguous. Errors were not retried. Retrieval-only configuration improvements were evaluated but not independently agent-tested."
+}

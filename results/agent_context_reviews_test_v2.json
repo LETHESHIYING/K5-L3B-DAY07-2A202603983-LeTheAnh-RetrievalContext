@@ -1,0 +1,12 @@
+[
+  {"config":"dense","query_id":"V2T01","context_grade":null,"reason":"Controller timeout trước khi có search; sự kiện lỗi đã lưu, không có context để chấm."},
+  {"config":"dense","query_id":"V2T02","context_grade":2,"reason":"Context có New Haven, Puritans và năm 1638."},
+  {"config":"dense","query_id":"V2T03","context_grade":0,"reason":"Context bàn Carolina nhưng không có tên Shaftesbury và Locke."},
+  {"config":"dense","query_id":"V2T04","context_grade":2,"reason":"Context nêu towns và counties."},
+  {"config":"dense","query_id":"V2T05","context_grade":1,"reason":"Có Board of Trade và 1696 nhưng thiếu phần khẳng định vai trò trung ương."},
+  {"config":"tfidf","query_id":"V2T01","context_grade":2,"reason":"Có deputies và năm 1639."},
+  {"config":"tfidf","query_id":"V2T02","context_grade":2,"reason":"Có New Haven, Puritans và năm 1638."},
+  {"config":"tfidf","query_id":"V2T03","context_grade":2,"reason":"Có Shaftesbury, Locke và Fundamental Constitution 1669."},
+  {"config":"tfidf","query_id":"V2T04","context_grade":2,"reason":"Có towns và counties."},
+  {"config":"tfidf","query_id":"V2T05","context_grade":1,"reason":"Các đoạn nói tên Board of Trade và cơ quan trung ương nhưng không đủ kết nối và thiếu năm 1696."}
+]

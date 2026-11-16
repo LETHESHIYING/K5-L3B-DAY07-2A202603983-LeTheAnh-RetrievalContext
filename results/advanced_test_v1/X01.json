@@ -1,0 +1,325 @@
+{
+  "question": "Which office confirmed the FY 2024 performance ratings?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "999d4d9d42cf5894ceae8d00a4a4baf4c572b0b7c9fb63284cfdde3cf0c1df94",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  STRATEGIC GOALS AND HIGHLIGHTS\nFY 2024 Performance Assessment\n\n\nThroughout FY 2024, program officials assessed progress towards achieving NASA’s 50 Performance Goals and\ndetermined whether the goals’ annual targets were met and assigned one of the color ratings described above. The\nPerformance Improvement Officer (PIO) confirmed the ratings.\n\nThe following graph shows the summary of preliminary FY 2024 ratings summarized by Strategic Goal compared\nto the FY 2023 ratings that were published in the FY 2025 VIPer. For each Strategic Goal, the graph shows",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 596,
+            "pdf_page": 22,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6060693498808544
+        },
+        {
+          "chunk_id": "b0f4409ab767a8746feaa578589e7be94bbff3783664182770faa140fd7769de",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": "    1\n           20%\n             5\n            10%         3\n\n           0%\n                   FY 2023   FY 2024         FY 2023   FY 2024          FY 2023   FY 2024         FY 2023   FY 2024\n                         Complete or On             Below Target             Significantly Below             Unrated\n                            Target to Complete                                   Target/At Risk\n\n\nTwelve Performance Goals supporting Strategic Goals remained unrated at the time of the FY 2024 AFR’s publication.\nTen of those are awaiting ratings from the Science Advisory Committees,",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2388,
+            "pdf_page": 22,
+            "char_start": 1794,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.6014791010047077
+        },
+        {
+          "chunk_id": "2345518afff2666b6cde675f8aa09ce5a9aba5c9f3efcf6693cc3b14ce08e73f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 1,
+          "text": "                                                   National Aeronautics and\n                                               Space Administration\n\n\n\n\n\n                  FY 2024\n AGENCY\nFINANCIAL\n REPORT",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 200,
+            "pdf_page": 1,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5795097852337616
+        },
+        {
+          "chunk_id": "b96aaff873da298920a739afadb62168fc263ac405dbc66e9d1f7a5e2d2dd519",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": " and can be found at nasa.gov/performance.\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                  2020",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 3729,
+            "pdf_page": 21,
+            "char_start": 3591,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5745342284996238
+        },
+        {
+          "chunk_id": "1fb391ae4c10457873e28c72746891ae1fce9befdf4a1370739c87874214a680",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 22,
+          "text": " how the\nPerformance Goals were rated at the time of publication. The FY 2026 VIPer, which will be published concurrently\nwith the FY 2026 President’s Budget Request at https://www.nasa.gov/ocfo/performance-report, will provide the\nfinal performance results for each Performance Goal.\n\n\n\n                 STRATEGIC GOAL 1        STRATEGIC GOAL 2         STRATEGIC GOAL 3        STRATEGIC GOAL 4\n           100%\n                                            1            1      1           1       1\n           90%                                                                                    1   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1195,
+            "pdf_page": 22,
+            "char_start": 596,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5600969457568569
+        },
+        {
+          "chunk_id": "bcbd713c4ef9b1b3133c8171c105134a78814853b954f93be9e0d8ba4e644185",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 9,
+          "text": " MANAGEMENT’S DISCUSSION AND ANALYSIS  WELCOME TO NASA\nWelcome to NASA\nThe FY 2024 AFR presents NASA’s audited FY 2024 and FY 2023 financial statements and disclosures;\nthe related independent auditors’ opinion; required supplemental information; preliminary, top-level\nperformance results for FY 2024; and other information. The FY 2024 AFR can be found on NASA’s\nwebsite (www.nasa.gov) at Agency Financial Reports.\n\n\nNASA inspires the world through exploration and discovery, leading scientific and technological advancements that\nbenefit Americans and all humanity. Our efforts in space help to",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 597,
+            "pdf_page": 9,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5460315021257707
+        },
+        {
+          "chunk_id": "76b2936d765be2deed943f0fa4770512ae3c3df9c5fedf11637142e47e1a9b21",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": " success.\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                CONTINUED ON THE NEXT PAGE → 3131",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2501,
+            "pdf_page": 32,
+            "char_start": 2381,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5367488221229527
+        },
+        {
+          "chunk_id": "9f0f108c09d0658acedfafa9d64b9b85d0f14cb60873b27ac81ecfddabc8e94e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 6,
+          "text": " NOVEMBER 15, 2024\nMessage from the Administrator\n\n\nI am pleased to present the Fiscal Year (FY) 2024 Agency Financial Report\n(AFR) for the National Aeronautics and Space Administration (NASA). This                                                        NASA’s Major Themesreport provides key financial and performance information and demonstrates                                                       and Strategic Goalsthe Agency’s commitment to transparency in the use of American taxpayers’\ndollars. NASA is committed to delivering reliable, accurate, transparent, and     ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 577,
+            "pdf_page": 6,
+            "char_start": 0,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5337963382127093
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "2c7eaa60106d6a5b2e5fd4a309c21178d86c1bcf4954b262faf3e7688b306740",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from a NASA FY 2024 Agency Financial Report titled 'NASA by the Numbers.' It presents two main data panels: a FY 2024 budget breakdown totaling $24.9 Billion and a civil service workforce breakdown totaling 18,475 Employees by NASA center. A note explains a $4.5 million transfer from GSA for the Technology Modernization Fund. A bottom 'Did You Know?' section includes a small lunar/space graphic with '2024,' a text caption about planned 2024 milestones, a 'LEARN MORE' link, ",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 13,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.49364256896719017
+        },
+        {
+          "chunk_id": "a8ad3a175056266a886cb4abcfaf01661deda8d1054eac866aa64b2b95c1cd7a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "rrent with the FY 2026 President's Budget Request and can be found at nasa.gov/performance.\", \"FY 2024 AGENCY FINANCIAL REPORT NASA.GOV\", \"20\", \"NASA (logo)\"]}",
+          "metadata": {
+            "item": 5,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Bottom of the page",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4844665536602415
+        },
+        {
+          "chunk_id": "d4c12ad18c8818557e3590b10588bad24d324d01f28c9be4b77f832248f5225a",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": "{\"type\": \"text block\", \"location\": \"main body, second paragraph\", \"description\": \"Paragraph reporting two Red-rated FY 2024 Performance Goals and listing mission delays and statuses.\", \"visible_values\": [\"Two of NASA's Performance Goals were rated Red in FY 2024\", \"Performance Goal 1.2.9\", \"Science Mission Directorate's heliophysics, planetary science, and astrophysics major projects\", \"Red rating\", \"Dragonfly project\", \"three-bladed rotor design\", \"Critical Design Review (CDR)\", \"instrument CDRs\", \"early FY 2025\", \"Interstellar Mapping and Acc",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "main body, second paragraph",
+            "pdf_page": 23,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4672231434780707
+        },
+        {
+          "chunk_id": "0c05db9b6f5262b1c405b055a34729b86e5ce68417f89ca7e634a48ae1365f2e",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 99,
+          "text": "BJECT: Agency Response to Office of Inspector General Draft Report, “2024 Report on NASA’s Top Management and Performance Challenges”\", \"Q-24-02-00-AOQA\", \"September 30, 2024\", \"Challenge 1: Improving the Management of Major Programs and Projects\"]}",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body of page",
+            "pdf_page": 99,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4643375894822135
+        },
+        {
+          "chunk_id": "3e27446d5da9802b6487bcdc611d21a1050c73f0a1b39aba1bd97dd8da58b183",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 18,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page 18 of the NASA FY 2024 Agency Financial Report, in the Management's Discussion and Analysis / Mission Performance section, is titled 'Agency Priority Goals.' It presents narrative text on FY 2024-2025 Agency Priority Goals, with a focus on Climate Change Research, including PREFIRE CubeSat launches, Earth System Explorers Step-1 selections, and Greenhouse Gas Center work. The page contains no charts, tables, maps, or diagrams. The only informative photo is a Rocket Lab Elec",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 18,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.44744387582279077
+        },
+        {
+          "chunk_id": "bd3933fb135b57c22ed30077e98a14760b5e2e126a6b80f64e0db22a00749042",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": "{\"type\": \"text_block\", \"location\": \"upper page, under Note 13 heading\", \"description\": \"Paragraph explaining that the FY 2026 President's Budget was not published as of the issue date and gives a URL.\", \"visible_values\": [\"The FY 2026 Budget of the United States Government (President's Budget), which presents the actual amounts for the year ended September 30, 2024, has not been published as of the issue date of these financial statements. The FY 2026 Budget of the United States Government will be published on a later date at https://www.whiteh",
+          "metadata": {
+            "item": 3,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "upper page, under Note 13 heading",
+            "pdf_page": 70,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4448109334932645
+        },
+        {
+          "chunk_id": "15c752158acb19b97b95a428a87be18e9093dc00dd43b54e1de808bfdb77e6a1",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 21,
+          "text": "mpleted as planned by the end of the Performance Goal's time frame.\", \"RED: Significantly Below Target/At Risk - NASA is significantly below target or behind schedule for the fiscal year. The work being measured is at risk of not being completed within the Performance Goal's time frame.\", \"GREY: Unrated - Information needed to evaluate performance was not available in time for AFR publication. A final rating will be provided in the FY 2026 ViPer.\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "Lower half, spanning the page width",
+            "pdf_page": 21,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.44403627848409033
+        },
+        {
+          "chunk_id": "ad5c9cf85ccc61c6363a4b81452175b9eb0087a3602c960090a21f9973d3c44d",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": " Enhance capabilities and operations to catalyze current and future mission success.\", \"Infrastructure: FY2024 $660 million; FY2023 $666 million\", \"Mission Enabling Service: FY2024 $683 million; FY2023 $686 million\", \"Center Engineering, Safety, & Operations: FY2024 $810 million; FY2023 $829 million\", \"Other Goal 4 Programs: FY2024 $889 million; FY2023 $812 million\", \"Strategic Goal 4 subtotal: FY2024 Total $3,042 million; FY2023 Total $2,993 million\"]}",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 2200,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4425532554058288
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 22
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 13
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 21
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 1
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 23
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 99
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8341,
+    "completion_tokens": 167,
+    "total_tokens": 8508,
+    "cost": 0.000945945,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000945945,
+      "upstream_inference_prompt_cost": 0.000875805,
+      "upstream_inference_completions_cost": 7.014e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 105,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"The Performance Improvement Officer (PIO) confirmed the FY 2024 performance ratings.\",\"citations\":[{\"page\":22,\"region\":\"First paragraph under the heading “FY 2024 Performance Assessment,” sentence stating that the Performance Improvement Officer (PIO) confirmed the ratings\"}]}",
+  "answer": {
+    "answer": "The Performance Improvement Officer (PIO) confirmed the FY 2024 performance ratings.",
+    "citations": [
+      {
+        "page": 22,
+        "region": "First paragraph under the heading “FY 2024 Performance Assessment,” sentence stating that the Performance Improvement Officer (PIO) confirmed the ratings"
+      }
+    ]
+  },
+  "elapsed_seconds": 20.810117399989394
+}

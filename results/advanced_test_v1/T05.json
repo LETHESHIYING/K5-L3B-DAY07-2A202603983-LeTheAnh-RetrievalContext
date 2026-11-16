@@ -1,0 +1,329 @@
+{
+  "question": "What were total undelivered orders at the end of FY 2024?",
+  "status": "ok",
+  "events": [
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_text_v1",
+      "results": [
+        {
+          "chunk_id": "78d59e237167d78ce845bf8879f74775c6c3a1d330b5948adfb3497c02886b96",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 124,
+          "text": " Space Research Organisation\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 123123",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 4907,
+            "pdf_page": 124,
+            "char_start": 4771,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4247846350202189
+        },
+        {
+          "chunk_id": "25a588033fd71896e80e9275f3e9943ebf160ed2cef67fd4201e3586a812787f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 77,
+          "text": " otherwise\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 7676",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 6679,
+            "pdf_page": 77,
+            "char_start": 6563,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.41910237073898315
+        },
+        {
+          "chunk_id": "76b2936d765be2deed943f0fa4770512ae3c3df9c5fedf11637142e47e1a9b21",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 32,
+          "text": " success.\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                CONTINUED ON THE NEXT PAGE → 3131",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2501,
+            "pdf_page": 32,
+            "char_start": 2381,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4060621019564814
+        },
+        {
+          "chunk_id": "cd84bb002a61e6f6bcd48261f03cc91eef112905e029f7de1e8d1c20f5ba0fc3",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 83,
+          "text": " Current Year                             4,217               101,198        29,900        135,315\n\n End of Current Year                                               4,217               101,198        29,900        135,315\n\n\n Held for Disposal or Exchange (also included in the balances above)\n\n End of Prior Year                                                                                                 175\n\n End of Current Year                                                                                               175\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                   ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2974,
+            "pdf_page": 83,
+            "char_start": 2375,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.40486348809439376
+        },
+        {
+          "chunk_id": "8cd9cd613c88b330b19a56c9578ed7630a8cc0cc3d6d1ac711073caa557f22cb",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": " and/or services ordered to perform NASA’s mission objectives,\nwhich have not been received. Undelivered Orders at the end of the period totaled $12 billion as of September 30, 2024\nand $13 billion as of September 30, 2023.\n\n\n (IN MILLIONS)                                                           2024                 2023\n\n Federal\n    Unpaid                                                                 $ 601               $ 706\n    Paid                                                                              212                     101\n\n     Total                                      ",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2387,
+            "pdf_page": 70,
+            "char_start": 1788,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4011485039503282
+        },
+        {
+          "chunk_id": "3b66c5a0a16a1d433945969652916a123304a93a0678db09295384d92a3416ec",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 13,
+          "text": " moons,\n                                       are just a FEW of the milestones we have planned for 2024. (December 27, 2023)\n                            LEARN MORE →\n                                                                                                                      S C A N M E\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                            1212",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 2798,
+            "pdf_page": 13,
+            "char_start": 2395,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.4003510236530893
+        },
+        {
+          "chunk_id": "65d43c2fb7c83b9e8303cefba4689d6a798942ae81e5b829ceeb182fcc93c70c",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 90,
+          "text": "              4\n\n                       A member firm of Ernst & Young Global Limited\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                               CONTINUED ON THE NEXT PAGE → 8989",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 1385,
+            "pdf_page": 90,
+            "char_start": 1192,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3932533860206604
+        },
+        {
+          "chunk_id": "713cb57e32d3eddc1569b0eada41dcc12052425b48c9612dfffc82ae1317ab7f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 59,
+          "text": " 2024. The auditors’ report date is\nthe date the financial statements are available to be issued and management determined that there are no other items to\ndisclose related to NASA’s FY 2024 financial statements.\n\n\n\n\n\nFY 2024 AGENCY FINANCIAL REPORT NASA.GOV                                                    5858",
+          "metadata": {
+            "kind": "native_pdf_text",
+            "char_end": 908,
+            "pdf_page": 59,
+            "char_start": 594,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3922098045224075
+        }
+      ]
+    },
+    {
+      "tool": "search",
+      "strategy": "advanced_nasa_fy2024_vision_v2",
+      "results": [
+        {
+          "chunk_id": "efb2afdd3c98567091566689f4fb60e79f1771fdfea52d89a5cd2d509818d152",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": "{\"type\": \"text_block\", \"location\": \"lower middle, under Note 14 heading\", \"description\": \"Paragraph defining undelivered orders and stating totals for 2024 and 2023.\", \"visible_values\": [\"Undelivered Orders represent the amount of goods and/or services ordered to perform NASA's mission objectives, which have not been received. Undelivered Orders at the end of the period totaled $12 billion as of September 30, 2024 and $13 billion as of September 30, 2023.\"]}",
+          "metadata": {
+            "item": 7,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower middle, under Note 14 heading",
+            "pdf_page": 70,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.5104747706368712
+        },
+        {
+          "chunk_id": "2c5c7a6424a3604d899a17b35277c4f741073559a3787d3f42b26fe246a119fc",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 23,
+          "text": "eleration Probe (IMAP)\", \"at least one instrument\", \"beyond FY 2024\", \"Payloads and Research Investigations on the Surface of the Moon (PRISM)-1b\", \"Farside Seismic Suite\", \"FY 2025\", \"Europa Clipper pre-ship review\", \"Nancy Grace Roman Space Telescope's spacecraft to Outer Barrel Assembly\"]}",
+          "metadata": {
+            "item": 4,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "main body, second paragraph",
+            "pdf_page": 23,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3697969395043297
+        },
+        {
+          "chunk_id": "2248511907165287a8fe228c28d5bafadf02f6c0d4c2bb82254efcd0067dbc3f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 70,
+          "text": "{\"type\": \"table\", \"location\": \"lower half of page, under Note 14 paragraph\", \"description\": \"Two-year table of undelivered orders by Federal and Nonfederal categories, with Unpaid, Paid, and Total rows. Units are in millions.\", \"visible_values\": [\"(IN MILLIONS)\", \"Columns: 2024; 2023\", \"Federal — Unpaid: $601; $706\", \"Federal — Paid: 212; 101\", \"Federal — Total: 813; 807\", \"Nonfederal — Unpaid: $11,355; $12,076\", \"Nonfederal — Paid: 46; 26\", \"Nonfederal — Total: 11,401; 12,102\", \"Total Undelivered Orders: $12,214; $12,909\"]}",
+          "metadata": {
+            "item": 8,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "lower half of page, under Note 14 paragraph",
+            "pdf_page": 70,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.3645926496629335
+        },
+        {
+          "chunk_id": "d8f538e5fb90616af48bdbff79df8fe527255ad7ec2616d2b540de3cbece633f",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "tions By Strategic Goal FY 2024 and FY 2023 (IN MILLIONS)\", \"Header totals: FY 2024 Total $26,551 million; FY 2023 Total $26,233 million\", \"Legend: orange = 2024; purple = 2023\", \"Strategic Goal 1: Expand human knowledge through new scientific discoveries.\", \"Earth Science Research: FY2024 $578 million; FY2023 $522 million\", \"Earth Systematic Missions: FY2024 $831 million; FY2023 $748 million\", \"Reimburseable-Science Programmatic: FY2024 $806 million; FY2023 $713 million\", \"Other Goal 1 Programs: FY2024 $6,913 million; FY2023 $7,183 million\", \"",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 550,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.36181020736694336
+        },
+        {
+          "chunk_id": "409cf8172196743b87808a1c2050d00badca5b4278d619239f45df23ebd513b5",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 59,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the NASA FY 2024 Agency Financial Report, Financial Section. It contains Note 1, continued, with two short text subsections: 'Reclassification of FY 2024 Information' and 'Subsequent Events.' There are no charts, tables, maps, diagrams, or informative photos on the page. The visible printed page number is 58, although the requested page number is 59.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 59,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.35206738996104125
+        },
+        {
+          "chunk_id": "f7a9f0a509d97b2a1c22b3976c6852be2fee410c30e02401452ccd61a73d7a40",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 44,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Text-heavy report page titled '2025 and Beyond' under 'MANAGEMENT'S DISCUSSION AND ANALYSIS' and 'FORWARD LOOKING'. It contains several paragraphs about NASA plans and milestones; no charts, tables, maps, diagrams, or informative photos are present. Footer shows FY 2024 Agency Financial Report, NASA.gov, continuation to next page, printed page 43, and NASA logo.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 44,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.34923452138900757
+        },
+        {
+          "chunk_id": "a8992047a42743003ea5d5a2230f80f99159b96681cb127de9acbf97009ca992",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 67,
+          "text": "{\"type\": \"page summary\", \"location\": \"whole page\", \"description\": \"Page from the FY 2024 NASA Agency Financial Report, Note 10 Other Liabilities. It contains explanatory paragraphs and a comparative liabilities table in millions for 2024 and 2023, split into current, non-current, and total columns. No charts, maps, diagrams, informative photos, or captions are present. The visible footer page number is 66, while the prompt states page 67.\"}",
+          "metadata": {
+            "item": 0,
+            "kind": "unverified_model_visual_description",
+            "offset": 0,
+            "location": "whole page",
+            "pdf_page": 67,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.33426056300040763
+        },
+        {
+          "chunk_id": "2ccde87230fca1a047ab0c75ccd7203f690292bd8bc020c5c07cb20442365380",
+          "document_id": "nasa_fy2024_afr",
+          "source": "https://www.nasa.gov/wp-content/uploads/2023/11/nasa-fy-2024-afr-1.pdf",
+          "page": 33,
+          "text": "FY2024 $4,609 million; FY2023 $4,250 million\", \"Strategic Goal 2 subtotal: FY2024 Total $11,306 million; FY2023 Total $11,030 million\", \"Strategic Goal 3: Catalyze economic growth and drive innovation to address national challenges.\", \"Technology Demonstration: FY2024 $369 million; FY2023 $337 million\", \"Science and Engineering: FY2024 $577 million; FY2023 $655 million\", \"Other Goal 3 Programs: FY2024 $2,129 million; FY2023 $2,052 million\", \"Strategic Goal 3 subtotal: FY2024 Total $3,075 million; FY2023 Total $3,044 million\", \"Strategic Goal 4:",
+          "metadata": {
+            "item": 2,
+            "kind": "unverified_model_visual_description",
+            "offset": 1650,
+            "location": "center of page, large purple-bordered panel spanning most of page width",
+            "pdf_page": 33,
+            "source_sha256": "65ee29adf5f3a92fcd74701696c25dae8f2d18f1ba2e7f4fba2bcfc059acbefc"
+          },
+          "score": 0.33165502548217773
+        }
+      ]
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 124
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 70
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 77
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 23
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 32
+    },
+    {
+      "tool": "read_original_page",
+      "physical_pdf_page": 83
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8248,
+    "completion_tokens": 359,
+    "total_tokens": 8607,
+    "cost": 0.0014167,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0014167,
+      "upstream_inference_prompt_cost": 0.0012372,
+      "upstream_inference_completions_cost": 0.0001795
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 251,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "model": "deepseek/deepseek-v4.1-flash-1017",
+  "model_raw_content": "{\"answer\":\"Total undelivered orders at the end of FY 2024 were $12,214 million (approximately $12 billion) as of September 30, 2024.\",\"citations\":[{\"page\":70,\"region\":\"Note 14, lower half, table row 'Total Undelivered Orders', 2024 column\"},{\"page\":70,\"region\":\"Note 14 paragraph, lower middle, stating undelivered orders totaled $12 billion as of September 30, 2024\"}]}",
+  "answer": {
+    "answer": "Total undelivered orders at the end of FY 2024 were $12,214 million (approximately $12 billion) as of September 30, 2024.",
+    "citations": [
+      {
+        "page": 70,
+        "region": "Note 14, lower half, table row 'Total Undelivered Orders', 2024 column"
+      },
+      {
+        "page": 70,
+        "region": "Note 14 paragraph, lower middle, stating undelivered orders totaled $12 billion as of September 30, 2024"
+      }
+    ]
+  },
+  "elapsed_seconds": 58.804430699994555
+}

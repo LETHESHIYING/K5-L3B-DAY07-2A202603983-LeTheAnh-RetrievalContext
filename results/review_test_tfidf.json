@@ -1,0 +1,152 @@
+[
+  {
+    "query_id": "T01",
+    "question": "According to the book, who succeeded the Pilgrims' first governor?",
+    "answerable": true,
+    "expected_answer": "William Bradford",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 76,
+        "evidence": "first Governor.\nHe was succeeded by William Bradford"
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "William Bradford succeeded the Pilgrims' first governor. [2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7]",
+    "citations": [
+      "2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7"
+    ],
+    "context": "[2e7fa730ae30c6ee94250193523dd1edbce14c1ee8e68f8bd784b18e150551e7 | data\\raw\\american_history_1917.pdf | page 76]\n first Governor.\nHe was succeeded by William Bradford, the historian of the\ncolony, who occupied that office for about thirty years. In their\nrelations with the Indians the Pilgrims were fortunate. A\npestilence had greatly thinned the\n\n[e0c59c9b67acf10db10570ea123dc0182b9535b41c4ad203a4845ee937baea20 | data\\raw\\american_history_1917.pdf | page 78]\n from this body\nthat the Pilgrims came.\n\n[c9f86d65bb552d40fe3c45b321b78f4e25641b54c4c63784b71da18049fbb908 | data\\raw\\american_history_1917.pdf | page 80]\n became governor of the Company.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "T02",
+    "question": "In what year does the book say the patroon system began?",
+    "answerable": true,
+    "expected_answer": "1629",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 94,
+        "evidence": "1629, the Company began inducing"
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "1629 [7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854]",
+    "citations": [
+      "7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854"
+    ],
+    "context": "[7cf7627c0fca67ff2bfcdcb69ee2bde92b3e600ac1481dea438e95862a6e2854 | data\\raw\\american_history_1917.pdf | page 94]\nThese settlements were at first of slow growth. In\n1629, the Company began inducing the migration of agri-\ncultural settlers by the @tablionment of ans ““patroon sys-\ntem.” Individuals who would undertake to bring fifty\nadult settlers were\n\n[723a1b3eb25ef8941a16909a70ac37deaaa0fb90dd3a3191056ba8f181111d02 | data\\raw\\american_history_1917.pdf | page 123]\n with\nwhich the English colonization began was not made good.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "T03",
+    "question": "According to the 1672 act described in the book, what were goods shipped between colonies required to do?",
+    "answerable": true,
+    "expected_answer": "Go by way of England or pay a high duty in colonial ports",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 110,
+        "evidence": "must either go by way of England or pay a high duty in\ncolonial ports."
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "Goods shipped from one colony to another had to either go by way of England or pay a high duty in colonial ports. [a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a]",
+    "citations": [
+      "a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a"
+    ],
+    "context": "[aeee0705beb3e544cf53ed2cbb728a513fcf2da826c7901d8d4ef62f0bd8f4ba | data\\raw\\american_history_1917.pdf | page 109]\n shipped in Dutch bottoms from Virginia to\nEngland and Holland. An act of Parliament, passed in\n1651, required that all goods brought to England from\nAsia, Africa, or America, should be carried by English or\ncolonial ships. ‘This act\n\n[a7f8ff15144aaf6ba6d3119fd1460a48ab6d793320dec2f82f4a1267761c6e7a | data\\raw\\american_history_1917.pdf | page 110]\nto the colonies must come from or through English ports,\nBy an act of 1672 goods shipped from one colony to another\nmust either go by way of England or pay a high duty in\ncolonial ports.",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "T04",
+    "question": "What 1697 treaty ended the war in Europe according to the book?",
+    "answerable": true,
+    "expected_answer": "Treaty of Ryswick",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 137,
+        "evidence": "Treaty\nof Ryswick, 1697"
+      }
+    ],
+    "absence_reason": null,
+    "status": "answered",
+    "answer": "The Treaty of Ryswick (1697) ended the war in Europe. [19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26]",
+    "citations": [
+      "19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26"
+    ],
+    "context": "[19f36632ef84f6f02d1cc55ff08d7ec9b3300860671420f498c8590a29b93a26 | data\\raw\\american_history_1917.pdf | page 137]\n made\nfor a concerted land-and-water attack upon Quebec\nand Montreal, but they failed through mismanagement.\nThe treaty cf peace that ended the war in Europe (‘Treaty\nof Ryswick, 1697), left the combatants with the same\nterritorial limits\n\n[8921d3861416590d24a4c35f41f8ba4c977f46ffb5dd33fcb8e79b2430e8ba0a | data\\raw\\american_history_1917.pdf | page 137]\n War of the Palatinate\n(1689-1697).\n\n[ba580159909827544c2026e3e5868faac93acc5b97497ecf46bc87c163d4befd | data\\raw\\american_history_1917.pdf | page 137]\n station was retained\nby the English and named Annapolis. The surrounding\n\nEuropean\ncauses.\n\nKing\nWilliam’e\nWar, 1689\n1697.\n\nQueer\nAnne’s\nWar, 1701-\n1713,",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "T05",
+    "question": "What two products does the book say were imported from the West Indies?",
+    "answerable": true,
+    "expected_answer": "Molasses and sugar",
+    "gold": [
+      {
+        "source_id": "american_history_1917",
+        "page": 155,
+        "evidence": "Molasses\nand sugar were imported from the West Indies."
+      }
+    ],
+    "absence_reason": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[161cc1f249621b888b62b0a93fb1664427f420369fcf70d8a040d0b33003e8be | data\\raw\\american_history_1917.pdf | page 155]\n mentioned. From\nSpain and France in return came wines, oil, silk goods, and\nproducts of the East—sugar, coffee, and drugs. Molasses\nand sugar were imported from the West Indies. From\nthis molasses rum was manufactured in large\n\n[e795c7d1c0e7fdde664c3267d5fed40de56d4875cd0548d344d676eafd5114ce | data\\raw\\american_history_1917.pdf | page 155]\n clapboards, and staves. For the greater\namount of these products England offered but a small\nmarket, since her industries yielded similar products.\nThe countries of southern Europe and the West Indies\nwere the chief markets for the exports",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "TU01",
+    "question": "According to this 1917 book, what did the 1969 moon landing change about colonial Virginia?",
+    "answerable": false,
+    "expected_answer": null,
+    "gold": null,
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 1969. Literal corpus checks for 1969 and moon landing returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[6bc9cdcdea86cbadb86d70800230c85290dc1f65f99df3ed0661e48f0c25cc05 | data\\raw\\american_history_1917.pdf | page 75]\nfrom the London Company, and they were to settle in ts May\n“the northern parts of Virginia.” Because of this change Compact\nin location, certain persons of their party threatened to do\nas they pleased after landing; and this ied to the\n\n[0002131424e6379f5cfb09dce2cf75235d2ec04bb90a7279cc62f13ed68151ae | data\\raw\\american_history_1917.pdf | page 160]\n the proprictary government was an active\n‘ause in the change.\n\n[fd52910ce5497d5c915d8a58c54958c3bbd80086a4c8fac5d3b1a8c2868a378f | data\\raw\\american_history_1917.pdf | page 69]\nProsperity\nin Virginia",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  },
+  {
+    "query_id": "TU02",
+    "question": "According to this 1917 book, how was the 2007 Jamestown anniversary celebrated?",
+    "answerable": false,
+    "expected_answer": null,
+    "gold": null,
+    "absence_reason": "The selected corpus comes from a 1917 edition; the question asks about 2007. Literal corpus checks for 2007 and 2007 returned zero. OCR keyword checks alone do not prove absence; the publication date and future event provide the temporal basis.",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "context": "[e945bb91f6e07235b1a2e6c3d50beedd926d668aec25e77025cf89fba1a1bb1d | data\\raw\\american_history_1917.pdf | page 90]\n5. Make a comparison of Jamestown and Plymouth settlers as\nto motives, stability of purpose, the common stock arrangement.\n\n[eae7c06c3860a8985e39ddf71361e12d4c6707e115c272dbe1bb8b86827d2aa1 | data\\raw\\american_history_1917.pdf | page 68]\n branch of legitimate com-\nmerce. English and New England ships were the carriers.\n\ne Jamestown in 16:\n\n2 = From a contemporary Dutch print",
+    "answer_grade": null,
+    "citation_support": null,
+    "abstention_correct": null,
+    "review_reason": null
+  }
+]
